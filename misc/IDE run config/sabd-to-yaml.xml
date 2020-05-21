@@ -1,0 +1,9 @@
+<configuration name="Sabd to yml"
+    type="NodeJSConfigurationType"
+    temporary="true"
+    application-parameters="sabd.txt"
+    path-to-js-file="../../dist/sabd-to-yaml/index.js"
+    working-dir="$PROJECT_DIR$/script/sabd-to-yaml/input"
+>
+    <method v="2" />
+</configuration>
