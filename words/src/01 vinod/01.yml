@@ -61,7 +61,7 @@ szavak:
     ert:
     - -ban
     - -ben
-- szo: rahanA
+- szo: rah'nA
   ford:
   - nyt: tl
     ert:
@@ -79,7 +79,7 @@ szavak:
   - nyt: hn
     ert:
     - egyetem
-- szo: paRhanA
+- szo: paRh'nA
   ford:
   - nyt: t
     ert:
@@ -156,11 +156,11 @@ szavak:
   - nyt: hn
     ert:
     - munka
-  - kif: kAm karanA
+  - kif: kAm kar'nA
     nyt: t
     ert:
     - dolgozik
-- szo: karanA
+- szo: kar'nA
   ford:
   - nyt: t
     ert:
@@ -188,7 +188,7 @@ szavak:
   - nyt: ht kt
     ert:
     - is
-- szo: likhanA
+- szo: likh'nA
   ford:
   - nyt: t
     ert:
@@ -346,7 +346,7 @@ szavak:
   - nyt: hn
     ert:
     - család
-- szo: gulamohar
+- szo: gul'mohar
   ford:
   - nyt: hn
     ert:
@@ -381,13 +381,13 @@ szavak:
   - nyt: mn
     ert:
     - szép
-- szo: sAmane
+- szo: sAm'ne
   ford:
   - nyt: ht
     ert:
     - szemközt
     - szemben
-  - kif: ke sAmane
+  - kif: ke sAm'ne
     nyt: nt
     ert:
     - előtt
@@ -478,12 +478,12 @@ szavak:
     - -t
     - -nak
     - -nek
-- szo: kahanA
+- szo: kah'nA
   ford:
   - nyt: t
     ert:
     - mond
-  - kif: "* ko * kahanA"
+  - kif: "* ko * kah'nA"
     ert:
     - nevez vmit vminek (alapeset).
 - szo: khetii
@@ -492,7 +492,7 @@ szavak:
     ert:
     - földművelés
     - mezőgazdaság
-  - kif: khetii karanA
+  - kif: khetii kar'nA
     ert:
     - mezőgazdasággal foglalkozik
 - szo: cAcA
@@ -616,7 +616,7 @@ szavak:
   - nyt: tl
     ert:
     - jön
-- szo: bAtaciit
+- szo: bAt'ciit
   ford:
   - nyt: nn
     ert:
@@ -687,14 +687,14 @@ szavak:
   - nyt: ht
     ert:
     - most
-- szo: bilakul
+- szo: bil'kul
   szarm: A
   ford:
   - nyt: ht
     ert:
     - teljesen
     - egészen
-- szo: Ajakal
+- szo: Aj'kal
   ford:
   - nyt: ht
     ert:
@@ -712,7 +712,7 @@ szavak:
   - nyt: hn
     ert:
     - krikett
-- szo: khelanA
+- szo: khel'nA
   ford:
   - nyt: t
     ert:
@@ -742,14 +742,14 @@ szavak:
   - nyt: nn ht
     ert:
     - reggel
-- szo: kasarat
+- szo: kas'rat
   szarm: AP
   ford:
   - nyt: nn
     ert:
     - (torna)gyakorlat
     - edzés
-  - kif: kasarat karanA
+  - kif: kas'rat kar'nA
     ert:
     - tornázik
 - szo: yah
@@ -763,7 +763,7 @@ szavak:
   - nyt: mn
     ert:
     - jó
-- szo: TahalanA
+- szo: Tahal'nA
   ford:
   - nyt: tl
     ert:
@@ -792,7 +792,7 @@ szavak:
     - bizony
     - nos
     - hát
-- szo: calanA
+- szo: cal'nA
   ford:
   - nyt: tl
     ert:
@@ -860,7 +860,7 @@ szavak:
     ert:
     - szo: női név
       megj: jelentése ‘fegyelmezett, illedelmes’
-- szo: jAnanA
+- szo: jAn'nA
   ford:
   - nyt: t
     ert:

@@ -11,7 +11,7 @@ integrálásával.
 A szavakat könyvenként és fejezetenként technikai célokra megfelelően
 struktúrált fájlokban kell leírni. A struktúra elkülöníti a szócikkekeket,
 azok hindí, magyar, illetve nyelvtani vonatkozásait.
-[[Példa]](words/src/01%20vinod)
+[[Példa]](words/src/01%20vinod/01.yml)
 [[Technikai leírás]](words/schema/dict.entry.schema.yml) 
 
 A könnyebb gépelés és feldolgozás érdekében a hindí szavakat KTRANS formátumban
