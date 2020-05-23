@@ -471,13 +471,6 @@ szavak:
   - nyt: hn
     ert:
     - falu
-- szo: ko
-  ford:
-  - nyt: nt
-    ert:
-    - -t
-    - -nak
-    - -nek
 - szo: kah'nA
   ford:
   - nyt: t

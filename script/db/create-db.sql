@@ -3,7 +3,7 @@ ALTER DATABASE hindihun SET default_text_search_config = 'simple';
 CREATE TABLE word
 (
     title       text NOT NULL,
-    ordinal     text,
+    ordinal     text NOT NULL,
     article     jsonb NOT NULL,
     fts_title   tsvector,
     fts_hindi   tsvector,
@@ -19,7 +19,7 @@ CREATE INDEX idx_word_fts_trans ON word USING GIN (fts_trans);
 CREATE INDEX idx_word_fts_hun ON word USING GIN (fts_hun);
 CREATE INDEX idx_word_fts_lex ON word USING GIN (fts_lex);
 
-CREATE FUNCTION word_fts_trigger_fn() RETURNS trigger AS $$
+CREATE OR REPLACE FUNCTION word_fts_trigger_fn() RETURNS trigger AS $$
 begin
     new.fts_title := to_tsvector(
         new.article->>'szo' || ' ' ||

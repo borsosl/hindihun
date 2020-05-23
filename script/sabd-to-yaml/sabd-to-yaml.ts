@@ -1,4 +1,4 @@
-import {DictEntriesFile, Ford, Szavak} from './schema';
+import {DictEntriesFile, Ford, Szavak} from '../common/schema';
 import * as YAML from 'yaml';
 
 const enum Section {

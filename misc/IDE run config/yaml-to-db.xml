@@ -1,0 +1,9 @@
+<configuration
+    name="Yaml to DB"
+    type="NodeJSConfigurationType"
+    application-parameters="--db postgres:mypwd@localhost:5432/hindihun ./words/src"
+    path-to-js-file="script/dist/yaml-to-db/index.js"
+    working-dir="$PROJECT_DIR$"
+>
+    <method v="2" />
+</configuration>
