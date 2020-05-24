@@ -7,3 +7,12 @@ export interface WordsMap {
 export interface OrdinalsMap {
     [key: string]: number
 }
+
+export interface SolrHindihunDocument {
+    article: string;
+    title: string;
+    hindi: string;
+    trans: string;
+    hun: string;
+    lex: string;
+}

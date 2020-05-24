@@ -1,27 +1,74 @@
-import {Pool} from 'pg';
-import {WordsMap} from './model';
+import {SolrHindihunDocument, WordsMap} from './model';
+import * as request from'request-promise';
+import {Ert, Szavak} from '../common/schema';
 
-export async function updateDB(dbUrl: string, words: WordsMap) {
-    const pool = new Pool({
-        connectionString: 'postgresql://' + dbUrl
-    });
-
-    await pool.query(
-        'truncate word'
-    ).catch(
-        e => console.log(e)
-    );
-    const insert = `
-        INSERT INTO word (title, ordinal, article)
-        VALUES ($1,$2,$3::json)`;
-    let count = 0;
+export async function updateDB(solrCoreBaseUrl: string, words: WordsMap) {
     for(const word of Object.values(words)) {
-        await pool.query(insert, [
-            word.szo, word.sorsz || '', JSON.stringify(word)
-        ]).catch(
-            e => console.log(e)
-        );
-        if(++count % 20 === 0)
-            console.log(count);
+        const doc = solrize(word);
+        try {
+            await request.post({
+                url: `${solrCoreBaseUrl}/update`,
+                qs: {
+                    'json.command': 'false'
+                },
+                json: true,
+                body: doc
+            });
+        } catch (e) {
+            console.log(word, e.toString());
+            return;
+        }
     }
+}
+
+function solrize(word: Szavak): SolrHindihunDocument {
+    const ret = {} as SolrHindihunDocument;
+    ret.article = JSON.stringify(word);
+
+    const hindi = [word.szo];
+    const hun: string[] = [];
+    const lex: string[] = [];
+    if(word.lasd)
+        hindi.push(word.lasd);
+    if(word.alt)
+        hindi.concat(word.alt);
+    ret.title = hindi.join(' ');
+
+    word.ford.forEach(f => {
+        if(f.kif)
+            hindi.push(f.kif);
+        if(f.var)
+            f.var.forEach(v => hindi.push(v.alak));
+        if(f.pl)
+            f.pl.forEach(pl => hindi.push(pl.ered));
+        if(f.szin)
+            f.szin.forEach(sz => hindi.push(sz));
+        if(f.ant)
+            f.ant.forEach(ant => hindi.push(ant));
+
+        f.ert.forEach((e: Ert) => hun.push(e.szo));
+
+        if(f.lex)
+            lex.push(f.lex)
+    });
+    ret.hindi = hindi.join(' ');
+    ret.trans = hun.join(' ');
+    if(lex.length)
+        ret.lex = lex.join(' ');
+
+    word.ford.forEach(f => {
+        f.ert.forEach((e: Ert) => {
+            if(e.megj)
+                hun.push(e.megj);
+        });
+        if(f.pl) {
+            f.pl.forEach(pl => {
+                if(pl.ford)
+                    hun.push(pl.ford);
+            });
+        }
+    });
+    ret.hun = hun.join(' ');
+
+    return ret;
 }

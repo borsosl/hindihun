@@ -1,0 +1,30 @@
+# Solr futtatása lokálisan
+
+- létre kell hozni egy adatkönyvtárat
+- az alábbi docker parancsot kell indítani:
+  - docker run -v "c:/temp/solr:/var/solr" -p 8983:8983 solr:slim
+- ahol
+  - a c:/temp/solr az adatkönyvtárunk helye
+  - a :/var/solr nem változtatható hivatkozás
+- miután az indítás véget ér az adatkönyvtárba tartalom kerül
+- az alatta levő data könyvtárba kell bemásolni az itteni hindihun könyvtárat
+- a http://localhost:8983/ címen érhető el a GUI
+- Core Admin / Add Core
+  - a new_core név átírása 2 helyen hindihun-ra, a többi változatlan
+- balra, a Select an Option alatt kiválasztható ez az adatbázis
+- feltölthető adatokkal
+  - GUI-n a hindihun alatt Documents és JSON bemásolása
+    - a schema.xml-ben a &lt;field name="article"... rész definiálja a használható propertyket
+  - a YAML to DB run-configgal a szavak dokumentumai létrejönnek
+- ellenőrzés
+  - a GUI-n a Core Admin alatt Reload-ra van szükség, ha külső feltöltés volt
+  - a hindihun alatt Query és Execute Query
+  - a "q" részben konkrétabb keresés adható, pl: title:honA vagy trans:ő
+- leállítás
+  - Core Admin alatt Unload
+  - ezután már bezáródnak az adatkönyvtár alatt fájlok
+  - a konténerből Ctrl-C-vel ki lehet lépni
+  - fontos leállítani a konténert, hogy a port felszabaduljon:
+    - docker ps mutatja az ID-jét
+    - docker stop ID
+    - docker rm ID

@@ -8,14 +8,15 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "command-line-args": "^5.0.2",
-    "pg": "^8.2.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
     "yaml": "^1.9.2"
   },
   "devDependencies": {
     "@types/command-line-args": "^4.0.2",
     "@types/node": "^13.13.4",
     "@types/npm": "^2.0.29",
-    "@types/pg": "^7.14.3",
+    "@types/request-promise": "^4.1.46",
     "typescript": "^3.9.3"
   }
 }
