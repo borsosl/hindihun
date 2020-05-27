@@ -9,7 +9,7 @@ export interface OrdinalsMap {
 }
 
 export interface SolrHindihunDocument {
-    article: string;
+    doc: string;
     title: string;
     hindi: string;
     trans: string;

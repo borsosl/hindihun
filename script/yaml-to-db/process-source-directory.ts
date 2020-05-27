@@ -34,7 +34,6 @@ export function processFile(fname: string) {
 
     for(const word of entries.szavak.keys()) {
         const wordEntry = entries.szavak[word];
-        normalize(wordEntry);
         if(words[wordEntry.szo]) {
             let ord = ordinals[wordEntry.szo];
             if(ord) {
@@ -47,18 +46,6 @@ export function processFile(fname: string) {
             words[`${wordEntry.szo}÷×${wordEntry.sorsz}`] = wordEntry;
         } else {
             words[wordEntry.szo] = wordEntry;
-        }
-    }
-}
-
-function normalize(wordEntry: Szavak) {
-    for(const ford of wordEntry.ford) {
-        for(let i = 0; i < ford.ert.length; i++) {
-            if(typeof ford.ert[i] === 'string') {
-                ford.ert[i] = {
-                    szo: ford.ert[i] as string
-                }
-            }
         }
     }
 }
