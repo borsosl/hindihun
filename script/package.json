@@ -1,0 +1,15 @@
+{
+  "name": "hindihun-scripts",
+  "version": "0.1.0",
+  "description": "Hindi-Hungarian dictionary",
+  "repository": "https://github.com/borsosl/hindihun.git",
+  "keywords": [],
+  "author": "László Borsos",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "yaml": "^1.9.2"
+  }
+}
