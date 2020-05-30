@@ -1,0 +1,13 @@
+<configuration name="BE app" type="js.build_tools.npm">
+    <package-json value="$PROJECT_DIR$/backend/app/package.json" />
+    <command value="run" />
+    <scripts>
+        <script value="start" />
+    </scripts>
+    <node-interpreter value="project" />
+    <envs>
+        <env name="LOG_LEVEL" value="trace" />
+        <env name="SOLR_URL" value="url_to_solr_service" />
+    </envs>
+    <method v="2" />
+</configuration>

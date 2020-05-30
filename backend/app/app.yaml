@@ -1,0 +1,6 @@
+# gcloud deployment file
+
+runtime: nodejs10
+env_variables:
+    LOG_LEVEL: warn
+    SOLR_URL: url_to_solr_service
