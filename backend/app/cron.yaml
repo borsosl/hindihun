@@ -1,0 +1,4 @@
+cron:
+- description: "health check"
+  url: /api/title?q=vah
+  schedule: every 3 hours from 03:55 to 20:00

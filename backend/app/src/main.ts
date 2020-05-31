@@ -23,14 +23,4 @@ export async function main() {
     } catch(e) {
         log.error(e);
     }
-
-    setInterval(async () => {
-        try {
-            log.info('Pinging SOLR');
-            await solrRequest('', '');
-        } catch (e) {
-            log.error('SOLR request failed. Hopefully restarting ATM.');
-            return;
-        }
-    }, 8 * 60 * 60 * 1000);
 }
