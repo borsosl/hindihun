@@ -1,0 +1,233 @@
+// More detailed explanation of rules: https://palantir.github.io/tslint/rules/ and http://codelyzer.com/rules/
+{
+    "extends": "tslint:recommended",
+    "rules": {
+        // An interface or literal type with just a call signature can be written as a function type.,
+        "callable-types": true,
+        // Enforces PascalCased class and interface names.,
+        "class-name": true,
+        // Enforces formatting rules for single-line comments.,
+        "comment-format": [
+            true,
+            // requires that all single-line comments must begin with a space, as in // comment,
+            "check-space"
+        ],
+        // Enforces braces for if/for/do/while statements.,
+        "curly": true,
+        // Ensures the file ends with a newline.,
+        "eofline": true,
+        // NOT: Requires a for ... in statement to be filtered with an if statement.,
+        "forin": false,
+        // Disallows importing the specified modules via import and require ...,
+        "import-blacklist": [
+            true,
+            "rxjs/Rx"
+        ],
+        // Ensures proper spacing between import statement keywords,
+        "import-spacing": true,
+        // Enforces indentation with tabs or spaces.,
+        "indent": [
+            true,
+            "spaces",
+            4
+        ],
+        // Requires lines to be under a certain max length.,
+        "max-line-length": [
+            true,
+            140
+        ],
+        // NOT: Requires explicit visibility declarations for class members.,
+        "member-access": false,
+        // Requires parentheses when invoking a constructor via the new keyword.,
+        "new-parens": true,
+        // Disallows use of arguments.callee.,
+        "no-arg": true,
+        // Disallows bitwise operators.,
+        "no-bitwise": true,
+        // Bans the use of specified console methods.,
+        "no-console": {
+            "severity": "warning",
+            "options": [
+                "debug",
+                "info",
+                "log",
+                "time",
+                "timeEnd",
+                "trace"
+            ]
+        },
+        // Disallows access to the constructors of String, Number, and Boolean.,
+        "no-construct": true,
+        // Disallows debugger statements.,
+        "no-debugger": true,
+        // Warns if ‘super()’ appears twice in a constructor.,
+        "no-duplicate-super": true,
+        // NOT: Disallows empty blocks.,
+        "no-empty": false,
+        // NOT: Forbids empty interfaces.,
+        "no-empty-interface": false,
+        // Disallows eval function invocations.,
+        "no-eval": true,
+        // Disallows explicit type declarations for variables or parameters initialized to a number, string, or boolean.,
+        "no-inferrable-types": [
+            true,
+            "ignore-params"
+        ],
+        // Warns on apparent attempts to define constructors for interfaces or new for classes.,
+        "no-misused-new": true,
+        // NOT: Disallows shadowing variable declarations.,
+        "no-shadowed-variable": false,
+        // Forbids unnecessary string literal property access. Allows obj["prop-erty"] (can’t be a regular property access). Disallows obj["property"] (should be obj.property).,
+        "no-string-literal": true,
+        // Flags throwing plain strings or concatenations of strings.,
+        "no-string-throw": true,
+        // NOT: Disallows falling through case statements.,
+        "no-switch-case-fall-through": false,
+        // Disallows trailing whitespace at the end of a line.,
+        "no-trailing-whitespace": true,
+        // Forbids a ‘var’/’let’ statement or destructuring initializer to be initialized to ‘undefined’.,
+        "no-unnecessary-initializer": true,
+        // NOT: Disallows unused expression statements.,
+        "no-unused-expression": false,
+        // Disallows usage of the var keyword.,
+        "no-var-keyword": true,
+        // NOT: Checks ordering of keys in object literals.,
+        "object-literal-sort-keys": false,
+        // Requires the specified tokens to be on the same line as the expression preceding them.,
+        "one-line": [
+            true,
+            "check-open-brace",
+            "check-catch",
+            "check-finally",
+            "check-else",
+            "check-whitespace"
+        ],
+        // Requires that variable declarations use const instead of let and var if possible.
+        "prefer-const": true,
+        // Enforces quote character for string literals.
+        "quotemark": [
+            true,
+            "single"
+        ],
+        // Requires the radix parameter to be specified when calling parseInt.
+        "radix": true,
+        // Enforces consistent semicolon usage at the end of every statement.
+        "semicolon": [
+            true,
+            "always"
+        ],
+        // Requires === and !== in place of == and !=.
+        "triple-equals": [
+            true
+        ],
+        // Requires or disallows whitespace for type definitions.
+        "typedef-whitespace": [
+            true,
+            {
+                "call-signature": "nospace",
+                "index-signature": "nospace",
+                "parameter": "nospace",
+                "property-declaration": "nospace",
+                "variable-declaration": "nospace"
+            }
+        ],
+        // Warns for any two overloads that could be unified into one by using a union or an optional/rest parameter.
+        "unified-signatures": true,
+        // NOT: Checks variable names for various errors.
+        "variable-name": false,
+        // Enforces whitespace style conventions.
+        "whitespace": [
+            true,
+            "check-decl",
+            "check-operator",
+            "check-separator",
+            "check-type"
+        ],
+        // Name events without the prefix on.
+        "no-output-on-prefix": true,
+        // Disallows renaming directive inputs by providing a string to the decorator.
+        "no-input-rename": true,
+        // Disallows renaming directive outputs by providing a string to the decorator.
+        "no-output-rename": true,
+        "use-life-cycle-interface": true,
+        // Ensures tht classes decorated with @Pipe implement PipeTransform interface.
+        "use-pipe-transform-interface": true,
+        // Classes decorated with @Component must have suffix “Component” (or custom) in their name.
+        "component-class-suffix": true,
+        // Classes decorated with @Directive must have suffix “Directive” (or custom) in their name.
+        "directive-class-suffix": true,
+        // Requires using either ‘T[]’ or ‘Array' for arrays.
+        "array-type": [true, "array"],
+        // NOT: Requires parentheses around the parameters of arrow function definitions.
+        "arrow-parens": false,
+        // Suggests to convert () => { return x; } to () => x.
+        "arrow-return-shorthand": true,
+        // Warns when deprecated APIs are used.
+        "deprecation": {
+            "severity": "warning"
+        },
+        // Ensures that classes use allowed lifecycle method in its body.
+        "contextual-lifecycle": true,
+        // Directive selectors should follow given naming rules.
+        "directive-selector": [
+            true,
+            "attribute",
+            "hh",
+            "camelCase"
+        ],
+        // Component selectors should follow given naming rules.
+        "component-selector": [
+            true,
+            "element",
+            "hh",
+            "kebab-case"
+        ],
+        // NOT: Requires interface names to begin with a capital ‘I’
+        "interface-name": false,
+        // NOT: A file may not contain more than the specified number of classes
+        "max-classes-per-file": false,
+        // Disallows one or more blank lines in a row.
+        "no-consecutive-blank-lines": [
+            true,
+            2],
+        // Forbids JSDoc which duplicates TypeScript functionality.
+        "no-redundant-jsdoc": true,
+        // Disallows the use of require statements except in import statements.
+        "no-var-requires": false,
+        // Enforces consistent object literal property quote style.
+        "object-literal-key-quotes": [
+            true,
+            "as-needed"
+        ],
+        // NOT: Requires that import statements be alphabetized and grouped.
+        "ordered-imports": false,
+        // Requires or disallows trailing commas in array and object literals, destructuring assignments, function typings, named imports and exports and function parameters.
+        "trailing-comma": [
+            true,
+            {
+                "esSpecCompliant": true
+            }
+        ],
+        // Ensure that directives not implement conflicting life cycle hooks.
+        "no-conflicting-lifecycle": true,
+        // Disallows usage of the host metadata property.
+        "no-host-metadata-property": true,
+        // Disallows usage of the inputs metadata property.
+        "no-inputs-metadata-property": true,
+        // Disallows naming directive outputs as standard DOM event.
+        "no-output-native": true,
+        // Disallows usage of the outputs metadata property.
+        "no-outputs-metadata-property": true,
+        // Ensures that the two-way data binding syntax is correct.
+        "template-banana-in-box": true,
+        // Ensures that strict equality is used when evaluating negations on async pipe output.
+        "template-no-negated-async": true,
+        // Ensures classes implement lifecycle interfaces corresponding to the declared lifecycle methods.
+        "use-lifecycle-interface": true,
+        // Enforces member ordering.
+        "member-ordering": false
+    },
+    "rulesDirectory": [
+        "codelyzer"
+    ]
+}

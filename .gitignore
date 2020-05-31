@@ -1,8 +1,14 @@
 /.idea
 /*.iml
+.vscode/
+.history/
 
 node_modules/
 
 dist/
 input/
 .boto
+
+# System Files
+.DS_Store
+Thumbs.db
