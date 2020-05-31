@@ -4,3 +4,12 @@
     height: 100%;
     overflow-y: auto;
 }
+
+.margin {
+    margin: 0.75em;
+}
+
+p-card {
+    font-size: inherit;
+    color: inherit;
+}

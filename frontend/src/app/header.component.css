@@ -1,9 +1,8 @@
 :host {
     background: linear-gradient(120deg, rgba(255,153,51,1) 0%, rgba(255,153,51,1) 15%, rgba(255,255,255,1) 35%, rgba(255,255,255,1) 55%, rgba(19,136,8,1) 75%, rgba(19,136,8,1) 100%);
     color: black;
-    height: 64pt;
+    height: 48pt;
     overflow: hidden;
-    font-size: 24pt;
     flex: 0 0 auto;
 }
 
@@ -25,6 +24,8 @@ header {
 
 .header-title {
     padding-left: 0.75em;
+    font-size: 20pt;
+    color: #000080;
 }
 
 .header-divider {
@@ -38,18 +39,17 @@ header {
 .pi-search {
     padding-right: 0.5em;
     color: #000080;
-    font-size: 20pt;
 }
 
 .search-text {
-    width: 20em;
+    width: 25em;
     height: 100%;
-    font-size: 20pt;
+    font-size: 14pt;
     color: black;
 }
 
 @media screen and (max-width: 600px) {
     :host {
-        font-size: 16pt;
+        font-size: 12pt;
     }
 }

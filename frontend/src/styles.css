@@ -12,6 +12,24 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+body a {
+    color: #06f;
+}
+
+body a:hover, body a:active {
+    background-color: #06f;
+    color: yellow;
+}
+
+body .ui-card {
+    color: #333;
+}
+
+body .ui-widget {
+    font-family: inherit;
+    font-size: small;
+}
+
 .text-center {
     text-align: center;
 }
