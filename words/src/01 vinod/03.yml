@@ -1,0 +1,810 @@
+datum: 2020-06-01
+forras:
+  nev: Vinód
+  fejezet: 3
+szavak:
+- szo: baje
+  ford:
+  - kif: chah baje
+    ert:
+    - hat órakor
+- szo: As-pAs
+  ford:
+  - nyt: ht
+    ert:
+    - körül
+    - közel
+  - kif: ke As-pAs
+    nyt: nt
+    ert:
+    - közelében
+    - körülötte
+- szo: uTh'nA
+  ford:
+  - nyt: tl
+    ert:
+    - felkel
+- szo: dA~t
+  ford:
+  - nyt: hn
+    ert:
+    - fog
+- szo: sAf
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - tiszta
+  - kif: sAf kar'nA
+    nyt: t
+    ert:
+    - tisztít
+- szo: nahAnA
+  ford:
+  - nyt: t tl
+    ert:
+    - fürdik
+- szo: bAd
+  szarm: A
+  ford:
+  - nyt: ht
+    ert:
+    - később
+  - kif: ke bAd
+    nyt: nt
+    ert:
+    - után
+    - mögött
+- szo: pUjA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - imádság
+    - istentisztelet
+  - kif: pUjA kar'nA
+    ert:
+    - imádkozik
+- szo: nAStA
+  ford:
+  - nyt: hn
+    ert:
+    - reggeli
+- szo: har
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - minden
+    - minden egyes
+- szo: ka#ghii
+  ford:
+  - nyt: hn
+    ert:
+    - fésű
+  - kif: ka#ghii kar'nA
+    ert:
+    - fésülködik
+- szo: madad
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - segítség
+  - kif: madad kar'nA
+    ert:
+    - segít
+- szo: aKh'bAr
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - újság
+- szo: vaGErah
+  szarm: AP
+  ford:
+  - nyt: ht
+    ert:
+    - és így tovább
+    - satöbbi
+    - stb
+- szo: gha#TA
+  ford:
+  - nyt: hn
+    ert:
+    - szo: óra
+      megj: időegység
+- szo: lag'nA
+  ford:
+  - nyt: tl
+    ert:
+    - illeszkedik
+  - kif: "* me~ * (samay) lag'tA hE"
+    ert:
+    - vmivel * (idő) telik
+    - vmi * (ideig) tart
+- szo: pah'le
+  ford:
+  - nyt: ht
+    ert:
+    - először
+- szo: piinA
+  ford:
+  - nyt: t
+    ert:
+    - iszik
+- szo: ATh
+  ford:
+  - nyt: szn
+    ert:
+    - nyolc
+- szo: prAyaH
+  szarm: S
+  ford:
+  - nyt: ht
+    ert:
+    - általában
+    - gyakran
+    - nagyjából
+- szo: pURii
+  ford:
+  - nyt: nn
+    ert:
+    - olajban sült, fehérlisztből készült lepénykenyér
+- szo: sabzii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - zöldség
+    - főtt zöldség
+- szo: hal'kA
+  ford:
+  - nyt: mn
+    ert:
+    - könnyű
+  - kif: hal'kA-phul'kA
+    nyt: hn
+    ert:
+    - könnyű étel
+- szo: k@fii
+  ford:
+  - nyt: nn
+    ert:
+    - kávé
+- szo: tAzA
+  ford:
+  - nyt: mn nvált
+    ert:
+    - friss
+- szo: phal
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - gyümölcs
+- szo: ras
+  ford:
+  - nyt: hn
+    ert:
+    - lé
+  - kif: ras nikAl'nA
+    ert:
+    - kiprésel
+- szo: nikAl'nA
+  ford:
+  - nyt: t
+    ert:
+    - kivesz
+    - kiszed
+    - elővesz
+    - előszed
+- szo: sa#tarA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - mandarin
+    - citrusféleség
+- szo: gARii
+  ford:
+  - nyt: nn
+    ert:
+    - kocsi
+- szo: "@fis"
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - iroda
+    - hivatal
+- szo: jAnA
+  ford:
+  - nyt: tl
+    ert:
+    - megy
+- szo: Khud
+  szarm: P
+  ford:
+  - nyt: nv
+    ert:
+    - saját maga
+- szo: calAnA
+  ford:
+  - nyt: t
+    ert:
+    - mozgat
+    - (járművet) vezet
+- szo: choR'nA
+  ford:
+  - nyt: t
+    ert:
+    - otthagy
+    - elkísér
+    - elvisz vmeddig
+- szo: AdhA
+  ford:
+  - nyt: mn
+    ert:
+    - fél
+  - nyt: hn
+    ert:
+    - fele vminek
+- szo: skUTar
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - motorkerékpár
+    - háromkerekű autóriksa
+- szo: daftar
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - iroda
+    - hivatal
+- szo: der
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - késedelem
+  - nyt: ht
+    ert:
+    - késve
+- szo: nikal'nA
+  ford:
+  - nyt: tl
+    ert:
+    - kijön
+    - megjelenik
+    - elindul vhonnan
+- szo: bAhar
+  ford:
+  - nyt: ht
+    ert:
+    - kívül
+    - kint
+  - kif: ke bAhar, se bAhar
+    nyt: nt
+    ert:
+    - kívül
+    - ki
+- szo: bas
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - autóbusz
+- szo: pakaR'nA
+  ford:
+  - nyt: t
+    ert:
+    - megfog
+- szo: utar'nA
+  ford:
+  - nyt: tl
+    ert:
+    - leszáll
+- szo: SurU
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - kezdet
+    - kezdés
+  - kif: SurU kar'nA
+    nyt: t
+    ert:
+    - kezd
+- szo: bistar
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - ágynemű
+  - kif: bistar Thiik kar'nA
+    nyt: t
+    ert:
+    - beágyaz
+- szo: Thiik
+  ford:
+  - kif: Thiik kar'nA
+    nyt: t
+    ert:
+    - rendbe tesz
+- szo: mah'rii
+  ford:
+  - nyt: nn
+    ert:
+    - szolgáló
+    - cseléd
+- szo: kam'lA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - szo: női név
+      megj: jelentése ‘lótuszvirág’
+- szo: mA~j'nA
+  ford:
+  - nyt: t
+    ert:
+    - dörzsöl
+    - mosogat
+  - kif: bar'tan mA~j'nA
+    ert:
+    - mosogat
+  - kif: dA~t mA~j'nA
+    ert:
+    - fogat mos
+- szo: safAii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - tisztaság
+  - kif: safAii kar'nA
+    nyt: t
+    ert:
+    - takarít
+- szo: dhonA
+  ford:
+  - nyt: t
+    ert:
+    - mos
+- szo: samay
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - idő
+- szo: bec'nA
+  ford:
+  - nyt: t
+    ert:
+    - árul
+    - árusít
+  - kif: bec'ne vAlA
+    nyt: hn
+    ert:
+    - árus
+- szo: Khariid'nA
+  ford:
+  - nyt: t
+    ert:
+    - vásárol
+- szo: jhARU
+  ford:
+  - nyt: hn
+    ert:
+    - seprű
+  - kif: jhARU-po~chA kar'nA
+    ert:
+    - szo: kitakarít
+      megj: kiseper és felmos
+- szo: po~chA
+  ford:
+  - nyt: hn
+    ert:
+    - felmosórongy
+- szo: mAyA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - szo: női név
+      megj: jelentése ‘mágikus erő, illúzió, bűbáj’
+- szo: pakAnA
+  ford:
+  - nyt: t
+    ert:
+    - főz
+- szo: dopahar
+  ford:
+  - nyt: nn
+    ert:
+    - dél
+- szo: sivA
+  szarm: A
+  ford:
+  - kif: ke sivA
+    nyt: nt
+    ert:
+    - kivéve
+    - kívül
+- szo: koii
+  ford:
+  - nyt: nv
+    ert:
+    - valaki
+  - nyt: mn
+    ert:
+    - valamilyen
+  - kif: Or koii
+    ert:
+    - még valaki
+    - valaki más
+- szo: restarA~
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - étterem
+- szo: kE~Tiin
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - kantin
+    - büfé
+- szo: kam
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - kevés
+  - nyt: ht
+    ert:
+    - kevéssé
+- szo: mil'nA
+  ford:
+  - nyt: tl
+    ert:
+    - adódik
+    - találkozik
+  - kif: "* se mil'nA"
+    ert:
+    - szo: találkozik vkivel
+      megj: előzetes megbeszélés szerint
+  - kif: "* ko mil'nA"
+    ert:
+    - szo: találkozik vkivel
+      megj: véletlenül összefut
+- szo: is'lie
+  ford:
+  - nyt: kt
+    ert:
+    - ezért
+- szo: phul'kA
+  ford:
+  - nyt: mn hn
+    ert:
+    - szo: felfújódott
+      megj: pl. a lepénykenyér
+- szo: lOT'nA
+  ford:
+  - nyt: tl
+    ert:
+    - visszatér
+- szo: paRos
+  ford:
+  - nyt: hn
+    ert:
+    - szomszédság
+- szo: Orat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - nő
+- szo: jaldii
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - sietség
+  - nyt: ht
+    ert:
+    - sietve
+- szo: riStedAr
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - rokon
+- szo: lag'bhag
+  ford:
+  - nyt: ht
+    ert:
+    - körülbelül
+- szo: badal'nA
+  ford:
+  - nyt: tl
+    ert:
+    - változik
+  - nyt: t
+    ert:
+    - változtat
+    - vált
+- szo: dekh'nA
+  ford:
+  - nyt: t
+    ert:
+    - néz
+    - lát
+- szo: ATh
+  ford:
+  - nyt: szn
+    ert:
+    - nyolc
+- szo: rAt
+  ford:
+  - nyt: nn
+    ert:
+    - éjjel
+    - éjszaka
+- szo: dUdh
+  ford:
+  - nyt: hn
+    ert:
+    - tej
+- szo: Am
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - hétköznapi
+    - szokásos
+    - átlagos
+- szo: tOr
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - mód
+    - állapot
+  - kif: Am tOr par, Am tOr se
+    ert:
+    - általában
+- szo: bArah
+  ford:
+  - nyt: szn
+    ert:
+    - tizenkettő
+- szo: prakAS
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - szo: férfinév
+      megj: jelentése ‘fény, ragyogás’
+- szo: hAl-cAl
+  szarm: A+H
+  ford:
+  - nyt: hn
+    ert:
+    - állapot
+    - hogylét
+- szo: kuSal
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - egészséges
+    - boldog
+  - nyt: hn
+    ert:
+    - egészség
+    - boldogság
+    - jó szerencse
+  - kif: kuSal-ma#gal
+    ert:
+    - szerencsésen
+    - jól
+    - egészségesen
+    - jólétben
+- szo: ma#gal
+  ford:
+  - nyt: mn
+    ert:
+    - szerencsés
+    - virágzó
+  - nyt: hn
+    ert:
+    - jólét
+    - szerencse
+    - jó előjel
+- szo: hal'vAii
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - édességkészítő
+    - édességárus
+- szo: dukAn
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - üzlet
+    - bolt
+- szo: nOk'rii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - szolgálat
+    - állás
+- szo: pA~c
+  ford:
+  - nyt: szn
+    ert:
+    - öt
+- szo: dARhii
+  ford:
+  - nyt: nn
+    ert:
+    - szakáll
+  - kif: dARhii banAnA
+    ert:
+    - borotválkozik
+- szo: pahu~c'nA
+  ford:
+  - nyt: tl
+    ert:
+    - érkezik
+- szo: tiis
+  ford:
+  - nyt: szn
+    ert:
+    - harminc
+- szo: minaT
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - perc
+- szo: kirAyA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - bérleti díj
+    - fizetség
+  - kif: kirAyA denA
+    ert:
+    - bérleti díjat fizet
+- szo: pa#drah
+  ford:
+  - nyt: szn
+    ert:
+    - tizenöt
+- szo: sO
+  ford:
+  - nyt: szn
+    ert:
+    - száz
+- szo: mahiinA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - hónap
+- szo: akelA
+  ford:
+  - nyt: mn hn
+    ert:
+    - egyedüli
+    - egyetlen
+    - magányos
+- szo: dekh'bhAl
+  ford:
+  - nyt: nn
+    ert:
+    - törődés
+    - felügyelet
+  - kif: dekh'bhAl kar'nA
+    ert:
+    - felügyel
+    pl:
+    - ered: dukAn kii dekh'bhAl kar'nA
+      ford: viszi a boltot
+- szo: moTA
+  ford:
+  - nyt: mn
+    ert:
+    - vastag
+    - kövér
+    - vaskos
+- szo: choTA
+  ford:
+  - kif: choTA-moTA
+    ert:
+    - apró-cseprő
+    - különféle
+- szo: jEse
+  ford:
+  - nyt: ht
+    ert:
+    - amint
+    - ahogyan
+  - ert:
+    - például
+- szo: bE~k
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - bank
+- szo: bij'lii
+  ford:
+  - nyt: nn
+    ert:
+    - villámlás
+    - áram
+    - elektromosság
+- szo: vakiil
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - ügyvéd
+- szo: kahii~
+  ford:
+  - nyt: ht
+    ert:
+    - valahol
+    - valamerre
+    - valahogyan
+- szo: ghUm'nA
+  ford:
+  - nyt: tl
+    ert:
+    - forog
+    - köröz
+    - sétál
+    - csavarog
+    - bejár vmit
+- szo: sinemA
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - mozi
+- szo: iNDiyA geT
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - India kapuja
+    - Új-Delhi egyik műemléke
+- szo: Ais'kriim
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - fagylalt
+- szo: chuTTii
+  ford:
+  - nyt: nn
+    ert:
+    - szünet
+    - szünidő
+    - szünnap
+- szo: ciTThii
+  ford:
+  - nyt: nn
+    ert:
+    - levél

@@ -1,0 +1,984 @@
+datum: 2020-06-01
+forras:
+  nev: Vinód
+  fejezet: 2
+szavak:
+- szo: do
+  ford:
+  - nyt: szn
+    ert:
+    - kettő
+- szo: ma#zilA
+  szarm: A
+  ford:
+  - nyt: mn nvált
+    ert:
+    - -emeletes
+- szo: ma#zil
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - emelet
+- szo: grAu#D flor
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - földszint
+- szo: cAr
+  ford:
+  - nyt: szn
+    ert:
+    - négy
+- szo: kam'rA
+  szarm: Pt
+  ford:
+  - nyt: hn
+    ert:
+    - szoba
+- szo: bEThak
+  ford:
+  - nyt: nn
+    ert:
+    - nappali
+    - fogadószoba
+- szo: sonA
+  ford:
+  - nyt: tl
+    ert:
+    - alszik
+- szo: pustakAlay
+  ford:
+  - nyt: hn
+    ert:
+    - könyvtár
+- szo: pustak
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - könyv
+- szo: Alay
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - lakhely
+    - hely
+- szo: chat
+  ford:
+  - nyt: nn
+    ert:
+    - mennyezet
+    - tető
+- szo: tak
+  ford:
+  - nyt: nt
+    ert:
+    - -ig
+- szo: U~cA
+  ford:
+  - nyt: mn
+    ert:
+    - magas
+- szo: kitAb
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - könyv
+- szo: al'mArii
+  szarm: Pt
+  ford:
+  - nyt: nn
+    ert:
+    - szekrény
+- szo: diivAr
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - fal
+- szo: tarah
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - fajta
+    - féle
+    - mód
+  - kif: tarah-tarah kA
+    ert:
+    - különféle
+- szo: naKSA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - térkép
+- szo: dUs'rA
+  ford:
+  - nyt: szn
+    ert:
+    - második
+    - másik
+- szo: beD'rUm
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - hálószoba
+- szo: atithi
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - vendég
+- szo: Thah'rAnA
+  ford:
+  - nyt: t
+    ert:
+    - elhelyez
+    - elszállásol
+- szo: alAvA
+  szarm: A
+  ford:
+  - nyt: ht
+    ert:
+    - rajta
+    - a tetején
+  - ert:
+    - ráadásul
+  - kif: ke alAvA
+    nyt: nt
+    ert:
+    - kívül
+    - kivéve
+- szo: rasoii
+  ford:
+  - nyt: nn
+    ert:
+    - konyha
+- szo: bAth'rUm
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - fürdőszoba
+- szo: sAmAn
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - holmi
+    - csomag
+- szo: rakh'nA
+  ford:
+  - nyt: t
+    ert:
+    - tesz
+    - helyez
+- szo: koTh'rii
+  ford:
+  - nyt: nn
+    ert:
+    - kis kamra
+- szo: piiche
+  ford:
+  - nyt: ht
+    ert:
+    - mögött
+    - aztán
+  - kif: ke piiche
+    nyt: nt
+    ert:
+    - mögött
+    - mögé
+- szo: barAm'dA
+  szarm: Pt
+  ford:
+  - nyt: hn
+    ert:
+    - veranda
+- szo: bar'sAt
+  ford:
+  - nyt: nn
+    ert:
+    - esős évszak
+- szo: din
+  ford:
+  - nyt: hn
+    ert:
+    - nap
+    - nappal
+- szo: log
+  ford:
+  - nyt: hn tbsz
+    ert:
+    - emberek
+- szo: A~gan
+  ford:
+  - nyt: hn
+    ert:
+    - belső udvar
+- szo: niim
+  ford:
+  - nyt: hn
+    ert:
+    - szo: ním-fa
+      megj: Azadirachta indica
+- szo: chAyAdAr
+  ford:
+  - nyt: mn
+    ert:
+    - árnyékos
+- szo: sukhAnA
+  ford:
+  - nyt: t
+    ert:
+    - szárít
+- szo: ke lie
+  ford:
+  - nyt: nt
+    ert:
+    - számára
+    - részére
+    - -ért
+- szo: kap'RA
+  ford:
+  - nyt: hn
+    ert:
+    - ruha
+    - ruhanemű
+- szo: DAl'nA
+  ford:
+  - nyt: t
+    ert:
+    - dob
+  - kif: kap'Re DAl'nA
+    ert:
+    - tereget
+- szo: pah'lA
+  ford:
+  - nyt: szn
+    ert:
+    - első
+- szo: tiin
+  ford:
+  - nyt: szn
+    ert:
+    - három
+- szo: bhEyA
+  ford:
+  - nyt: hn
+    ert:
+    - szo: testvér
+      megj: fiú
+- szo: tiis'rA
+  ford:
+  - nyt: szn
+    ert:
+    - harmadik
+- szo: khiR'kii
+  ford:
+  - nyt: nn
+    ert:
+    - ablak
+- szo: taraf
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - oldal
+    - irány
+    - széle vminek
+  - kif: kii taraf
+    nyt: nt
+    ert:
+    - felé
+    - -hoz
+    - -hez
+    - -höz
+- szo: khul'nA
+  ford:
+  - nyt: tl
+    ert:
+    - nyílik
+- szo: Upar
+  ford:
+  - nyt: ht
+    ert:
+    - fent
+    - fel
+  - kif: ke Upar
+    nyt: nt
+    ert:
+    - felett
+- szo: par
+  ford:
+  - nyt: kt
+    ert:
+    - de
+- szo: istemAl
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - használat
+  - kif: * kA istemAl kar'nA
+    ert:
+    - használ vmit
+- szo: ap'nA
+  ford:
+  - nyt: nv
+    ert:
+    - a maga
+    - a saját...
+- szo: ciiz
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - dolog
+    - tárgy
+    - holmi
+- szo: gar'mii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - hőség
+    - forróság
+  - kif: gar'miyA~
+    nyt: tbsz
+    ert:
+    - nyár
+- szo: ham
+  ford:
+  - nyt: nv
+    ert:
+    - mi
+- szo: sab
+  ford:
+  - nyt: mn nv
+    ert:
+    - minden
+    - mindenki
+- szo: bETh'nA
+  ford:
+  - nyt: tl
+    ert:
+    - ül
+    - leül
+- szo: bAt'ciit
+  ford:
+  - nyt: nn
+    ert:
+    - beszélgetés
+  - kif: bAt'ciit kar'nA
+    nyt: t
+    ert:
+    - beszélget
+- szo: paRosii
+  ford:
+  - nyt: hn
+    ert:
+    - szomszéd
+- szo: sofA
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - szófa
+- szo: kur'sii
+  alt:
+  - kursii
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - szék
+- szo: niicA
+  ford:
+  - nyt: mn
+    ert:
+    - alacsony
+- szo: mez
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - asztal
+- szo: phUl'dAn
+  szarm: H+P
+  ford:
+  - nyt: hn
+    ert:
+    - virágváza
+- szo: patrikA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - folyóirat
+- szo: tipAii
+  ford:
+  - nyt: nn
+    ert:
+    - háromlábú kisasztal
+- szo: jo
+  ford:
+  - nyt: nv
+    var:
+    - alak: jis
+      tipus: egyes szám névutós eset
+    ert:
+    - aki
+    - ami
+    - amely
+    - amilyen
+- szo: fon
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - telefon
+  - kif: fon kar'nA
+    ert:
+    - telefonál
+- szo: mitr
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - barát
+- szo: or
+  ford:
+  - nyt: nn
+    ert:
+    - oldal
+    - irány
+    - széle vminek
+  - kif: kii or
+    nyt: nt
+    ert:
+    - felé
+    - irányába
+- szo: khAnA
+  ford:
+  - nyt: t
+    ert:
+    - eszik
+- szo: chah
+  alt:
+  - chaH
+  ford:
+  - nyt: szn
+    ert:
+    - hat
+- szo: paros'nA
+  ford:
+  - nyt: t
+    ert:
+    - terít
+    - felszolgálja az ételt
+- szo: tiino~
+  ford:
+  - nyt: szn
+    ert:
+    - mindhárom
+- szo: tAS
+  ford:
+  - nyt: hn
+    ert:
+    - kártya
+  - kif: tAS khel'nA
+    ert:
+    - kártyázik
+- szo: pAs
+  ford:
+  - nyt: ht
+    ert:
+    - közel
+  - nyt: hn
+    ert:
+    - irány
+    - oldal
+  - kif: ke pAs
+    nyt: nt
+    ert:
+    - mellett
+    - közelében
+- szo: bar'tan
+  ford:
+  - nyt: hn
+    ert:
+    - edény
+- szo: konA
+  ford:
+  - nyt: hn
+    ert:
+    - sarok
+- szo: sitAr
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - szo: szitár
+      megj: húros indiai hangszer
+- szo: bajAnA
+  ford:
+  - nyt: t
+    ert:
+    - (hangszert) megszólaltat
+    - hangszeren játszik
+- szo: pasa#d
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - tetszetős
+    - kedvére való
+  - kif: pasa#d kar'nA
+    nyt: t
+    ert:
+    - tetszik vkinek
+    - szereti
+  - kif: pasa#d AnA
+    nyt: tl
+    ert:
+    - tetszik
+    - tetszésére van
+- szo: farS
+  szarm: A
+  ford:
+  - nyt: hn nn
+    ert:
+    - padló
+- szo: kaSmiirii
+  ford:
+  - nyt: mn
+    ert:
+    - kasmíri
+- szo: KAliin
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - szőnyeg
+- szo: dono~
+  ford:
+  - nyt: szn
+    ert:
+    - mindkettő
+    - ketten
+- szo: meh'mAn
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - vendég
+- szo: Tii^o vii^o
+  alt:
+  - Teliivijan
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - televízió
+- szo: do-cAr
+  ford:
+  - nyt: szn
+    ert:
+    - néhány
+- szo: Adhunik
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - modern
+    - mai
+- szo: tasviir
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - kép
+    - fotó
+- szo: niilA
+  ford:
+  - nyt: mn
+    ert:
+    - kék
+- szo: pardA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - függöny
+- szo: Tha#DA
+  ford:
+  - nyt: mn
+    ert:
+    - hideg
+- szo: havA
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - szél
+    - levegő
+- szo: denA
+  ford:
+  - nyt: t
+    ert:
+    - ad
+- szo: kaii
+  ford:
+  - nyt: nv mn
+    ert:
+    - számos
+    - jónéhány
+- szo: pa#khA
+  ford:
+  - nyt: hn
+    ert:
+    - ventilátor
+- szo: cAy
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - tea
+  - kif: cAy-vAy
+    nyt: hn
+    ert:
+    - tea és harapnivalók
+- szo: pilAnA
+  ford:
+  - nyt: t
+    ert:
+    - itat
+- szo: duniyA
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - világ
+    - e világ
+    - az emberek
+- szo: zamAnA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - idő
+    - világ
+- szo: bAt
+  ford:
+  - nyt: nn
+    ert:
+    - szó
+    - beszéd
+    - beszélgetés
+    - dolog
+- szo: paRosin
+  ford:
+  - nyt: nn
+    ert:
+    - szomszédasszony
+- szo: gap
+  ford:
+  - nyt: nn
+    ert:
+    - beszélgetés
+    - pletyka
+  - kif: gap mAr'nA
+    ert:
+    - beszélget
+    - pletykálkodik
+- szo: mAr'nA
+  ford:
+  - nyt: t
+    ert:
+    - üt
+- szo: helo
+  szarm: E
+  ford:
+  - ert:
+    - helló
+    - szervusz
+    - szia
+- szo: ravi
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - szo: férfinév
+      megj: jelentése ‘Nap’
+- szo: javAhar'lAl neh'rU
+  ford:
+  - ert:
+    - szo: Dzsaváharlál Néhrú
+      megj: 1889-1964, a független India első miniszterelnöke
+- szo: samAj'SAstr
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - szociológia
+- szo: samAj
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - társadalom
+- szo: SAstr
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - tudomány
+    - tudományos irodalom
+- szo: bhUgol
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - földrajz
+- szo: bhU
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - Föld
+- szo: gol
+  ford:
+  - nyt: hn
+    ert:
+    - kerekség
+  - nyt: mn
+    ert:
+    - kerek
+    - gömbölyű
+- szo: a~grezii
+  ford:
+  - nyt: mn
+    ert:
+    - angol
+  - nyt: nn
+    ert:
+    - az angol nyelv
+- szo: bhAShA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - nyelv
+    - beszéd
+- szo: sAhity
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - irodalom
+- szo: itihAs
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - történelem
+- szo: phir
+  ford:
+  - nyt: ht
+    ert:
+    - újra
+    - aztán
+    - ismét
+    - továbbá
+  - kif: phir bhii
+    ert:
+    - mégis
+- szo: ruci
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - érdeklődés
+  - kif: "* me~ ruci lenA"
+    ert:
+    - érdeklődik vmi iránt
+- szo: sa#skRIt
+  ford:
+  - nyt: mn
+    ert:
+    - szanszkrit
+  - nyt: nn
+    ert:
+    - a szanszkrit nyelv
+- szo: ar'bii
+  ford:
+  - nyt: mn
+    ert:
+    - arab
+  - nyt: nn
+    ert:
+    - az arab nyelv
+- szo: fAr'sii
+  ford:
+  - nyt: mn
+    ert:
+    - perzsa
+  - nyt: nn
+    ert:
+    - a perzsa nyelv
+- szo: turkii
+  ford:
+  - nyt: mn
+    ert:
+    - török
+  - nyt: nn
+    ert:
+    - a török nyelv
+- szo: Adi
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - kezdet
+  - nyt: ht
+    ert:
+    - és a többi
+- szo: KhayAl
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - vélemény
+- szo: zarUr
+  szarm: A
+  ford:
+  - nyt: ht
+    ert:
+    - persze
+    - hogyne
+    - feltétlenül
+- szo: priy
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - kedves
+    - kedvenc
+- szo: viShay
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - téma
+    - tárgy
+    - tantárgy
+- szo: gaNit
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - matematika
+- szo: jiiv'vijYAn
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - biológia
+- szo: jiiv
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - élőlény
+- szo: vijYAn
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - tudomány
+- szo: rasAyan'SAstr
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - kémia
+- szo: rasAyan
+  ford:
+  - nyt: hn
+    ert:
+    - kémia
+- szo: lenA
+  ford:
+  - nyt: t
+    ert:
+    - vesz
+    - fog
+- szo: vijYAn
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - tudomány
+- szo: viSeSh
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - különös
+    - különleges
+  - kif: viSeSh rUp se
+    ert:
+    - különlegesen
+    - főleg
+- szo: rUp
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - alak
+    - forma
+- szo: kakShA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - tanóra
+    - osztályterem
+    - osztály
+- szo: kit'nA
+  ford:
+  - nyt: nv
+    ert:
+    - hány?
+    - mennyi?
+- szo: adhyApak
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - tanár
+- szo: ga#bhiir
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - komoly
+    - szigorú
+- szo: dost
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - barát
+- szo: phir mile~ge
+  ford:
+  - ert:
+    - szo: Viszontlátásra!
+      megj: ‘Majd találkozni fogunk.’
