@@ -1,0 +1,685 @@
+datum: 2020-06-03
+forras:
+  nev: Vinód
+  fejezet: 4
+szavak:
+- szo: bac'pan
+  ford:
+  - nyt: hn
+    ert:
+    - gyerekkor
+- szo: vahA~
+  ford:
+  - nyt: ht
+    ert:
+    - ott
+    - oda
+- szo: it'nA
+  ford:
+  - nyt: mn
+    ert:
+    - ekkora
+    - ennyi
+- szo: ki
+  ford:
+  - nyt: kt
+    ert:
+    - hogy
+- szo: sTeSan
+  szarm: E
+  ford:
+  - kif: rel've sTeSan
+    nyt: hn
+    ert:
+    - vasútállomás
+- szo: saRak
+  ford:
+  - nyt: nn
+    ert:
+    - utca
+- szo: kilomiiTar
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - kilométer
+- szo: ghanA
+  ford:
+  - nyt: mn
+    ert:
+    - sűrű
+- szo: ja#gal
+  ford:
+  - nyt: hn
+    ert:
+    - erdő
+    - dzsungel
+- szo: rAstA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - út
+    - utca
+- szo: kaccA
+  ford:
+  - nyt: mn
+    ert:
+    - nyers
+    - éretlen
+    - szo: kövezetlen
+      megj: út
+    - szo: vályogból készült
+      megj: ház
+- szo: pEdal
+  ford:
+  - nyt: mn
+    ert:
+    - gyalog-
+  - nyt: ht
+    ert:
+    - gyalogosan
+- szo: bEl'gARii
+  ford:
+  - nyt: nn
+    ert:
+    - ökrösszekér
+- szo: bEl
+  ford:
+  - nyt: hn
+    ert:
+    - bika
+    - ökör
+- szo: sUraj
+  ford:
+  - nyt: hn
+    ert:
+    - szo: nap
+      megj: égitest
+- szo: DUb'nA
+  ford:
+  - nyt: tl
+    ert:
+    - lemerül
+    - szo: lemegy
+      megj: a nap
+- szo: kyo~ki
+  ford:
+  - nyt: kt
+    ert:
+    - mert
+- szo: Khatar'nAk
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - veszélyes
+    - veszedelmes
+- szo: jAn'var
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - állat
+- szo: guzArA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - megélhetés
+  - kif: guzArA kar'nA
+    ert:
+    - megél
+- szo: mukhya
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - fő-
+    - elsődleges
+    - vezető
+- szo: fas'l
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - aratás
+    - termés
+- szo: gehU~
+  ford:
+  - nyt: hn
+    ert:
+    - búza
+- szo: dhAn
+  ford:
+  - nyt: hn
+    ert:
+    - szo: rizs
+      megj: növény
+- szo: kisAn
+  ford:
+  - nyt: hn
+    ert:
+    - paraszt
+- szo: AlU
+  ford:
+  - nyt: hn
+    ert:
+    - burgonya
+- szo: bE~gan
+  ford:
+  - nyt: hn
+    ert:
+    - padlizsán
+- szo: gobhii
+  ford:
+  - nyt: nn
+    ert:
+    - karfiol
+- szo: TamATar
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - paradicsom
+- szo: lagAnA
+  ford:
+  - nyt: t
+    ert:
+    - növényt ültet
+- szo: dAl
+  ford:
+  - nyt: nn
+    ert:
+    - lencsefélék összefoglaló neve
+- szo: purAnA
+  ford:
+  - nyt: mn
+    ert:
+    - régi
+- szo: -sA
+  ford:
+  - nyt: mn
+    ert:
+    - -szerű
+- szo: adhik'tar
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - nagyobb
+    - igen nagy
+    - több
+  - nyt: ht
+    ert:
+    - nagyon
+    - gyakran
+    - többnyire
+- szo: pakkA
+  ford:
+  - nyt: mn
+    ert:
+    - érett
+    - szo: köves
+      megj: út
+    - szo: téglából készült
+      megj: ház
+- szo: gAy
+  ford:
+  - nyt: nn
+    ert:
+    - tehén
+- szo: bak'rA
+  ford:
+  - nyt: hn
+    ert:
+    - kecskebak
+- szo: bak'rii
+  ford:
+  - nyt: nn
+    ert:
+    - nősténykecske
+  - kif: acchA lag'nA
+    nyt: tl
+    ert:
+    - tetszik
+- szo: pyArA
+  ford:
+  - nyt: mn
+    ert:
+    - kedves
+    - aranyos
+- szo: kuttA
+  ford:
+  - nyt: hn
+    ert:
+    - kutya
+- szo: ciRiyA
+  ford:
+  - nyt: nn
+    ert:
+    - madár
+    - veréb
+- szo: pAl'nA
+  ford:
+  - nyt: t
+    ert:
+    - oltalmaz
+    - nevel
+    - állatot tart
+- szo: SOK
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - vágy
+    - kedvtelés
+    - hobbi
+- szo: murGii
+  ford:
+  - nyt: nn
+    ert:
+    - tyúk
+    - csirke
+- szo: pacAs
+  ford:
+  - nyt: szn
+    ert:
+    - ötven
+    - "50"
+- szo: kabUtar
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - galamb
+- szo: nOkar
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - szolga
+    - alkalmazott
+- szo: nOk'rAnii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - szolgálólány
+    - cseléd
+- szo: tAii
+  ford:
+  - nyt: nn
+    ert:
+    - az apai nagybácsi (ताऊ) felesége
+- szo: carAnA
+  ford:
+  - nyt: t
+    ert:
+    - legeltet
+- szo: cAliis
+  ford:
+  - nyt: szn
+    ert:
+    - negyven
+    - "40"
+- szo: ekaR
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - acre
+    - 4840 négyszögyard, kb. 4000 m2
+- szo: zamiin
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - föld
+- szo: TrEkTar
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - traktor
+- szo: khet
+  ford:
+  - nyt: hn
+    ert:
+    - mező
+    - föld
+    - szántó
+- szo: bAG
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - kert
+- szo: bhar
+  ford:
+  - nyt: ht
+    ert:
+    - egészen
+- szo: peT
+  ford:
+  - nyt: hn
+    ert:
+    - has
+  - kif: bhar peT
+    ert:
+    - pukkadásig
+    - teli hasig
+- szo: Am
+  ford:
+  - nyt: hn
+    ert:
+    - mangó
+- szo: nArAz
+  szarm: P+A
+  ford:
+  - nyt: mn
+    ert:
+    - haragos
+    - mérges
+- szo: Thiik se
+  ford:
+  - ert:
+    - jól
+    - helyesen
+- szo: tAlAb
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - tó
+- szo: kamal
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - lótusz
+- szo: jamA
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - összegyűjtött
+  - kif: jamA kar'nA
+    nyt: t
+    ert:
+    - összegyűjt
+- szo: mAlA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - füzér
+    - nyaklánc
+- szo: laR'kA
+  ford:
+  - nyt: hn
+    ert:
+    - fiú
+- szo: kabaDDii
+  ford:
+  - nyt: nn
+    ert:
+    - szo: kabaddí játék
+      megj: a játékos a कबड्डी szót ismételgetve a másik térfélen levő játékost igyekszik megérinteni
+            és visszafutni a saját térfelére mielőtt kifogy a lélegzete
+- szo: gullii-DaNDA
+  ford:
+  - nyt: hn
+    ert:
+    - szo: gullí-dandá játék
+      megj: a játékos egy hosszabb bottal (डण्डा) igyekszik többször megütni a rövidebbet (a गुल्ली-t)
+- szo: gannA
+  ford:
+  - nyt: hn
+    ert:
+    - cukornád
+- szo: cUs'nA
+  ford:
+  - nyt: t
+    ert:
+    - szív
+    - kiszív
+- szo: cOpAl
+  ford:
+  - nyt: hn nn
+    ert:
+    - gyülekezőhely
+    - gyűléshely
+- szo: prayog
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - használat
+    - felhasználás
+- szo: bEThak
+  ford:
+  - nyt: nn
+    ert:
+    - ülés
+    - tanácskozás
+- szo: SAdii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - házasság
+    - esküvő
+- szo: byAh
+  ford:
+  - nyt: hn
+    ert:
+    - házasság
+    - esküvő
+- szo: av'sar
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - alkalom
+- szo: ikaTThA
+  ford:
+  - nyt: mn
+    ert:
+    - összegyűlt
+    - összegyülekezett
+  - kif: ikaTThA honA
+    nyt: mn
+    ert:
+    - összegyűlik
+    - összegyülekezett
+- szo: gap'Sap
+  ford:
+  - nyt: nn
+    ert:
+    - beszélgetés
+    - pletyka
+- szo: KissA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - történet
+    - mese
+- szo: Aj
+  ford:
+  - nyt: ht
+    ert:
+    - ma
+- szo: yAd
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - emlékezet
+  - kif: yAd AnA
+    nyt: tl
+    ert:
+    - eszébe jut
+    - emlékszik
+- szo: govA
+  ford:
+  - ert:
+    - szo: Goa
+      megj: India egyik tengerparti állama
+- szo: samudra
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - tenger
+- szo: taT
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - part
+- szo: bitAnA
+  ford:
+  - nyt: t
+    ert:
+    - időt tölt
+- szo: biit'nA
+  ford:
+  - nyt: tl
+    ert:
+    - idő telik
+- szo: ArAm
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - pihenés
+    - nyugalom
+  - kif: ArAm kar'nA
+    ert:
+    - pihen
+  - kif: kam se kam
+    ert:
+    - legalább
+- szo: makAn
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - ház
+- szo: nAriyal
+  ford:
+  - nyt: hn
+    ert:
+    - kókusz
+  - kif: nAriyal kA pAnii
+    nyt: hn
+    ert:
+    - kókuszvíz
+    - a zöld kókuszdió leve
+- szo: tEr'nA
+  ford:
+  - nyt: tl
+    ert:
+    - úszik
+- szo: videSii
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - külföldi
+- szo: paryaTak
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - turista
+    - utazó
+- szo: dhUp
+  ford:
+  - nyt: nn
+    ert:
+    - napsugár
+    - verőfény
+  - kif: dhUp khAnA
+    ert:
+    - napozik
+- szo: dOR'nA
+  ford:
+  - nyt: tl
+    ert:
+    - fut
+    - rohan
+- szo: siipii
+  ford:
+  - nyt: nn
+    ert:
+    - kagyló
+- szo: moTar'boT
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - motorcsónak
+- szo: sEr
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - séta
+    - kirándulás
+- szo: dviip
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - sziget
+- szo: hAr
+  ford:
+  - nyt: hn
+    ert:
+    - füzér
+    - virágfüzér
+- szo: pik'nik
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - piknik
+    - kirándulás
+- szo: lak'Rii
+  ford:
+  - nyt: nn
+    ert:
+    - nyers fa
+    - fadarab
+  - nyt: tbsz
+    ert:
+    - tűzifa
+- szo: Ag
+  ford:
+  - nyt: nn
+    ert:
+    - tűz
+- szo: jalAnA
+  ford:
+  - nyt: t
+    ert:
+    - meggyújt
+- szo: kAfii
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - elég
+    - elegendő
+  - nyt: ht
+    ert:
+    - sok
+- szo: cAh'nA
+  ford:
+  - nyt: t
+    ert:
+    - akar
+    - vágyik
