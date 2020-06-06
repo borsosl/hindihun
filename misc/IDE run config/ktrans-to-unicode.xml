@@ -1,0 +1,8 @@
+<configuration
+    name="ktrans-to-unicode"
+    type="NodeJSConfigurationType"
+    application-parameters="-r 1.txt"
+    path-to-js-file="../../dist/ktrans-to-unicode/index.js"
+    working-dir="$PROJECT_DIR$/script/ktrans-to-unicode/input">
+        <method v="2" />
+</configuration>

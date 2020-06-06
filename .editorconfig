@@ -16,3 +16,7 @@ max_line_length = off
 
 [*.sh]
 end_of_line = lf
+
+[package.json]
+indent_size = 2
+tab_width = 2

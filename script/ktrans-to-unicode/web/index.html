@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <meta charset="UTF-8">
+        <title>Type hindi with latin letters</title>
+        <link rel="stylesheet" href="index.css">
+</head>
+<body>
+<h1>Type hindi with latin letters using KTRANS transliteration</h1>
+<h3>See below for explanation</h3>
+
+<div>
+        Type below in selected script type:
+        <input type="radio" name="input-type" value="ktrans" checked id="is-ktrans"> KTRANS latin&nbsp;
+        <input type="radio" name="input-type" value="uni"> Unicode devanagari
+        <textarea id="in"></textarea>
+</div>
+
+<div>
+        Converted text (any changes will be overwritten by changes of the above box):
+        <textarea id="out"></textarea>
+</div>
+
+<div>
+        Conversion delay (ms):&nbsp;&nbsp;
+        <input id="delay" value="800">
+</div>
+
+<h3 class="top40">KTRANS - Kuvera transliteration scheme for e-mail and chat in hindi</h3>
+<pre>
+        Objectives:
+        - can be typed on any national keyboard
+        - available characters on PC and smart phones
+        - indic input software not required
+        - reflect hindi syntax and pronunciation at the same time
+        - fewest characters per sound
+        - avoid uppercase i to not confuse it with lowercase L
+
+
+        a=अ  A=आ  @=ऑ  i=इ  ii=ई  u=उ  U=ऊ  e=ए  E=ऐ  o=ओ  O=औ  RI=ऋ
+        k=क  K=क़  kh=ख  Kh=ख़  g=ग  G=ग़  gh=घ  M=ङ
+        c=च  ch=छ  j=ज  z=ज़  jh=झ  Y=ञ
+        T=ट  Th=ठ  D=ड  R=ड़  Dh=ढ  Rh=ढ़  N=ण
+        t=त  th=थ  d=द  dh=ध  n=न
+        p=प  ph=फ  f=फ़  b=ब  bh=भ  m=म
+        y=य  r=र  l=ल  v=व
+        S=श  Sh=ष  s=स  h=ह
+
+        anusvAr (bindu): #
+                ba#d=बंद
+        anunAsik (candrabindu): ~
+                hU~=हूँ
+        visarg: H
+                prAyaH=प्रायः
+        virAm: _
+                arthAt_=अर्थात्
+        schwa deletion: '
+                us'kA=उसका
+        da#DA: .
+                vAkya.=वाक्य।
+        abbreviation sign: %
+                Tii% vii%=टी॰ वी॰
+        keep a single character as is: `
+                `.`.`.=...
+                `%=%
+        keep a series of characters: ÷ to ×
+                hindii ÷words×=हिन्दी words
+
+
+
+        examples:
+        hU~ hE hE~ ho thA thii thii~ nahii~
+        laR'kA ASA hindii urdU U~cA me~ mE~ or Or RIShi k@lonii
+        kyA khiR'kii gARii ghar pala#g Kalam aKhbAr kAGaz
+        cAr choTA jUtA jhag'RA pa#jAbii zarUr
+        Tahal'nA Tha#DA D@kTar peR baRhiyA
+        tum thA das dhanyavAd pasa#d
+        pitA phal burA bhii la#bA sirf
+        yah rAjA log vah
+        Sabd bhAShA sundar hA~
+        arthAt_
+    </pre>
+
+<script src="main.js"></script>
+</body>
+</html>

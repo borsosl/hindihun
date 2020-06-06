@@ -6,6 +6,9 @@
   "keywords": [],
   "author": "László Borsos",
   "license": "GPL-3.0-or-later",
+  "scripts": {
+    "ktrans": "webpack --config script/ktrans-to-unicode/webpack.dev.config.js --display-error-details"
+  },
   "devDependencies": {
     "@types/command-line-args": "^4.0.2",
     "@types/express": "^4.17.1",
@@ -13,8 +16,10 @@
     "@types/node": "^13.13.4",
     "@types/npm": "^2.0.29",
     "@types/request-promise": "^4.1.46",
+    "ts-loader": "^3.5.0",
     "typescript": "^3.9.3",
     "tslint": "^5.12.1",
-    "tslint-eslint-rules": "^5.4.0"
+    "tslint-eslint-rules": "^5.4.0",
+    "webpack": "^3.11.0"
   }
 }
