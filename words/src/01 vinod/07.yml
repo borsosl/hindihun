@@ -1,0 +1,698 @@
+datum: 2020-06-06
+forras:
+  nev: Vinód
+  fejezet: 7
+szavak:
+- szo: sAt
+  ford:
+  - nyt: szn
+    ert:
+    - hét
+- szo: Kutub miinAr
+  ford:
+  - nyt: nn
+    ert:
+    - szo: Qutub Mínár
+      megj: India legmagasabb minaretje, 13–14. sz.
+- szo: kyArii
+  ford:
+  - nyt: nn
+    ert:
+    - ágyás
+    - virágágyás
+- szo: khaRA
+  ford:
+  - nyt: mn
+    ert:
+    - álló
+  - kif: khaRA honA
+    nyt: tl
+    ert:
+    - áll
+- szo: piilA
+  ford:
+  - nyt: mn
+    ert:
+    - sárga
+- szo: gulAb
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - rózsa
+- szo: khil'nA
+  ford:
+  - nyt: tl
+    ert:
+    - virágzik
+    - nyílik
+- szo: pich'lA
+  ford:
+  - nyt: mn
+    ert:
+    - előző
+    - korábbi
+- szo: pOdhA
+  ford:
+  - nyt: hn
+    ert:
+    - növény
+  - kif: pOdhA lagAnA
+    nyt: t
+    ert:
+    - növényt ültet
+- szo: vAh
+  szarm: A
+  ford:
+  - nyt: nvált
+    ert:
+    - hű!
+    - remek!
+    - nagyszerű!
+- szo: KhuS
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - boldog
+    - örvendő
+- szo: bol'nA
+  ford:
+  - nyt: tl
+    ert:
+    - beszél
+    - szól
+  - nyt: t
+    ert:
+    - mond
+- szo: meh'nat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - munka
+    - szorgalom
+- szo: progrAm
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - program
+- szo: batAnA
+  ford:
+  - nyt: t
+    ert:
+    - mond
+    - elmond
+    - elmesél
+- szo: cOthA
+  ford:
+  - nyt: szn
+    ert:
+    - negyedik
+- szo: SatAbdii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - évszázad
+- szo: lOh
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - vas-
+    - vasból való
+  - nyt: hn
+    ert:
+    - vas
+- szo: sta#bh
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - oszlop
+- szo: terah'vA~
+  ford:
+  - nyt: szn
+    ert:
+    - tizenharmadik
+- szo: AScarya
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - meglepődés
+    - csodálkozás
+- szo: lohA
+  ford:
+  - nyt: hn
+    ert:
+    - vas
+- szo: kha#bhA
+  ford:
+  - nyt: hn
+    ert:
+    - oszlop
+- szo: za#g
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - rozsda
+  - kif: za#g lag'nA
+    nyt: tl
+    ert:
+    - rozsdásodik
+- szo: bhArat
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - India
+- szo: prAra#bhik
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - kezdeti
+    - szo: elemi
+      megj: pl. oktatás
+- szo: daSak
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - tízes csoport
+    - évtized
+- szo: sul'tAn
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - szultán
+    - uralkodó
+- szo: Kutubuddiin Ebak
+  ford:
+  - nyt: hn
+    ert:
+    - szo: Qutubuddín Aibak
+      megj: uralk. 1206–1211, a Delhi Szultanátus megalapítója, ő kezdi meg a Qutub Mínár építését
+- szo: bahattar
+  ford:
+  - nyt: szn
+    ert:
+    - hetvenkettő
+- szo: miiTar
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - méter
+- szo: a#dar
+  ford:
+  - nyt: ht
+    ert:
+    - bent
+    - belül
+  - kif: ke a#dar
+    nyt: nt
+    ert:
+    - bent
+    - belül
+  - kif: a#dar hii a#dar
+    nyt: ht
+    ert:
+    - legbelül
+    - a belsejében
+- szo: cakkaradAr
+  szarm: H+P
+  ford:
+  - nyt: mn
+    ert:
+    - körkörös
+    - csiga-
+- szo: siiRhii
+  ford:
+  - nyt: nn
+    ert:
+    - lépcsőfok
+    - létra
+  - nyt: tbsz
+    ert:
+    - lépcső
+    - lépcsőzet
+- szo: vijay
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - győzelem
+- szo: caRh'nA
+  ford:
+  - nyt: tl
+    ert:
+    - felmászik
+- szo: Uparii
+  ford:
+  - nyt: mn
+    ert:
+    - fenti
+    - felső
+- szo: bhAg
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - rész
+- szo: TUrisT
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - turista
+- szo: EtihAsik
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - történelmi
+- szo: kha#D'har
+  ford:
+  - nyt: hn
+    ert:
+    - rom
+- szo: ga#dA
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - piszkos
+- szo: balki
+  szarm: A+P
+  ford:
+  - nyt: kt
+    ert:
+    - de
+    - hanem
+- szo: bhAr'tiiy
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - indiai
+- szo: jiivan
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - élet
+- szo: aDDA
+  ford:
+  - nyt: hn
+    ert:
+    - terület
+    - állomás
+- szo: cAT
+  ford:
+  - nyt: nn
+    ert:
+    - fűszeres gyümölcssaláta
+- szo: khol'nA
+  ford:
+  - nyt: t
+    ert:
+    - nyit
+- szo: pannA
+  ford:
+  - nyt: hn
+    ert:
+    - oldal
+    - lap
+- szo: vibhinn
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - különböző
+- szo: bas'nA
+  ford:
+  - nyt: tl
+    ert:
+    - letelepedik
+    - lakik
+- szo: citra
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - kép
+    - fénykép
+- szo: jEsA
+  ford:
+  - nyt: nv
+    ert:
+    - amilyen
+  - nyt: nt
+    ert:
+    - hasonló
+    - -szerű
+- szo: muSkil
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - nehéz
+  - nyt: nn
+    ert:
+    - nehézség
+- szo: mahAkavi
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - költőóriás
+- szo: mahA
+  szarm: S
+  ford:
+  - ert:
+    - nagy
+    - jelentős
+- szo: kavi
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - költő
+- szo: raviindranAth ThAkur
+  ford:
+  - nyt: hn
+    ert:
+    - Rabindranath Tagore (1861-1941) Nobel-díjas bengáli költő és író
+- szo: mAnav
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - ember
+    - emberi
+- szo: jAti
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - születés
+    - kaszt
+    - embercsoport
+- szo: bhinn
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - különféle
+    - különböző
+- szo: prakAr
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - fajta
+    - féle
+    - mód
+- szo: ra#g
+  ford:
+  - nyt: hn
+    ert:
+    - szín
+    - festék
+- szo: bhArat'vAsii
+  ford:
+  - nyt: mn
+    ert:
+    - indiai
+  - nyt: hn
+    ert:
+    - India lakosa
+- szo: sA~v'lA
+  ford:
+  - nyt: mn
+    ert:
+    - szo: sötét
+      megj: bőrű
+- szo: gehuA~
+  ford:
+  - nyt: mn
+    ert:
+    - búzaszínű
+    - kreolbőrű
+- szo: mat'lab
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - jelentés
+- szo: kAlA
+  ford:
+  - nyt: mn
+    ert:
+    - fekete
+- szo: gorA
+  ford:
+  - nyt: mn
+    ert:
+    - szo: világos
+      megj: bőrű
+    - szo: fehér
+      megj: bőrű
+- szo: mil'nA-jul'nA
+  ford:
+  - nyt: tl
+    ert:
+    - gyakran találkozik
+    - összejön
+    - hasonlít
+- szo: uttar
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - északi
+  - nyt: hn
+    ert:
+    - észak
+  - nyt: hn
+    ert:
+    - válasz
+- szo: pradeS
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - indiai tagállam
+- szo: a#tar
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - közép
+    - távolság
+    - szünet
+    - különbség
+- szo: pa#jAb
+  ford:
+  - nyt: hn
+    ert:
+    - szo: Pandzsáb
+      megj: állam
+- szo: Kad
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - termet
+- szo: la#bA
+  ford:
+  - nyt: mn
+    ert:
+    - hosszú
+    - magas
+- szo: nAk-naKSA
+  szarm: H+A
+  ford:
+  - nyt: hn
+    ert:
+    - arcvonások
+- szo: A~kh
+  ford:
+  - nyt: nn
+    ert:
+    - szem
+- szo: siidhA
+  ford:
+  - nyt: mn
+    ert:
+    - egyenes
+- szo: bAl
+  ford:
+  - nyt: hn tbsz
+    ert:
+    - haj
+- szo: rAjasthAn
+  ford:
+  - nyt: hn
+    ert:
+    - szo: Rádzsaszthán
+      megj: állam
+- szo: EsA hii
+  ford:
+  - nyt: mn
+    ert:
+    - ugyanilyen
+- szo: mUl
+  ford:
+  - nyt: hn
+    ert:
+    - gyökér
+    - eredet
+  - nyt: mn
+    ert:
+    - eredeti
+    - ősi
+- szo: Adim'jAti
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - őslakosság
+    - törzsi lakosság
+- szo: Adim
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - ősi
+    - eredeti
+    - primitív
+- szo: AdivAsii
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - törzsi
+  - nyt: hn
+    ert:
+    - őslakos
+- szo: TrAibal
+  szarm: E
+  ford:
+  - nyt: mn
+    ert:
+    - törzsi
+- szo: anya
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - más
+    - másik
+- szo: prA#t
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - terület
+    - állam
+- szo: pramukh
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - fő-
+    - jelentős
+- szo: go~D
+  ford:
+  - nyt: hn
+    ert:
+    - szo: gónd
+      megj: a Vindhja-hegységben élő törzs, ennek a törzsnek egy tagja
+- szo: gah'rA
+  ford:
+  - nyt: mn
+    ert:
+    - mély
+    - szo: sötét
+      megj: szín
+- szo: alag
+  ford:
+  - nyt: mn
+    ert:
+    - különböző
+    - másmilyen
+- szo: cap'TA
+  ford:
+  - nyt: mn
+    ert:
+    - lapos
+- szo: jab'RA
+  ford:
+  - nyt: hn
+    ert:
+    - állkapocs
+- szo: cORA
+  ford:
+  - nyt: mn
+    ert:
+    - széles
+- szo: ceh'rA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - arc
+- szo: gol
+  ford:
+  - nyt: mn
+    ert:
+    - kerek
+    - gömbölyű
+- szo: dub'lA
+  ford:
+  - nyt: mn
+    ert:
+    - sovány
+    - gyenge
+  - kif: dub'lA-pat'lA
+    nyt: mn
+    ert:
+    - sovány
+    - vékony
+- szo: pat'lA
+  ford:
+  - nyt: mn
+    ert:
+    - vékony
+- szo: dakShiN
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - szo: dél
+      megj: égtáj
+- szo: draviR
+  ford:
+  - nyt: hn mn
+    ert:
+    - dravida
+- szo: kAT'nA
+  ford:
+  - nyt: t
+    ert:
+    - vág
+- szo: TippaNii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - kommentár
+    - megjegyzés
+    - jegyzet

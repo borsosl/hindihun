@@ -1,0 +1,806 @@
+datum: 2020-06-05
+forras:
+  nev: Vinód
+  fejezet: 6
+szavak:
+- szo: aziiz
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - szo: férfinév
+      megj: jelentése ‘értékes, kedves’
+- szo: dariyAga#j
+  ford:
+  - nyt: hn
+    ert:
+    - Delhi egyik városrésze
+- szo: dariyA
+  szarm: P
+  ford:
+  - nyt: hn nvált
+    ert:
+    - folyó
+- szo: ga#j
+  ford:
+  - nyt: hn
+    ert:
+    - piac
+- szo: rikSA
+  ford:
+  - nyt: hn
+    ert:
+    - riksa
+- szo: jAmA masjid
+  ford:
+  - ert:
+    - a nagymecset Delhiben
+- szo: jAmA
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - gyülekezeti
+    - egyetemes
+- szo: masjid
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - mecset
+- szo: ilAKA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - kerület
+    - környék
+- szo: bhiiR-bhAR
+  ford:
+  - nyt: nn
+    ert:
+    - tömeg
+    - tülekedés
+    - tolongás
+- szo: moTar
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - személyautó
+- szo: tA~gA
+  ford:
+  - nyt: hn
+    ert:
+    - kordé
+    - kétkerekű lovaskocsi
+- szo: Trak
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - teherautó
+- szo: Sor
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - zaj
+- szo: mach'lii
+  ford:
+  - nyt: nn
+    ert:
+    - hal
+- szo: urdU
+  szarm: T
+  ford:
+  - nyt: nn
+    ert:
+    - az urdú nyelv
+- szo: sadii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - évszázad
+- szo: sEnik
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - katona
+- szo: Sabd'koS
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - szótár
+- szo: koS
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - kincstár
+    - raktár
+- szo: lAl
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - vörös
+    - piros
+- szo: patthar
+  ford:
+  - nyt: hn
+    ert:
+    - kő
+- szo: ban'nA
+  ford:
+  - nyt: tl
+    ert:
+    - készül
+    - csinálva van
+- szo: imArat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - épület
+    - építmény
+- szo: muGal
+  szarm: P
+  ford:
+  - nyt: hn mn
+    ert:
+    - mogul
+    - mughal
+- szo: samrAT
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - uralkodó
+    - császár
+- szo: SAh'jahA~
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - szo: Sáhdzsahán
+      megj: (1592-1666) mughal uralkodó, ‘a világ ura’
+- szo: SAh
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - király
+- szo: jahA~
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - világ
+- szo: ban'vAnA
+  ford:
+  - nyt: t
+    ert:
+    - csináltat
+    - készíttet
+    - építtet
+- szo: gin'tii
+  ford:
+  - nyt: nn
+    ert:
+    - számadás
+    - számítás
+    - számontartás
+- szo: miinAr
+  szarm: AP
+  ford:
+  - nyt: nn hn
+    ert:
+    - torony
+    - minaret
+- szo: gumbad
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - kupola
+- szo: jagah
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - hely
+- szo: hOz
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - medence
+    - víztározó
+- szo: phATak
+  ford:
+  - nyt: hn
+    ert:
+    - kapu
+    - bejárat
+- szo: musal'mAn
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - muzulmán
+    - muszlim
+- szo: namAz
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - szo: ima
+      megj: amelynek napi ötszöri elmondását írja elő az iszlám
+  - kif: namAz paRh'nA
+    ert:
+    - szo: imádkozik
+      megj: muszlim
+- szo: sUfii
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - szo: szúfí
+      megj: muszlim misztikus szerzetes
+- szo: sar'mad
+  ford:
+  - nyt: hn
+    ert:
+    - szo: Szarmad Sahíd
+      megj: szúfí szent, 17. század
+- szo: sar'mad
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - örökkévalóság
+- szo: Sahiid
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - mártír
+- szo: dar'gAh
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - muszlim szent sírhelye
+- szo: haz'rat nizAmuddiin OliyA
+  ford:
+  - nyt: hn
+    ert:
+    - szo: Hazrat Nizámuddín Aulijá
+      megj: szúfí szent, a csistí rend egyik vezetője, †1325
+- szo: haz'rat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - kiválóság
+    - őfensége
+    - szo: szent
+      megj: megszólítás
+- szo: nizAmuddiin
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - ‘a hit alapja’
+- szo: nizAm
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - elrendezés
+    - alap
+- szo: diin
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - hit
+- szo: OliyA
+  szarm: A
+  ford:
+  - nyt: nvált
+    ert:
+    - szent
+- szo: cirAG deh'lavii
+  ford:
+  - nyt: hn
+    ert:
+    - szo: Csirág Déhlaví
+      megj: szúfí szent, Nizámuddín tanítványa, utódja a rend élén, †1356
+- szo: cirAG
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - lámpás
+- szo: deh'lavii
+  ford:
+  - nyt: mn
+    ert:
+    - delhibeli
+- szo: maS'hUr
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - közismert
+    - híres
+- szo: dharm
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - vallás
+- szo: sammAn
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - tisztelet
+    - megbecsülés
+  - kif: sammAn kar'nA
+    nyt: t
+    ert:
+    - tisztel
+    - megbecsül
+- szo: bhAv'nA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - érzelem
+    - érzés
+    - gondolat
+- szo: pavitratA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - tisztaság
+    - szentség
+- szo: mahattvapUrN
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - fontos
+    - jelentős
+- szo: mahattva
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - nagyság
+    - fontosság
+- szo: pUrN
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - teli
+- szo: mAn'nA
+  ford:
+  - nyt: t
+    ert:
+    - szo: tart
+      megj: vmit vmilyennek
+    - elfogad
+    - elismer
+- szo: mAnav'tA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - emberség
+    - emberségesség
+    - humanizmus
+- szo: bhAii-cArA
+  ford:
+  - nyt: hn
+    ert:
+    - testvérség
+    - testvériesség
+- szo: cArA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - menedék
+    - orvoslat
+- szo: sa#deS
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - üzenet
+- szo: galii
+  ford:
+  - nyt: nn
+    ert:
+    - sikátor
+    - utcácska
+- szo: cURii
+  ford:
+  - nyt: nn
+    ert:
+    - szo: karperec
+      megj: kül. üvegből
+- szo: cA~d'nii cOk
+  ford:
+  - nyt: hn
+    ert:
+    - Ó-Delhi főutcája
+- szo: cOk
+  ford:
+  - nyt: hn
+    ert:
+    - útkereszteződés
+    - tér
+    - piactér
+- szo: KilA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - erőd
+    - vár
+- szo: fateh'purii masjid
+  ford:
+  - ert:
+    - a Fatéhpurí mecset
+- szo: prAciin
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - ősi
+    - régi
+    - ó-
+- szo: kAl
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - idő
+- szo: biic
+  ford:
+  - kif: biico~ biic
+    nyt: hn
+    ert:
+    - kellős közép
+  - kif: ke biico~ biic
+    nyt: nt
+    ert:
+    - vmi kellős közepén
+- szo: nahar
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - csatorna
+- szo: vaKt
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - idő
+    - időszak
+- szo: deS
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - ország
+    - haza
+- szo: maha~gA
+  ford:
+  - nyt: mn
+    ert:
+    - drága
+- szo: thok
+  ford:
+  - nyt: hn
+    ert:
+    - tömeg
+    - nagykereskedelem
+- szo: sEk'RA
+  ford:
+  - nyt: hn
+    ert:
+    - százas egység
+    - vmiből száz darab
+  - kif: sEk'Ro~
+    nyt: szn ht
+    ert:
+    - százával
+    - több száz
+- szo: jUtA
+  ford:
+  - nyt: hn
+    ert:
+    - cipő
+- szo: favvArA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - szökőkút
+- szo: Ana#d
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - öröm
+    - élvezet
+  - kif: Ana#d lenA
+    ert:
+    - élvez
+    - kiélvez
+- szo: SAn'dAr
+  szarm: A+P
+  ford:
+  - nyt: mn
+    ert:
+    - pompás
+    - nagyszabású
+- szo: diivAn-e-Am
+  szarm: A
+  ford:
+  - ert:
+    - a nyilvános kihallgatások csarnoka
+    - nyilvános fogadás
+- szo: diivAn-e-KhAs
+  szarm: P+A
+  ford:
+  - ert:
+    - a magánkihallgatások csarnoka
+    - magánfogadás
+- szo: diivAn
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - királyi udvar
+    - államtanács
+    - miniszter
+- szo: KhAs
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - különleges
+    - sajátos
+    - magán-
+- szo: mukhya
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - fő-
+    - elsődleges
+    - vezető
+  - kif: mukhya rUp se
+    ert:
+    - főleg
+- szo: anya
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - más
+    - másik
+- szo: bhUkh
+  ford:
+  - nyt: nn
+    ert:
+    - éhség
+  - kif: bhUkh lag'nA
+    nyt: tl
+    ert:
+    - éhes
+    - éhsége támad
+- szo: parAThA
+  ford:
+  - nyt: hn
+    ert:
+    - kevés zsiradékon kisütött lepényféle, gyakran zöldséggel töltve
+- szo: a#t
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - vég
+- szo: pAn
+  ford:
+  - nyt: hn
+    ert:
+    - szo: bétel
+      megj: bétellevélbe (Piper betel) csomagolt arekadió és fűszerek keveréke, amely kellemes szájízt ad
+- szo: zyAdA
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - több
+    - sok
+    - nagyon sok
+- szo: hAlA~ki
+  szarm: P
+  ford:
+  - nyt: kt
+    ert:
+    - habár
+    - noha
+- szo: sir
+  ford:
+  - nyt: hn
+    ert:
+    - fej
+- szo: dard
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - fájdalom
+    - fájás
+- szo: bukhAr
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - láz
+  - kif: bukhAr AnA
+    nyt: tl
+    ert:
+    - belázasodik
+- szo: zukAm
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - nátha
+    - megfázás
+- szo: khA~sii
+  ford:
+  - nyt: nn
+    ert:
+    - köhögés
+  - kif: "* ko khA~sii AnA"
+    nyt: tl
+    ert:
+    - köhög
+- szo: nAk
+  ford:
+  - nyt: nn
+    ert:
+    - orr
+- szo: bah'nA
+  ford:
+  - nyt: tl
+    ert:
+    - folyik
+- szo: KharAb
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - rossz
+- szo: ek'dam
+  szarm: H+P
+  ford:
+  - nyt: ht
+    ert:
+    - egyszerre
+    - egy pillanat alatt
+- szo: dam
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - lélegzet
+- szo: sardii
+  ford:
+  - kif: sardii lag'nA
+    nyt: tl
+    ert:
+    - megfázni
+    - fázni
+- szo: dukh'nA
+  ford:
+  - nyt: tl
+    ert:
+    - fáj
+- szo: cakkar
+  ford:
+  - nyt: hn
+    ert:
+    - kör
+    - forgás
+    - szédülés
+  - kif: cakkar AnA
+    nyt: tl
+    ert:
+    - szédül
+- szo: kaR'vA
+  ford:
+  - nyt: mn
+    ert:
+    - keserű
+- szo: davA
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - gyógyszer
+    - gyógymód
+- szo: golii
+  ford:
+  - nyt: nn
+    ert:
+    - labdacs
+    - golyó
+    - tabletta
+- szo: fAy'dA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - haszon
+    - nyereség
+- szo: manA
+  ford:
+  - nyt: mn nvált
+    ert:
+    - tilos
+  - kif: "* se manA kar'nA"
+    nyt: t
+    ert:
+    - eltilt vmtől
+    - megtilt
+- szo: misez
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - Mrs
+    - asszony
+- szo: joSii
+  ford:
+  - ert:
+    - szo: családnév
+      megj: bráhmana
+- szo: sa#giit
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - zene
+- szo: davAii
+  ford:
+  - nyt: nn
+    ert:
+    - gyógyszer
+- szo: mat
+  ford:
+  - nyt: nv
+    ert:
+    - ne
+- szo: bhUl'nA
+  ford:
+  - nyt: t
+    ert:
+    - elfelejt
