@@ -5,9 +5,11 @@
         </span>
         <span class="header-divider"></span>
         <span class="header-search">
-            <span class="pi pi-search"></span>
-            <input type="text" pInputText class="search-text" [(ngModel)]="searchText"
-                title="f - csak fordítás&#010;h - minden hindí&#010;m - minden magyar" />
+            <span class="pi pi-search" (click)="search()"></span>
+            <input type="search" pInputText class="search-text"
+                   [(ngModel)]="searchText" (keydown.enter)="search()"
+                   autocapitalize="off" placeholder="Keresés..."
+                   title="prefix nélkül - csak címszó&#010;f&#x2423; - csak fordítás&#010;h&#x2423; - minden hindí&#010;m&#x2423; - minden magyar" />
         </span>
     </div>
 </header>

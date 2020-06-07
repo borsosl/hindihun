@@ -13,7 +13,7 @@
             "check-space"
         ],
         // Enforces braces for if/for/do/while statements.,
-        "curly": true,
+        "curly": false,
         // Ensures the file ends with a newline.,
         "eofline": true,
         // NOT: Requires a for ... in statement to be filtered with an if statement.,

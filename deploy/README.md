@@ -10,3 +10,12 @@ néha újraindul. Így van ingyenesen egy full text search támogató rendszer.
 Másik opciók az ElasticSearch és PostrgeSQL lettek volna. Az előbbihez túl sok
 memória kell neki ahhoz, hogy free-tier-en fusson. Utóbbit tokenizálási
 problémák miatt ki kellett zárni.
+
+## Lokális, FE fejlesztéshez
+
+- Solr futtatása [lokálisan](../backend/solr/local/README.md)
+- BE app konfiguráció, ahol az environment:
+  - SOLR_URL=http://localhost:8983
+  - PORT defaultja 8080
+- FE Angularban a CLI server futtatásához:
+  - proxy.conf.json-ban /api target a helyi BE, pl. http://localhost:8080

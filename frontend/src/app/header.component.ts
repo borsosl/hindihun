@@ -1,4 +1,5 @@
 import {ChangeDetectionStrategy, Component} from '@angular/core';
+import {SearchService} from './service/search.service';
 
 @Component({
     selector: 'hh-header',
@@ -8,4 +9,11 @@ import {ChangeDetectionStrategy, Component} from '@angular/core';
 })
 export class HeaderComponent {
     searchText: string;
+
+    constructor(private searchService: SearchService) {
+    }
+
+    search() {
+        this.searchService.search(this.searchText);
+    }
 }

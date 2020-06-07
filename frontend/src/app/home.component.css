@@ -13,3 +13,7 @@ p-card {
     font-size: inherit;
     color: inherit;
 }
+
+.card-margin {
+    margin-bottom: 5pt;
+}

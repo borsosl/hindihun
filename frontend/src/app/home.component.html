@@ -1,5 +1,25 @@
-<div class="margin">
-    <p-card>
+<div class="margin" *ngIf="vm$ | async as vm">
+
+    <p-card *ngIf="!vm.result && !vm.error">
         <hh-usage></hh-usage>
     </p-card>
+
+    <ng-container *ngIf="vm.result">
+        <div *ngFor="let hit of vm.result.hits" class="card-margin">
+            <p-card><!--
+                -->{{hit.szo}} =
+                <span *ngFor="let ert of hit.ford[0].ert; index as i"><!--
+                    --><ng-container *ngIf="i > 0">, </ng-container><!--
+                    -->{{ert.szo || ert}}<!--
+                --></span>
+            </p-card>
+        </div>
+    </ng-container>
+
+    <ng-container *ngIf="vm.error">
+        <p-card>
+            Hiba
+        </p-card>
+    </ng-container>
+
 </div>
