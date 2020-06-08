@@ -1,0 +1,460 @@
+datum: 2020-06-08
+forras:
+  nev: Vinód
+  fejezet: 13
+szavak:
+- szo: elifENTA
+  ford:
+  - ert:
+    - szo: Elephanta
+      megj: barlangtemplomairól (kb. 7. sz.) híres sziget Mumbaí mellett
+- szo: guphA
+  ford:
+  - nyt: nn
+    ert:
+    - barlang
+- szo: pahAR
+  ford:
+  - nyt: hn
+    ert:
+    - hegy
+    - hegység
+- szo: hariyAlii
+  ford:
+  - nyt: nn
+    ert:
+    - zöld növényzet
+- szo: phEl'nA
+  ford:
+  - nyt: tl
+    ert:
+    - terjed
+    - szétterjed
+    - elterül
+- szo: varShA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - esős évszak
+    - eső
+- szo: tezii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - gyorsaság
+- szo: kaT'nA
+  ford:
+  - nyt: tl
+    ert:
+    - le van vágva
+- szo: pradUShaN
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - környezetszennyezés
+- szo: jan'sa#khyA
+  szarm: S+S
+  ford:
+  - nyt: nn
+    ert:
+    - lakosság
+- szo: sa#khyA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - szám
+- szo: lagAtAr
+  ford:
+  - nyt: ht
+    ert:
+    - állandóan
+    - szüntelenül
+- szo: baRhottarii
+  ford:
+  - nyt: nn
+    ert:
+    - növekedés
+    - emelkedés
+- szo: kamii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - hiány
+- szo: binA
+  alt:
+  - bin
+  ford:
+  - ert:
+    - nélkül
+- szo: SUnya
+  alt:
+  - sUn
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - üres
+    - elhagyatott
+  - nyt: hn
+    ert:
+    - üresség
+    - vákum
+    - nulla
+- szo: dar'asal
+  szarm: P+A
+  ford:
+  - nyt: ht
+    ert:
+    - valójában
+    - tényleg
+- szo: lApar'vAhii
+  szarm: A+P
+  ford:
+  - nyt: nn
+    ert:
+    - hanyagság
+    - nemtörődömség
+- szo: lA-
+  szarm: A
+  ford:
+  - nyt: fosztóképző
+    ert:
+    - -tlan
+    - -tlen
+- szo: par'vAhii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - törődés
+- szo: natiijA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - eredmény
+- szo: bhugat'nA
+  ford:
+  - nyt: t
+    ert:
+    - megtapasztal
+    - elvisel
+- szo: netA
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - vezető
+    - politikai vezető
+- szo: sunAnA
+  ford:
+  - nyt: t
+    ert:
+    - hallat
+    - mond
+- szo: thak'nA
+  ford:
+  - nyt: tl
+    ert:
+    - elfárad
+    - kimerül
+- szo: guzar'nA
+  ford:
+  - nyt: tl
+    ert:
+    - halad
+    - elhalad
+    - szo: telik
+      megj: idő
+    - történik
+- szo: paryaTan
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - turizmus
+- szo: vajah
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - ok
+  - kif: kii vajah se
+    ert:
+    - miatt
+- szo: KhAsA
+  szarm: A
+  ford:
+  - nyt: ht
+    ert:
+    - jó
+    - nagyon jó
+  - kif: acchA-KhAsA
+    nyt: mn
+    ert:
+    - jó
+- szo: udyog
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - ipar
+- szo: dUnA
+  ford:
+  - nyt: mn
+    ert:
+    - kétszeres
+  - kif: din dUnA rAt cOgunA
+    ert:
+    - szo: gyorsan növekvő
+      megj: nappal kétszeres, éjjel négyszeres
+- szo: cOgunA
+  ford:
+  - nyt: mn
+    ert:
+    - négyszeres
+- szo: taraKKii
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - fejlődés
+    - növekedés
+- szo: sAphveyar
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - szoftver
+- szo: mugdha
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - elbűvölt
+    - elvarázsolt
+- szo: trimUrti
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - istenhármas
+    - az istenhármast (शिव Siva, ब्रह्मा Brahmá és विष्णु Visnu) ábrázoló több mint hat méter magas szobor
+- szo: acAnak
+  ford:
+  - nyt: ht
+    ert:
+    - hirtelenül
+    - váratlanul
+- szo: ba#dar
+  ford:
+  - nyt: hn
+    ert:
+    - majom
+- szo: bEg
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - táska
+    - retikül
+- szo: bhAg'nA
+  ford:
+  - nyt: tl
+    ert:
+    - fut
+- szo: ciiKh'nA
+  ford:
+  - nyt: tl
+    ert:
+    - sikít
+- szo: phe~k'nA
+  ford:
+  - nyt: t
+    ert:
+    - dob
+    - hajít
+- szo: pareSAn
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - ideges
+    - izgatott
+- szo: sTiimar
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - gőzhajó
+  - kif: sTiimar kar'nA
+    ert:
+    - gőzhajóra száll
+- szo: geTave @f iNDiyA
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - szo: India kapuja
+      megj: V. György király fogadására 1911-ben emelt diadalkapu
+- szo: tAj mahal hoTal
+  ford:
+  - nyt: hn
+    ert:
+    - Mumbaí legnevezetesebb szállodája
+- szo: tAj
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - korona
+- szo: mahal
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - palota
+- szo: tAj mahal
+  ford:
+  - ert:
+    - szo: Mumtáz Mahal síremléke Agrában
+      megj: amelyet Sáh Dzsahán építtetett feleségének 1623-1643 között
+- szo: prasann
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - örvendő
+    - jókedvű
+    - boldog
+- szo: kAS
+  szarm: P
+  ford:
+  - nyt: kt
+    ert:
+    - bárcsak
+- szo: anubhav
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - érzés
+    - tapasztalat
+- szo: saral
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - egyszerű
+    - könnyű
+- szo: mazAK
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - tréfa
+    - vicc
+  - kif: mazAK kar'nA
+    nyt: t
+    ert:
+    - tréfálkozik
+    - viccel
+- szo: darSan
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - nézés
+  - ert:
+    - világnézet
+    - filozófia
+- szo: kavitA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - költészet
+    - vers
+- szo: DAyarii
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - napló
+- szo: man'pasand
+  szarm: H+P
+  ford:
+  - nyt: mn
+    ert:
+    - kedvére való
+- szo: gun'gunAnA
+  ford:
+  - nyt: tl
+    ert:
+    - dudorászik
+- szo: ek
+  ford:
+  - kif: ek-Adh
+    nyt: mn
+    ert:
+    - egy-két
+    - néhány
+- szo: pa#kti
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - sor
+- szo: kavayitrii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - költőnő
+- szo: svapna
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - álom
+    - álmodozás
+- szo: kah'lAnA
+  ford:
+  - nyt: tl
+    ert:
+    - nevezve van
+    - hívva van
+  - nyt: t
+    ert:
+    - beszéltet
+- szo: manohar
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - elragadó
+- szo: vAtAvaraN
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - légkör
+    - atmoszféra
+- szo: vAt
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - szél
+    - levegő
+- szo: AvaraN
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - burok

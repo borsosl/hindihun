@@ -1,0 +1,502 @@
+datum: 2020-06-08
+forras:
+  nev: Vinód
+  fejezet: 11
+szavak:
+- szo: gyArah
+  ford:
+  - nyt: szn
+    ert:
+    - tizenegy
+- szo: an'ginat
+  ford:
+  - nyt: mn
+    ert:
+    - megszámlálhatatlan
+- szo: apAr
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - parttalan
+    - végtelen
+    - áthatolhatatlan
+- szo: saT'paTAnA
+  ford:
+  - nyt: tl
+    ert:
+    - zavarba jön
+    - ideges lesz
+- szo: a~grez
+  szarm: Pt
+  ford:
+  - nyt: hn
+    ert:
+    - szo: angol
+      megj: ember
+- szo: ka#dhA
+  ford:
+  - nyt: hn
+    ert:
+    - váll
+- szo: tak'liif
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - nehézség
+    - kellemetlenség
+    - probléma
+- szo: yahii~
+  ford:
+  - nyt: ht
+    ert:
+    - ugyanitt
+    - épp itt
+- szo: uThAnA
+  ford:
+  - nyt: t
+    ert:
+    - emel
+    - felemel
+- szo: SAyad
+  szarm: P
+  ford:
+  - nyt: ht
+    ert:
+    - talán
+- szo: geT
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - kapu
+- szo: pratiikShA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - várakozás
+- szo: Kulii
+  szarm: T
+  ford:
+  - nyt: hn
+    ert:
+    - kuli
+    - hordár
+- szo: jhapaT'nA
+  ford:
+  - nyt: tl
+    ert:
+    - odarohan
+  - nyt: t
+    ert:
+    - lerohan vkit
+- szo: seTh
+  ford:
+  - nyt: hn
+    ert:
+    - gazdag kereskedő
+    - bankár
+  - ert:
+    - Bombayben gyakori megszólítás
+- szo: dilAnA
+  ford:
+  - nyt: t
+    ert:
+    - adat
+    - juttat
+    - részesít
+- szo: idhar
+  ford:
+  - nyt: ht
+    ert:
+    - ide
+    - itt
+- szo: udhar
+  ford:
+  - nyt: ht
+    ert:
+    - oda
+    - ott
+- szo: dhakkA
+  ford:
+  - nyt: hn
+    ert:
+    - lökdösődés
+    - taszigálás
+  - kif: dhakkA lag'nA
+    nyt: tl
+    ert:
+    - meg van lökve
+- szo: gir'nA
+  ford:
+  - nyt: tl
+    ert:
+    - esik
+    - leesik
+- szo: bac'nA
+  ford:
+  - nyt: tl
+    ert:
+    - megmenekül
+- szo: dikhAii
+  ford:
+  - nyt: nn
+    ert:
+    - látás
+    - látszás
+  - kif: dikhAii denA
+    nyt: tl
+    ert:
+    - látszik
+    - tűnik
+- szo: man
+  ford:
+  - nyt: hn
+    ert:
+    - lélek
+    - szív
+  - kif: man hii man
+    nyt: ht
+    ert:
+    - magában
+- szo: mobAil
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - mobiltelefon
+- szo: AvAz
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - hang
+- szo: i#tazAr
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - várakozás
+- szo: ba#d
+  ford:
+  - kif: ba#d kar'nA
+    nyt: t
+    ert:
+    - bezár
+  - kif: fon ba#d kar'nA
+    ert:
+    - leteszi a telefont
+- szo: gilAs
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - pohár
+- szo: miiThA
+  ford:
+  - nyt: mn
+    ert:
+    - édes
+- szo: baRh'nA
+  ford:
+  - nyt: tl
+    ert:
+    - növekszik
+    - (előre) megy
+- szo: pEr
+  ford:
+  - nyt: hn
+    ert:
+    - láb
+- szo: chUnA
+  ford:
+  - nyt: t
+    ert:
+    - érint
+    - megérint
+- szo: ASiirvAd
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - áldás
+  - kif: ASiirvAd denA
+    nyt: t
+    ert:
+    - áldást ad
+    - megáld
+- szo: sukhii
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - boldog
+    - elégedett
+- szo: cirAyu
+  szarm: S+S
+  ford:
+  - nyt: mn
+    ert:
+    - hosszú életű
+- szo: cir
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - hosszú
+    - tartós
+- szo: Ayu
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - korszak
+    - élettartam
+- szo: hiiro
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - hős
+    - filmhős
+- szo: KhEr
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - jóllét
+  - nyt: nvált
+    ert:
+    - nahát
+    - tényleg
+    - nos
+- szo: "@rDar"
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - rendelés
+- szo: kE~sil
+  szarm: E
+  ford:
+  - kif: kE~sil kar'nA
+    nyt: t
+    ert:
+    - lemondja a rendelést
+- szo: Dher
+  ford:
+  - nyt: hn
+    ert:
+    - csomó
+    - kupac
+    - nagy tömeg
+- szo: sArA
+  ford:
+  - nyt: mn
+    ert:
+    - egész
+    - összes
+- szo: ghaRii
+  ford:
+  - nyt: nn
+    ert:
+    - szo: óra
+      megj: szerkezet
+- szo: pOnA
+  ford:
+  - nyt: mn hn
+    ert:
+    - szo: háromnegyed
+      megj: az egésznél egy negyeddel kevesebb
+- szo: mil'nA
+  ford:
+  - nyt: tl
+    ert:
+    - (az óra) igazítva van
+- szo: reDiyo
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - rádió
+- szo: sahii
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - igaz
+    - helyes
+- szo: par'so~
+  ford:
+  - nyt: ht
+    ert:
+    - holnapután
+    - tegnapelőtt
+- szo: milAnA
+  ford:
+  - nyt: t
+    ert:
+    - órát igazít
+- szo: aksar
+  szarm: A
+  ford:
+  - nyt: ht
+    ert:
+    - gyakran
+- szo: sust
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - lassú
+    - lusta
+  - kif: sust ho jAnA
+    nyt: tl
+    ert:
+    - szo: késik
+      megj: az óra
+- szo: tez
+  ford:
+  - kif: tez ho jAnA
+    nyt: tl
+    ert:
+    - szo: siet
+      megj: az óra
+- szo: lokal
+  szarm: E
+  ford:
+  - nyt: mn
+    ert:
+    - helyi
+- szo: savA
+  ford:
+  - nyt: mn nvált
+    ert:
+    - negyeddel több
+- szo: sARhe
+  ford:
+  - nyt: mn tbsz
+    ert:
+    - szo: féllel több
+      megj: 3 és 99 közötti számok előtt
+- szo: cOpATii
+  ford:
+  - nyt: nn
+    ert:
+    - Mumbaí egyik tengerparti része
+- szo: DeRh
+  ford:
+  - nyt: mn
+    ert:
+    - másfél
+- szo: jeb'ghaRii
+  szarm: AP+H
+  ford:
+  - nyt: nn
+    ert:
+    - zsebóra
+- szo: cAbii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - kulcs
+  - kif: cAbii bhar'nA
+    nyt: t
+    ert:
+    - szo: felhúz
+      megj: szerkezetet
+- szo: sa#grahAlay
+  szarm: S+S
+  ford:
+  - nyt: hn
+    ert:
+    - múzeum
+- szo: sa#grah
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - gyűjtemény
+- szo: dhUp'ghaRii
+  ford:
+  - nyt: nn
+    ert:
+    - napóra
+- szo: rocak
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - érdekes
+- szo: ret'ghaRii
+  ford:
+  - nyt: nn
+    ert:
+    - homokóra
+- szo: ret
+  ford:
+  - nyt: nn
+    ert:
+    - homok
+- szo: sAlAr ja#g
+  ford:
+  - nyt: hn
+    ert:
+    - szo: Mír Júszuf Alí Khán Szálár Dzsang
+      megj: (1889-1949) a haidarábádi nizám miniszterelnöke, jeles műgyűjtő
+- szo: kalekSan
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - gyűjtemény
+- szo: sUii
+  ford:
+  - nyt: nn
+    ert:
+    - tű
+    - óramutató
+- szo: TeRhA
+  ford:
+  - nyt: mn
+    ert:
+    - görbe
+- szo: sekaND
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - másodperc
+- szo: SiiSA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - üveg
+- szo: bET'rii
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - elem
+- szo: paTTA
+  ford:
+  - nyt: hn
+    ert:
+    - öv
+    - szíj
+- szo: TUT'nA
+  ford:
+  - nyt: tl
+    ert:
+    - törik
+- szo: AsAnii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - könnyűség
+    - könnyedség

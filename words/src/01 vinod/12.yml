@@ -1,0 +1,356 @@
+datum: 2020-06-08
+forras:
+  nev: Vinód
+  fejezet: 12
+szavak:
+- szo: sTUDiyo
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - stúdió
+- szo: SUTi#g
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - filmforgatás
+- szo: dil'casp
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - érdekes
+- szo: paT'kathA
+  ford:
+  - nyt: nn
+    ert:
+    - forgatókönyv
+- szo: sah'yogii
+  szarm: S
+  ford:
+  - nyt: mn hn
+    ert:
+    - segítő
+    - asszisztens
+- szo: seT
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - díszlet
+- szo: kEm'rAmEn
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - operatőr
+- szo: prakAS
+  szarm: S
+  ford:
+  - kif: prakAS vyavasthA
+    nyt: nn
+    ert:
+    - világítás
+- szo: vyavasthA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - helyzet
+    - elrendezés
+    - rendszer
+    - intézkedés
+- szo: kAr
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - autó
+    - kocsi
+- szo: sun'nA
+  ford:
+  - nyt: t
+    ert:
+    - hall
+- szo: sac
+  ford:
+  - nyt: mn
+    ert:
+    - igaz
+  - nyt: hn
+    ert:
+    - igazság
+- szo: kalAkAr
+  ford:
+  - nyt: hn nn
+    ert:
+    - művész
+- szo: hAlAt
+  szarm: A
+  ford:
+  - nyt: tbsz hn
+    ert:
+    - körülmények
+    - a dolgok állása
+- szo: yuvA
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - fiatal
+- szo: RIcA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - szo: női név
+      megj: jelentése ‘védikus himnusz, ima’
+- szo: vyast
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - elfoglalt
+- szo: ghumAnA
+  ford:
+  - nyt: t
+    ert:
+    - forgat
+    - körülvezet
+    - sétáltat
+- szo: dikhAnA
+  ford:
+  - nyt: t
+    ert:
+    - mutat
+- szo: prEkTis
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - gyakorlás
+    - próba
+  - kif: prEkTis karAnA
+    nyt: t
+    ert:
+    - gyakoroltat
+- szo: TAim
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - idő
+- szo: EkTar
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - színész
+- szo: DAyal@g
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - párbeszéd
+    - dialógus
+- szo: lAiTi#g
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - világítás
+- szo: bii% e%
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - B. A. (Bachelor of Arts) fokozat, egyetemi alapképzés
+- szo: ekTi#g
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - színészet
+- szo: kors
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - tanfolyam
+- szo: siTii
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - város
+- szo: haftA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - szo: hét
+      megj: időtartam
+- szo: na#bar
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - szám
+    - osztályzat
+- szo: kAl
+  szarm: E
+  ford:
+  - kif: mis kAl
+    nyt: hn
+    ert:
+    - nem fogadott hívás
+- szo: patr
+  ford:
+  - nyt: hn
+    ert:
+    - levél
+- szo: ci#tA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - gondolkodás
+    - aggódás
+    - törődés
+  - kif: ci#tA kar'nA
+    nyt: t
+    ert:
+    - törődik
+    - aggódik
+- szo: bas
+  szarm: P
+  ford:
+  - nyt: ht
+    ert:
+    - egyszóval
+    - csak
+  - nyt: nvált
+    ert:
+    - elég!
+- szo: em% e%
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - az M.A. (Master of Arts) fokozat, mesterképzés
+- szo: pAs
+  szarm: E
+  ford:
+  - kif: pAs kar'nA
+    nyt: t
+    ert:
+    - vizsgát sikeresen letesz
+    - fokozatot megszerez
+- szo: kEriyar
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - karrier
+- szo: pii% ec% Dii%
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - a Ph.D. (Philosophiae Doctor) tudományos fokozat
+- szo: jii
+  ford:
+  - nyt: hn
+    ert:
+    - élet
+    - lélek
+    - belső én
+- szo: SAdii
+  szarm: P
+  ford:
+  - kif: SAdii-vAdii
+    nyt: nn
+    ert:
+    - házasság és a vele kapcsolatok dolgok
+- szo: savAl
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - kérdés
+    - probléma
+- szo: kArobAr
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - munka
+    - üzlet
+- szo: prakASan
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - könyvkiadás
+    - megjelentetés
+- szo: sujhAv
+  ford:
+  - nyt: hn
+    ert:
+    - javaslat
+    - tanács
+- szo: AsAn
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - könnyű
+    - egyszerű
+- szo: ka#pyUTar
+  szarm: E
+  ford:
+  - kif: ka#pyUTar kA kors
+    nyt: hn
+    ert:
+    - számítógépes tanfolyam
+- szo: agar
+  szarm: P
+  ford:
+  - nyt: kt
+    ert:
+    - ha
+- szo: videS
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - külföld
+- szo: becArA
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - szegény
+    - szerencsétlen
+- szo: be-
+  szarm: P
+  ford:
+  - nyt: fosztóképző
+    ert:
+    - -tlan
+    - -tlen
+- szo: cArA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - menedék
+    - orvoslat
+- szo: prUf
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - kefelevonat
+    - korrektúra

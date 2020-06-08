@@ -1,0 +1,403 @@
+datum: 2020-06-08
+forras:
+  nev: Vinód
+  fejezet: 10
+szavak:
+- szo: sak'nA
+  ford:
+  - nyt: tl
+    ert:
+    - képes
+    - -hat
+    - -het
+- szo: niScay
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - elhatározás
+- szo: nagar
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - város
+- szo: pariikShA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - vizsga
+    - vizsgálat
+- szo: tura#t
+  ford:
+  - nyt: ht
+    ert:
+    - tüstént
+    - egyszerre
+- szo: rAj'dhAnii
+  ford:
+  - nyt: nn
+    ert:
+    - főváros
+- szo: Eks'pres
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - gyorsvonat
+- szo: fEs'lA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - döntés
+    - határozás
+- szo: gARii
+  ford:
+  - nyt: nn
+    ert:
+    - vonat
+- szo: Kariib
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - közeli
+  - nyt: ht
+    ert:
+    - közel
+  - kif: ke Kariib
+    nyt: nt
+    ert:
+    - közel
+- szo: chUT'nA
+  ford:
+  - nyt: tl
+    ert:
+    - el van engedve
+    - szo: indul
+      megj: vonat
+- szo: se~Tral
+  szarm: E
+  ford:
+  - nyt: mn
+    ert:
+    - szo: központi
+      megj: pl. pályaudvar
+- szo: soc'nA
+  ford:
+  - nyt: t
+    ert:
+    - gondol
+- szo: upahAr
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - ajándék
+- szo: tay
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - következtetés
+    - döntés
+- szo: chap'nA
+  ford:
+  - nyt: tl
+    ert:
+    - ki van nyomtatva
+    - megjelenik
+- szo: sARii
+  ford:
+  - nyt: nn
+    ert:
+    - szo: szári
+      megj: indiai női viselet
+- szo: baccA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - gyerek
+- szo: cuk'nA
+  ford:
+  - nyt: tl
+    ert:
+    - be van fejezve
+    - el van rendezve
+- szo: rizarveSan
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - foglalás
+    - jegyfoglalás
+    - helyfoglalás
+  - kif: rizarveSan karAnA
+    nyt: t
+    ert:
+    - jegyet foglal
+- szo: karAnA
+  ford:
+  - nyt: t
+    ert:
+    - csináltat
+- szo: an'paRh
+  ford:
+  - nyt: mn
+    ert:
+    - tanulatlan
+- szo: Ad'mii
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - férfi
+- szo: bAbU
+  ford:
+  - nyt: hn
+    ert:
+    - tanult vagy tiszteletre méltó ember
+    - udvarias megszólítási forma
+- szo: f@rm
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - űrlap
+- szo: bhar'nA
+  ford:
+  - nyt: tl
+    ert:
+    - teli van
+    - megtelik
+  - nyt: t
+    ert:
+    - tölt
+    - kitölt
+- szo: bURhA
+  ford:
+  - nyt: mn
+    ert:
+    - öreg
+- szo: buRhApA
+  ford:
+  - nyt: hn
+    ert:
+    - öregség
+- szo: uttar
+  ford:
+  - nyt: hn
+    ert:
+    - válasz
+- szo: Galat
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - helytelen
+    - hibás
+- szo: bahar'hAl
+  szarm: P+A
+  ford:
+  - nyt: ht
+    ert:
+    - mindenesetre
+- szo: saptAh
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - szo: hét
+      megj: időtartam
+- szo: bhej'nA
+  ford:
+  - nyt: t
+    ert:
+    - küld
+- szo: Tren
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - vonat
+- szo: corii
+  ford:
+  - nyt: nn
+    ert:
+    - lopás
+    - tolvajlás
+- szo: sam'jhAnA
+  ford:
+  - nyt: t
+    ert:
+    - magyaráz
+    - megértet
+- szo: dhyAn
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - meditáció
+    - figyelem
+  - kif: dhyAn rakh'nA
+    nyt: t
+    ert:
+    - figyel
+    - összpontosít
+- szo: khonA
+  ford:
+  - nyt: t
+    ert:
+    - elveszít
+- szo: safar
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - utazás
+- szo: bor
+  szarm: E
+  ford:
+  - kif: bor honA
+    nyt: tl
+    ert:
+    - unatkozik
+- szo: kAT'nA
+  ford:
+  - nyt: t
+    ert:
+    - vág
+    - időt tölt
+- szo: laDDU
+  ford:
+  - nyt: hn
+    ert:
+    - golyó alakú édesség
+- szo: DibbA
+  ford:
+  - nyt: hn
+    ert:
+    - doboz
+    - vagon
+- szo: KhvAb
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - álom
+    - álmodozás
+- szo: yAtrii
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - utas
+    - utazó
+- szo: juhU
+  ford:
+  - nyt: hn
+    ert:
+    - szo: Dzsuhú
+      megj: Mumbaí tengerpartjának egy része
+- szo: ruk'nA
+  ford:
+  - nyt: tl
+    ert:
+    - megáll
+- szo: TEksii
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - taxi
+- szo: iimAn'dAr
+  szarm: A+P
+  ford:
+  - nyt: mn
+    ert:
+    - becsületes
+- szo: salAh
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - tanács
+    - jótanács
+- szo: miiTar
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - taxióra
+- szo: patA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - tudomás
+    - cím
+- szo: DAy'ni#g
+  szarm: E
+  ford:
+  - kif: DAy'ni#g kAr
+    nyt: nn
+    ert:
+    - étkezőkocsi
+- szo: kyo~
+  ford:
+  - nyt: nv
+    ert:
+    - miért?
+- szo: kRIpayA
+  szarm: S
+  ford:
+  - nyt: ht
+    ert:
+    - kérem
+    - szíveskedjék
+- szo: sUT'kes
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - bőrönd
+- szo: bhUrA
+  ford:
+  - nyt: mn
+    ert:
+    - barna
+- szo: thElA
+  ford:
+  - nyt: hn
+    ert:
+    - tarisznya
+- szo: cAk'leT
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - csokoládé
+- szo: cips
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - csipsz
+- szo: nam'kiin
+  ford:
+  - nyt: mn
+    ert:
+    - sós
+- szo: Tha#DA
+  ford:
+  - nyt: hn
+    ert:
+    - (hideg) üdítő
+- szo: ajii
+  ford:
+  - nyt: nvált
+    ert:
+    - figyelemfelkeltés, meglepődés, elégedetlenség indulatszava
