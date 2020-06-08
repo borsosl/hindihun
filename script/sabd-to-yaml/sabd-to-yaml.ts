@@ -8,7 +8,7 @@ const enum Section {
 }
 
 const boundary = [' ', ',', ';', '(', ')'];
-const grammatical = ['hn', 'nn', 'szn', 'nv', 't', 'tl', 'nt', 'mn', 'tbsz', 'kt', 'ht', 'nvált'];
+const grammatical = ['hn', 'nn', 'szn', 'nv', 't', 'tl', 'nt', 'mn', 'tbsz', 'kt', 'ht', 'nvált', 'elölj'];
 
 const lineSplitter = /\r?\n/;
 const uppercasedWord = /^[A-Z]/;

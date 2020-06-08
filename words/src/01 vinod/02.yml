@@ -326,7 +326,7 @@ szavak:
   - nyt: hn
     ert:
     - használat
-  - kif: * kA istemAl kar'nA
+  - kif: "* kA istemAl kar'nA"
     ert:
     - használ vmit
 - szo: ap'nA

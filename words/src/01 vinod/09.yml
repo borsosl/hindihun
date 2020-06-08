@@ -1,0 +1,403 @@
+datum: 2020-06-08
+forras:
+  nev: Vinód
+  fejezet: 9
+szavak:
+- szo: bErA
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - pincér
+- szo: Tikkii
+  ford:
+  - nyt: nn
+    ert:
+    - pogácsa formájú sült gombóc
+- szo: kapUr
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - szo: férfinév
+      megj: jelentése ‘kámfor’
+- szo: jAnA-mAnA
+  ford:
+  - nyt: mn
+    ert:
+    - elismert
+- szo: zyAdA
+  szarm: A
+  ford:
+  - nyt: mn nvált
+    ert:
+    - több
+    - sok
+  - nyt: ht
+    ert:
+    - nagyon
+- szo: vaKt
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - idő
+- szo: bulAnA
+  ford:
+  - nyt: t
+    ert:
+    - hív
+- szo: nii~bU
+  ford:
+  - nyt: hn
+    ert:
+    - citrom
+    - lime
+  - kif: nii~bU pAnii
+    nyt: hn
+    ert:
+    - limonádé
+- szo: vaz'n
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - súly
+    - testsúly
+- szo: rol
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - szerep
+- szo: nazar
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - tekintet
+    - pillantás
+  - kif: nazar AnA
+    nyt: tl
+    ert:
+    - látszik
+- szo: dabAv
+  ford:
+  - nyt: hn
+    ert:
+    - nyomás
+- szo: farK
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - különbség
+- szo: sarvaSreShTh
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - mindennél jobb
+    - legjobb
+- szo: sarv
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - egész
+    - teljes
+    - minden
+- szo: SreShTh
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - legjobb
+    - kitűnő
+- szo: satyajit rAy
+  ford:
+  - ert:
+    - szo: Szatjadzsit Ráj
+      megj: Satyajit Ray, indiai filmrendező, 1921–1992
+- szo: vicAr
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - vélemény
+- szo: beh'tariin
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - legjobb
+- szo: atya#t
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - túlzott
+    - határtalan
+  - nyt: ht
+    ert:
+    - nagyon
+- szo: RItvik ghaTak
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - szo: Ritvik Ghatak
+      megj: indiai filmrendező, 1925-1976
+- szo: javAb
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - válasz
+  - kif: javAb denA
+    nyt: t
+    ert:
+    - válaszol
+- szo: muKAb'lA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - ellentét
+    - szembenállás
+  - kif: ke muKAb'le
+    nyt: nt
+    ert:
+    - vmivel szemben
+    - vmihez hasonlítva
+- szo: star
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - szint
+    - színvonal
+- szo: burA
+  ford:
+  - nyt: mn
+    ert:
+    - rossz
+- szo: bah's
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - vita
+- szo: gulAbii
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - rózsa-
+    - rózsaszínű
+  - kif: gulAbii jARA
+    nyt: hn
+    ert:
+    - enyhe tél
+    - tavaszelő
+- szo: it'vAr
+  ford:
+  - nyt: hn
+    ert:
+    - vasárnap
+- szo: bun'nA
+  ford:
+  - nyt: t
+    ert:
+    - szo: köt
+      megj: pl. pulóvert
+    - sző
+- szo: zarA
+  szarm: A
+  ford:
+  - nyt: nvált mn
+    ert:
+    - kicsi
+  - nyt: ht
+    ert:
+    - csak
+    - kérem
+- szo: janmadin
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - születésnap
+- szo: janm
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - születés
+- szo: dhUm-dhAm
+  ford:
+  - nyt: nn
+    ert:
+    - zaj
+    - felfordulás
+  - kif: dhUm-dhAm se
+    nyt: ht
+    ert:
+    - nagyszabásúan
+    - nagy felhajtással
+- szo: manAnA
+  ford:
+  - nyt: t
+    ert:
+    - ünnepel
+    - megemlékezik egy eseményről
+- szo: pArTii
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - party
+    - fogadás
+    - buli
+- szo: yAnii
+  szarm: A
+  ford:
+  - nyt: kt
+    ert:
+    - azaz
+- szo: aThArah
+  ford:
+  - nyt: szn
+    ert:
+    - tizennyolc
+    - "18"
+- szo: aprEl
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - április
+- szo: rAt
+  ford:
+  - kif: Adhii rAt
+    nyt: nn
+    ert:
+    - éjfél
+- szo: pEdA
+  szarm: P
+  ford:
+  - nyt: mn nvált
+    ert:
+    - született
+  - kif: pEdA honA
+    nyt: tl
+    ert:
+    - születik
+- szo: julAii
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - július
+- szo: unniis
+  ford:
+  - nyt: szn
+    ert:
+    - tizenkilenc
+    - "19"
+- szo: aThAn've
+  ford:
+  - nyt: szn
+    ert:
+    - kilencvennyolc
+    - "98"
+- szo: ma#gal'vAr
+  ford:
+  - nyt: hn
+    ert:
+    - kedd
+- szo: som'vAr
+  ford:
+  - nyt: hn
+    ert:
+    - hétfő
+- szo: tAriiKh
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - a hét napja
+    - dátum
+- szo: san_
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - év
+- szo: sa#vat_
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - év
+    - időszámítási korszak
+- szo: das
+  ford:
+  - nyt: szn
+    ert:
+    - tíz
+- szo: agast
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - augusztus
+- szo: chiyAsii
+  ford:
+  - nyt: szn
+    ert:
+    - nyolcvanhat
+    - "86"
+- szo: pacciis'vA~
+  ford:
+  - nyt: szn
+    ert:
+    - huszonötödik
+    - "25."
+- szo: varSh'gA~Th
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - évforduló
+- szo: gA~Th
+  ford:
+  - nyt: nn
+    ert:
+    - csomó
+- szo: gyArah
+  ford:
+  - nyt: szn
+    ert:
+    - tizenegy
+    - "11"
+- szo: hEd'rAbAd
+  ford:
+  - nyt: hn
+    ert:
+    - szo: Haidarábád
+      megj: Hyderabad
+- szo: mat'lab
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - jelentés
+  - ert:
+    - vagyis
+    - azaz
+- szo: SanivAr
+  ford:
+  - nyt: hn
+    ert:
+    - szombat

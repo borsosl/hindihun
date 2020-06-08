@@ -1,0 +1,485 @@
+datum: 2020-06-08
+forras:
+  nev: Vinód
+  fejezet: 8
+szavak:
+- szo: thiyeTar
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - színház
+- szo: nATak
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - színdarab
+    - dráma
+- szo: AShARh
+  ford:
+  - nyt: hn
+    ert:
+    - az indiai naptár negyedik hónapja, június-július
+    - esős évszak
+- szo: lekhak
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - író
+- szo: mohan rAkeS
+  ford:
+  - nyt: hn
+    ert:
+    - szo: Móhan Rákés
+      megj: 1925-1972, hindí író, drámaíró
+- szo: mohan
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - szo: férfinév
+      megj: jelentése ‘bájos, elbűvölő’
+- szo: rAkeS
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - szo: férfinév
+      megj: jelentése ‘a telehold ura, Siva isten egyik neve’
+- szo: mETro
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - metró
+- szo: vAd-vivAd
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - vita
+- szo: suth'rA
+  ford:
+  - nyt: mn
+    ert:
+    - tiszta
+- szo: ma#Dii hAus sTeSan
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - a delhi metró kék vonalának megállója, itt van a város kulturális életének egyik központi területe,
+      amely nevét a ma Himácsal Pradés államban található egykori királyságról kapta
+- szo: ra#g'SAlA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - színház
+- szo: SAlA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - terem
+    - ház
+- szo: jeb
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - zseb
+- szo: pAs
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - meghívókártya
+- szo: pareSAn
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - ideges
+    - izgatott
+- szo: koT
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - kabát
+    - felöltő
+- szo: talAS
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - keresés
+  - kif: "* ko / * kii talAS kar'nA"
+    nyt: t
+    ert:
+    - keres (vmit)
+- szo: maj'bUr
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - tehetetlen
+    - vmire rákényszerült
+- szo: TikaT
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - jegy
+    - belépőjegy
+- szo: ma#c
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - színpad
+    - emelvény
+- szo: abhinetA
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - színész
+- szo: abhinay
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - színészi megformálás
+    - alakítás
+- szo: sa#vAd
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - párbeszéd
+    - dialógus
+- szo: bhUmikA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - szerep
+- szo: pAtra
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - edény
+    - irodalmi hős
+    - szereplő
+- szo: kAn
+  ford:
+  - nyt: hn
+    ert:
+    - fül
+- szo: phus'phusAnA
+  ford:
+  - nyt: tl
+    ert:
+    - suttog
+- szo: mallikA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - szo: női név
+      megj: jelentése ‘jázmin’
+- szo: giitA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - szo: női név
+      megj: jelentése ‘dal’
+- szo: pUch'nA
+  ford:
+  - nyt: t
+    ert:
+    - kérdez
+- szo: abhinetrii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - színésznő
+  - kif: "* se * kA paricay karAnA"
+    nyt: t
+    ert:
+    - bemutat vkit vkinek
+- szo: Khatm
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - befejezett
+    - véget ért
+  - nyt: hn
+    ert:
+    - vég
+  - kif: Khatm honA
+    nyt: tl
+    ert:
+    - véget ér
+    - befejeződik
+- szo: pich'lA
+  ford:
+  - nyt: mn
+    ert:
+    - hátul levő
+    - elmúlt
+- szo: hissA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - rész
+- szo: griin rUm
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - öltöző
+- szo: mek-ap
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - smink
+- szo: khoj'nA
+  ford:
+  - nyt: t
+    ert:
+    - keres
+    - megkeres
+- szo: milAnA
+  ford:
+  - nyt: t
+    ert:
+    - összehoz
+    - összeismertet
+  - kif: hAth milAnA
+    nyt: t
+    ert:
+    - kezet fog
+- szo: hErAn
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - meghökkent
+    - elámult
+- szo: ha~s'nA
+  ford:
+  - nyt: tl
+    ert:
+    - nevet
+    - mosolyog
+- szo: kamAl
+  szarm: A
+  ford:
+  - nyt: hn mn
+    ert:
+    - rendkívüli dolog
+    - csoda
+    - csodálatos
+- szo: ba#gAlii mArkeT
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - a ‘Bengáli Piac’, Delhi egyik városnegyede, édességboltjairól híres
+- szo: samosA
+  ford:
+  - nyt: hn
+    ert:
+    - szo: szamószá
+      megj: háromszögletű, zöldséggel töltött, olajban kisütött tészta
+- szo: gopAl
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - szo: férfinév
+      megj: jelentése ‘tehénpásztor’, Krisna isten egyik neve
+- szo: vahii
+  ford:
+  - nyt: nv
+    ert:
+    - ugyanő
+    - ugyanaz
+    - épp ő
+    - épp az
+- szo: mal'bA
+  ford:
+  - nyt: hn
+    ert:
+    - törmelék
+    - szemét
+- szo: mAlik
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - tulajdonos
+    - úr
+- szo: kAlidAs
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - szo: Kálidásza
+      megj: 5. sz.?, a legnagyobb szanszkrit költő és drámaíró
+- szo: ghaT'nA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - esemény
+- szo: AdhArit
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - alapuló
+- szo: ucc'koTi
+  ford:
+  - kif: ucc'koTi kA
+    ert:
+    - nagyon jó minőségű
+    - első osztályú
+- szo: ucc
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - magas
+    - felső
+- szo: koTi
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - kategória
+    - fokozat
+- szo: sastA
+  ford:
+  - nyt: mn
+    ert:
+    - olcsó
+- szo: yAr
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - barát
+    - haver
+- szo: baGEr
+  szarm: P+A
+  ford:
+  - kif: (ke) baGEr
+    nyt: nt elölj
+    ert:
+    - nélkül
+- szo: binA
+  szarm: S
+  ford:
+  - kif: (ke) binA
+    nyt: nt elölj
+    ert:
+    - nélkül
+- szo: kAryakram
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - program
+- szo: yahii
+  ford:
+  - nyt: nv
+    ert:
+    - ugyanő
+    - ugyanez
+    - épp ő
+    - épp ez
+- szo: rAy
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - vélemény
+- szo: sAhab
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - úr
+- szo: darjA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - fokozat
+    - osztály
+- szo: seka#D
+  szarm: E
+  ford:
+  - nyt: szn
+    ert:
+    - második
+- szo: klAs
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - fokozat
+    - osztály
+- szo: sATh
+  ford:
+  - nyt: szn
+    ert:
+    - hatvan
+- szo: kul
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - összes
+    - egész
+  - nyt: ht
+    ert:
+    - összesen
+    - egészen
+- szo: biis
+  ford:
+  - nyt: szn
+    ert:
+    - húsz
+    - "20"
+- szo: khule
+  ford:
+  - kif: khule (pEse)
+    ert:
+    - aprópénz
+- szo: pEsA
+  ford:
+  - nyt: hn
+    ert:
+    - szo: a rúpia váltópénze
+      megj: 1 rúpia = 100 paiszá
+  - nyt: tbsz
+    ert:
+    - pénz
+- szo: tuR'vAnA
+  ford:
+  - nyt: t
+    ert:
+    - pénzt felvált
