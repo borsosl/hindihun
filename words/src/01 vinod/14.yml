@@ -1,0 +1,367 @@
+datum: 2020-06-09
+forras:
+  nev: Vinód
+  fejezet: 14
+szavak:
+- szo: gAiD
+  szarm: E
+  ford:
+  - nyt: hn nn
+    ert:
+    - idegenvezető
+- szo: pradarSanii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - kiállítás
+- szo: dhiirA
+  ford:
+  - nyt: mn
+    ert:
+    - lassú
+- szo: kinArA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - széle vminek
+    - part
+- szo: Dub'kii
+  ford:
+  - nyt: nn
+    ert:
+    - alámerülés
+    - megmerítkezés
+  - kif: Dub'kii lagAnA
+    nyt: t
+    ert:
+    - alámerül
+- szo: machuArA
+  ford:
+  - nyt: hn
+    ert:
+    - halász
+- szo: nOkA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - csónak
+    - hajó
+- szo: leT'nA
+  ford:
+  - nyt: tl
+    ert:
+    - fekszik
+- szo: bhigonA
+  ford:
+  - nyt: t
+    ert:
+    - benedvesít
+    - áztat
+- szo: lAlii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - pirosság
+- szo: uR'nA
+  ford:
+  - nyt: tl
+    ert:
+    - repül
+- szo: haTAnA
+  ford:
+  - nyt: t
+    ert:
+    - elmozdít
+    - félrerak
+- szo: phElAnA
+  ford:
+  - nyt: t
+    ert:
+    - terít
+    - szétterít
+- szo: laR'nA
+  ford:
+  - nyt: tl
+    ert:
+    - szembeszáll
+    - küzd
+- szo: romA#Tik
+  szarm: E
+  ford:
+  - nyt: mn
+    ert:
+    - romantikus
+- szo: saccAii
+  ford:
+  - nyt: nn
+    ert:
+    - igazság
+- szo: pyAr
+  ford:
+  - nyt: hn
+    ert:
+    - szeretet
+    - szerelem
+- szo: madhur
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - édes
+    - dallamos
+- szo: jhar'nA
+  ford:
+  - nyt: hn
+    ert:
+    - vízesés
+    - forrás
+- szo: hAth
+  ford:
+  - nyt: hn
+    ert:
+    - kéz
+- szo: kamar
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - derék
+    - csípő
+- szo: jhuk'nA
+  ford:
+  - nyt: tl
+    ert:
+    - hajol
+    - lehajol
+- szo: ho~Th
+  ford:
+  - nyt: hn
+    ert:
+    - ajak
+- szo: bhiig'nA
+  ford:
+  - nyt: tl
+    ert:
+    - nedves lesz
+    - elázik
+- szo: haT'nA
+  ford:
+  - nyt: tl
+    ert:
+    - félrehúzódik
+    - félreáll
+- szo: KhAmoS
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - csendes
+    - néma
+    - nyugodt
+- szo: bulAnA
+  ford:
+  - nyt: t
+    ert:
+    - hív
+    - hivat
+- szo: ga#bhiir'tA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - komolyság
+- szo: kUcA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - kis utca
+    - sikátor
+- szo: KhUb'sUrat
+  szarm: P+AP
+  ford:
+  - nyt: mn
+    ert:
+    -  szépséges
+- szo: sUrat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - külalak
+    - megjelenés
+- szo: utsAh
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - erő
+    - lelkesedés
+- szo: a#tim
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - utolsó
+    - végső
+- szo: kiraN
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - sugár
+- szo: sa#ba#dh
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - kapcsolat
+    - rokonság
+- szo: AbhA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - ragyogás
+    - szépség
+- szo: vistAr
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - kiterjedés
+    - terjedelem
+    - dimenzió
+- szo: cah'cahAnA
+  ford:
+  - nyt: tl
+    ert:
+    - csiripel
+- szo: lah'r
+  ford:
+  - nyt: nn
+    ert:
+    - hullám
+- szo: nAv
+  ford:
+  - nyt: nn
+    ert:
+    - csónak
+- szo: battii
+  ford:
+  - nyt: nn
+    ert:
+    - gyertya
+    - mécses
+    - lámpa
+- szo: Tim'TimAnA
+  ford:
+  - nyt: tl
+    ert:
+    - pislákol
+- szo: Trip
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - utazás
+- szo: bat'lAnA
+  ford:
+  - nyt: t
+    ert:
+    - mond
+    - elmesél
+- szo: ekTres
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - színésznő
+- szo: sac'muc
+  ford:
+  - nyt: ht
+    ert:
+    - tényleg
+    - valóban
+- szo: lEp'T@p
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - laptop
+- szo: cET
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - csetelés
+    - internetes csevegés
+- szo: phoTo
+  szarm: E
+  ford:
+  - kif: phoTo pri#T
+    nyt: hn
+    ert:
+    - fénykép
+- szo: i#tazAm
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - szervezés
+    - elintézés
+- szo: jha#jhaT
+  ford:
+  - nyt: nn hn
+    ert:
+    - baj
+    - nehézség
+- szo: pha~sAnA
+  ford:
+  - nyt: t
+    ert:
+    - csapdába ejt
+    - belekever vmibe
+- szo: TEks
+  szarm: E
+  ford:
+  - kif: i#kam-TEks
+    nyt: hn
+    ert:
+    - adóhivatal
+- szo: mAm'lA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - ügy
+    - eset
+- szo: ul'jhAnA
+  ford:
+  - nyt: t
+    ert:
+    - belebonyolít
+- szo: prayAs
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - igyekezet
+    - törekvés
+- szo: bayAn
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - nyilatkozat
+    - kifejtés
+    - állítás
+- szo: jhuTh'lAnA
+  ford:
+  - nyt: t
+    ert:
+    - meghazudtol

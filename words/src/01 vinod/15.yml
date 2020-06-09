@@ -1,0 +1,342 @@
+datum: 2020-06-09
+forras:
+  nev: Vinód
+  fejezet: 15
+szavak:
+- szo: vidA
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - indulás
+    - búcsúzás
+  - kif: "* ko vidA kar'nA"
+    ert:
+    - elbúcsúzik vktől
+- szo: pallU
+  ford:
+  - nyt: hn
+    ert:
+    - a szárí vége
+- szo: caSmA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - szemüveg
+- szo: pah'cAn'nA
+  ford:
+  - nyt: t
+    ert:
+    - felismer
+- szo: pareSAn
+  ford:
+  - kif: "* ko pareSAn kar'nA"
+    nyt: t
+    ert:
+    - zaklat
+    - idegesít
+- szo: dukhii
+  ford:
+  - nyt: mn
+    ert:
+    - boldogtalan
+    - szomorú
+- szo: bhAvuk
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - érzelmes
+    - érzékeny
+- szo: udAs
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - szomorú
+- szo: Kiimat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - ár
+    - érték
+- szo: tatpar'tA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - készségesség
+    - gyorsaság
+- szo: hiT
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - siker
+    - kasszasiker
+- szo: sA~s
+  ford:
+  - nyt: nn
+    ert:
+    - lélegzet
+- szo: fur'sat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - ráérő idő
+- szo: Khabar
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - hír
+    - szóbeszéd
+- szo: tasallii
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - vigasz
+    - vigasztalás
+    - jó érzés
+- szo: nirASA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - reménytelenség
+    - csalódottság
+- szo: bevafAii
+  szarm: P+A
+  ford:
+  - nyt: nn
+    ert:
+    - hűtlenség
+- szo: Arop
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - vád
+  - kif: "* par Arop lagAnA"
+    nyt: t
+    ert:
+    - megvádol vkit
+- szo: khyAti
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - hírnév
+- szo: saphal'tA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - siker
+- szo: vApasii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - visszatérés
+    - visszafordulás
+- szo: sa#bhav
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - lehetséges
+- szo: rAShTriiy
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - állami
+    - nemzeti
+- szo: evArD
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - kitüntetés
+- szo: samAroh
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - ünnepség
+- szo: riStA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - kapcsolat
+    - rokonság
+- szo: pAgal
+  ford:
+  - nyt: mn
+    ert:
+    - bolond
+    - őrült
+- szo: cillAnA
+  ford:
+  - nyt: t
+    ert:
+    - kiabál
+    - kiált
+- szo: hAlat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - állapot
+- szo: a#dAzA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - találgatás
+    - becslés
+  - kif: a#dAzA lagAnA
+    nyt: t
+    ert:
+    - kitalál
+    - felbecsül
+- szo: sad'mA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - sokk
+- szo: sam'jhAnA
+  ford:
+  - nyt: t
+    ert:
+    - magyaráz
+    - nyugtat
+    - győzködik
+- szo: uttejit
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - izgatott
+    - ideges
+- szo: saphal
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - sikeres
+- szo: bigaR'nA
+  ford:
+  - nyt: tl
+    ert:
+    - elromlik
+    - haragos kedvében van
+- szo: AKhir
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - végső
+  - nyt: ht
+    ert:
+    - végül
+  - kif: AKhir me~
+    ert:
+    - végül
+- szo: flAiT
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - repülőjárat
+- szo: svaya#
+  szarm: S
+  ford:
+  - nyt: nv ht
+    ert:
+    - saját maga
+- szo: prasa#g
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - tárgy
+    - epizód
+    - fejezet
+- szo: sthiti
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - helyzet
+    - állapot
+- szo: TAl'nA
+  ford:
+  - nyt: t
+    ert:
+    - halaszt
+    - halogat
+    - elkerül
+- szo: viSvAs
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - hit
+    - bizalom
+- szo: flET
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - lakás
+- szo: SikAyat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - panasz
+    - panaszkodás
+- szo: vyakt
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - nyilvánvaló
+    - világos
+    - kifejezett
+  - kif: vyakt kar'nA
+    nyt: nn
+    ert:
+    - kifejez
+- szo: choTA
+  ford:
+  - kif: choTA paR'nA
+    nyt: tl
+    ert:
+    - kevésnek bizonyul
+- szo: khaT'khaTAnA
+  ford:
+  - nyt: t
+    ert:
+    - kopogtat
+- szo: cO~k'nA
+  ford:
+  - nyt: tl
+    ert:
+    - meglepődik
+    - felocsúdik
+- szo: laRAii
+  ford:
+  - nyt: nn
+    ert:
+    - harc
+    - csata
+    - háború
