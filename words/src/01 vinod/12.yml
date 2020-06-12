@@ -141,7 +141,9 @@ szavak:
   - nyt: hn
     ert:
     - idő
-- szo: EkTar
+- szo: ekTar
+  alt:
+  - EkTar
   szarm: E
   ford:
   - nyt: hn

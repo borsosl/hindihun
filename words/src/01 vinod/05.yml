@@ -109,9 +109,10 @@ szavak:
   - nyt: hn
     ert:
     - év
-- szo: tAzA kar'nA
+- szo: tAzA
   ford:
-  - nyt: t
+  - kif: tAzA kar'nA
+    nyt: t
     ert:
     - felfrissít
 - szo: phUl
@@ -265,9 +266,10 @@ szavak:
     ert:
     - szervezés
     - elrendezés
-- szo: ra#g-bira#gA
+- szo: ra#g
   ford:
-  - nyt: mn
+  - kif: ra#g-bira#gA
+    nyt: mn
     ert:
     - tarka
     - színes
@@ -316,10 +318,11 @@ szavak:
     - színésznő
     - táncosnő
     - színész, táncos felesége
-- szo: khel-tamASA
-  szarm: H, AP
+- szo: khel
+  szarm: H
   ford:
-  - nyt: hn
+  - kif: khel-tamASA
+    nyt: hn
     ert:
     - játék és mutatvány
 - szo: rAjU
@@ -476,10 +479,11 @@ szavak:
   - nyt: hn
     ert:
     - nagykövetség
-- szo: Treval eje#T
+- szo: eje#T
   szarm: E
   ford:
-  - nyt: hn
+  - kif: Treval eje#T
+    nyt: hn
     ert:
     - utazási ügynök
 - szo: sa#park

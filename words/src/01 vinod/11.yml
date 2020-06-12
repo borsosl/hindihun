@@ -8,6 +8,7 @@ szavak:
   - nyt: szn
     ert:
     - tizenegy
+    - "11"
 - szo: an'ginat
   ford:
   - nyt: mn
@@ -446,7 +447,7 @@ szavak:
   - nyt: hn
     ert:
     - szo: Mír Júszuf Alí Khán Szálár Dzsang
-      megj: (1889-1949) a haidarábádi nizám miniszterelnöke, jeles műgyűjtő
+      megj: 1889-1949, a haidarábádi nizám miniszterelnöke, jeles műgyűjtő
 - szo: kalekSan
   szarm: E
   ford:

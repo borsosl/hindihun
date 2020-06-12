@@ -138,6 +138,7 @@ szavak:
   - nyt: szn
     ert:
     - nyolc
+    - "8"
 - szo: prAyaH
   szarm: S
   ford:
@@ -199,7 +200,7 @@ szavak:
     - kiszed
     - elővesz
     - előszed
-- szo: sa#tarA
+- szo: sa#t'rA
   szarm: P
   ford:
   - nyt: hn
@@ -549,6 +550,7 @@ szavak:
   - nyt: szn
     ert:
     - nyolc
+    - "8"
 - szo: rAt
   ford:
   - nyt: nn
@@ -583,6 +585,7 @@ szavak:
   - nyt: szn
     ert:
     - tizenkettő
+    - "12"
 - szo: prakAS
   szarm: S
   ford:
@@ -590,10 +593,11 @@ szavak:
     ert:
     - szo: férfinév
       megj: jelentése ‘fény, ragyogás’
-- szo: hAl-cAl
-  szarm: A+H
+- szo: hAl
+  szarm: A
   ford:
-  - nyt: hn
+  - kif: hAl-cAl
+    nyt: hn
     ert:
     - állapot
     - hogylét
@@ -652,6 +656,7 @@ szavak:
   - nyt: szn
     ert:
     - öt
+    - "5"
 - szo: dARhii
   ford:
   - nyt: nn
@@ -670,6 +675,7 @@ szavak:
   - nyt: szn
     ert:
     - harminc
+    - "30"
 - szo: minaT
   szarm: E
   ford:
@@ -691,11 +697,13 @@ szavak:
   - nyt: szn
     ert:
     - tizenöt
+    - "15"
 - szo: sO
   ford:
   - nyt: szn
     ert:
     - száz
+    - "100"
 - szo: mahiinA
   szarm: P
   ford:

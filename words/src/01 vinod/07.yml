@@ -8,6 +8,7 @@ szavak:
   - nyt: szn
     ert:
     - hét
+    - "7"
 - szo: Kutub miinAr
   ford:
   - nyt: nn
@@ -110,6 +111,7 @@ szavak:
   - nyt: szn
     ert:
     - negyedik
+    - "4."
 - szo: SatAbdii
   szarm: S
   ford:
@@ -137,6 +139,7 @@ szavak:
   - nyt: szn
     ert:
     - tizenharmadik
+    - "13."
 - szo: AScarya
   szarm: S
   ford:
@@ -203,6 +206,7 @@ szavak:
   - nyt: szn
     ert:
     - hetvenkettő
+    - "72"
 - szo: miiTar
   szarm: E
   ford:
@@ -225,7 +229,7 @@ szavak:
     ert:
     - legbelül
     - a belsejében
-- szo: cakkaradAr
+- szo: cakkar'dAr
   szarm: H+P
   ford:
   - nyt: mn
@@ -388,7 +392,8 @@ szavak:
   ford:
   - nyt: hn
     ert:
-    - Rabindranath Tagore (1861-1941) Nobel-díjas bengáli költő és író
+    - szo: Rabindranath Tagore
+      megj: 1861-1941, Nobel-díjas bengáli költő és író
 - szo: mAnav
   szarm: S
   ford:
@@ -437,8 +442,7 @@ szavak:
   ford:
   - nyt: mn
     ert:
-    - szo: sötét
-      megj: bőrű
+    - sötét(bőrű)
 - szo: gehuA~
   ford:
   - nyt: mn
@@ -460,13 +464,12 @@ szavak:
   ford:
   - nyt: mn
     ert:
-    - szo: világos
-      megj: bőrű
-    - szo: fehér
-      megj: bőrű
-- szo: mil'nA-jul'nA
+    - világos(bőrű)
+    - fehér(bőrű)
+- szo: mil'nA
   ford:
-  - nyt: tl
+  - kif: mil'nA-jul'nA
+    nyt: tl
     ert:
     - gyakran találkozik
     - összejön
@@ -543,9 +546,10 @@ szavak:
     ert:
     - szo: Rádzsaszthán
       megj: állam
-- szo: EsA hii
+- szo: EsA
   ford:
-  - nyt: mn
+  - kif: EsA hii
+    nyt: mn
     ert:
     - ugyanilyen
 - szo: mUl

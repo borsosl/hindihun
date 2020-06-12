@@ -15,6 +15,7 @@ szavak:
   - nyt: szn
     ert:
     - egy
+    - "1"
 - szo: paricay
   szarm: S
   ford:
@@ -108,7 +109,9 @@ szavak:
     - ők
     - szo: azok
       megj: a वह többes szám alap esete
-- szo: hindii
+- szo: hi#dii
+  alt:
+  - hindii
   ford:
   - nyt: mn
     ert:
@@ -132,12 +135,6 @@ szavak:
   - nyt: mn
     ert:
     - napi
-- szo: samAcAr-patra
-  ford:
-  - nyt: hn
-    ert:
-    - napilap
-    - újság
 - szo: samAcAr
   szarm: S
   ford:
@@ -145,6 +142,11 @@ szavak:
     ert:
     - hír
     - információ
+  - kif: samAcAr-patra
+    nyt: hn
+    ert:
+    - napilap
+    - újság
 - szo: patra
   ford:
   - nyt: hn
@@ -295,6 +297,11 @@ szavak:
 - szo: vah
   ford:
   - nyt: nv
+    var:
+    - alak: us
+      tipus: névutós eset
+    - alak: un
+      tipus: tbsz névutós eset
     ert:
     - ő
     - az
@@ -311,11 +318,6 @@ szavak:
   - nyt: hn
     ert:
     - iskola
-- szo: us
-  ford:
-  - nyt: nv
-    ert:
-    - a वह névutós esete
 - szo: se
   ford:
   - nyt: nt
@@ -478,7 +480,7 @@ szavak:
     - mond
   - kif: "* ko * kah'nA"
     ert:
-    - nevez vmit vminek (alapeset).
+    - nevez vmit vminek (alapeset)
 - szo: khetii
   ford:
   - nyt: nn
@@ -512,11 +514,6 @@ szavak:
     ert:
     - művész-
     - művészi
-- szo: un
-  ford:
-  - nyt: nv
-    ert:
-    - a वह többes névutós esete
 - szo: patnii
   szarm: S
   ford:
@@ -835,10 +832,11 @@ szavak:
     - séta
     - pihenés
     - kolostor
-- szo: bii-bl@k
+- szo: bl@k
   szarm: E
   ford:
-  - nyt: hn
+  - kif: bii-bl@k
+    nyt: hn
     ert:
     - bé-blokk
 - szo: sahelii
@@ -870,6 +868,8 @@ szavak:
   - ert:
     - bráhmana vezetéknév
 - szo: kOn-sA
+  alt:
+  - kOnsA
   ford:
   - nyt: nv
     ert:

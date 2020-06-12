@@ -54,10 +54,11 @@ szavak:
   - nyt: nn
     ert:
     - metró
-- szo: vAd-vivAd
+- szo: vAd
   szarm: S
   ford:
-  - nyt: hn
+  - kif: vAd-vivAd
+    nyt: hn
     ert:
     - vita
 - szo: suth'rA
@@ -211,6 +212,8 @@ szavak:
   - nyt: nn
     ert:
     - színésznő
+- szo: paricay
+  ford:
   - kif: "* se * kA paricay karAnA"
     nyt: t
     ert:
@@ -435,6 +438,7 @@ szavak:
   - nyt: szn
     ert:
     - második
+    - "2."
 - szo: klAs
   szarm: E
   ford:
@@ -447,6 +451,7 @@ szavak:
   - nyt: szn
     ert:
     - hatvan
+    - "60"
 - szo: kul
   szarm: A
   ford:

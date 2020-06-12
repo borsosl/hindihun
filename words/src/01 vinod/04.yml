@@ -239,6 +239,8 @@ szavak:
   - nyt: nn
     ert:
     - nősténykecske
+- szo: lag'nA
+  ford:
   - kif: acchA lag'nA
     nyt: tl
     ert:
@@ -381,9 +383,10 @@ szavak:
     ert:
     - haragos
     - mérges
-- szo: Thiik se
+- szo: Thiik
   ford:
-  - ert:
+  - kif: Thiik se
+    ert:
     - jól
     - helyesen
 - szo: tAlAb
@@ -427,9 +430,10 @@ szavak:
     - szo: kabaddí játék
       megj: a játékos a कबड्डी szót ismételgetve a másik térfélen levő játékost igyekszik megérinteni
             és visszafutni a saját térfelére mielőtt kifogy a lélegzete
-- szo: gullii-DaNDA
+- szo: gullii
   ford:
-  - nyt: hn
+  - kif: gullii-DaNDA
+    nyt: hn
     ert:
     - szo: gullí-dandá játék
       megj: a játékos egy hosszabb bottal (डण्डा) igyekszik többször megütni a rövidebbet (a गुल्ली-t)
@@ -559,6 +563,8 @@ szavak:
   - kif: ArAm kar'nA
     ert:
     - pihen
+- szo: kam
+  ford:
   - kif: kam se kam
     ert:
     - legalább

@@ -8,7 +8,12 @@ szavak:
   - nyt: szn
     ert:
     - kettő
-- szo: ma#zilA
+    - "2"
+  - kif: do-cAr
+    nyt: szn
+    ert:
+    - néhány
+- szo: -ma#zilA
   szarm: A
   ford:
   - nyt: mn nvált
@@ -20,10 +25,11 @@ szavak:
   - nyt: nn
     ert:
     - emelet
-- szo: grAu#D flor
+- szo: flor
   szarm: E
   ford:
-  - nyt: hn
+  - kif: grAu#D flor
+    nyt: hn
     ert:
     - földszint
 - szo: cAr
@@ -31,6 +37,7 @@ szavak:
   - nyt: szn
     ert:
     - négy
+    - "4"
 - szo: kam'rA
   szarm: Pt
   ford:
@@ -238,9 +245,10 @@ szavak:
   - nyt: t
     ert:
     - szárít
-- szo: ke lie
+- szo: lie
   ford:
-  - nyt: nt
+  - kif: ke lie
+    nyt: nt
     ert:
     - számára
     - részére
@@ -264,11 +272,17 @@ szavak:
   - nyt: szn
     ert:
     - első
+    - "1."
 - szo: tiin
   ford:
   - nyt: szn
     ert:
     - három
+    - "3"
+  - kif: tiino~
+    nyt: szn
+    ert:
+    - mindhárom
 - szo: bhEyA
   ford:
   - nyt: hn
@@ -280,6 +294,7 @@ szavak:
   - nyt: szn
     ert:
     - harmadik
+    - "3."
 - szo: khiR'kii
   ford:
   - nyt: nn
@@ -373,9 +388,6 @@ szavak:
     - leül
 - szo: bAt'ciit
   ford:
-  - nyt: nn
-    ert:
-    - beszélgetés
   - kif: bAt'ciit kar'nA
     nyt: t
     ert:
@@ -477,17 +489,13 @@ szavak:
   - nyt: szn
     ert:
     - hat
+    - "6"
 - szo: paros'nA
   ford:
   - nyt: t
     ert:
     - terít
     - felszolgálja az ételt
-- szo: tiino~
-  ford:
-  - nyt: szn
-    ert:
-    - mindhárom
 - szo: tAS
   ford:
   - nyt: hn
@@ -587,11 +595,6 @@ szavak:
   - nyt: hn
     ert:
     - televízió
-- szo: do-cAr
-  ford:
-  - nyt: szn
-    ert:
-    - néhány
 - szo: Adhunik
   szarm: S
   ford:
@@ -800,6 +803,10 @@ szavak:
   - kif: phir bhii
     ert:
     - mégis
+  - kif: phir mile~ge
+    ert:
+    - szo: Viszontlátásra!
+      megj: ‘Majd találkozni fogunk.’
 - szo: ruci
   szarm: S
   ford:
@@ -977,8 +984,3 @@ szavak:
   - nyt: hn
     ert:
     - barát
-- szo: phir mile~ge
-  ford:
-  - ert:
-    - szo: Viszontlátásra!
-      megj: ‘Majd találkozni fogunk.’

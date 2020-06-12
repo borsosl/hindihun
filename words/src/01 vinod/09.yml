@@ -21,9 +21,10 @@ szavak:
     ert:
     - szo: férfinév
       megj: jelentése ‘kámfor’
-- szo: jAnA-mAnA
+- szo: jAn'nA
   ford:
-  - nyt: mn
+  - kif: jAnA-mAnA
+    nyt: mn
     ert:
     - elismert
 - szo: zyAdA
@@ -228,15 +229,16 @@ szavak:
   - nyt: hn
     ert:
     - születésnap
-- szo: janm
+- szo: janma
   szarm: S
   ford:
   - nyt: hn
     ert:
     - születés
-- szo: dhUm-dhAm
+- szo: dhUm
   ford:
-  - nyt: nn
+  - kif: dhUm-dhAm
+    nyt: nn
     ert:
     - zaj
     - felfordulás
@@ -346,6 +348,7 @@ szavak:
   - nyt: szn
     ert:
     - tíz
+    - "10"
 - szo: agast
   szarm: E
   ford:
