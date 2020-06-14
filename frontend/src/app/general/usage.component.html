@@ -1,6 +1,7 @@
 <h2>Használat</h2>
 
 <ul>
+    <li>a címsorra kattintva lehet visszajutni erre az induló oldalra</li>
     <li>a keresendő hindí szavakat dévanágarí vagy <a href="/ktrans" target="_blank">KTRANS</a>
         formában lehet beírni a kereső mezőbe
     </li>
@@ -22,6 +23,19 @@
     <li>több szó vagylagos kereséséhez a nagybetűs OR szót kell közéjük írni</li>
     <li>szavak kizárásához a nagybetűs NOT szót vagy - jelet kell a szó elé írni</li>
     <li>egymás után álló szavak kereséséhez idézőjelbe kell tenni a kifejezést</li>
-    <li>további magyarázat <a href="https://lucene.apache.org/solr/guide/8_5/the-standard-query-parser.html#boolean-operators-supported-by-the-standard-query-parser" target="_blank">itt található</a></li>
+    <li>további angol nyelvű magyarázat <a href="https://lucene.apache.org/solr/guide/8_5/the-standard-query-parser.html#boolean-operators-supported-by-the-standard-query-parser" target="_blank">itt található</a></li>
     <li>bizonyos nagyon gyakori szavak nincsenek hatással a teljes tartalomban való keresésekre</li>
+</ul>
+
+<h3>Példa keresések</h3>
+
+<ul>
+    <li><a href="/?q=Sabd*">Sabd*</a></li>
+    <li><a href="/?q=परिचय">परिचय</a></li>
+    <li><a href="/?q=h%20dukAn">h dukAn</a></li>
+    <li>vö. <a href="/?q=dukAn">dukAn</a></li>
+    <li><a href="/?q=f%20tanul">f tanul</a></li>
+    <li><a href="/?q=f%20tan*">f tan*</a></li>
+    <li><a href="/?q=f%20határoz*%20OR%20elhatároz*%20OR%20dönt*%20OR%20eldönt*">f határoz* OR elhatároz* OR dönt* OR eldönt*</a></li>
+    <li><a href="/?q=m%20törzs*">m törzs*</a></li>
 </ul>

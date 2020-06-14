@@ -33,3 +33,30 @@ body .ui-widget {
 .text-center {
     text-align: center;
 }
+
+.word-card {
+    line-height: 150%;
+}
+
+.word-card .title {
+    font-size: 130%;
+    font-weight: bold;
+}
+
+.word-card .unnumbered {
+    margin-left: 3em;
+}
+
+.word-card ol {
+    padding-inline-start: 3em;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+.word-card ul li {
+    list-style-type: square;
+}
+
+.word-card .bef {
+    margin-top: 3pt;
+}

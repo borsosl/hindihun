@@ -26,6 +26,7 @@ header {
     padding-left: 0.75em;
     font-size: 20pt;
     color: #000080;
+    cursor: pointer;
 }
 
 .header-divider {
@@ -48,8 +49,72 @@ header {
     color: black;
 }
 
-@media screen and (max-width: 600px) {
+
+@media screen and (max-width: 1023px) {
+    :host {
+        font-size: 13pt;
+        height: 44pt;
+    }
+
+    .header-title {
+        padding-left: 0.5em;
+        font-size: 15pt;
+    }
+
+    .header-search {
+        padding-right: 0.5em;
+    }
+
+    .pi-search {
+        padding-right: 0.3em;
+    }
+
+    .search-text {
+        width: 15em;
+        font-size: 13pt;
+    }
+}
+
+@media screen and (max-width: 599px) {
     :host {
         font-size: 12pt;
+        height: 36pt;
+    }
+
+    .header-title {
+        padding-left: 0.25em;
+        font-size: 12pt;
+    }
+
+    .header-search {
+        padding-right: 0.25em;
+    }
+
+    .pi-search {
+        padding-right: 0.2em;
+    }
+
+    .search-text {
+        width: 10em;
+        font-size: 12pt;
+    }
+}
+
+@media screen and (max-width: 399px) {
+    .header-title {
+        font-size: 11pt;
+    }
+
+    .header-search {
+        padding-right: 0.25em;
+    }
+
+    .pi-search {
+        padding-right: 0.2em;
+    }
+
+    .search-text {
+        width: 10em;
+        font-size: 11pt;
     }
 }

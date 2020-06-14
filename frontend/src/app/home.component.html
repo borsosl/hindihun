@@ -5,20 +5,16 @@
     </p-card>
 
     <ng-container *ngIf="vm.result">
-        <div *ngFor="let hit of vm.result.hits" class="card-margin">
-            <p-card><!--
-                -->{{hit.szo}} =
-                <span *ngFor="let ert of hit.ford[0].ert; index as i"><!--
-                    --><ng-container *ngIf="i > 0">, </ng-container><!--
-                    -->{{ert.szo || ert}}<!--
-                --></span>
+        <div *ngFor="let hit of vm.result.hits" class="word-card">
+            <p-card>
+                <div [innerHTML]="toWordCardHtml(hit)"></div>
             </p-card>
         </div>
     </ng-container>
 
     <ng-container *ngIf="vm.error">
         <p-card>
-            Hiba
+            Nincs találat.
         </p-card>
     </ng-container>
 

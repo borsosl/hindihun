@@ -21,7 +21,7 @@ export function processUnicode(txt: string) {
     return outLines.join('\r\n');
 }
 
-export function processLine(line: string) {
+export function processLine(line: string, doQuote = true) {
     let cp: number[] = [];
     let trans = true;
     let syllable = '';
@@ -50,12 +50,14 @@ export function processLine(line: string) {
         }
         if(code >= 0x900 && code < 0x980) {
             if(!trans) {
-                endQuote(cp, quoteStart);
+                if(doQuote)
+                    endQuote(cp, quoteStart);
                 trans = true;
             }
         } else if(trans && (isLatin(code)
                 || wordStart !== cp.length && code === "'".codePointAt(0))) {
-            cp.push('÷'.codePointAt(0));
+            if(doQuote)
+                cp.push('÷'.codePointAt(0));
             trans = false;
             quoteStart = cp.length;
         }
@@ -114,7 +116,7 @@ export function processLine(line: string) {
     }
     if(trans)
         endWord(pending, cp.length - wordStart, cp);
-    else
+    else if(doQuote)
         endQuote(cp, quoteStart);
     return String.fromCodePoint.apply(null, cp);
 }

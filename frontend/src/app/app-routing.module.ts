@@ -1,13 +1,18 @@
 import {NgModule} from '@angular/core';
 import {Routes, RouterModule} from '@angular/router';
 import {HomeComponent} from './home.component';
+import {SearchService} from './service/search.service';
 
 
 const routes: Routes = [
     {
         path: '',
         component: HomeComponent,
-        pathMatch: 'full'
+        pathMatch: 'full',
+        runGuardsAndResolvers: 'always',
+        resolve: {
+            q: SearchService
+        }
     }, {
         path: '**',
         redirectTo: '',

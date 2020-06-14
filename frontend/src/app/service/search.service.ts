@@ -1,9 +1,11 @@
 import {Injectable} from '@angular/core';
 import {HttpClient} from '@angular/common/http';
-import {BehaviorSubject} from 'rxjs';
+import {BehaviorSubject, Observable, of} from 'rxjs';
 import {ResultOrError} from '../../../../backend/app/src/main/helper/error';
 import {SolrResponse} from '../../../../backend/app/src/main/model/solr';
-import {Router} from '@angular/router';
+import {ActivatedRouteSnapshot, Resolve, Router} from '@angular/router';
+import {take} from 'rxjs/operators';
+import {processLine as ktod} from '../../../../script/ktrans-to-unicode/process-unicode-text';
 
 const prefixSplitter = /^(([fhm])\s+)?(.*)/;
 export enum SearchType {
@@ -16,7 +18,7 @@ export enum SearchType {
 @Injectable({
     providedIn: 'root'
 })
-export class SearchService {
+export class SearchService implements Resolve<any> {
 
     searchSubject = new BehaviorSubject<SolrResponse>(null);
     searchFailedSubject = new BehaviorSubject<ResultOrError<SolrResponse>>(null);
@@ -38,7 +40,7 @@ export class SearchService {
             default: searchType = SearchType.title; break;
         }
         const sanitizedInput = prefix ? `${prefix} ${searchExpression}` : searchExpression;
-        this.request(searchType, searchExpression, sanitizedInput);
+        this.request(searchType, ktod(searchExpression, false), sanitizedInput);
     }
 
     private request(searchType: SearchType, searchExpression: string, sanitizedInput: string) {
@@ -48,6 +50,7 @@ export class SearchService {
             }
         }).subscribe(roe => {
             if(roe.result && roe.result.numFound) {
+                document.title = sanitizedInput;
                 roe.result.input = sanitizedInput;
                 this.searchSubject.next(roe.result);
                 // noinspection JSIgnoredPromiseFromCall
@@ -70,5 +73,21 @@ export class SearchService {
                 error: err
             });
         });
+    }
+
+    resolve(route: ActivatedRouteSnapshot): Observable<any> {
+        const q = route.queryParamMap.get('q');
+        if(!q) {
+            document.title = 'Hindí-magyar szótár';
+            this.searchSubject.next(null);
+            return of('root');
+        }
+        const last = this.searchSubject.getValue();
+        if(last && q === last.input)
+            return of('prev');
+        this.search(q);
+        return this.searchSubject.pipe(
+            take(2)
+        );
     }
 }
