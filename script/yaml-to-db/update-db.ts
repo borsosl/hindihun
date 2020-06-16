@@ -1,6 +1,8 @@
 import {SolrHindihunDocument, WordsMap} from './model';
-import * as request from'request-promise';
+import * as request from 'request-promise';
 import {Szavak} from '../common/schema';
+import {tokenize as tok} from './tokenize';
+import {SearchType} from '../common/model';
 
 export async function updateDB(solrCoreBaseUrl: string, words: WordsMap) {
     for(const word of Object.values(words)) {
@@ -25,38 +27,40 @@ function solrize(word: Szavak): SolrHindihunDocument {
     const ret = {} as SolrHindihunDocument;
     ret.doc = JSON.stringify(word);
 
-    const hindi = [word.szo];
+    const hindi = [tok(word.szo, SearchType.title)];
     const hun: string[] = [];
     const lex: string[] = [];
     if(word.lasd)
-        hindi.push(word.lasd);
+        hindi.push(tok(word.lasd, SearchType.title));
     if(word.alt)
-        hindi.concat(word.alt);
-    ret.title = replaceApostrophe(hindi.join(' '));
+        hindi.push(...word.alt.map(a => tok(a, SearchType.title)));
+    word.ford.forEach(f => {
+        if(f.var)
+            f.var.forEach(v => hindi.push(tok(v.alak, SearchType.title)));
+    });
+    ret.title = hindi.join(' ');
 
     word.ford.forEach(f => {
         if(f.kif)
-            hindi.push(f.kif);
-        if(f.var)
-            f.var.forEach(v => hindi.push(v.alak));
+            hindi.push(tok(f.kif, SearchType.hindi));
         if(f.pl)
-            f.pl.forEach(pl => hindi.push(pl.ered));
+            f.pl.forEach(pl => hindi.push(tok(pl.ered, SearchType.hindi)));
         if(f.szin)
-            f.szin.forEach(sz => hindi.push(sz));
+            f.szin.forEach(sz => hindi.push(tok(sz, SearchType.hindi)));
         if(f.ant)
-            f.ant.forEach(ant => hindi.push(ant));
+            f.ant.forEach(ant => hindi.push(tok(ant, SearchType.hindi)));
 
         f.ert.forEach(e => {
             if(typeof e === 'string')
-                hun.push(e);
+                hun.push(tok(e, SearchType.trans));
             else
-                hun.push(e.szo);
+                hun.push(tok(e.szo, SearchType.trans));
         });
 
         if(f.lex)
             lex.push(f.lex)
     });
-    ret.hindi = replaceApostrophe(hindi.join(' '));
+    ret.hindi = hindi.join(' ');
     ret.trans = hun.join(' ');
     if(lex.length)
         ret.lex = lex.join(' ');
@@ -64,20 +68,16 @@ function solrize(word: Szavak): SolrHindihunDocument {
     word.ford.forEach(f => {
         f.ert.forEach(e => {
             if(typeof e !== 'string')
-                hun.push(e.megj);
+                hun.push(tok(e.megj, SearchType.hun));
         });
         if(f.pl) {
             f.pl.forEach(pl => {
                 if(pl.ford)
-                    hun.push(pl.ford);
+                    hun.push(tok(pl.ford, SearchType.hun));
             });
         }
     });
     ret.hun = hun.join(' ');
 
     return ret;
-}
-
-function replaceApostrophe(s: string) {
-    return s.replace(/(?<!\\)'/g, 'a');
 }

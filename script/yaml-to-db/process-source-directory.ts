@@ -1,6 +1,6 @@
 import * as fs from 'fs';
 import * as YAML from 'yaml';
-import {DictEntriesFile, Szavak} from '../common/schema';
+import {DictEntriesFile} from '../common/schema';
 import {OrdinalsMap, WordsMap} from './model';
 
 const startsWithNumber = /^\d/;

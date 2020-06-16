@@ -19,9 +19,9 @@
         </ul>
     </li>
     <li>a szavak végére * írható, akkor annak a szónak minden folytatását is megtalálja</li>
-    <li>több szó együttes kereséséhez csak szóközzel elválasztva egymás után kell írni azokat</li>
-    <li>több szó vagylagos kereséséhez a nagybetűs OR szót kell közéjük írni</li>
-    <li>szavak kizárásához a nagybetűs NOT szót vagy - jelet kell a szó elé írni</li>
+    <li>több szó vagylagos kereséséhez csak szóközzel elválasztva egymás után kell írni azokat</li>
+    <li>több szó együttes kereséséhez a nagybetűs AND szót kell közéjük írni, vagy a kötelező szavak elé közvetlenül + jelet kell tenni</li>
+    <li>szavak kizárásához a nagybetűs NOT szót (külön) vagy - jelet (egybe) kell a szó elé írni</li>
     <li>egymás után álló szavak kereséséhez idézőjelbe kell tenni a kifejezést</li>
     <li>további angol nyelvű magyarázat <a href="https://lucene.apache.org/solr/guide/8_5/the-standard-query-parser.html#boolean-operators-supported-by-the-standard-query-parser" target="_blank">itt található</a></li>
     <li>bizonyos nagyon gyakori szavak nincsenek hatással a teljes tartalomban való keresésekre</li>
@@ -36,6 +36,6 @@
     <li>vö. <a href="/?q=dukAn">dukAn</a></li>
     <li><a href="/?q=f%20tanul">f tanul</a></li>
     <li><a href="/?q=f%20tan*">f tan*</a></li>
-    <li><a href="/?q=f%20határoz*%20OR%20elhatároz*%20OR%20dönt*%20OR%20eldönt*">f határoz* OR elhatároz* OR dönt* OR eldönt*</a></li>
+    <li><a href="/?q=f%20határoz*%20elhatároz*%20dönt*%20eldönt*">f határoz* elhatároz* dönt* eldönt*</a></li>
     <li><a href="/?q=m%20törzs*">m törzs*</a></li>
 </ul>

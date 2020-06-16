@@ -6,14 +6,9 @@ import {SolrResponse} from '../../../../backend/app/src/main/model/solr';
 import {ActivatedRouteSnapshot, Resolve, Router} from '@angular/router';
 import {take} from 'rxjs/operators';
 import {processLine as ktod} from '../../../../script/ktrans-to-unicode/process-unicode-text';
+import {SearchType} from '../../../../script/common/model';
 
 const prefixSplitter = /^(([fhm])\s+)?(.*)/;
-export enum SearchType {
-    title,
-    hindi,
-    trans,
-    hun
-}
 
 @Injectable({
     providedIn: 'root'
@@ -44,6 +39,7 @@ export class SearchService implements Resolve<any> {
     }
 
     private request(searchType: SearchType, searchExpression: string, sanitizedInput: string) {
+        searchExpression = this.sanitizeExpr(searchExpression);
         this.http.get<ResultOrError<SolrResponse>>('/api/' + SearchType[searchType], {
             params: {
                 q: searchExpression
@@ -73,6 +69,14 @@ export class SearchService implements Resolve<any> {
                 error: err
             });
         });
+    }
+
+    private sanitizeExpr(expr: string) {
+        return expr
+            .replace(/(?<=[ "])\*/g, '\\*')
+            .replace(/'/g, 'a')
+            .replace(/(?<=\S)-/g, '\\-')
+            .replace(/~/g, '\\~');
     }
 
     resolve(route: ActivatedRouteSnapshot): Observable<any> {
