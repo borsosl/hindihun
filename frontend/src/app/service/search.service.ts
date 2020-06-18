@@ -73,9 +73,9 @@ export class SearchService implements Resolve<any> {
 
     private sanitizeExpr(expr: string) {
         return expr
-            .replace(/(?<=[ "])\*/g, '\\*')
+            .replace(/([ "]|^)\*/g, '$1\\*')
             .replace(/'/g, 'a')
-            .replace(/(?<=\S)-/g, '\\-')
+            .replace(/(\S)-/g, '$1\\-')
             .replace(/~/g, '\\~');
     }
 

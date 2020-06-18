@@ -5,7 +5,7 @@ html, body {
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Nirmala UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: "Nirmala UI", "Segoe UI", "Open Sans", "Noto Sans", "Segoe UI Symbol", sans-serif;
     font-size: 16pt;
     box-sizing: border-box;
     -webkit-font-smoothing: antialiased;
@@ -27,7 +27,7 @@ body .ui-card {
 
 body .ui-widget {
     font-family: inherit;
-    font-size: small;
+    font-size: 13pt;
 }
 
 .text-center {
