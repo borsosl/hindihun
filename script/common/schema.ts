@@ -56,9 +56,11 @@ export interface Szavak {
      */
     lasd?: string;
     /**
-     * ugyanennek a szónak korábbi verziójához nem hozzátenni akarunk, hanem lecserélni
+     * ugyanennek a szónak korábbi verziójához nem hozzátenni akarunk, hanem lecserélni;
+     * a törlendő és az új indexeket kell felsorolni, ebben a formában: 1,3,4=2, ahol
+     * a megmaradó indexek felfelé tömörödnek, és az új index abba a sorba szúródik be
      */
-    lecserel?: boolean;
+    lecserel?: string;
     /**
      * a szótári címszó sorszáma, ha alakilag azonos szavak vannak teljesen más értelemmel
      */

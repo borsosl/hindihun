@@ -4,14 +4,18 @@ import {updateDB} from './update-db';
 
 interface Options {
     solr: string;     // eg. http://localhost:8983/solr/hindihun
-    path: string,
+    analyze: string;
+    path: string;
 }
 
 const opt: Options = cli([
     { name: 'solr', type: String },
+    { name: 'analyze', alias: 'a', type: String },
     { name: 'path', type: String, defaultOption: true }
 ]);
 
-const words = processSourceDir(opt.path);
-// noinspection JSIgnoredPromiseFromCall
-updateDB(opt.solr, words);
+const words = processSourceDir(opt.path, opt.analyze);
+if(!opt.analyze) {
+    // noinspection JSIgnoredPromiseFromCall
+    updateDB(opt.solr, words);
+}

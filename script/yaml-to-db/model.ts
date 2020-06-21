@@ -8,6 +8,20 @@ export interface OrdinalsMap {
     [key: string]: number
 }
 
+export interface SourceFileMap {
+    [key: string]: string;
+}
+
+export interface AnalyzePrevWord {
+    sourceFile: string;
+    word: Szavak;
+}
+
+export interface AnalyzeInfo {
+    newWord: Szavak;
+    oldWords: AnalyzePrevWord[];
+}
+
 export interface SolrHindihunDocument {
     doc: string;
     title: string;

@@ -5,7 +5,7 @@ html, body {
 }
 
 body {
-    font-family: "Nirmala UI", "Segoe UI", "Open Sans", "Noto Sans", "Segoe UI Symbol", sans-serif;
+    font-family: "Open Sans", "Nirmala UI", "Noto Sans", sans-serif;
     font-size: 16pt;
     box-sizing: border-box;
     -webkit-font-smoothing: antialiased;
