@@ -306,6 +306,8 @@ szavak:
     - szo: óra
       megj: szerkezet
 - szo: pOnA
+  alt:
+  - pOn
   ford:
   - nyt: mn hn
     ert:

@@ -1,0 +1,179 @@
+datum: 2020-06-17
+forras:
+  nev: Vinód
+  fejezet: nyelvtan 1-2
+szavak:
+- szo: sAdhu
+  ford:
+  - nyt: hn
+    ert:
+    - szent ember
+- szo: DAkU
+  ford:
+  - nyt: hn
+    ert:
+    - rabló
+- szo: cor
+  ford:
+  - nyt: hn
+    ert:
+    - tolvaj
+- szo: bAlak
+  ford:
+  - nyt: hn
+    ert:
+    - gyerek
+- szo: avadhi
+  ford:
+  - nyt: nn
+    ert:
+    - korszak
+- szo: vastu
+  ford:
+  - nyt: nn
+    ert:
+    - dolog
+- szo: bahU
+  ford:
+  - nyt: nn
+    ert:
+    - meny
+- szo: guRiyA
+  ford:
+  - nyt: nn
+    ert:
+    - baba
+- szo: Sakti
+  ford:
+  - nyt: nn
+    ert:
+    - erő
+- szo: tan'hA
+  ford:
+  - nyt: mn
+    ert:
+    - magányos
+- szo: Or
+  ford:
+  - kif: Oro~
+    ert:
+    - mások
+    pl:
+    - ered: Oro~ kA vicAr
+      ford: mások véleménye
+  - kif: Or bhii
+    nyt: ht
+    ert:
+    - még inkább
+- szo: tul'nA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - összemérés
+  - kif: kii tul'nA me~
+    ert:
+    - -hez mérve
+- szo: apekShA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - tekintet
+  - kif: kii apekShA
+    nyt: nt
+    ert:
+    - tekintetében
+    - hasonlítva
+- szo: nis'bat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - vonatkozás
+    - hasonlítás
+  - kif: kii nis'bat
+    ert:
+    - tekintetében
+- szo: adhik
+  ford:
+  - nyt: ht
+    ert:
+    - sok
+    - inkább
+- szo: baRh'nA
+  ford:
+  - kif: se baRh'kar
+    nyt: ht
+    ert:
+    - inkább
+- szo: se
+  ford:
+  - kif: me~ se
+    nyt: nt
+    ert:
+    - közül
+- szo: sundar'tar
+  ford:
+  - nyt: mn
+    ert:
+    - szebb
+- szo: sundar'tam
+  ford:
+  - nyt: mn
+    ert:
+    - legszebb
+- szo: uccatar
+  ford:
+  - nyt: mn
+    ert:
+    - magasabb
+- szo: uccatam
+  ford:
+  - nyt: mn
+    ert:
+    - legmagasabb
+- szo: priyatar
+  ford:
+  - nyt: mn
+    ert:
+    - kedvesebb
+- szo: priyatam
+  ford:
+  - nyt: mn
+    ert:
+    - legkedvesebb
+- szo: adhik'tam
+  ford:
+  - nyt: ht
+    ert:
+    - legtöbb
+- szo: bad'tar
+  ford:
+  - nyt: ht
+    ert:
+    - rosszabb
+- szo: bad'tariin
+  ford:
+  - nyt: ht
+    ert:
+    - legrosszabb
+- szo: beh'tar
+  ford:
+  - nyt: ht
+    ert:
+    - jobb
+- szo: ghaniShT
+  ford:
+  - nyt: ht
+    ert:
+    - nagyon közeli
+    - bensőséges
+- szo: svAdiShT
+  alt:
+  - svAdiShTh
+  szarm: S
+  ford:
+  - nyt: ht
+    ert:
+    - nagyon finom

@@ -244,6 +244,8 @@ szavak:
     - elkísér
     - elvisz vmeddig
 - szo: AdhA
+  alt:
+  - Adh
   ford:
   - nyt: mn
     ert:
@@ -438,6 +440,11 @@ szavak:
 - szo: koii
   ford:
   - nyt: nv
+    var:
+    - tipus: nt 1sz
+      alak: kisii
+    - tipus: tbsz
+      alak: kinhii~
     ert:
     - valaki
   - nyt: mn

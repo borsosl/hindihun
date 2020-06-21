@@ -148,6 +148,9 @@ szavak:
   szarm: S
   ford:
   - nyt: hn
+    var:
+    - tipus: tbsz
+      alak: netA
     ert:
     - vezető
     - politikai vezető

@@ -1,0 +1,741 @@
+datum: 2020-06-21
+forras:
+  nev: Vinód
+  fejezet: nyelvtan
+szavak:
+- szo: SUnya
+  ford:
+  - nyt: szn
+    ert:
+    - nulla
+    - "0"
+- szo: terah
+  ford:
+  - nyt: szn
+    ert:
+    - tizenhárom
+    - "13"
+- szo: cOdah
+  ford:
+  - nyt: szn
+    ert:
+    - tizennégy
+    - "14"
+- szo: solah
+  ford:
+  - nyt: szn
+    ert:
+    - tizenhat
+    - "16"
+- szo: satrah
+  alt:
+  - satt'rah
+  ford:
+  - nyt: szn
+    ert:
+    - tizenhét
+    - "17"
+- szo: ikkiis
+  ford:
+  - nyt: szn
+    ert:
+    - huszonegy
+    - "21"
+- szo: bAiis
+  ford:
+  - nyt: szn
+    ert:
+    - huszonkettő
+    - "22"
+- szo: teiis
+  ford:
+  - nyt: szn
+    ert:
+    - huszonhárom
+    - "23"
+- szo: cObiis
+  ford:
+  - nyt: szn
+    ert:
+    - huszonnégy
+    - "24"
+- szo: pacciis
+  ford:
+  - nyt: szn
+    ert:
+    - huszonöt
+    - "25"
+- szo: chabbiis
+  ford:
+  - nyt: szn
+    ert:
+    - huszonhat
+    - "26"
+- szo: sattAiis
+  ford:
+  - nyt: szn
+    ert:
+    - huszonhét
+    - "27"
+- szo: aTThAiis
+  ford:
+  - nyt: szn
+    ert:
+    - huszonnyolc
+    - "28"
+- szo: un'tiis
+  ford:
+  - nyt: szn
+    ert:
+    - huszonkilenc
+    - "29"
+- szo: ikattiis
+  ford:
+  - nyt: szn
+    ert:
+    - harmincegy
+    - "31"
+- szo: battiis
+  ford:
+  - nyt: szn
+    ert:
+    - harminckettő
+    - "32"
+- szo: tE~tiis
+  ford:
+  - nyt: szn
+    ert:
+    - harminchárom
+    - "33"
+- szo: cO~tiis
+  ford:
+  - nyt: szn
+    ert:
+    - harmincnégy
+    - "34"
+- szo: pE~tiis
+  ford:
+  - nyt: szn
+    ert:
+    - harmincöt
+    - "35"
+- szo: chattiis
+  ford:
+  - nyt: szn
+    ert:
+    - harminchat
+    - "36"
+- szo: sE~tiis
+  ford:
+  - nyt: szn
+    ert:
+    - harminchét
+    - "37"
+- szo: aR'tiis
+  ford:
+  - nyt: szn
+    ert:
+    - harmincnyolc
+    - "38"
+- szo: un'tAliis
+  ford:
+  - nyt: szn
+    ert:
+    - harminckilenc
+    - "39"
+- szo: ik'tAliis
+  ford:
+  - nyt: szn
+    ert:
+    - negyvenegy
+    - "41"
+- szo: bayAliis
+  ford:
+  - nyt: szn
+    ert:
+    - negyvenkettő
+    - "42"
+- szo: tE~tAliis
+  ford:
+  - nyt: szn
+    ert:
+    - negyvenhárom
+    - "43"
+- szo: cavAliis
+  ford:
+  - nyt: szn
+    ert:
+    - negyvennégy
+    - "44"
+- szo: pE~tAliis
+  ford:
+  - nyt: szn
+    ert:
+    - negyvenöt
+    - "45"
+- szo: chiyAliis
+  ford:
+  - nyt: szn
+    ert:
+    - negyvenhat
+    - "46"
+- szo: sE~tAliis
+  ford:
+  - nyt: szn
+    ert:
+    - negyvenhét
+    - "47"
+- szo: aR'tAliis
+  ford:
+  - nyt: szn
+    ert:
+    - negyvennyolc
+    - "48"
+- szo: un'cAs
+  ford:
+  - nyt: szn
+    ert:
+    - negyvenkilenc
+    - "49"
+- szo: ikyAvan
+  alt:
+  - ikAvan
+  ford:
+  - nyt: szn
+    ert:
+    - ötvenegy
+    - "51"
+- szo: bAvan
+  ford:
+  - nyt: szn
+    ert:
+    - ötvenkettő
+    - "52"
+- szo: tir'pan
+  ford:
+  - nyt: szn
+    ert:
+    - ötvenhárom
+    - "53"
+- szo: cOvan
+  ford:
+  - nyt: szn
+    ert:
+    - ötvennégy
+    - "54"
+- szo: pac'pan
+  ford:
+  - nyt: szn
+    ert:
+    - ötvenöt
+    - "55"
+- szo: chappan
+  ford:
+  - nyt: szn
+    ert:
+    - ötvenhat
+    - "56"
+- szo: sattAvan
+  ford:
+  - nyt: szn
+    ert:
+    - ötvenhét
+    - "57"
+- szo: aTThAvan
+  ford:
+  - nyt: szn
+    ert:
+    - ötvennyolc
+    - "58"
+- szo: un'saTh
+  ford:
+  - nyt: szn
+    ert:
+    - ötvenkilenc
+    - "59"
+- szo: ik'saTh
+  ford:
+  - nyt: szn
+    ert:
+    - hatvanegy
+    - "61"
+- szo: bAsaTh
+  ford:
+  - nyt: szn
+    ert:
+    - hatvankettő
+    - "62"
+- szo: tir'saTh
+  ford:
+  - nyt: szn
+    ert:
+    - hatvanhárom
+    - "63"
+- szo: cO~saTh
+  ford:
+  - nyt: szn
+    ert:
+    - hatvannégy
+    - "64"
+- szo: pE~saTh
+  ford:
+  - nyt: szn
+    ert:
+    - hatvanöt
+    - "65"
+- szo: chiyAsaTh
+  ford:
+  - nyt: szn
+    ert:
+    - hatvanhat
+    - "66"
+- szo: sar'saTh
+  ford:
+  - nyt: szn
+    ert:
+    - hatvanhét
+    - "67"
+- szo: aR'saTh
+  ford:
+  - nyt: szn
+    ert:
+    - hatvannyolc
+    - "68"
+- szo: un'hattar
+  ford:
+  - nyt: szn
+    ert:
+    - hatvankilenc
+    - "69"
+- szo: sattar
+  ford:
+  - nyt: szn
+    ert:
+    - hetven
+    - "70"
+- szo: ik'hattar
+  ford:
+  - nyt: szn
+    ert:
+    - hetvenegy
+    - "71"
+- szo: tihattar
+  ford:
+  - nyt: szn
+    ert:
+    - hetvenhárom
+    - "73"
+- szo: cOhattar
+  ford:
+  - nyt: szn
+    ert:
+    - hetvennégy
+    - "74"
+- szo: pac'hattar
+  ford:
+  - nyt: szn
+    ert:
+    - hetvenöt
+    - "75"
+- szo: chihattar
+  ford:
+  - nyt: szn
+    ert:
+    - hetvenhat
+    - "76"
+- szo: sat'hattar
+  ford:
+  - nyt: szn
+    ert:
+    - hetvenhét
+    - "77"
+- szo: aTh'hattar
+  ford:
+  - nyt: szn
+    ert:
+    - hetvennyolc
+    - "78"
+- szo: unnAsii
+  ford:
+  - nyt: szn
+    ert:
+    - hetvenkilenc
+    - "79"
+- szo: assii
+  ford:
+  - nyt: szn
+    ert:
+    - nyolcvan
+    - "80"
+- szo: ikyAsii
+  alt:
+  - ikAsii
+  ford:
+  - nyt: szn
+    ert:
+    - nyolcvanegy
+    - "81"
+- szo: bayAsii
+  ford:
+  - nyt: szn
+    ert:
+    - nyolcvankettő
+    - "82"
+- szo: tirAsii
+  ford:
+  - nyt: szn
+    ert:
+    - nyolcvanhárom
+    - "83"
+- szo: cOrAsii
+  ford:
+  - nyt: szn
+    ert:
+    - nyolcvannégy
+    - "84"
+- szo: pacAsii
+  ford:
+  - nyt: szn
+    ert:
+    - nyolcvanöt
+    - "85"
+- szo: sattAsii
+  ford:
+  - nyt: szn
+    ert:
+    - nyolcvanhét
+    - "87"
+- szo: aTThAsii
+  alt:
+  - aThAsii
+  ford:
+  - nyt: szn
+    ert:
+    - nyolcvannyolc
+    - "88"
+- szo: navAsii
+  ford:
+  - nyt: szn
+    ert:
+    - nyolcvankilenc
+    - "89"
+- szo: nabbe
+  ford:
+  - nyt: szn
+    ert:
+    - kilencven
+    - "90"
+- szo: ikyAn've
+  alt:
+  - ikAn've
+  ford:
+  - nyt: szn
+    ert:
+    - kilencvenegy
+    - "91"
+- szo: bAn've
+  ford:
+  - nyt: szn
+    ert:
+    - kilencvenkettő
+    - "92"
+- szo: tirAn've
+  ford:
+  - nyt: szn
+    ert:
+    - kilencvenhárom
+    - "93"
+- szo: cOrAn've
+  ford:
+  - nyt: szn
+    ert:
+    - kilencvennégy
+    - "94"
+- szo: pacAn've
+  ford:
+  - nyt: szn
+    ert:
+    - kilencvenöt
+    - "95"
+- szo: chiyAn've
+  ford:
+  - nyt: szn
+    ert:
+    - kilencvenhat
+    - "96"
+- szo: sattAn've
+  ford:
+  - nyt: szn
+    ert:
+    - kilencvenhét
+    - "97"
+- szo: aTThAn've
+  alt:
+  - aThAn've
+  ford:
+  - nyt: szn
+    ert:
+    - kilencvennyolc
+    - "98"
+- szo: ninyAn've
+  alt:
+  - ninAn've
+  ford:
+  - nyt: szn
+    ert:
+    - kilencvenkilenc
+    - "99"
+- szo: hazAr
+  ford:
+  - nyt: szn
+    ert:
+    - ezer
+    - "1000"
+  - kif: hazAro~
+    ert:
+    - több ezer
+    - nagyon sok
+- szo: lAkh
+  ford:
+  - nyt: szn
+    ert:
+    - százezer
+    - "100000"
+  - kif: lAkho~
+    ert:
+    - több százezer
+    - nagyon sok
+- szo: karoR
+  ford:
+  - nyt: szn
+    ert:
+    - tízmillió
+    - "10000000"
+- szo: koTi
+  ford:
+  - nyt: szn
+    ert:
+    - tízmillió
+    - "10000000"
+- szo: arab
+  ford:
+  - nyt: szn
+    ert:
+    - milliárd
+    - "1000000000"
+- szo: miliyan
+  szarm: E
+  ford:
+  - nyt: szn
+    ert:
+    - millió
+    - "1000000"
+- szo: biliyan
+  szarm: E
+  ford:
+  - nyt: szn
+    ert:
+    - milliárd
+    - "1000000000"
+- szo: pA~c'vA~
+  ford:
+  - nyt: szn
+    ert:
+    - ötödik
+    - "5."
+- szo: chaThA
+  ford:
+  - nyt: szn
+    ert:
+    - hatodik
+    - "6."
+- szo: sAt'vA~
+  ford:
+  - nyt: szn
+    ert:
+    - hetedik
+    - "7."
+- szo: ATh'vA~
+  ford:
+  - nyt: szn
+    ert:
+    - nyolcadik
+    - "8."
+- szo: nOvA~
+  ford:
+  - nyt: szn
+    ert:
+    - kilencedik
+    - "9."
+- szo: das'vA~
+  ford:
+  - nyt: szn
+    ert:
+    - tizedik
+    - "10."
+- szo: pratham
+  szarm: S
+  ford:
+  - nyt: szn
+    ert:
+    - első
+    - "1."
+- szo: dvitiiy
+  szarm: S
+  ford:
+  - nyt: szn
+    ert:
+    - második
+    - "2."
+- szo: tRItiiy
+  szarm: S
+  ford:
+  - nyt: szn
+    ert:
+    - harmadik
+    - "3."
+- szo: caturth
+  szarm: S
+  ford:
+  - nyt: szn
+    ert:
+    - negyedik
+    - "4."
+- szo: pa#cam
+  szarm: S
+  ford:
+  - nyt: szn
+    ert:
+    - ötödik
+    - "5."
+- szo: dugunA
+  alt:
+  - dug'nA
+  ford:
+  - nyt: mn
+    ert:
+    - kétszeres
+- szo: tigunA
+  ford:
+  - nyt: mn
+    ert:
+    - háromszoros
+- szo: pA~c'gunA
+  ford:
+  - nyt: mn
+    ert:
+    - ötszörös
+- szo: chagunA
+  ford:
+  - nyt: mn
+    ert:
+    - hatszoros
+- szo: sat'gunA
+  ford:
+  - nyt: mn
+    ert:
+    - hétszeres
+- szo: aTh'gunA
+  ford:
+  - nyt: mn
+    ert:
+    - nyolcszoros
+- szo: nav'gunA
+  ford:
+  - nyt: mn
+    ert:
+    - kilencszeres
+- szo: das'gunA
+  ford:
+  - nyt: mn
+    ert:
+    - tízszeres
+- szo: ikah'rA
+  alt:
+  - ekah'rA
+  ford:
+  - nyt: ht
+    ert:
+    - egyes-
+    - egytagú
+    - egyféle
+- szo: doh'rA
+  alt:
+  - duh'rA
+  ford:
+  - nyt: ht
+    ert:
+    - kettős-
+    - két tagú
+    - kétféle
+- szo: teh'rA
+  alt:
+  - tih'rA
+  ford:
+  - nyt: ht
+    ert:
+    - hármas-
+    - háromféle
+- szo: cOh'rA
+  ford:
+  - nyt: ht
+    ert:
+    - négyes-
+    - négyféle
+- szo: pac'harA
+  ford:
+  - nyt: ht
+    ert:
+    - ötös-
+    - ötféle
+- szo: cOthAii
+  ford:
+  - nyt: nn
+    ert:
+    - negyed
+- szo: cOth
+  ford:
+  - nyt: nn
+    ert:
+    - negyed
+- szo: pAv
+  ford:
+  - nyt: hn
+    ert:
+    - negyed
+- szo: tihAii
+  ford:
+  - nyt: nn
+    ert:
+    - harmad
+- szo: DhAii
+  ford:
+  - nyt: szn
+    ert:
+    - két és fél
+    - harmadfél
+- szo: aRhAii
+  ford:
+  - nyt: szn
+    ert:
+    - két és fél
+    - harmadfél
+- szo: baTe
+  ford:
+  - ert:
+    - elosztva
+    pl:
+    - ered: do baTe pA~c
+      ford: 2/5, kétötöd
+- szo: daSam'lav
+  ford:
+  - nyt: hn
+    ert:
+    - tizedrész
+- szo: bi#du
+  szarm: S
+  ford:
+  - nyt: nn hn
+    ert:
+    - pont
+    - tizedespont

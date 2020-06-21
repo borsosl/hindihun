@@ -130,6 +130,7 @@ szavak:
     ert:
     - második
     - másik
+    - "2."
 - szo: beD'rUm
   szarm: E
   ford:
@@ -158,7 +159,7 @@ szavak:
   - ert:
     - ráadásul
   - kif: ke alAvA
-    nyt: nt
+    nyt: nt elölj
     ert:
     - kívül
     - kivéve
@@ -372,6 +373,11 @@ szavak:
 - szo: ham
   ford:
   - nyt: nv
+    var:
+    - tipus: nt
+      alak: ham
+    - tipus: t/r
+      alak: hame~
     ert:
     - mi
 - szo: sab
@@ -443,8 +449,16 @@ szavak:
   ford:
   - nyt: nv
     var:
-    - alak: jis
-      tipus: egyes szám névutós eset
+    - tipus: nt 1sz
+      alak: jis
+    - tipus: tbsz
+      alak: jin
+    - tipus: t/r 1sz
+      alak: jise
+    - tipus: tbsz
+      alak: jinhe~
+    - tipus: tbsz erg
+      alak: jinho~ne
     ert:
     - aki
     - ami

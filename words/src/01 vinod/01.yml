@@ -44,11 +44,35 @@ szavak:
 - szo: honA
   ford:
   - nyt: tl
+    var:
+    - tipus: jelen e/1
+      alak: hU~
+    - tipus: e/2 e/3
+      alak: hE
+    - tipus: t/1 t/3
+      alak: hE~
+    - tipus: t/2
+      alak: ho
+    - tipus: múlt hn 1sz
+      alak: thA
+    - tipus: tbsz
+      alak: the
+    - tipus: nn 1sz
+      alak: thii
+    - tipus: tbsz
+      alak: thii~
     ert:
     - van
 - szo: mE~
   ford:
   - nyt: nv
+    var:
+    - tipus: nt
+      alak: mujh
+    - tipus: t/r
+      alak: mujhe
+    - tipus: erg
+      alak: mE~ne
     ert:
     - én
 - szo: dillii
@@ -103,12 +127,18 @@ szavak:
     - újságíró
 - szo: ve
   ford:
-  - nyt: nv
+  - nyt: nv tbsz
+    var:
+    - tipus: nt
+      alak: un
+    - tipus: t/r
+      alak: unhe~
+    - tipus: erg
+      alak: unho~ne
     ert:
     - ő
     - ők
-    - szo: azok
-      megj: a वह többes szám alap esete
+    - azok
 - szo: hi#dii
   alt:
   - hindii
@@ -298,10 +328,10 @@ szavak:
   ford:
   - nyt: nv
     var:
-    - alak: us
-      tipus: névutós eset
-    - alak: un
-      tipus: tbsz névutós eset
+    - tipus: nt
+      alak: us
+    - tipus: t/r
+      alak: use
     ert:
     - ő
     - az
@@ -628,6 +658,15 @@ szavak:
 - szo: kyA
   ford:
   - nyt: nv
+    var:
+    - tipus: nt 1sz
+      alak: kis
+    - tipus: tbsz
+      alak: kin
+    - tipus: t/r 1sz
+      alak: kise
+    - tipus: tbsz
+      alak: kinhe~
     ert:
     - mi?
     - milyen?
@@ -693,6 +732,11 @@ szavak:
 - szo: tum
   ford:
   - nyt: nv
+    var:
+    - tipus: nt
+      alak: tum
+    - tipus: t/r
+      alak: tumhe~
     ert:
     - te
     - ti
@@ -745,6 +789,11 @@ szavak:
 - szo: yah
   ford:
   - nyt: nv
+    var:
+    - tipus: nt
+      alak: is
+    - tipus: t/r
+      alak: ise
     ert:
     - ő
     - ez

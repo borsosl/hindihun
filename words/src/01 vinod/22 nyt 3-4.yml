@@ -1,0 +1,337 @@
+datum: 2020-06-20
+forras:
+  nev: Vinód
+  fejezet: nyelvtan 3-4
+szavak:
+- szo: mu#Sii
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - írnok
+- szo: maSiin
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - gép
+- szo: dekh'nA
+  ford:
+  - kif: dekh'ne me~
+    ert:
+    - kinézetre
+    - vhogy kinéz
+- szo: par
+  ford:
+  - kif: par se
+    nyt: nt
+    ert:
+    - -ról
+    - -ről
+  - kif: samay par
+    ert:
+    - időben
+- szo: dvArA
+  ford:
+  - kif: ke dvArA
+    nyt: nt
+    ert:
+    - által
+- szo: taraf
+  szarm: A
+  ford:
+  - kif: kii taraf
+    nyt: nt
+    ert:
+    - felé
+    - irányában
+- szo: tarah
+  ford:
+  - kif: kii tarah
+    nyt: nt
+    ert:
+    - módján
+- szo: jagah
+  ford:
+  - kif: kii jagah
+    nyt: nt
+    ert:
+    - helyében
+- szo: pah'le
+  ford:
+  - kif: ke pah'le, se pah'le
+    nyt: nt
+    ert:
+    - szo: előtt
+      megj: időhatározó
+    - korábban
+- szo: pUrv
+  ford:
+  - kif: ke pUrv, se pUrv
+    nyt: nt
+    ert:
+    - szo: előtt
+      megj: időhatározó
+    - korábban
+- szo: Age
+  ford:
+  - kif: ke Age, se Age
+    nyt: nt
+    ert:
+    - szo: előtt
+      megj: idő és helyhatározó
+- szo: niice
+  ford:
+  - kif: ke niice, se niice
+    nyt: nt
+    ert:
+    - alatt
+    - alá
+- szo: piiche
+  ford:
+  - kif: ke piiche, se piiche
+    nyt: nt
+    ert:
+    - mögött
+    - mögé
+- szo: bajAy
+  szarm: P
+  ford:
+  - kif: ke bajAy
+    nyt: nt elölj
+    ert:
+    - helyett
+- szo: mAre
+  ford:
+  - kif: ke mAre
+    nyt: nt elölj
+    ert:
+    - miatt
+- szo: sivA
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - kif: ke sivA
+    nyt: nt elölj
+    ert:
+    - kivéve
+    - kívül
+- szo: sivAy
+  szarm: P
+  ford:
+  - kif: ke sivAy
+    nyt: nt elölj
+    ert:
+    - kivéve
+- szo: EsA
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - ilyen
+  - kif: EsA hii
+    nyt: mn
+    ert:
+    - ugyanilyen
+- szo: vEsA
+  ford:
+  - ert:
+    - olyan
+- szo: tEsA
+  ford:
+  - ert:
+    - olyan
+- szo: ut'nA
+  ford:
+  - nyt: mn
+    ert:
+    - akkora
+    - annyi
+- szo: tab
+  ford:
+  - nyt: ht
+    ert:
+    - akkor
+- szo: abhii
+  ford:
+  - nyt: ht
+    ert:
+    - éppen most
+- szo: tabhii
+  ford:
+  - nyt: ht
+    ert:
+    - éppen akkor
+- szo: vahii~
+  ford:
+  - ert:
+    - ugyanott
+    - épp ott
+- szo: yo~
+  ford:
+  - nyt: ht
+    ert:
+    - így
+    - ily módon
+  - kif: yo~ hii
+    nyt: ht
+    ert:
+    - éppen így
+- szo: tyo~
+  ford:
+  - nyt: ht
+    ert:
+    - úgy
+    - oly módon
+  - kif: tyo~ hii, to~ hii
+    nyt: ht
+    ert:
+    - éppen úgy
+- szo: terA
+  ford:
+  - nyt: nv 1sz
+    ert:
+    - tiéd
+- szo: Ap
+  lecserel: "1=1"
+  ford:
+  - nyt: nv
+    ert:
+    - Ön
+    - Önök
+    - maga
+    - maguk
+    - saját maga
+  - kif: ap'ne Ap
+    ert:
+    - saját maga
+  - kif: ap'ne Ap me~
+    ert:
+    - önmagában
+    - saját magában
+  - kif: Ap hii
+    ert:
+    - magától
+    - önként
+- szo: kOn
+  lecserel: "1=1"
+  ford:
+  - nyt: nv
+    var:
+    - tipus: nt 1sz
+      alak: kis
+    - tipus: tbsz
+      alak: kin
+    - tipus: t/r 1sz
+      alak: kise
+    - tipus: tbsz
+      alak: kinhe~
+    ert:
+    - ki?
+    - kik?
+    - milyen?
+    - miféle?
+- szo: kyA
+  ford:
+  - nyt: nv
+    ert:
+    - milyen?
+    - miféle?
+- szo: kEsA
+  lecserel: "1=1"
+  ford:
+  - nyt: nv
+    ert:
+    - milyen?
+    - miféle?
+- szo: kidhar
+  ford:
+  - nyt: nv
+    ert:
+    - merre?
+    - hová?
+- szo: jidhar
+  ford:
+  - nyt: nv
+    ert:
+    - ahová
+- szo: jyo~
+  ford:
+  - nyt: nv
+    ert:
+    - ahogy
+- szo: jit'nA
+  ford:
+  - nyt: nv
+    ert:
+    - amekkora
+    - amennyi
+- szo: jab
+  ford:
+  - nyt: nv
+    ert:
+    - amikor
+- szo: koii
+  ford:
+  - nyt: nv
+    ert:
+    - valamiféle
+    - néhány
+  - ert:
+    - szo: körülbelül
+      megj: számnév előtt
+    pl:
+    - ered: koii chah
+      ford: kb. hat
+  - kif: jo koii
+    ert:
+    - bárki
+    - akárki
+  - kif: sab koii
+    ert:
+    - mindenki
+  - kif: har koii
+    ert:
+    - mindenki
+    - minden egyes
+  - kif: koii na koii
+    ert:
+    - valaki biztosan
+  - kif: koii … koii …
+    ert:
+    - az egyik … a másik …
+  - kif: Or koii, koii Or
+    ert:
+    - valaki más
+- szo: kahii~
+  ford:
+  - nyt: nv
+    ert:
+    - valahová
+- szo: kabhii
+  ford:
+  - nyt: nv
+    ert:
+    - valamikor
+- szo: kuch
+  ford:
+  - kif: jo kuch
+    ert:
+    - bármi
+    - akármi
+  - kif: kuch na kuch
+    ert:
+    - valami biztosan
+  - kif: sab kuch
+    ert:
+    - minden
+  - kif: bahut kuch
+    ert:
+    - sok minden
+  - kif: kuch kuch
+    ert:
+    - valami(cske)
+    - egy kicsi
+  - kif: Or kuch, kuch Or
+    ert:
+    - valami más

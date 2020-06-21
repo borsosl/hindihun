@@ -1,0 +1,123 @@
+datum: 2020-06-17
+forras:
+  nev: Vinód
+  fejezet: bevezető
+szavak:
+- szo: ye
+  ford:
+  - nyt: nv
+    var:
+    - tipus: nt
+      alak: in
+    - tipus: t/r
+      alak: inhe~
+    - tipus: erg
+      alak: inho~ne
+    ert:
+    - ő
+    - az
+- szo: rAjA
+  ford:
+  - nyt: hn
+    var:
+    - tipus: tbsz
+      alak: rAjA
+    ert:
+    - király
+- szo: kelA
+  ford:
+  - nyt: hn
+    ert:
+    - banán
+- szo: totA
+  ford:
+  - nyt: hn
+    ert:
+    - papagáj
+- szo: dar'vAzA
+  ford:
+  - nyt: hn
+    ert:
+    - ajtó
+- szo: vidyArthii
+  ford:
+  - nyt: hn
+    ert:
+    - tanuló
+- szo: hAthii
+  ford:
+  - nyt: hn
+    ert:
+    - elefánt
+- szo: cap'rAsii
+  ford:
+  - nyt: hn
+    ert:
+    - hivatalszolga
+- szo: dAdA
+  ford:
+  - nyt: hn
+    var:
+    - tipus: tbsz
+      alak: dAdA
+    ert:
+    - szo: nagyapa
+      megj: apai
+- szo: nAnA
+  ford:
+  - nyt: hn
+    ert:
+    - szo: nagyapa
+      megj: anyai
+- szo: kOn
+  ford:
+  - nyt: nv
+    ert:
+    - ki?
+    - kik?
+- szo: jUtii
+  ford:
+  - nyt: nn
+    ert:
+    - női cipő
+- szo: dAdii
+  ford:
+  - nyt: nn
+    ert:
+    - szo: nagyanya
+      megj: apai
+- szo: nAnii
+  ford:
+  - nyt: nn
+    ert:
+    - szo: nagyanya
+      megj: anyai
+- szo: chAtrA
+  ford:
+  - nyt: nn
+    ert:
+    - szo: tanuló
+      megj: lány
+- szo: senA
+  ford:
+  - nyt: nn
+    ert:
+    - hadsereg
+- szo: tU
+  ford:
+  - nyt: nv 1sz
+    var:
+    - tipus: nt
+      alak: tujh
+    - tipus: t/r
+      alak: tujhe
+    - tipus: erg
+      alak: tU~ne
+    ert:
+    - te
+- szo: nO
+  ford:
+  - nyt: szn
+    ert:
+    - kilenc
+    - "9"
