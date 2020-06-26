@@ -1,0 +1,718 @@
+datum: 2020-06-26
+forras:
+  nev: Vinód
+  fejezet: nyelvtan
+szavak:
+- szo: AnA
+  ford:
+  - nyt: tl
+    ert:
+    - jár
+  - kif: "* ko * AnA"
+    ert:
+    - vki jártas vmiben
+    - vkinek megy vmi
+- szo: vAlA
+  ford:
+  - kif: (kar'ne) vAlA
+    ert:
+    - készül vmit tenni
+  - kif: (kar'ne) hii vAlA
+    ert:
+    - éppen bekövetkezik vmi
+  - kif: dillii vAlA
+    ert:
+    - Delhibeli
+    - Delhi lakosa
+  - kif: TEksii vAlA
+    ert:
+    - taxis
+  - kif: niile vAlA
+    ert:
+    - kékes
+    - kék-
+  - kif: pAs vAlA
+    ert:
+    - közeli
+  - kif: Sahar vAle
+    nyt: hn tbsz
+    ert:
+    - városiak
+  - kif: safAii kar'ne vAliyA~
+    nyt: nn tbsz
+    ert:
+    - takarítónők
+  - ert:
+    - "példák:"
+    pl:
+    - ered: la#be bAlo~ vAlA
+      ford: hosszú hajú
+    - ered: 5 baje vAlii gARii
+      ford: az ötkor induló vonat
+    - ered: a#t bhalA to sab bhalA vAlii kahAvat
+      ford: a „minden jó, ha jó a vége” közmondás
+- szo: bhalA
+  ford:
+  - nyt: mn
+    ert:
+    - jó
+    - kedves
+    - becsületes
+  - nyt: hn
+    ert:
+    - jólét
+    - haszon
+- szo: kahAvat
+  ford:
+  - nyt: nn
+    ert:
+    - közmondás
+    - mondás
+- szo: baRA
+  ford:
+  - nyt: ht
+    ert:
+    - nagyon
+- szo: -sA
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - -szerű
+    pl:
+    - ered: bahut sA
+      ford: nagyon sok
+    - ered: kAlA sA
+      ford: feketés
+    - ered: dub'lA sA
+      ford: soványka, soványnak látszó
+    - ered: mujh sA
+      ford: hozzám hasonló
+    - ered: it'nA sA
+      ford: csak ennyi
+    - ered: ek sA
+      ford: azonos, egyforma
+    - ered: koii sA
+      ford: bármilyen, akármilyen
+    - ered: vinod kA sA parivAr
+      ford: Vinód családjához hasonló család
+    - ered: bacco~ kii sii bAte~
+      ford: gyerekbeszéd
+    - ered: merii sii nAk
+      ford: az enyémhez hasonló orr
+- szo: mahAn
+  ford:
+  - nyt: mn
+    ert:
+    - hatalmas
+- szo: jan'sa#khyA
+  szarm: S+S
+  ford:
+  - nyt: nn
+    ert:
+    - népesség
+- szo: cAhie
+  ford:
+  - ert:
+    - szükség van
+  - kif: cAhie thA
+    ert:
+    - kellett
+    - kellett volna
+  - kif: nahii~ (kar'nA) cAhie
+    ert:
+    - nem szabad
+- szo: vicAr
+  ford:
+  - kif: vicAr kar'nA
+    nyt: t
+    ert:
+    - gondolkozik
+- szo: honA
+  ford:
+  - ert:
+    - kell
+- szo: paR'nA
+  ford:
+  - ert:
+    - kell
+    - muszáj
+- szo: AvaSyak'tA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - szükségesség
+- szo: zarUrat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - szükségesség
+- szo: AvaSyak
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - szükséges
+- szo: zarUrii
+  szarm: AP
+  ford:
+  - nyt: mn
+    ert:
+    - szükséges
+- szo: pyAs
+  ford:
+  - nyt: nn
+    ert:
+    - szomjúság
+  - kif: "* ko pyAs lag'nA"
+    nyt: tl
+    ert:
+    - szomjas
+- szo: gar'mii
+  ford:
+  - kif: "* ko gar'mii lag'nA"
+    nyt: tl
+    ert:
+    - melege van
+- szo: Dar
+  ford:
+  - nyt: hn
+    ert:
+    - félelem
+  - kif: "* ko Dar lag'nA"
+    nyt: tl
+    ert:
+    - fél
+- szo: burA
+  ford:
+  - kif: "* ko burA lag'nA"
+    nyt: tl
+    ert:
+    - nem tetszik vkinek
+- szo: lag'nA
+  ford:
+  - nyt: tl
+    ert:
+    - tűnik
+    - látszik
+    - érződik
+  - kif: (kar'ne) lag'nA
+    nyt: tl
+    ert:
+    - elkezd vmi csinálni
+- szo: kah'nA
+  ford:
+  - kif: "* se (kar'ne) ke lie kah'nA"
+    ert:
+    - azt mondja vkinek, hogy csináljon vmit
+- szo: denA
+  ford:
+  - kif: (kar'ne) denA
+    ert:
+    - megenged vmit (csinálni)
+- szo: bAr
+  ford:
+  - nyt: nn
+    ert:
+    - alkalom
+    - időpont
+  - kif: bAr-bAr
+    ert:
+    - újra meg újra
+- szo: kAGaz
+  szarm: P
+  ford:
+  - ert:
+    - papír
+  - kif: kAGaz-vAGaz
+    ert:
+    - a papír és más irodaszerek
+- szo: sAm'ne
+  ford:
+  - kif: Am'ne-sAm'ne
+    ert:
+    - szemben
+    - szemközt
+- szo: khAnA
+  ford:
+  - kif: khAnA-piinA
+    nyt: hn
+    ert:
+    - evés-ivás
+- szo: lenA
+  ford:
+  - kif: lenA-denA
+    ert:
+    - adás-vétel
+- szo: paRh'nA
+  ford:
+  - kif: paRhA-likhA
+    ert:
+    - tanult
+    - iskolázott
+- szo: TUT'nA
+  ford:
+  - kif: TUTA-phUTA
+    ert:
+    - törött
+    - ócska
+- szo: jAn'nA
+  ford:
+  - kif: jAnA-pah'cAnA
+    ert:
+    - ismerős
+- szo: hii
+  ford:
+  - nyt: kt
+    ert:
+    - éppen
+    - bizony
+    - csak
+  - kif: hii nahii~
+    ert:
+    - nem is
+  - kif: (kar'te) hii
+    ert:
+    - amint csinált vmit…
+  - kif: (* ke) (kar'te) hii
+    ert:
+    - amint (vki más) csinált vmit…
+- szo: to
+  ford:
+  - ert:
+    - ami azt illeti
+  - kif: nahii~ to
+    ert:
+    - (más)különben
+- szo: vikramAditya
+  alt:
+  - vikram
+  ford:
+  - ert:
+    - Vikrama időszámítás
+- szo: sa#vat
+  alt:
+  - sa#%
+  ford:
+  - nyt: hn
+    ert:
+    - év
+    - korszak
+    - a Vikrama időszámítás szerinti dátum
+- szo: pakSh
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - a Hold növekedésének vagy csökkenésének időszaka
+- szo: Sukla
+  alt:
+  - S%
+  ford:
+  - kif: Sukla pakSh
+    ert:
+    - a Hold növekedésének időszaka
+- szo: kRIShNa
+  ford:
+  - kif: kRIShNa pakSh
+    ert:
+    - a Hold csökkenésének időszaka
+- szo: sudii
+  ford:
+  - nyt: nn
+    ert:
+    - a Hold növekedésének időszaka
+- szo: badii
+  ford:
+  - nyt: nn
+    ert:
+    - a Hold csökkenésének időszaka
+- szo: pUrNimA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - telihold
+- szo: pUrNamAsii
+  ford:
+  - nyt: nn
+    ert:
+    - telihold
+- szo: pUnam
+  alt:
+  - pUno
+  ford:
+  - nyt: nn
+    ert:
+    - telihold
+- szo: amAvas
+  alt:
+  - amAvasyA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - újhold
+- szo: adhik'mAs
+  ford:
+  - nyt: hn
+    ert:
+    - kiegészítő hónap a Vikrama időszámításban
+- szo: tithi
+  ford:
+  - nyt: nn
+    ert:
+    - a holdhónap napja
+- szo: mitii
+  ford:
+  - nyt: nn
+    ert:
+    - a holdhónap napja
+- szo: prathamA
+  alt:
+  - pratipadA
+  - pratipad
+  - parivA
+  ford:
+  - nyt: nn
+    ert:
+    - a holdciklus 1. napja
+- szo: dvitiiyA
+  alt:
+  - dUj
+  ford:
+  - nyt: nn
+    ert:
+    - a holdciklus 2. napja
+- szo: tRItiiyA
+  alt:
+  - tiij
+  ford:
+  - nyt: nn
+    ert:
+    - a holdciklus 3. napja
+- szo: caturthii
+  alt:
+  - cOth
+  ford:
+  - nyt: nn
+    ert:
+    - a holdciklus 4. napja
+- szo: pa#camii
+  alt:
+  - pA~ce~
+  ford:
+  - nyt: nn
+    ert:
+    - a holdciklus 5. napja
+- szo: ShaShThii
+  alt:
+  - chaTh
+  ford:
+  - nyt: nn
+    ert:
+    - a holdciklus 6. napja
+- szo: saptamii
+  alt:
+  - sAte~
+  ford:
+  - nyt: nn
+    ert:
+    - a holdciklus 7. napja
+- szo: aShTamii
+  alt:
+  - AThe~
+  ford:
+  - nyt: nn
+    ert:
+    - a holdciklus 8. napja
+- szo: navamii
+  alt:
+  - nOmii
+  ford:
+  - nyt: nn
+    ert:
+    - a holdciklus 9. napja
+- szo: daSamii
+  alt:
+  - dasamii
+  ford:
+  - nyt: nn
+    ert:
+    - a holdciklus 10. napja
+- szo: ekAdaSii
+  alt:
+  - gyAras
+  ford:
+  - nyt: nn
+    ert:
+    - a holdciklus 11. napja
+- szo: dvAdaSii
+  alt:
+  - duAs
+  ford:
+  - nyt: nn
+    ert:
+    - a holdciklus 12. napja
+- szo: trayodaSii
+  alt:
+  - teras
+  ford:
+  - nyt: nn
+    ert:
+    - a holdciklus 13. napja
+- szo: caturdaSii
+  alt:
+  - cOdas
+  ford:
+  - nyt: nn
+    ert:
+    - a holdciklus 14. napja
+- szo: Sak
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - Saka korszak
+- szo: cEtr
+  alt:
+  - cEt
+  ford:
+  - nyt: hn
+    ert:
+    - március-április hónap
+- szo: vESAkh
+  alt:
+  - bEsAkh
+  ford:
+  - nyt: hn
+    ert:
+    - április-május hónap
+- szo: jyeShTh
+  alt:
+  - jeTh
+  ford:
+  - nyt: hn
+    ert:
+    - május-június hónap
+- szo: AShARh
+  alt:
+  - asARh
+  ford:
+  - nyt: hn
+    ert:
+    - június-július hónap
+- szo: SrAvaN
+  alt:
+  - sAvan
+  ford:
+  - nyt: hn
+    ert:
+    - július-augusztus hónap
+- szo: bhAdrapad
+  alt:
+  - bhAdo~
+  ford:
+  - nyt: hn
+    ert:
+    - augusztus-szeptember hónap
+- szo: ASvin
+  alt:
+  - asoj
+  ford:
+  - nyt: hn
+    ert:
+    - szeptember-október hónap
+- szo: kArtik
+  alt:
+  - kAtik
+  ford:
+  - nyt: hn
+    ert:
+    - október-november hónap
+- szo: AgrahAyaN
+  alt:
+  - ag'han
+  ford:
+  - nyt: hn
+    ert:
+    - november-december hónap
+- szo: mArgaSiirSh
+  ford:
+  - nyt: hn
+    ert:
+    - november-december hónap
+- szo: pOs
+  alt:
+  - pUs
+  ford:
+  - nyt: hn
+    ert:
+    - december-január hónap
+- szo: mAgh
+  ford:
+  - nyt: hn
+    ert:
+    - január-február hónap
+- szo: phAlgun
+  alt:
+  - phAgun
+  ford:
+  - nyt: hn
+    ert:
+    - február-március hónap
+- szo: baras
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - év
+- szo: iis'vii
+  ford:
+  - nyt: mn
+    ert:
+    - keresztény
+- szo: iisA
+  ford:
+  - nyt: hn
+    ert:
+    - Jézus
+  - kif: iisA pUrv, ii% pU%
+    ert:
+    - i.e.
+    - időszámítás előtt
+- szo: san_
+  ford:
+  - ert:
+    - i.sz.
+    - időszámítás szerint
+- szo: dinA#k
+  alt:
+  - di%
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - dátum
+- szo: tAriikh
+  alt:
+  - tA%
+  ford:
+  - ert:
+    - dátum
+- szo: mAs
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - hónap
+- szo: mAh
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - hónap
+- szo: mArc
+  ford:
+  - nyt: hn
+    ert:
+    - március
+- szo: jUn
+  ford:
+  - nyt: hn
+    ert:
+    - június
+- szo: sita#bar
+  ford:
+  - nyt: hn
+    ert:
+    - szeptember
+- szo: aktUbar
+  ford:
+  - nyt: hn
+    ert:
+    - október
+- szo: nava#bar
+  ford:
+  - nyt: hn
+    ert:
+    - november
+- szo: disa#bar
+  ford:
+  - nyt: hn
+    ert:
+    - december
+- szo: piir
+  ford:
+  - nyt: hn
+    ert:
+    - hétfő
+- szo: ma#gal'vAr
+  alt:
+  - ma#gal
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - kedd
+- szo: budh'vAr
+  alt:
+  - budh
+  ford:
+  - nyt: hn
+    ert:
+    - szerda
+- szo: bRIhaspativAr
+  ford:
+  - nyt: hn
+    ert:
+    - csütörtök
+- szo: guruvAr
+  ford:
+  - nyt: hn
+    ert:
+    - csütörtök
+- szo: jumerAt
+  ford:
+  - nyt: nn
+    ert:
+    - csütörtök
+- szo: SukravAr
+  ford:
+  - nyt: hn
+    ert:
+    - péntek
+- szo: jumA
+  ford:
+  - nyt: hn
+    ert:
+    - péntek
+- szo: saniicar
+  ford:
+  - nyt: hn
+    ert:
+    - szombat
+- szo: ravivAr
+  ford:
+  - nyt: hn
+    ert:
+    - vasárnap
+- szo: baj'nA
+  ford:
+  - nyt: tl
+    ert:
+    - megszólal
+    - el van ütve
+  - kif: ek bajA hE
+    ert:
+    - egy óra van
+  - kif: ek baje
+    ert:
+    - egy órakor
+- szo: me~
+  ford:
+  - kif: it'ne me~
+    ert:
+    - eközben

@@ -1,0 +1,389 @@
+datum: 2020-06-24
+forras:
+  nev: Vinód
+  fejezet: nyelvtan
+szavak:
+- szo: khilAnA
+  ford:
+  - nyt: t
+    ert:
+    - kínál
+- szo: paRh'vAnA
+  ford:
+  - nyt: t
+    ert:
+    - taníttat
+- szo: khil'vAnA
+  ford:
+  - nyt: t
+    ert:
+    - kínáltat
+- szo: sun'vAnA
+  ford:
+  - nyt: t
+    ert:
+    - elmondat
+- szo: likh'vAnA
+  ford:
+  - nyt: t
+    ert:
+    - írattat
+    - utasít, hogy vkivel írasson
+- szo: kar'vAnA
+  ford:
+  - nyt: t
+    ert:
+    - csináltattat
+    - utasít, hogy vkivel csináltasson
+- szo: bah's
+  ford:
+  - kif: bah's kar'nA
+    nyt: t
+    ert:
+    - vitatkozik
+  - kif: bah's honA
+    nyt: tl
+    ert:
+    - vita folyik
+- szo: manA
+  ford:
+  - kif: manA honA
+    nyt: tl
+    ert:
+    - tilos
+    - tiltva van
+- szo: toR'nA
+  ford:
+  - kif: toR DAl'nA
+    ert:
+    - ripityára tör
+- szo: paRh'nA
+  ford:
+  - kif: paRh DAl'nA
+    ert:
+    - gyorsan végigfut a szövegen
+- szo: lOT'nA
+  ford:
+  - kif: lOT jAnA
+    ert:
+    - szo: visszamegy
+      megj: oda
+  - kif: lOT AnA
+    ert:
+    - szo: visszajön
+      megj: ide
+- szo: khAnA
+  ford:
+  - kif: khA jAnA
+    ert:
+    - megeszik
+- szo: likh'nA
+  ford:
+  - kif: likh lenA
+    ert:
+    - felír magának
+  - kif: likh rakh'nA
+    ert:
+    - szo: felír
+      megj: és elteszi
+  - kif: likh choR'nA
+    ert:
+    - szo: odafirkál
+      megj: és úgy hagyja
+  - kif: likh cuk'nA
+    ert:
+    - megír
+    - befejezi az írást
+- szo: siikh'nA
+  ford:
+  - kif: siikh lenA
+    ert:
+    - megtanul
+    - elsajátít
+- szo: khol'nA
+  ford:
+  - kif: khol denA
+    ert:
+    - szo: kinyit
+      megj: vki számára
+- szo: ronA
+  ford:
+  - kif: ro denA
+    ert:
+    - sírva fakad
+- szo: bol'nA
+  ford:
+  - kif: bol uTh'nA
+    ert:
+    - hirtelen megszólal
+    - közbevág
+- szo: ha~s'nA
+  ford:
+  - kif: ha~s uTh'nA
+    ert:
+    - felnevet
+- szo: khonA
+  ford:
+  - kif: kho bETh'nA
+    ert:
+    - szo: elveszít
+      megj: felelőtlenül, gondatlanul
+- szo: kar'nA
+  ford:
+  - kif: kar bETh'nA
+    ert:
+    - rosszat tesz
+  - kif: kar rakh'nA
+    ert:
+    - elvégez
+- szo: AnA
+  ford:
+  - kif: AnA-jAnA
+    nyt: tl
+    ert:
+    - járkál
+  - kif: AnA-jAnA
+    nyt: hn
+    ert:
+    - jövés-menés
+  - kif: A paR'nA
+    ert:
+    - szo: megjelenik
+      megj: derült égből
+- szo: jAn'nA
+  ford:
+  - kif: jAn paR'nA
+    ert:
+    - tűnik
+  - kif: jAn-bujh'kar
+    ert:
+    - szándékosan
+    - szánt szándékkal
+- szo: bec'nA
+  ford:
+  - kif: bec DAl'nA
+    ert:
+    - egykettőre elad
+- szo: rok'nA
+  ford:
+  - kif: rok rakh'nA
+    ert:
+    - szo: fenntart
+      megj: pl. helyet
+- szo: lAnA
+  ford:
+  - kif: lA choR'nA
+    ert:
+    - szo: otthagy
+      megj: és tovább nem törődik vele
+- szo: phisal'nA
+  ford:
+  - nyt: tl
+    ert:
+    - megcsúszik
+- szo: gir'nA
+  ford:
+  - kif: gir paR'nA
+    ert:
+    - szo: elesik
+      megj: hirtelen
+- szo: rakh'nA
+  ford:
+  - kif: rakh choR'nA
+    ert:
+    - letesz és otthagy
+- szo: jAnA
+  ford:
+  - kif: jA cuk'nA
+    ert:
+    - már járt vhol
+- szo: pAnA
+  ford:
+  - nyt: t
+    ert:
+    - kap
+  - kif: nahii~ pAnA
+    ert:
+    - szo: nem tud vmit megtenni
+      megj: mert nem valósulhat meg
+- szo: mar'nA
+  ford:
+  - var:
+    - tipus: "perf: meghalt"
+      alak: marA marii mare
+    - tipus: "perf: halott"
+      alak: muA muii mue
+    ert:
+    - meghal
+- szo: choR'nA
+  ford:
+  - kif: ko choR'kar
+    ert:
+    - kivéve
+- szo: honA
+  ford:
+  - kif: huA
+    ert:
+    - vált
+    - lett
+  - kif: (se) hokar
+    ert:
+    - keresztül
+- szo: lenA
+  ford:
+  - kif: se lekar
+    ert:
+    - -tól fogva
+  - kif: ko lekar
+    ert:
+    - fogva
+  - kif: (yah) lo, liijie
+    ert:
+    - tessék
+- szo: chipAnA
+  ford:
+  - kif: chipAkar
+    ert:
+    - titokban
+- szo: mil'nA
+  ford:
+  - kif: mil'kar
+    ert:
+    - együtt
+- szo: viSeSh
+  ford:
+  - kif: viSeSh'kar
+    ert:
+    - különösen
+- szo: KhAs
+  ford:
+  - kif: KhAs'kar
+    ert:
+    - különösen
+- szo: ek
+  ford:
+  - kif: ek-ek kar'ke
+    ert:
+    - egyenként
+- szo: bak'nA
+  ford:
+  - nyt: tl
+    ert:
+    - össze-vissza beszél
+- szo: samajh'nA
+  ford:
+  - nyt: t tl
+    ert:
+    - ért
+- szo: hAr'nA
+  ford:
+  - nyt: t tl
+    ert:
+    - veszít
+- szo: jiit'nA
+  ford:
+  - nyt: t tl
+    ert:
+    - nyer
+- szo: sunAii
+  ford:
+  - nyt: nn
+    ert:
+    - hallás
+  - kif: sunAii denA
+    nyt: tl
+    ert:
+    - hallatszik
+- szo: jii
+  ford:
+  - kif: jii cAh'nA
+    ert:
+    - akaródzik
+- szo: paR'nA
+  ford:
+  - nyt: tl
+    ert:
+    - esik
+    - elhelyezkedik
+    - (ott) van
+- szo: abhii
+  ford:
+  - kif: abhii-abhii
+    ert:
+    - éppen most
+- szo: rAjya
+  ford:
+  - nyt: hn
+    ert:
+    - királyság
+    - királyi pozíció
+  - kif: rAjya kar'nA
+    nyt: t
+    ert:
+    - uralkodik
+- szo: dar'bAr
+  ford:
+  - nyt: hn
+    ert:
+    - (királyi) udvar
+- szo: ba#d
+  ford:
+  - kif: ba#d ho jAnA
+    ert:
+    - eláll
+- szo: siinA
+  ford:
+  - nyt: t
+    ert:
+    - varr
+- szo: mAno~
+  ford:
+  - ert:
+    - mintha
+- szo: jhaR'nA
+  ford:
+  - nyt: tl
+    ert:
+    - fakad
+- szo: bhojan
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - étkezés
+- szo: kalA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - művészet
+- szo: ubAU
+  ford:
+  - nyt: mn
+    ert:
+    - unalmas
+- szo: se
+  ford:
+  - nyt: ht
+    ert:
+    - által
+- szo: hAth
+  ford:
+  - kif: ke hAth
+    nyt: ht
+    ert:
+    - által
+- szo: pratidin
+  ford:
+  - nyt: ht
+    ert:
+    - minden nap
+    - folyton
+- szo: bahudhA
+  szarm: S
+  ford:
+  - nyt: ht
+    ert:
+    - sokszor
+    - gyakran
+    - általában

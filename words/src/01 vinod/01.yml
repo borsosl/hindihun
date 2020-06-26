@@ -45,22 +45,24 @@ szavak:
   ford:
   - nyt: tl
     var:
-    - tipus: jelen e/1
-      alak: hU~
-    - tipus: e/2 e/3
-      alak: hE
-    - tipus: t/1 t/3
-      alak: hE~
-    - tipus: t/2
-      alak: ho
-    - tipus: múlt hn 1sz
-      alak: thA
-    - tipus: tbsz
-      alak: the
-    - tipus: nn 1sz
-      alak: thii
-    - tipus: tbsz
-      alak: thii~
+    - tipus: jelen
+      alak: hU~ hE hE~ ho
+    - tipus: impf
+      alak: hotA hotii hote hotii~
+    - tipus: múlt
+      alak: thA thii the thii~
+    - tipus: perf
+      alak: huA huii hue
+    - tipus: jövő hn
+      alak: hU~gA hogA ho~ge hoge
+    - tipus: nn
+      alak: hU~gii hogii ho~gii hogii
+    - tipus: köt
+      alak: ho~ ho
+    - tipus: köt ritkább
+      alak: hoU~ hU~ hove hove~ hoe hoe~ hoy hoya~ hoo
+    - tipus: felsz tbsz
+      alak: hoie hUjie
     ert:
     - van
 - szo: mE~
@@ -195,6 +197,11 @@ szavak:
 - szo: kar'nA
   ford:
   - nyt: t
+    var:
+    - tipus: perf
+      alak: kiyA kii kie
+    - tipus: felsz tbsz
+      alak: kiijie
     ert:
     - csinál
 - szo: upanyAs
@@ -356,10 +363,12 @@ szavak:
     - -től
 - szo: bahut
   ford:
-  - nyt: mn ht
+  - nyt: mn
+    ert:
+    - sok
+  - nyt: ht
     ert:
     - nagyon
-    - sok
 - szo: dUr
   ford:
   - nyt: mn

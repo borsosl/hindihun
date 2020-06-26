@@ -53,6 +53,9 @@ szavak:
 - szo: sonA
   ford:
   - nyt: tl
+    var:
+    - tipus: felsz
+      alak: so soo
     ert:
     - alszik
 - szo: pustakAlay
@@ -649,6 +652,17 @@ szavak:
 - szo: denA
   ford:
   - nyt: t
+    var:
+    - tipus: perf
+      alak: diyA dii die
+    - tipus: jövő hn
+      alak: dU~gA degA de~ge doge
+    - tipus: nn
+      alak: dU~gii degii de~gii dogii
+    - tipus: köt
+      alak: dU~ de de~ do
+    - tipus: felsz
+      alak: do diijie
     ert:
     - ad
 - szo: kaii
@@ -938,6 +952,17 @@ szavak:
 - szo: lenA
   ford:
   - nyt: t
+    var:
+    - tipus: perf
+      alak: liyA lii lie
+    - tipus: jövő hn
+      alak: lU~gA legA le~ge loge
+    - tipus: nn
+      alak: lU~gii legii le~gii logii
+    - tipus: köt
+      alak: lU~ le le~ lo
+    - tipus: felsz
+      alak: lo liijie
     ert:
     - vesz
     - fog

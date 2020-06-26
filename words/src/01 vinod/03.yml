@@ -3,14 +3,15 @@ forras:
   nev: Vinód
   fejezet: 3
 szavak:
-- szo: baje
+- szo: baj'nA
   ford:
   - kif: chah baje
     ert:
     - hat órakor
-- szo: As-pAs
+- szo: pAs
   ford:
-  - nyt: ht
+  - kif: As-pAs
+    nyt: ht
     ert:
     - körül
     - közel
@@ -131,6 +132,9 @@ szavak:
 - szo: piinA
   ford:
   - nyt: t
+    var:
+    - tipus: felsz
+      alak: pio piyo piijie
     ert:
     - iszik
 - szo: ATh
@@ -222,6 +226,11 @@ szavak:
 - szo: jAnA
   ford:
   - nyt: tl
+    var:
+    - tipus: perf
+      alak: gayA gaii gae
+    - tipus: perf pass
+      alak: jAyA
     ert:
     - megy
 - szo: Khud
