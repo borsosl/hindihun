@@ -22,6 +22,10 @@ export interface AnalyzeInfo {
     oldWords: AnalyzePrevWord[];
 }
 
+export interface ReplaceHistory {
+    [key: string]: SourceFileMap[];
+}
+
 export interface SolrHindihunDocument {
     doc: string;
     title: string;

@@ -3,8 +3,8 @@ import {processSourceDir} from './process-source-directory';
 import {updateDB} from './update-db';
 
 interface Options {
-    solr: string;     // eg. http://localhost:8983/solr/hindihun
-    analyze: string;
+    solr: string;       // eg. http://localhost:8983/solr/hindihun
+    analyze: string;    // file path ending|all|almost
     path: string;
 }
 

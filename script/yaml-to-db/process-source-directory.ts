@@ -1,25 +1,29 @@
 import * as fs from 'fs';
 import * as YAML from 'yaml';
 import {DictEntriesFile, Szavak} from '../common/schema';
-import {OrdinalsMap, SourceFileMap, WordsMap} from './model';
-import {analyze} from './analyze';
+import {OrdinalsMap, ReplaceHistory, SourceFileMap, WordsMap} from './model';
+import {analyze, analyzeAll} from './analyze';
 
 const startsWithNumber = /^\d/;
 const startsWithNumberEndsWithYml = /^\d.*\.yml$/;
 let words: WordsMap;
 let ordinals: OrdinalsMap;
 let sourceFiles: SourceFileMap;
+let replaceHistory: ReplaceHistory;
 
 export function processSourceDir(srcPath: string, analyzePath: string) {
     words = {};
     ordinals = {};
     sourceFiles = {};
+    replaceHistory = {};
     const names: string[] = fs.readdirSync(srcPath);
     names.sort();
     for(const name of names)
         if(startsWithNumber.test(name))
             if(processBookDir(srcPath + '/' + name, analyzePath))
                 break;
+    if(analyzePath && analyzePath.startsWith('al'))
+        analyzeAll(analyzePath, words, ordinals, sourceFiles, replaceHistory);
     return words;
 }
 
@@ -35,7 +39,7 @@ function processBookDir(bookPath: string, analyzePath: string) {
 
 function processFile(fname: string, analyzePath: string) {
     console.log(fname);
-    const analyzeThis = analyzePath && fname.endsWith(analyzePath);
+    const analyzeThis = analyzePath && !analyzePath.startsWith('al') && fname.endsWith(analyzePath);
     const txt = fs.readFileSync(fname);
     const entries: DictEntriesFile = YAML.parse(txt.toString());
 
@@ -82,6 +86,8 @@ function replaceWith(wordEntry: Szavak, analyzePath: string, analyzeThis: boolea
     let ord = ordinals[wordEntry.szo] || 1;
     const newWd: Szavak[] = [];
     const newSrc: string[] = [];
+    const historyItem: SourceFileMap = {};
+    const analyzeAll = analyzePath === 'all';
     for(let i = 1; i <= ord; i++) {
         const versionKey = i === 1 ? wordEntry.szo : `${wordEntry.szo}÷×${i}`;
         const oldEntry = words[versionKey];
@@ -95,8 +101,11 @@ function replaceWith(wordEntry: Szavak, analyzePath: string, analyzeThis: boolea
                 newSrc.push(sourceFiles[versionKey]);
         }
         delete words[versionKey];
-        if(analyzePath)
+        if(analyzePath) {
+            if(analyzeAll)
+                historyItem[versionKey] = sourceFiles[versionKey];
             delete sourceFiles[versionKey];
+        }
     }
     ord = newWd.length;
     ordinals[wordEntry.szo] = ord;
@@ -111,6 +120,11 @@ function replaceWith(wordEntry: Szavak, analyzePath: string, analyzeThis: boolea
             sourceFiles[versionKey] = newSrc[i - 1];
     }
 
+    if(analyzeAll) {
+        if(!replaceHistory[wordEntry.szo])
+            replaceHistory[wordEntry.szo] = [];
+        replaceHistory[wordEntry.szo].push(historyItem);
+    }
     if(analyzeThis) {
         analyze(wordEntry, words, ordinals, sourceFiles);
     }
