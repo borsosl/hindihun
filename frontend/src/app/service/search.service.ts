@@ -5,7 +5,7 @@ import {ResultOrError} from '../../../../backend/app/src/main/helper/error';
 import {SolrResponse} from '../../../../backend/app/src/main/model/solr';
 import {ActivatedRouteSnapshot, Resolve, Router} from '@angular/router';
 import {take} from 'rxjs/operators';
-import {processLine as ktod} from '../../../../script/ktrans-to-unicode/process-unicode-text';
+import {processLine as devaToKtrans} from '../../../../script/ktrans-to-unicode/process-unicode-text';
 import {SearchType} from '../../../../script/common/model';
 
 const prefixSplitter = /^(([fhm])\s+)?(.*)/;
@@ -35,7 +35,7 @@ export class SearchService implements Resolve<any> {
             default: searchType = SearchType.title; break;
         }
         const sanitizedInput = prefix ? `${prefix} ${searchExpression}` : searchExpression;
-        this.request(searchType, ktod(searchExpression, false), sanitizedInput);
+        this.request(searchType, devaToKtrans(searchExpression, false), sanitizedInput);
     }
 
     private request(searchType: SearchType, searchExpression: string, sanitizedInput: string) {
