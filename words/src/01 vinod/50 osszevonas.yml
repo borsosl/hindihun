@@ -1,0 +1,1565 @@
+datum: 2020-06-27
+forras:
+  nev: Vinód
+  fejezet: több
+szavak:
+- szo: ek
+  lecserel: "1,2,3=1"
+  ford:
+  - nyt: szn
+    ert:
+    - egy
+    - "1"
+  - kif: ek-Adh
+    nyt: mn
+    ert:
+    - egy-két
+    - néhány
+  - kif: ek-ek kar'ke
+    ert:
+    - egyenként
+- szo: jii
+  lecserel: "2,3=1"
+  ford:
+  - nyt: hn
+    ert:
+    - élet
+    - lélek
+    - belső én
+  - kif: jii cAh'nA
+    ert:
+    - akaródzik
+- szo: likh'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: t
+    ert:
+    - ír
+  - kif: likh lenA
+    ert:
+    - felír magának
+  - kif: likh rakh'nA
+    ert:
+    - szo: felír
+      megj: és elteszi
+  - kif: likh choR'nA
+    ert:
+    - szo: odafirkál
+      megj: és úgy hagyja
+  - kif: likh cuk'nA
+    ert:
+    - megír
+    - befejezi az írást
+- szo: kar'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: t
+    var:
+    - tipus: perf
+      alak: kiyA kii kie
+    - tipus: felsz tbsz
+      alak: kiijie
+    ert:
+    - csinál
+  - kif: kar bETh'nA
+    ert:
+    - rosszat tesz
+  - kif: kar rakh'nA
+    ert:
+    - elvégez
+- szo: se
+  lecserel: "1,2,3=1"
+  ford:
+  - nyt: nt
+    ert:
+    - -tól
+    - -től
+  - kif: me~ se
+    nyt: nt
+    ert:
+    - közül
+  - nyt: ht
+    ert:
+    - által
+- szo: rakh'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: t
+    ert:
+    - tesz
+    - helyez
+  - kif: rakh choR'nA
+    ert:
+    - letesz és otthagy
+- szo: viSeSh
+  lecserel: "1,2=1"
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - különös
+    - különleges
+  - kif: viSeSh rUp se
+    ert:
+    - különlegesen
+    - főleg
+  - kif: viSeSh'kar
+    ert:
+    - különösen
+- szo: jAnA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: tl
+    var:
+    - tipus: perf
+      alak: gayA gaii gae
+    - tipus: perf pass
+      alak: jAyA
+    ert:
+    - megy
+  - kif: jA cuk'nA
+    ert:
+    - már járt vhol
+- szo: choR'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: t
+    ert:
+    - otthagy
+    - elkísér
+    - elvisz vmeddig
+  - kif: ko choR'kar
+    ert:
+    - kivéve
+- szo: bec'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: t
+    ert:
+    - árul
+    - árusít
+  - kif: bec'ne vAlA
+    nyt: hn
+    ert:
+    - árus
+  - kif: bec DAl'nA
+    ert:
+    - egykettőre elad
+- szo: mil'nA
+  lecserel: "1,2,3,4=1"
+  ford:
+  - nyt: tl
+    ert:
+    - adódik
+    - találkozik
+  - kif: "* se mil'nA"
+    ert:
+    - szo: találkozik vkivel
+      megj: előzetes megbeszélés szerint
+  - kif: "* ko mil'nA"
+    ert:
+    - szo: találkozik vkivel
+      megj: véletlenül összefut
+  - kif: mil'kar
+    ert:
+    - együtt
+  - kif: mil'nA-jul'nA
+    nyt: tl
+    ert:
+    - gyakran találkozik
+    - összejön
+    - hasonlít
+  - nyt: tl
+    ert:
+    - (az óra) igazítva van
+- szo: lOT'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: tl
+    ert:
+    - visszatér
+  - kif: lOT jAnA
+    ert:
+    - szo: visszamegy
+      megj: oda
+  - kif: lOT AnA
+    ert:
+    - szo: visszajön
+      megj: ide
+- szo: ba#d
+  lecserel: "1,2,3=1"
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - zárt
+    - kötött
+  - kif: ba#d rah'nA
+    nyt: tl
+    ert:
+    - be van zárva
+  - kif: ba#d kar'nA
+    nyt: t
+    ert:
+    - bezár
+  - kif: fon ba#d kar'nA
+    ert:
+    - leteszi a telefont
+  - kif: ba#d ho jAnA
+    ert:
+    - eláll
+- szo: toR'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: t
+    ert:
+    - tör
+    - szed
+  - kif: toR DAl'nA
+    ert:
+    - ripityára tör
+- szo: lAnA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: t
+    ert:
+    - hoz
+  - kif: lA choR'nA
+    ert:
+    - szo: otthagy
+      megj: és tovább nem törődik vele
+- szo: siikh'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: t
+    ert:
+    - tanul
+  - kif: siikh lenA
+    ert:
+    - megtanul
+    - elsajátít
+- szo: KhAs
+  lecserel: "1,2=1"
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - különleges
+    - sajátos
+    - magán-
+  - kif: KhAs'kar
+    ert:
+    - különösen
+- szo: manA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: mn nvált
+    ert:
+    - tilos
+  - kif: "* se manA kar'nA"
+    nyt: t
+    ert:
+    - eltilt vmitől
+    - megtilt
+  - kif: manA honA
+    nyt: tl
+    ert:
+    - tilos
+    - tiltva van
+- szo: bol'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: tl
+    ert:
+    - beszél
+    - szól
+  - nyt: t
+    ert:
+    - mond
+  - kif: bol uTh'nA
+    ert:
+    - hirtelen megszólal
+    - közbevág
+- szo: khol'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: t
+    ert:
+    - nyit
+  - kif: khol denA
+    ert:
+    - szo: kinyit
+      megj: vki számára
+- szo: ha~s'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: tl
+    ert:
+    - nevet
+    - mosolyog
+  - kif: ha~s uTh'nA
+    ert:
+    - felnevet
+- szo: bah's
+  lecserel: "1,2=1"
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - vita
+  - kif: bah's kar'nA
+    nyt: t
+    ert:
+    - vitatkozik
+  - kif: bah's honA
+    nyt: tl
+    ert:
+    - vita folyik
+- szo: khonA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: t
+    ert:
+    - elveszít
+  - kif: kho bETh'nA
+    ert:
+    - szo: elveszít
+      megj: felelőtlenül, gondatlanul
+- szo: gir'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: tl
+    ert:
+    - esik
+    - leesik
+  - kif: gir paR'nA
+    ert:
+    - szo: elesik
+      megj: hirtelen
+- szo: hAth
+  lecserel: "1,2=1"
+  ford:
+  - nyt: hn
+    ert:
+    - kéz
+  - kif: ke hAth
+    nyt: ht
+    ert:
+    - által
+- szo: abhii
+  lecserel: "1,2=1"
+  ford:
+  - nyt: ht
+    ert:
+    - éppen most
+    - rögtön
+  - kif: abhii-abhii
+    ert:
+    - éppen most
+- szo: paricay
+  lecserel: "1,2=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - ismeretség
+    - bemutatkozás
+    - bemutatás
+  - kif: "* se * kA paricay karAnA"
+    nyt: t
+    ert:
+    - bemutat vkit vkinek
+- szo: pich'lA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: mn
+    ert:
+    - előző
+    - korábbi
+  - nyt: mn
+    ert:
+    - hátul levő
+    - elmúlt
+- szo: honA
+  lecserel: "1,2,3=1"
+  ford:
+  - nyt: tl
+    var:
+    - tipus: jelen
+      alak: hU~ hE hE~ ho
+    - tipus: impf
+      alak: hotA hotii hote hotii~
+    - tipus: múlt
+      alak: thA thii the thii~
+    - tipus: perf
+      alak: huA huii hue
+    - tipus: jövő hn
+      alak: hU~gA hogA ho~ge hoge
+    - tipus: nn
+      alak: hU~gii hogii ho~gii hogii
+    - tipus: köt
+      alak: ho~ ho
+    - tipus: köt ritkább
+      alak: hoU~ hU~ hove hove~ hoe hoe~ hoy hoya~ hoo
+    - tipus: felsz tbsz
+      alak: hoie hUjie
+    ert:
+    - van
+  - ert:
+    - kell
+  - kif: huA
+    ert:
+    - vált
+    - lett
+  - kif: (se) hokar
+    ert:
+    - keresztül
+- szo: me~
+  lecserel: "1,2=1"
+  ford:
+  - nyt: nt
+    ert:
+    - -ban
+    - -ben
+  - kif: it'ne me~
+    ert:
+    - eközben
+- szo: paRh'nA
+  lecserel: "1,2,3=1"
+  ford:
+  - nyt: t
+    ert:
+    - olvas
+    - tanul
+  - kif: paRh DAl'nA
+    ert:
+    - gyorsan végigfut a szövegen
+  - kif: paRhA-likhA
+    ert:
+    - tanult
+    - iskolázott
+- szo: khAnA
+  lecserel: "1,2,3,4=1"
+  ford:
+  - nyt: hn
+    ert:
+    - étel
+  - nyt: t
+    ert:
+    - eszik
+  - kif: khA jAnA
+    ert:
+    - megeszik
+  - kif: khAnA banAnA
+    nyt: t
+    ert:
+    - főz
+  - kif: khAnA-piinA
+    nyt: hn
+    ert:
+    - evés-ivás
+- szo: baRA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: mn
+    ert:
+    - nagy
+  - nyt: ht
+    ert:
+    - nagyon
+- szo: sAm'ne
+  lecserel: "1,2=1"
+  ford:
+  - nyt: ht
+    ert:
+    - szemközt
+    - szemben
+  - kif: ke sAm'ne
+    nyt: nt
+    ert:
+    - előtt
+    - szemben
+  - kif: Am'ne-sAm'ne
+    ert:
+    - szemben
+    - szemközt
+- szo: kah'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: t
+    ert:
+    - mond
+  - kif: "* ko * kah'nA"
+    ert:
+    - nevez vmit vminek (alapeset)
+  - kif: "* se (kar'ne) ke lie kah'nA"
+    ert:
+    - azt mondja vkinek, hogy csináljon vmit
+- szo: AnA
+  lecserel: "1,2,3=1"
+  ford:
+  - nyt: tl
+    ert:
+    - jön
+  - nyt: tl
+    ert:
+    - jár
+  - kif: "* ko * AnA"
+    ert:
+    - vki jártas vmiben
+    - vkinek megy vmi
+  - kif: AnA-jAnA
+    nyt: tl
+    ert:
+    - járkál
+  - kif: AnA-jAnA
+    nyt: hn
+    ert:
+    - jövés-menés
+  - kif: A paR'nA
+    ert:
+    - szo: megjelenik
+      megj: derült égből
+- szo: to
+  lecserel: "1,2=1"
+  ford:
+  - nyt: kt
+    ert:
+    - akkor
+  - nyt: nvált
+    ert:
+    - bizony
+    - nos
+    - hát
+  - ert:
+    - ami azt illeti
+  - kif: nahii~ to
+    ert:
+    - (más)különben
+- szo: jAn'nA
+  lecserel: "1,2,3,4=1"
+  ford:
+  - nyt: t
+    ert:
+    - ismer
+    - tud
+  - kif: jAn paR'nA
+    ert:
+    - tűnik
+  - kif: jAn-bujh'kar
+    ert:
+    - szándékosan
+    - szánt szándékkal
+  - kif: jAnA-pah'cAnA
+    ert:
+    - ismerős
+  - kif: jAnA-mAnA
+    nyt: mn
+    ert:
+    - elismert
+- szo: gar'mii
+  lecserel: "1,2=1"
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - hőség
+    - forróság
+  - kif: gar'miyA~
+    nyt: tbsz
+    ert:
+    - nyár
+  - kif: "* ko gar'mii lag'nA"
+    nyt: tl
+    ert:
+    - melege van
+- szo: denA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: t
+    var:
+    - tipus: perf
+      alak: diyA dii die
+    - tipus: jövő hn
+      alak: dU~gA degA de~ge doge
+    - tipus: nn
+      alak: dU~gii degii de~gii dogii
+    - tipus: köt
+      alak: dU~ de de~ do
+    - tipus: felsz
+      alak: do diijie
+    ert:
+    - ad
+  - kif: (kar'ne) denA
+    ert:
+    - megenged vmit (csinálni)
+- szo: lenA
+  lecserel: "1,2,3=1"
+  ford:
+  - nyt: t
+    var:
+    - tipus: perf
+      alak: liyA lii lie
+    - tipus: jövő hn
+      alak: lU~gA legA le~ge loge
+    - tipus: nn
+      alak: lU~gii legii le~gii logii
+    - tipus: köt
+      alak: lU~ le le~ lo
+    - tipus: felsz
+      alak: lo liijie
+    ert:
+    - vesz
+    - fog
+  - kif: se lekar
+    ert:
+    - -tól fogva
+  - kif: ko lekar
+    ert:
+    - fogva
+  - kif: (yah) lo, liijie
+    ert:
+    - tessék
+  - kif: lenA-denA
+    ert:
+    - adás-vétel
+- szo: baj'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: tl
+    ert:
+    - megszólal
+    - el van ütve
+  - kif: ek bajA hE
+    ert:
+    - egy óra van
+  - kif: ek baje
+    ert:
+    - egy órakor
+  - kif: chah baje
+    ert:
+    - hat órakor
+- szo: lag'nA
+  lecserel: "1,2,3=1"
+  ford:
+  - nyt: tl
+    ert:
+    - illeszkedik
+  - nyt: tl
+    ert:
+    - tűnik
+    - látszik
+    - érződik
+  - kif: acchA lag'nA
+    nyt: tl
+    ert:
+    - tetszik
+  - kif: "* me~ * (samay) lag'tA hE"
+    ert:
+    - vmivel * (idő) telik
+    - vmi * (ideig) tart
+  - kif: (kar'ne) lag'nA
+    nyt: tl
+    ert:
+    - elkezd vmi csinálni
+- szo: zarUrat
+  lecserel: "1,2=1"
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - szükség(esség)
+    - kellés
+- szo: cAhie
+  lecserel: "1,2=1"
+  ford:
+  - nyt: tl
+    ert:
+    - kell
+    - szükség van
+  - kif: cAhie thA
+    ert:
+    - kellett
+    - kellett volna
+  - kif: nahii~ (kar'nA) cAhie
+    ert:
+    - nem szabad
+- szo: AShARh
+  lecserel: "1,2=1"
+  ford:
+  - nyt: hn
+    ert:
+    - az indiai naptár negyedik hónapja
+    - június-július hónap
+    - esős évszak
+- szo: vicAr
+  lecserel: "1,2=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - vélemény
+  - kif: vicAr kar'nA
+    nyt: t
+    ert:
+    - gondolkozik
+- szo: burA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: mn
+    ert:
+    - rossz
+  - kif: "* ko burA lag'nA"
+    nyt: tl
+    ert:
+    - nem tetszik vkinek
+- szo: san_
+  lecserel: "1,2=1"
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - év
+  - ert:
+    - időszámítás szerint
+    - i.sz.
+- szo: TUT'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: tl
+    ert:
+    - törik
+  - kif: TUTA-phUTA
+    ert:
+    - törött
+    - ócska
+- szo: jan'sa#khyA
+  lecserel: "1,2=1"
+  szarm: S+S
+  ford:
+  - nyt: nn
+    ert:
+    - lakosság
+    - népesség
+- szo: paR'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: tl
+    ert:
+    - esik
+    - elhelyezkedik
+    - (ott) van
+  - ert:
+    - kell
+    - muszáj
+- szo: par
+  lecserel: "1,3=1"
+  ford:
+  - nyt: nt
+    ert:
+    - -on
+    - -en
+    - -ön
+  - kif: par se
+    nyt: nt
+    ert:
+    - -ról
+    - -ről
+  - kif: samay par
+    ert:
+    - időben
+- szo: kuch
+  lecserel: "1,2=1"
+  ford:
+  - nyt: nv
+    ert:
+    - valami
+    - valamilyen
+    - valamennyi
+    - néhány
+    - egy kevés
+  - kif: jo kuch
+    ert:
+    - bármi
+    - akármi
+  - kif: sab kuch
+    ert:
+    - minden
+  - kif: bahut kuch
+    ert:
+    - sok minden
+  - kif: kuch kuch
+    ert:
+    - valami(cske)
+    - egy kicsi
+  - kif: kuch na kuch
+    ert:
+    - valami biztosan
+  - kif: Or kuch, kuch Or
+    ert:
+    - valami más
+- szo: kabhii
+  lecserel: "1,2=1"
+  ford:
+  - nyt: ht
+    ert:
+    - néha
+    - olykor
+  - ert:
+    - valamikor
+  - kif: kabhii-kabhii
+    ert:
+    - néha
+    - olykor
+- szo: kyA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: nv
+    var:
+    - tipus: nt 1sz
+      alak: kis
+    - tipus: tbsz
+      alak: kin
+    - tipus: t/r 1sz
+      alak: kise
+    - tipus: tbsz
+      alak: kinhe~
+    ert:
+    - mi?
+    - miféle?
+    - milyen?
+  - ert:
+    - szo: vajon
+      megj: eldöntendő kérdésben
+- szo: tarah
+  lecserel: "1,2=1"
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - fajta
+    - féle
+    - mód
+  - kif: kii tarah
+    nyt: nt
+    ert:
+    - módján
+  - kif: tarah-tarah kA
+    ert:
+    - különféle
+- szo: piiche
+  lecserel: "1,2=1"
+  ford:
+  - nyt: ht
+    ert:
+    - mögött
+    - aztán
+  - kif: ke piiche, se piiche
+    nyt: nt
+    ert:
+    - mögött
+    - mögé
+- szo: taraf
+  lecserel: "1,2=1"
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - oldal
+    - irány
+    - széle vminek
+  - kif: kii taraf
+    nyt: nt
+    ert:
+    - felé
+    - irányában
+    - -hoz
+    - -hez
+    - -höz
+- szo: pah'le
+  lecserel: "1,2=1"
+  ford:
+  - nyt: ht
+    ert:
+    - először
+  - kif: ke pah'le, se pah'le
+    nyt: nt
+    ert:
+    - szo: előtt
+      megj: időhatározó
+    - korábban
+- szo: koii
+  lecserel: "1,2=1"
+  ford:
+  - nyt: nv
+    var:
+    - tipus: nt 1sz
+      alak: kisii
+    - tipus: tbsz
+      alak: kinhii~
+    ert:
+    - valaki
+  - nyt: mn
+    ert:
+    - valamilyen
+  - nyt: nv
+    ert:
+    - valamiféle
+    - néhány
+  - ert:
+    - szo: körülbelül
+      megj: számnév előtt
+    pl:
+    - ered: koii chah
+      ford: kb. hat
+  - kif: jo koii
+    ert:
+    - bárki
+    - akárki
+  - kif: sab koii
+    ert:
+    - mindenki
+  - kif: har koii
+    ert:
+    - mindenki
+    - minden egyes
+  - kif: koii na koii
+    ert:
+    - valaki biztosan
+  - kif: Or koii, koii Or
+    ert:
+    - még valaki
+    - valaki más
+  - kif: koii * koii *
+    ert:
+    - az egyik … a másik …
+- szo: dekh'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: t
+    ert:
+    - néz
+    - lát
+  - kif: dekh'ne me~
+    ert:
+    - kinézetre
+    - vhogy kinéz
+- szo: kahii~
+  lecserel: "1,2=1"
+  ford:
+  - nyt: ht
+    ert:
+    - valahol
+    - valahová
+    - valamerre
+    - valahogyan
+- szo: jagah
+  lecserel: "1,2=1"
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - hely
+  - kif: kii jagah
+    nyt: nt
+    ert:
+    - helyében
+- szo: koTi
+  lecserel: "1,2=1"
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - kategória
+    - fokozat
+  - nyt: szn
+    ert:
+    - tízmillió
+    - "10000000"
+- szo: SUnya
+  lecserel: "1,2=1"
+  alt:
+  - sUn
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - üres
+    - elhagyatott
+  - nyt: hn
+    ert:
+    - üresség
+    - vákum
+  - nyt: szn
+    ert:
+    - nulla
+    - "0"
+- szo: Or
+  lecserel: "1,2=1"
+  ford:
+  - nyt: kt
+    ert:
+    - és
+  - nyt: ht
+    ert:
+    - továbbá
+    - még
+  - kif: Or bhii
+    nyt: ht
+    ert:
+    - még inkább
+  - kif: Oro~
+    ert:
+    - mások
+    pl:
+    - ered: Oro~ kA vicAr
+      ford: mások véleménye
+- szo: baRh'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: tl
+    ert:
+    - növekszik
+    - (előre) megy
+  - kif: se baRh'kar
+    nyt: ht
+    ert:
+    - inkább
+- szo: choTA
+  lecserel: "1,2,3=1"
+  ford:
+  - nyt: mn
+    ert:
+    - kicsi
+  - kif: choTA-moTA
+    ert:
+    - apró-cseprő
+    - különféle
+  - kif: choTA paR'nA
+    nyt: tl
+    ert:
+    - kevésnek bizonyul
+- szo: pareSAn
+  lecserel: "1,2,3=1"
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - ideges
+    - izgatott
+  - kif: "* ko pareSAn kar'nA"
+    nyt: t
+    ert:
+    - zaklat
+    - idegesít
+- szo: sam'jhAnA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: t
+    ert:
+    - magyaráz
+    - megértet
+  - nyt: t
+    ert:
+    - nyugtat
+    - győzködik
+- szo: nAv
+  lecserel: "1,2=1"
+  ford:
+  - nyt: nn
+    ert:
+    - csónak
+    - hajó
+  - kif: nAv calAnA
+    nyt: t
+    ert:
+    - csónakázik
+- szo: bulAnA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: t
+    ert:
+    - hív
+    - hivat
+- szo: darSan
+  lecserel: "1,2=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - nézés
+  - nyt: tbsz
+    ert:
+    - megtekintés
+    - a templomi istenképmás rituális megtekintése
+  - kif: darSan kar'nA
+    nyt: t
+    ert:
+    - templomba megy
+    - imádkozik
+  - ert:
+    - világnézet
+    - filozófia
+- szo: binA
+  lecserel: "1,2=1"
+  alt:
+  - bin
+  szarm: S
+  ford:
+  - kif: "* (ke) binA, binA * (ke)"
+    nyt: nt elölj
+    ert:
+    - nélkül
+- szo: pAs
+  lecserel: "1,2=1"
+  ford:
+  - nyt: ht
+    ert:
+    - közel
+  - nyt: hn
+    ert:
+    - irány
+    - oldal
+  - kif: ke pAs
+    nyt: nt
+    ert:
+    - mellett
+    - közelében
+  - kif: As-pAs
+    nyt: ht
+    ert:
+    - körül
+    - közel
+  - kif: ke As-pAs
+    nyt: nt
+    ert:
+    - közelében
+    - körülötte
+- szo: pAs
+  lecserel: "2,3=2"
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - meghívókártya
+  - kif: pAs kar'nA
+    nyt: t
+    ert:
+    - vizsgát sikeresen letesz
+    - fokozatot megszerez
+- szo: bas
+  lecserel: "2=1"
+  szarm: P
+  ford:
+  - nyt: ht
+    ert:
+    - egyszóval
+    - csak
+  - nyt: nvált
+    ert:
+    - elég!
+- szo: prakAS
+  lecserel: "1,2=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - fény
+    - ragyogás
+  - nyt: hn
+    ert:
+    - férfinév
+  - kif: prakAS vyavasthA
+    nyt: nn
+    ert:
+    - világítás
+- szo: SAdii
+  lecserel: "1,2=1"
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - házasság
+    - esküvő
+  - kif: SAdii-vAdii
+    nyt: nn
+    ert:
+    - házasság és a vele kapcsolatok dolgok
+- szo: cArA
+  lecserel: "1,2=1"
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - menedék
+    - orvoslat
+- szo: milAnA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: t
+    ert:
+    - összehoz
+    - összeismertet
+  - kif: hAth milAnA
+    nyt: t
+    ert:
+    - kezet fog
+  - nyt: t
+    ert:
+    - órát igazít
+- szo: gyArah
+  lecserel: "1,2=1"
+  ford:
+  - nyt: szn
+    ert:
+    - tizenegy
+    - "11"
+- szo: patA
+  lecserel: "1,2=1"
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - tudomás
+  - ert:
+    - cím
+  - kif: "* ko patA honA"
+    ert:
+    - vki tud vmit
+- szo: Tha#DA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: mn
+    ert:
+    - hideg
+  - nyt: hn
+    ert:
+    - (hideg) üdítő
+- szo: gARii
+  lecserel: "1,2=1"
+  ford:
+  - nyt: nn
+    ert:
+    - kocsi
+  - nyt: nn
+    ert:
+    - vonat
+- szo: miiTar
+  lecserel: "1,2=1"
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - méter
+  - nyt: hn
+    ert:
+    - taxióra
+- szo: uttar
+  lecserel: "1,2=1"
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - északi
+  - nyt: hn
+    ert:
+    - észak
+  - nyt: hn
+    ert:
+    - válasz
+- szo: kAT'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: t
+    ert:
+    - vág
+  - nyt: t
+    ert:
+    - időt tölt
+- szo: rAt
+  lecserel: "1,2=1"
+  ford:
+  - nyt: nn
+    ert:
+    - éjjel
+    - éjszaka
+  - kif: Adhii rAt
+    nyt: nn
+    ert:
+    - éjfél
+- szo: julAii
+  lecserel: "1,2=1"
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - július
+- szo: vaKt
+  lecserel: "1,2=1"
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - idő
+    - időszak
+- szo: zyAdA
+  lecserel: "1,2=1"
+  szarm: A
+  ford:
+  - nyt: mn nvált
+    ert:
+    - több
+    - sok
+    - nagyon sok
+  - nyt: ht
+    ert:
+    - nagyon
+- szo: mat'lab
+  lecserel: "1,2=1"
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - jelentés
+  - ert:
+    - vagyis
+    - azaz
+- szo: pich'lA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: mn
+    ert:
+    - előző
+    - korábbi
+    - elmúlt
+  - nyt: mn
+    ert:
+    - hátul levő
+- szo: pOdhA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: hn
+    ert:
+    - növény
+    - cserje
+  - kif: pOdhA lagAnA
+    nyt: t
+    ert:
+    - növényt ültet
+- szo: gol
+  lecserel: "1,2=1"
+  ford:
+  - nyt: hn
+    ert:
+    - kerekség
+  - nyt: mn
+    ert:
+    - kerek
+    - gömbölyű
+- szo: ra#g
+  lecserel: "1,2=1"
+  ford:
+  - nyt: hn
+    ert:
+    - szín
+    - festék
+  - kif: ra#g-bira#gA
+    nyt: mn
+    ert:
+    - tarka
+    - színes
+- szo: muSkil
+  lecserel: "1,2=1"
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - nehéz
+    - bajos
+  - nyt: nn
+    ert:
+    - nehézség
+- szo: anya
+  lecserel: "1,2=1"
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - más
+    - másik
+- szo: biic
+  lecserel: "1,2=1"
+  ford:
+  - nyt: hn
+    ert:
+    - közép
+    - középső rész
+  - kif: ke biic me~
+    nyt: nt
+    ert:
+    - között
+    - közepén
+  - kif: biico~ biic
+    nyt: hn
+    ert:
+    - kellős közép
+  - kif: ke biico~ biic
+    nyt: nt
+    ert:
+    - vmi kellős közepén
+- szo: mukhya
+  lecserel: "1,2=1"
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - fő-
+    - elsődleges
+    - vezető
+  - kif: mukhya rUp se
+    ert:
+    - főleg
+- szo: jahA~
+  lecserel: "1,2=1"
+  ford:
+  - nyt: nv
+    ert:
+    - ahol
+- szo: jahAn
+  alt:
+  - jahA~
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - világ
+- szo: sardii
+  lecserel: "1,2=1"
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - hideg(ség)
+  - kif: sardiyA~
+    nyt: tbsz
+    ert:
+    - tél
+  - kif: sardii lag'nA
+    nyt: tl
+    ert:
+    - megfázni
+    - fázni
+- szo: kit'nA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: nv
+    ert:
+    - hány?
+    - mennyi?
+- szo: tAzA
+  lecserel: "1,2=1"
+  ford:
+  - nyt: mn nvált
+    ert:
+    - friss
+  - kif: tAzA kar'nA
+    nyt: t
+    ert:
+    - felfrissít
+- szo: SurU
+  lecserel: "1,2=1"
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - kezdet
+    - kezdés
+  - kif: SurU kar'nA
+    nyt: t
+    ert:
+    - kezd
+  - kif: SurU honA
+    nyt: tl
+    ert:
+    - kezdődik
+- szo: Thiik
+  lecserel: "1,2,3=1"
+  ford:
+  - nyt: mn
+    ert:
+    - jó
+    - helyes
+  - kif: Thiik se
+    ert:
+    - jól
+    - helyesen
+  - kif: Thiik kar'nA
+    nyt: t
+    ert:
+    - rendbe tesz
+- szo: bEThak
+  lecserel: "1,2=1"
+  ford:
+  - nyt: nn
+    ert:
+    - nappali
+    - fogadószoba
+  - nyt: nn
+    ert:
+    - ülés
+    - tanácskozás
+- szo: kam
+  lecserel: "1,2=1"
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - kevés
+  - nyt: ht
+    ert:
+    - kevéssé
+  - kif: kam se kam
+    ert:
+    - legalább
+- szo: Am
+  lecserel: "2=1"
+  ford:
+  - nyt: hn
+    ert:
+    - mangó
+- szo: hAl
+  lecserel: "1,2=1"
+  szarm: A
+  ford:
+  - kif: hAl, hAl-cAl
+    nyt: hn
+    ert:
+    - állapot
+    - hogylét
+- szo: bAt'ciit
+  lecserel: "1,2=1"
+  ford:
+  - nyt: nn
+    ert:
+    - beszélgetés
+  - kif: bAt'ciit kar'nA
+    nyt: t
+    ert:
+    - beszélget
+- szo: or
+  lecserel: "1,2=1"
+  ford:
+  - nyt: nn
+    ert:
+    - oldal
+    - irány
+    - széle vminek
+  - kif: kii or
+    nyt: nt
+    ert:
+    - felé
+    - irányába
+  - kif: (ke) cAro~ or
+    ert:
+    - négy oldalról
+    - körös-körül
