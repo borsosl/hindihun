@@ -38,6 +38,7 @@ function processBookDir(bookPath: string, analyzePath: string) {
 }
 
 function processFile(fname: string, analyzePath: string) {
+    // if(!fname.endsWith('__.yml')) return false;   // debug yaml file
     console.log(fname);
     const analyzeThis = analyzePath && !analyzePath.startsWith('al') && fname.endsWith(analyzePath);
     const txt = fs.readFileSync(fname);
@@ -46,7 +47,7 @@ function processFile(fname: string, analyzePath: string) {
     for(const word of entries.szavak.keys()) {
         const wordEntry = entries.szavak[word];
         if(wordEntry.lecserel)
-            replaceWith(wordEntry, analyzePath, analyzeThis);
+            replaceWith(wordEntry, analyzePath, analyzeThis, fname);
         else if(words[wordEntry.szo]) {
             if(analyzeThis) {
                 analyze(wordEntry, words, ordinals, sourceFiles);
@@ -73,7 +74,7 @@ function processFile(fname: string, analyzePath: string) {
     return analyzeThis;
 }
 
-function replaceWith(wordEntry: Szavak, analyzePath: string, analyzeThis: boolean) {
+function replaceWith(wordEntry: Szavak, analyzePath: string, analyzeThis: boolean, fname: string) {
     const replace = wordEntry.lecserel;
     delete wordEntry.lecserel;
 
@@ -93,7 +94,7 @@ function replaceWith(wordEntry: Szavak, analyzePath: string, analyzeThis: boolea
         const oldEntry = words[versionKey];
         if(newWd.length + 1 === insertIx) {
             newWd.push(wordEntry);
-            newSrc.push(analyzePath);
+            newSrc.push(fname);
         }
         if(!deleteIx.includes(''+i)) {
             newWd.push(oldEntry);
@@ -110,12 +111,13 @@ function replaceWith(wordEntry: Szavak, analyzePath: string, analyzeThis: boolea
     ord = newWd.length;
     ordinals[wordEntry.szo] = ord;
     for(let i = 1; i <= ord; i++) {
+        const word = newWd[i - 1];
         if(ord === 1)
-            delete wordEntry.sorsz;
+            delete word.sorsz;
         else
-            wordEntry.sorsz = i;
+            word.sorsz = i;
         const versionKey = i === 1 ? wordEntry.szo : `${wordEntry.szo}÷×${i}`;
-        words[versionKey] = newWd[i - 1];
+        words[versionKey] = word;
         if(analyzePath)
             sourceFiles[versionKey] = newSrc[i - 1];
     }

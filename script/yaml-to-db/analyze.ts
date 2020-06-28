@@ -1,7 +1,7 @@
+import * as fs from "fs";
 import * as YAML from 'yaml';
 import {
-    AnalyzeInfo,
-    AnalyzePrevWord,
+    AnalyzeItem,
     OrdinalsMap,
     ReplaceHistory,
     SourceFileMap,
@@ -11,17 +11,21 @@ import {Szavak} from '../common/schema';
 
 export function analyze(wordEntry: Szavak, words: WordsMap, ordinals: OrdinalsMap, sourceFiles: SourceFileMap) {
     let ord = ordinals[wordEntry.szo] || 1;
-    const old: AnalyzePrevWord[] = [];
+    const defs: AnalyzeItem[] = [];
     for(let i = 1; i <= ord; i++) {
         const versionKey = i === 1 ? wordEntry.szo : `${wordEntry.szo}÷×${i}`;
-        old.push({
+        defs.push({
             sourceFile: sourceFiles[versionKey],
             word: words[versionKey]
         });
     }
-    const info: AnalyzeInfo = {
-        newWord: wordEntry,
-        oldWords: old
+    defs.push({
+        sourceFile: 'analyzed',
+        word: wordEntry
+    });
+    const info = {
+        title: wordEntry.szo,
+        words: defs
     };
     console.log(YAML.stringify(info));
 }
@@ -49,6 +53,10 @@ export function analyzeAll(op: string, words: WordsMap, ordinals: OrdinalsMap,
             const versionKey = i === 1 ? title : `${title}÷×${i}`;
             writeHistoryItem(versionKey, sourceFiles[versionKey], i);
         }
+    }
+    if(all) {
+        fs.writeFileSync('script/yaml-to-db/input/all-words.yml', YAML.stringify(words));
+        console.log(`Összes címszó: ${Object.keys(words).length}`);
     }
 }
 

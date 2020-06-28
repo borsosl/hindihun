@@ -12,14 +12,9 @@ export interface SourceFileMap {
     [key: string]: string;
 }
 
-export interface AnalyzePrevWord {
+export interface AnalyzeItem {
     sourceFile: string;
     word: Szavak;
-}
-
-export interface AnalyzeInfo {
-    newWord: Szavak;
-    oldWords: AnalyzePrevWord[];
 }
 
 export interface ReplaceHistory {
