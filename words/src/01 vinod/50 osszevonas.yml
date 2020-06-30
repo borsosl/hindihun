@@ -19,7 +19,7 @@ szavak:
     ert:
     - egyenként
 - szo: jii
-  lecserel: "2,3=1"
+  lecserel: "2,3=1;2"
   ford:
   - nyt: hn
     ert:
@@ -73,11 +73,15 @@ szavak:
   - nyt: nt
     ert:
     - -tól
-    - -től
+    - -ból
+    - -val
   - kif: me~ se
     nyt: nt
     ert:
     - közül
+  - nyt: ht
+    ert:
+    - óta
   - nyt: ht
     ert:
     - által
@@ -197,7 +201,7 @@ szavak:
   - kif: ba#d rah'nA
     nyt: tl
     ert:
-    - be van zárva
+    - be van zárva/csukva
   - kif: ba#d kar'nA
     nyt: t
     ert:
@@ -531,6 +535,9 @@ szavak:
     - bizony
     - nos
     - hát
+    - tehát
+    - (már)pedig
+    - viszont
   - ert:
     - ami azt illeti
   - kif: nahii~ to
@@ -753,7 +760,7 @@ szavak:
     - kell
     - muszáj
 - szo: par
-  lecserel: "1,3=1"
+  lecserel: "1,3=1;2"
   ford:
   - nyt: nt
     ert:
@@ -792,6 +799,9 @@ szavak:
     ert:
     - valami(cske)
     - egy kicsi
+  - kif: kuch nahii~
+    ert:
+    - semmi
   - kif: kuch na kuch
     ert:
     - valami biztosan
@@ -1111,7 +1121,7 @@ szavak:
     ert:
     - nélkül
 - szo: pAs
-  lecserel: "1,2=1"
+  lecserel: "1,2=1;2"
   ford:
   - nyt: ht
     ert:
@@ -1136,7 +1146,7 @@ szavak:
     - közelében
     - körülötte
 - szo: pAs
-  lecserel: "2,3=2"
+  lecserel: "2,3=2;2"
   szarm: E
   ford:
   - nyt: hn
@@ -1148,7 +1158,7 @@ szavak:
     - vizsgát sikeresen letesz
     - fokozatot megszerez
 - szo: bas
-  lecserel: "2=1"
+  lecserel: "2=1;2"
   szarm: P
   ford:
   - nyt: ht
@@ -1489,7 +1499,8 @@ szavak:
     ert:
     - jó
     - helyes
-  - kif: Thiik se
+  - kif: Thiik (se)
+    nyt: ht
     ert:
     - jól
     - helyesen
@@ -1518,11 +1529,12 @@ szavak:
   - nyt: ht
     ert:
     - kevéssé
+    - kevésbé
   - kif: kam se kam
     ert:
     - legalább
 - szo: Am
-  lecserel: "2=1"
+  lecserel: "2=1;2"
   ford:
   - nyt: hn
     ert:

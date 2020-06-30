@@ -1,0 +1,153 @@
+datum: 2020-06-29
+forras:
+  nev: Pratap
+  fejezet: 2
+szavak:
+- szo: cappal
+  ford:
+  - nyt: nn
+    ert:
+    - szandál
+    - papucs
+- szo: ciTThii
+  lecserel: "1=1"
+  szarm: Pr
+  ford:
+  - nyt: nn
+    ert:
+    - levél
+    - feljegyzés
+- szo: zyAdAtar
+  szarm: A+P
+  ford:
+  - ert:
+    - legtöbb
+    - leginkább
+    - főleg
+- szo: nArAz
+  lecserel: "1=1"
+  szarm: P+A
+  ford:
+  - nyt: mn
+    ert:
+    - haragos
+    - mérges
+    - dühös
+    - ingerült
+  - kif: "* se nArAz honA"
+    ert:
+    - elégedetlen vmivel
+- szo: pat'lA
+  lecserel: "1=1"
+  szarm: Pr
+  ford:
+  - nyt: mn
+    ert:
+    - vékony
+    - sovány
+    - karcsú
+- szo: pradUSaN
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - szennyezettség
+- szo: bil'kul
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: ht
+    ert:
+    - teljesen
+    - egészen
+  - kif: bil'kul nahii~
+    ert:
+    - egyáltalán nem
+- szo: biimAr
+  szarm: P
+  ford:
+  - ert:
+    - beteg
+- szo: beTA
+  szarm: Pr
+  ford:
+  - nyt: hn
+    ert:
+    - vki fia
+- szo: beTii
+  szarm: Pr
+  ford:
+  - nyt: nn
+    ert:
+    - vki lánya
+- szo: mAlUm
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - ismert
+    - ismeretes
+    - tudott
+  - kif: "* ko mAlUm nahii~ / honA"
+    ert:
+    - vki (nem) tudja
+- szo: meh'r'bAnii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - kedvesség
+    - szívesség
+  - kif: meh'r'bAnii kar'ke
+    ert:
+    - legyen szíves
+- szo: mEDam
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - asszony
+- szo: yA
+  szarm: P
+  ford:
+  - nyt: kt
+    ert:
+    - vagy
+- szo: vidyArthii
+  lecserel: "1=1"
+  szarm: S+S
+  ford:
+  - nyt: hn nn
+    ert:
+    - tanuló
+    - diák
+- szo: Srii
+  szarm: S
+  ford:
+  - ert:
+    - úr
+- szo: Sriimatii
+  ford:
+  - ert:
+    - hölgy
+    - feleség
+    - -né
+- szo: saKht
+  szarm: P
+  ford:
+  - ert:
+    - kemény
+    - szilárd
+    - erős
+  - ert:
+    - szigorú
+- szo: sar
+  szarm: P/E
+  ford:
+  - ert:
+    - Uram!
+  - ert:
+    - főnök
+  - ert:
+    - fej

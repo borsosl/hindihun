@@ -1,0 +1,248 @@
+datum: 2020-06-29
+forras:
+  nev: Pratap
+  fejezet: 1
+szavak:
+- szo: a~grez
+  lecserel: "1=1"
+  szarm: Pt
+  ford:
+  - nyt: hn nn
+    ert:
+    - szo: angol
+      megj: ember
+  - nyt: mn
+    ert:
+    - angol
+- szo: acchA
+  lecserel: "1=1"
+  szarm: Pan
+  ford:
+  - nyt: mn
+    ert:
+    - jó
+    - rendes
+  - ert:
+    - tényleg?
+  - ert:
+    - értem!
+- szo: am'riikan
+  szarm: E
+  ford:
+  - nyt: mn hn nn
+    ert:
+    - amerikai
+- szo: ASA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - remény
+  - ert:
+    - női név
+- szo: kAfii
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - elég
+    - elegendő
+  - nyt: ht
+    ert:
+    - sok
+    - eléggé
+- szo: KhAlii
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - üres
+    - kiadó
+- szo: gujarAtii
+  szarm: Pr
+  ford:
+  - nyt: mn
+    ert:
+    - Gujarati
+- szo: jarman
+  szarm: E
+  ford:
+  - nyt: mn hn nn
+    ert:
+    - német
+- szo: jApAnii
+  szarm: E
+  ford:
+  - nyt: mn hn nn
+    ert:
+    - japán
+- szo: jii
+  lecserel: "2=2;2"
+  ford:
+  - ert:
+    - tiszteletet kifejező nyomatékosítószó
+  - kif: jii (hA~)
+    ert:
+    - igen
+- szo: dUs'rA
+  lecserel: "1=1"
+  szarm: Pr
+  ford:
+  - nyt: szn
+    ert:
+    - második
+    - "2."
+  - nyt: nv
+    ert:
+    - másik
+    - többi
+- szo: pa#jAbii
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - pandzsábi
+- szo: pala#g
+  ford:
+  - nyt: hn
+    ert:
+    - ágy
+- szo: pAkistAnii
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - pakisztáni
+- szo: prati
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - másolat
+- szo: baGiicA
+  alt:
+  - bAGiicA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - kert
+- szo: bURhA
+  szarm: Pr
+  lecserel: "1=1"
+  ford:
+  - ert:
+    - öreg
+    - idős
+- szo: mUrti
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - istenképmás
+    - szobor
+    - ábrázolás
+- szo: rUsii
+  szarm: P
+  ford:
+  - nyt: mn hn nn
+    ert:
+    - orosz
+- szo: SukriyA
+  szarm: A
+  ford:
+  - ert:
+    - köszönet
+    - köszönöm
+- szo: safed
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - fehér
+- szo: sAikil
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - bicikli
+- szo: sirf
+  szarm: A
+  ford:
+  - nyt: kt
+    ert:
+    - csak
+- szo: havAdAr
+  szarm: A+P
+  ford:
+  - nyt: mn
+    ert:
+    - levegős
+- szo: hindustAnii
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - indiai
+- szo: hindU
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - hindu
+- szo: purA
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - teljes
+- szo: kharA
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - valódi
+    - igazi
+  - ert:
+    - becsületes
+    - megbízható
+- szo: ga#dA
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - piszkos
+    - mocskos
+- szo: U~cA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - magas
+    - felsőbb(rendű)
+    - kiváló
+    - hangos
+- szo: dAhinA
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - jobb (oldal)
+- szo: dub'lA
+  szarm: S
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - sovány
+    - gyenge
+    - karcsú
+  - kif: dub'lA-pat'lA
+    nyt: mn
+    ert:
+    - sovány
+    - vékony(ka)

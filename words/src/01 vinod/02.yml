@@ -631,7 +631,7 @@ szavak:
   - nyt: mn
     ert:
     - kék
-- szo: pardA
+- szo: par'dA
   szarm: P
   ford:
   - nyt: hn
@@ -735,6 +735,8 @@ szavak:
     ert:
     - üt
 - szo: helo
+  alt:
+  - halo
   szarm: E
   ford:
   - ert:

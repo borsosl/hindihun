@@ -224,8 +224,9 @@ szavak:
 - szo: kAGaz
   szarm: P
   ford:
-  - ert:
-    - papír
+  - nyt: hn
+    ert:
+    - papír(lap)
   - kif: kAGaz-vAGaz
     ert:
     - a papír és más irodaszerek

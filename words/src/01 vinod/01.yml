@@ -304,6 +304,8 @@ szavak:
     ert:
     - kicsi
 - szo: bahan
+  alt:
+  - bahin
   ford:
   - nyt: nn
     ert:
@@ -714,6 +716,9 @@ szavak:
     ert:
     - hogyan?
 - szo: tabiiyat
+  alt:
+  - tabiyat
+  - tabiiat
   szarm: AP
   ford:
   - nyt: nn

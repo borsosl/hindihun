@@ -1,0 +1,121 @@
+datum: 2020-06-30
+forras:
+  nev: Pratap
+  fejezet: 4
+szavak:
+- szo: afsos
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - megbánás
+  - kif: afsos kii bAt (honA)
+    ert:
+    - sajnálatos dolog
+    - sajnos …
+    - kár hogy …
+- szo: umr
+  szarm: A
+  alt:
+  - umar
+  ford:
+  - nyt: nn
+    ert:
+    - kor
+- szo: ek'dam
+  lecserel: "1=1"
+  szarm: H+P
+  ford:
+  - nyt: ht
+    ert:
+    - egyszerre
+    - egy pillanat alatt
+  - ert:
+    - teljesen
+- szo: kAlej
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - főiskola
+- szo: KhuSii
+  ford:
+  - nyt: nn
+    ert:
+    - boldogság
+    - öröm
+- szo: KhUb'sUrat
+  lecserel: "1=1"
+  szarm: P+AP
+  ford:
+  - ert:
+    - szép(séges)
+    - jóképű
+- szo: gar'm
+  szarm: P
+  ford:
+  - ert:
+    - forró
+    - meleg
+- szo: cA~dii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - ezüst
+- szo: bAzAr
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - piac
+- szo: bAl
+  lecserel: "2=1;2"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - gyerek
+    - fiú
+    - kiskorú
+  - kif: bAl-bacce
+    nyt: hn tbsz
+    ert:
+    - gyerekes család
+- szo: maz'bUt
+  szarm: A
+  ford:
+  - ert:
+    - erős
+    - szilárd
+- szo: mA~
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - anyu
+- szo: meh'natii
+  szarm: A P
+  ford:
+  - ert:
+    - szorgalmas
+    - dolgos
+- szo: vArANasii
+  ford:
+  - nyt: nn
+    ert:
+    - Benáresz
+- szo: sonA
+  szarm: S
+  lecserel: "2=1;2"
+  ford:
+  - nyt: hn
+    ert:
+    - arany
+- szo: hoSiyAr
+  szarm: P
+  ford:
+  - ert:
+    - okos
+    - ügyes
+    - éber

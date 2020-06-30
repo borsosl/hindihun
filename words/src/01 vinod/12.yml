@@ -201,6 +201,7 @@ szavak:
     - szám
     - osztályzat
 - szo: kAl
+  lecserel: "2=2;2"
   szarm: E
   ford:
   - kif: mis kAl

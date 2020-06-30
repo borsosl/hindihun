@@ -1,0 +1,132 @@
+datum: 2020-06-30
+forras:
+  nev: Pratap
+  fejezet: 3
+szavak:
+- szo: ArAm
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - pihenés
+    - nyugalom
+    - kényelem
+  - kif: ArAm kar'nA
+    ert:
+    - pihen
+  - kif: ArAm se
+    ert:
+    - kényelmesen
+    - könnyedén
+- szo: Enak
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - szemüveg
+- szo: kap'RA
+  szarm: S
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - ruha
+    - ruhanemű
+    - öltözék
+- szo: Kalam
+  szarm: A
+  ford:
+  - nyt: nn hn
+    ert:
+    - szo: toll
+      megj: íróeszköz
+- szo: Gus'l-KhAnA
+  szarm: A+P
+  ford:
+  - nyt: hn
+    ert:
+    - fürdőszoba
+- szo: ghar
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - ház
+    - otthon
+  - kif: ghar par
+    nyt: ht
+    ert:
+    - otthon
+- szo: darAz
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - fiók
+- szo: darii
+  szarm: "?S"
+  ford:
+  - nyt: nn
+    ert:
+    - kisszőnyeg
+- szo: pati
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - férj
+- szo: bas
+  lecserel: "2=2;2"
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - (autó)busz
+- szo: bahut
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - sok
+  - nyt: ht
+    ert:
+    - nagyon
+  - kif: bahut-sA, bahut-sArA
+    ert:
+    - (jó) sok
+    - rengeteg
+- szo: rasoiighar
+  szarm: Pr+S
+  ford:
+  - nyt: hn
+    ert:
+    - konyha
+- szo: sAmAn
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - holmi
+    - csomag
+    - poggyász
+    - cucc
+  - ert:
+    - áru
+    - cikk
+  - ert:
+    - bútor
+  - ert:
+    - ellátmány
+    - étel
+- szo: subah
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: nn ht
+    ert:
+    - reggel
+    - délelőtt
