@@ -1,0 +1,207 @@
+datum: 2020-07-02
+forras:
+  nev: Pratap
+  fejezet: 7
+szavak:
+- szo: samAn
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - hasonló
+    - egyenlő
+  - kif: ke samAn
+    ert:
+    - olyan mint vmi
+    - vmivel egyenlő
+- szo: khaRA
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - álló
+    - függőleges
+    - meredek
+  - nyt: ht
+    ert:
+    - állva
+    - várva
+  - kif: khaRA honA
+    nyt: tl
+    ert:
+    - áll
+- szo: Khatm
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - befejezett
+    - véget ért
+  - nyt: hn
+    ert:
+    - vég
+  - kif: Khatm honA
+    nyt: tl
+    ert:
+    - véget ér
+    - befejeződik
+  - kif: Khatm kar'nA
+    ert:
+    - befejez
+- szo: cAval
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - szo: rizs
+      megj: hántolt, főzött
+- szo: chuTTii
+  szarm: S
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - szünet
+    - szünidő
+    - szünnap
+    - szabadság
+- szo: DAkTar
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - orvos
+    - doktor
+- szo: darjan
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - tucat
+- szo: der
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - késedelem
+    - késlekedés
+    - időtartam
+  - kif: der (se)
+    nyt: ht
+    ert:
+    - késve
+- szo: navA~
+  ford:
+  - ert:
+    - kilencedik
+    - "9."
+- szo: paRhAnA
+  szarm: S
+  ford:
+  - nyt: t
+    ert:
+    - tanít
+    - olvastat
+- szo: bAd
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: ht
+    ert:
+    - később
+  - kif: ke bAd
+    nyt: nt
+    ert:
+    - után
+    - mögött
+  - kif: bAd me~
+    ert:
+    - később
+- szo: bAbU
+  szarm: S, P
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - tanult vagy tiszteletre méltó ember
+    - udvarias megszólítási forma
+  - nyt: hn
+    ert:
+    - tisztviselő
+- szo: bekAr
+  alt:
+  - bekAm
+  ford:
+  - nyt: mn
+    ert:
+    - haszontalan
+    - munkanélküli
+- szo: bETh'nA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: tl
+    ert:
+    - ül
+    - leül
+  - kif: bEThA
+    ert:
+    - ülő
+- szo: mahAyuddh
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - háború
+- szo: motii
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - gyöngy
+- szo: roTii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - (lepény)kenyér
+    - étel
+    - megélhetés
+- szo: sap'nA
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - álom
+    - ábránd
+  - kif: sap'nA dekh'nA
+    ert:
+    - álmodik
+- szo: sEr
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - séta
+    - kirándulás
+  - kif: sEr kar'nA
+    ert:
+    - sétál
+    - kirándul
+- szo: svarg
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - menny(ország)
+- szo: hoTal
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - hotel
+    - kávézó
+    - (kis)étterem

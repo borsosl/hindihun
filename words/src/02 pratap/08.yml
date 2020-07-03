@@ -1,0 +1,306 @@
+datum: 2020-07-03
+forras:
+  nev: Pratap
+  fejezet: 8
+szavak:
+- szo: ag'lA
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - következő
+    - jövő(beli)
+- szo: alag
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - különböző
+    - másmilyen
+  - ert:
+    - külön(álló)
+- szo: ES
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - luxus
+    - élvezet
+    - élvezettel teli élet
+    - érzékiség
+  - kif: ES kar'nA
+    nyt: t
+    ert:
+    - kényelmes életet él
+- szo: kamAnA
+  szarm: S
+  ford:
+  - nyt: t
+    ert:
+    - pénzt keres
+    - kiérdemel
+  - nyt: t
+    ert:
+    - kezel
+    - dolgozik vmin
+- szo: kATh'mA#Du
+  ford:
+  - ert:
+    - Kathmandu
+- szo: zor
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - erő
+    - erőfeszítés
+    - befolyás
+    - hatalom
+    - hatás
+    - (hang)súly
+- szo: DAl
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - ág (fán)
+  - kif: ek DAl par rah'nA
+    ert:
+    - egyívásúak
+    - egy követ fújnak
+- szo: ta#g
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - szűk(ös)
+  - ert:
+    - megterhelő
+  - ert:
+    - levert
+- szo: "* ko ta#g kar'nA"
+  ford:
+  - nyt: t
+    ert:
+    - szorongat
+    - zaklat
+    - elnyom
+- szo: tAlii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - taps
+  - kif: tAlii bajAnA
+    nyt: t
+    ert:
+    - tapsol
+  - kif: ek hAth se tAlii nahii~ baj'tii
+    ert:
+    - a vitához ketten kellenek
+- szo: tU
+  lecserel: "1=1"
+  ford:
+  - nyt: nv 1sz
+    var:
+    - tipus: nt
+      alak: tujh
+    - tipus: t/r
+      alak: tujhe
+    - tipus: erg
+      alak: tU~ne
+    ert:
+    - szo: te
+      megj: tiszteletet nem mutató vagy kedveskedő vagy istenek megszólításaként
+  - kif: tU-tU mE~-mE~
+    ert:
+    - kölcsönös szidalmazás
+  - kif: tU-tU mE~-mE~ kar'nA
+    ert:
+    - szid(almaz)
+- szo: thakAn
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - fáradtság
+    - kimerültség
+- szo: thAlii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - tálca
+    - tál
+- szo: dal
+  ford:
+  - nyt: hn
+    ert:
+    - csoport
+    - raj
+    - politikai párt
+- szo: dikh'nA
+  ford:
+  - nyt: tl
+    ert:
+    - tűnik
+    - látszik
+- szo: dilii
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - szívből jövő
+    - bensőséges
+- szo: niice
+  szarm: S
+  lecserel: "1=1"
+  ford:
+  - nyt: ht
+    ert:
+    - le
+    - lent
+    - földszinten
+  - kif: ke niice, se niice
+    nyt: nt
+    ert:
+    - alatt
+    - alá
+- szo: nepAl
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - Nepál
+- szo: pal
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - pillanat
+    - mérték
+- szo: pahar
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - napszak
+    - "3 órás időtartam"
+  - kif: ATho~ pahar
+    ert:
+    - a nap mind a 24 órája
+- szo: bhag'vAn
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - isten
+  - nyt: mn
+    ert:
+    - isteni
+    - imádandó
+- szo: moR
+  szarm: Drav
+  ford:
+  - nyt: hn
+    ert:
+    - kanyar
+    - sarok
+  - nyt: hn
+    ert:
+    - csavarodás
+    - ficam
+- szo: mor
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - páva
+- szo: vila#b
+  ford:
+  - nyt: hn
+    ert:
+    - szo: késedelem
+      megj: formális
+    - halogatás
+  - kif: vila#b kar'nA
+    nyt: t
+    ert:
+    - késleltet
+    - halogat
+- szo: saverA
+  szarm: S
+  alt:
+  - saberA
+  ford:
+  - nyt: hn
+    ert:
+    - kora reggel
+  - kif: savere
+    nyt: ht
+    ert:
+    - korán
+    - hamar(osan)
+    - kora reggel
+  - kif: baRe/bahut savere
+    nyt: ht
+    ert:
+    - igen korán
+    - hajnal után
+- szo: saver
+  szarm: S
+  alt:
+  - saber
+  ford:
+  - nyt: ht
+    ert:
+    - korán
+    - hamar(osan)
+- szo: sAv'dhAnii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - figyelem
+    - gondosság
+    - óvatosság
+  - kif: sAv'dhAnii se
+    ert:
+    - figyelmesen
+    - gondosan
+    - óvatosan
+- szo: sir
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - fej
+  - kif: "* kA sir khAnA"
+    ert:
+    - háborgat
+    - zaklat
+- szo: siidhA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - egyenes
+    - közvetlen
+    - őszinte
+  - ert:
+    - helyes
+  - ert:
+    - egyenletes
+  - ert:
+    - egyszerű
+  - ert:
+    - jobb (oldali)
+  - kif: siidhe
+    ert:
+    - egyenesen
+- szo: he
+  ford:
+  - ert:
+    - ó!

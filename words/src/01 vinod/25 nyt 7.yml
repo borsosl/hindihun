@@ -161,6 +161,8 @@ szavak:
   - nyt: mn
     ert:
     - szükséges
+  - ert:
+    - sürgős
 - szo: pyAs
   ford:
   - nyt: nn

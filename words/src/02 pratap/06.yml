@@ -1,0 +1,398 @@
+datum: 2020-07-01
+forras:
+  nev: Pratap
+  fejezet: 6
+szavak:
+- szo: akelApan
+  szarm: Pr
+  ford:
+  - nyt: hn
+    ert:
+    - magány
+    - egyedüllét
+- szo: aksar
+  alt:
+  - ak'sar
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: ht
+    ert:
+    - gyakran
+    - legtöbbször
+    - általában
+    - rendszerint
+- szo: acchA
+  lecserel: "1=1"
+  szarm: Panj
+  ford:
+  - nyt: mn
+    ert:
+    - jó
+    - rendes
+  - nyt: ht
+    ert:
+    - jól
+  - ert:
+    - tényleg?
+  - ert:
+    - értem!
+- szo: uccAraN
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - kiejtés
+- szo: uTh'nA
+  szarm: Pr
+  lecserel: "1=1"
+  ford:
+  - nyt: tl
+    ert:
+    - felkel
+    - emelkedik
+- szo: ka#panii
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - vállalat
+    - cég
+- szo: kabhii
+  lecserel: "1=1"
+  ford:
+  - nyt: ht
+    ert:
+    - néha
+    - olykor
+  - ert:
+    - valamikor
+  - ert:
+    - egyszer (régen)
+  - kif: kabhii-kabhii
+    ert:
+    - néha
+    - olykor
+  - kif: kabhii nahii~
+    ert:
+    - soha(sem)
+- szo: KhayAl
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - vélemény
+    - gondolat
+    - elképzelés
+  - kif: "* kA KhayAl rakh'nA"
+    ert:
+    - odafigyel vmire
+    - törődik vkivel
+- szo: goSt
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - hús
+- szo: cA~d
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - hold
+- szo: cup
+  szarm: Pr
+  ford:
+  - nyt: nn
+    ert:
+    - csend
+  - nyt: mn
+    ert:
+    - halk
+    - néma
+  - nyt: ht
+    ert:
+    - halkan
+    - csendben
+- szo: choR'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - otthagy
+    - elhagy
+  - ert:
+    - elkísér
+    - elvisz vmeddig
+  - ert:
+    - felad
+  - kif: ko choR'kar
+    ert:
+    - kivéve
+- szo: Tuk'RA
+  ford:
+  - nyt: hn
+    ert:
+    - darab(ka)
+- szo: Dar'nA
+  szarm: Pr
+  ford:
+  - kif: "* se Dar'nA"
+    nyt: tl
+    ert:
+    - fél vkitől
+- szo: DAk
+  ford:
+  - nyt: hn
+    ert:
+    - posta
+- szo: DAk-ghar
+  ford:
+  - nyt: hn
+    ert:
+    - postahivatal
+- szo: thoRA
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - kevés
+    - egy kevés
+  - nyt: ht
+    ert:
+    - kissé
+    - kicsit
+  - kif: thoRA-sA
+    ert:
+    - kevéske
+- szo: bhar
+  szarm: S
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - az egésze
+  - nyt: ht
+    ert:
+    - egészen
+  - kif: din bhar
+    ert:
+    - egész (álló) nap
+- szo: dev'nAg'rii
+  ford:
+  - nyt: nn
+    ert:
+    - Dévanágarí írás
+- szo: naf'rat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - utálat
+    - undor
+    - irtózás
+    - iszonyat
+- szo: nApasa#d
+  szarm: P+P
+  ford:
+  - nyt: mn
+    ert:
+    - elutasított
+  - kif: nApasa#d kar'nA
+    ert:
+    - nem kedvel
+    - elutasít
+- szo: pyAr
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - szeretet
+    - szerelem
+  - kif: "* se/ko pyAr kar'nA"
+    ert:
+    - szeret
+- szo: phir
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: ht
+    ert:
+    - újra
+    - ismét
+    - megint
+  - ert:
+    - aztán
+    - továbbá
+  - kif: phir se
+    ert:
+    - = 1.
+  - kif: phir bhii
+    ert:
+    - mégis
+  - kif: phir mile~ge
+    ert:
+    - szo: Viszontlátásra!
+      megj: ‘Majd találkozni fogunk.’
+- szo: badhAii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - gratuláció
+  - ert:
+    - ünnepség
+- szo: bAt
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - szó
+    - beszéd
+    - beszélgetés
+    - dolog
+    - téma
+  - kif: "* se bAt/bAte~ kar'nA"
+    ert:
+    - beszélget vkivel
+- szo: bAp
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - apa
+- szo: man
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - lélek
+    - szív
+    - elme
+  - ert:
+    - jellem
+    - vérmérséklet
+  - kif: man hii man
+    nyt: ht
+    ert:
+    - magában
+- szo: mah'sUs
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - érzékelt
+    - tapasztalt
+  - kif: mah'sUs kar'nA
+    ert:
+    - érez
+    - tapasztal
+  - kif: "* ko mah'sUs honA"
+    ert:
+    - vkire benyomással van
+- szo: munnA
+  szarm: S
+  ford:
+  - ert:
+    - kedvesem (kisfiúhoz)
+- szo: la#bAii
+  ford:
+  - nyt: nn
+    ert:
+    - hosszúság
+    - magasság
+- szo: lakh'naU
+  ford:
+  - nyt: hn
+    ert:
+    - Lucknow
+- szo: lipi
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - írás(mód)
+- szo: vAh
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: nvált
+    ert:
+    - hű!
+    - remek!
+    - nagyszerű!
+  - ert:
+    - te jó ég!
+- szo: vEse
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: ht
+    ert:
+    - egyébként
+    - amúgy
+  - nyt: ht
+    ert:
+    - igazából
+  - kif: vEse hii
+    nyt: ht
+    ert:
+    - csak úgy
+- szo: vya#gya
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - szarkazmus
+    - célzás
+- szo: SarAb
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - alkohol
+    - bor
+- szo: SarArat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - rosszalkodás
+    - csíny(tevés)
+- szo: Suddha
+  szarm: S
+  ford:
+  - ert:
+    - tiszta
+    - vegyítetlen
+    - hibátlan
+    - bűntelen
+- szo: sTeSan
+  lecserel: "1=1"
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - állomás
+  - kif: rel've sTeSan
+    nyt: hn
+    ert:
+    - vasútállomás
+- szo: ha~sAnA
+  szarm: S
+  ford:
+  - ert:
+    - (meg)nevettet
+- szo: hon'hAr
+  szarm: HP
+  ford:
+  - nyt: mn
+    ert:
+    - leendő
+    - várható
+  - nyt: mn
+    ert:
+    - ígéretes

@@ -1,0 +1,218 @@
+datum: 2020-07-01
+forras:
+  nev: Pratap
+  fejezet: 5
+szavak:
+- szo: a#kal
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - bácsi
+- szo: RIShi
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - bölcs
+    - látnok
+- szo: ka#bal
+  ford:
+  - nyt: hn
+    ert:
+    - takaró
+- szo: kur'tA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - ing
+- szo: Khat
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - levél
+    - kézírás
+- szo: khilOnA
+  szarm: Pr
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - játék(szer)
+- szo: ghoRA
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - ló
+- szo: cal'nA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: tl
+    ert:
+    - megy
+    - mozog
+    - mozdul
+- szo: jagAnA
+  szarm: S
+  ford:
+  - nyt: tl
+    ert:
+    - felébreszt
+- szo: jaldii
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - sietség
+  - nyt: ht
+    ert:
+    - sietve
+    - gyorsan
+    - hamar
+    - mielőbb
+- szo: jhag'RA
+  ford:
+  - nyt: hn
+    ert:
+    - vitatkozás
+  - kif: jhag'RA kar'nA
+    nyt: t
+    ert:
+    - vitatkozik
+- szo: Thahar'nA
+  ford:
+  - nyt: tl
+    ert:
+    - megáll
+    - úgy marad
+- szo: DhU~Rh'nA
+  alt:
+  - DhU~Dh'nA
+  szarm: Pr
+  ford:
+  - nyt: t
+    ert:
+    - keres
+    - talál
+- szo: tEyAr
+  szarm: AP
+  ford:
+  - nyt: ht
+    ert:
+    - kész
+  - kif: tEyAr kar'nA
+    ert:
+    - elkészít
+- szo: thElA
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - tarisznya
+    - szatyor
+- szo: devar
+  ford:
+  - nyt: hn
+    ert:
+    - szo: sógor
+      megj: a férj öccse
+- szo: dhobii
+  ford:
+  - nyt: hn
+    ert:
+    - mosó(ember)
+- szo: dhyAn
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - meditáció
+    - figyelem
+  - kif: dhyAn rakh'nA
+    nyt: t
+    ert:
+    - figyel
+    - összpontosít
+  - kif: "* kA dhyAn rakh'nA"
+    ert:
+    - törődik vmivel
+  - kif: dhyAn se
+    ert:
+    - figyelmesen
+- szo: nArA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - szlogen
+    - jelmondat
+    - kiáltás
+- szo: pAnii
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - víz
+- szo: pApA
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - apu(ka)
+- szo: piinA
+  szarm: S
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    var:
+    - tipus: felsz
+      alak: pio piyo piijie
+    ert:
+    - iszik
+    - dohányt szív
+- szo: pUch'nA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: t
+    ert:
+    - kérdez
+  - kif: "* se pUch'nA"
+    nyt: t
+    ert:
+    - kérdez vkitől
+- szo: mAr'nA
+  szarm: S
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - üt
+    - ver
+- szo: SEtAn
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - ördög
+    - gazfickó
+- szo: sigreT
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - cigaretta
+- szo: sun'nA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: t
+    ert:
+    - hall
+    - hallgat

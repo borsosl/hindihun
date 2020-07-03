@@ -205,7 +205,8 @@ szavak:
   - kif: ba#d kar'nA
     nyt: t
     ert:
-    - bezár
+    - (be)zár
+    - (be)csuk
   - kif: fon ba#d kar'nA
     ert:
     - leteszi a telefont
@@ -251,6 +252,10 @@ szavak:
     - különleges
     - sajátos
     - magán-
+  - nyt: mn
+    ert:
+    - egy bizonyos
+    - konkrét
   - kif: KhAs'kar
     ert:
     - különösen
@@ -493,6 +498,9 @@ szavak:
   - nyt: t
     ert:
     - mond
+  - kif: "* se kah'nA"
+    ert:
+    - mond vkinek
   - kif: "* ko * kah'nA"
     ert:
     - nevez vmit vminek (alapeset)
@@ -854,6 +862,8 @@ szavak:
     nyt: nt
     ert:
     - módján
+    - mint
+    - ahogy
   - kif: tarah-tarah kA
     ert:
     - különféle
@@ -933,6 +943,9 @@ szavak:
     ert:
     - mindenki
     - minden egyes
+  - kif: koii nahii~
+    ert:
+    - senki
   - kif: koii na koii
     ert:
     - valaki biztosan
@@ -1089,7 +1102,7 @@ szavak:
   ford:
   - nyt: t
     ert:
-    - hív
+    - (meg)hív
     - hivat
 - szo: darSan
   lecserel: "1,2=1"
@@ -1135,6 +1148,9 @@ szavak:
     ert:
     - mellett
     - közelében
+  - kif: "* ke pAs * honA"
+    ert:
+    - vki birtokol vmit
   - kif: As-pAs
     nyt: ht
     ert:
@@ -1210,13 +1226,16 @@ szavak:
     ert:
     - összehoz
     - összeismertet
+  - nyt: t
+    ert:
+    - tárcsáz
+  - nyt: t
+    ert:
+    - órát igazít
   - kif: hAth milAnA
     nyt: t
     ert:
     - kezet fog
-  - nyt: t
-    ert:
-    - órát igazít
 - szo: gyArah
   lecserel: "1,2=1"
   ford:
