@@ -92,6 +92,18 @@ szavak:
     nyt: ht
     ert:
     - késve
+  - kif: der se
+    nyt: ht
+    ert:
+    - egy ideje
+  - kif: der tak
+    ert:
+    - sokáig
+  - kif: der me~
+    nyt: ht
+    ert:
+    - késéssel
+    - idő múlva
 - szo: navA~
   ford:
   - ert:

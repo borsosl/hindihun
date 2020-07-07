@@ -142,7 +142,7 @@ szavak:
   ford:
   - nyt: nn
     ert:
-    - szükségesség
+    - szükség(esség)
 - szo: zarUrat
   szarm: AP
   ford:
@@ -223,6 +223,9 @@ szavak:
   - kif: bAr-bAr
     ert:
     - újra meg újra
+  - kif: ab kii bAr
+    ert:
+    - ez alkalommal
 - szo: kAGaz
   szarm: P
   ford:

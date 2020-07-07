@@ -109,6 +109,9 @@ szavak:
       megj: vki számára
 - szo: ronA
   ford:
+  - nyt: tl
+    ert:
+    - sír
   - kif: ro denA
     ert:
     - sírva fakad
@@ -352,6 +355,9 @@ szavak:
   - nyt: hn
     ert:
     - étkezés
+  - kif: bhojan kar'nA
+    ert:
+    - étkezik
 - szo: kalA
   szarm: S
   ford:

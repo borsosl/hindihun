@@ -60,6 +60,10 @@ szavak:
     ert:
     - üres
     - kiadó
+  - kif: KhAlii kar'nA
+    nyt: t
+    ert:
+    - (ki)ürít
 - szo: gujarAtii
   szarm: Pr
   ford:
@@ -86,6 +90,10 @@ szavak:
   - kif: jii (hA~)
     ert:
     - igen
+  - kif: jii-huzUrii
+    nyt: nn
+    ert:
+    - hízelgés
 - szo: dUs'rA
   lecserel: "1=1"
   szarm: Pr

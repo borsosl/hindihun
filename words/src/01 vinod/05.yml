@@ -181,7 +181,9 @@ szavak:
     nyt: t
     ert:
     - acsárt készít
-- szo: mandir
+- szo: ma#dir
+  alt:
+  - mandir
   szarm: S
   ford:
   - nyt: hn

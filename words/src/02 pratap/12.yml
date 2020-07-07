@@ -1,0 +1,300 @@
+datum: 2020-07-07
+forras:
+  nev: Pratap
+  fejezet: 12
+szavak:
+- szo: adbhut
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - lenyűgöző
+    - bámulatos
+    - csodálatos
+  - nyt: hn
+    ert:
+    - meglepetés
+    - csoda
+- szo: av'kAS
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - szabadidő
+    - tér
+    - hely
+    - lehetőség
+- szo: AvAz
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - hang
+  - kif: U~cii AvAz me~
+    nyt: ht
+    ert:
+    - hangosan
+  - kif: AvAz uThAnA, AvAz U~cii kar'nA
+    nyt: t
+    ert:
+    - felemeli a hangját
+    - hangosan beszél
+- szo: kRIpA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - kedvesség
+    - kegyesség
+    - megbocsátás
+    - együttérzés
+  - kif: kRIpA kar'ke
+    ert:
+    - legyen szíves
+- szo: khed
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - megbánás
+    - fájdalom
+  - kif: "* ko khed honA"
+    ert:
+    - sajnál
+    - megbán
+  - kif: khed kii bAt hE ki …
+    ert:
+    - sajnos …
+- szo: ma#trii
+  szarm: S
+  ford:
+  - nyt: hn nn
+    ert:
+    - miniszter
+    - tanácsadó
+    - tanácsos
+    - titkár
+  - kif: gRIha ma#trii
+    ert:
+    - ház-miniszter
+    - feleség
+- szo: gvAliyar
+  ford:
+  - nyt: hn
+    ert:
+    - Gwalior
+- szo: ciRhAnA
+  szarm: S
+  ford:
+  - ert:
+    - ingerel
+    - bosszant
+    - cukkol
+    - provokál
+- szo: cuk'nA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: tl
+    ert:
+    - be van fejezve
+    - el van rendezve
+    - már megtette
+- szo: Dig'rii
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - diploma
+    - egyetemi fokozat
+- szo: Dinar
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - vacsora
+- szo: dhiimA
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - halk
+    - halvány
+    - tompa
+    - lassú
+- szo: nahAnA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: t tl
+    ert:
+    - fürdik
+    - mosakszik
+- szo: pach'tAnA
+  szarm: S
+  ford:
+  - ert:
+    - megbán
+- szo: pariikShA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - vizsga
+    - vizsgálat
+  - kif: pariikShA denA
+    ert:
+    - levizsgázik
+- szo: pAr
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - túloldal
+    - átellenes oldal
+    - vég(pont)
+  - nyt: hn
+    ert:
+    - túloldalt
+  - kif: pAr kar'nA
+    ert:
+    - átkel
+    - átvészel
+- szo: bad'mAS
+  szarm: P+A
+  ford:
+  - nyt: hn
+    ert:
+    - gazember
+    - gazfickó
+  - nyt: mn
+    ert:
+    - erkölcstelen
+    - zsivány
+- szo: barth
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - fekhely
+- szo: bA~T'nA
+  szarm: S
+  ford:
+  - ert:
+    - (szét)oszt
+    - feloszt
+    - kioszt
+- szo: botal
+  szarm: Pt, E
+  ford:
+  - nyt: nn
+    ert:
+    - palack
+    - üveg
+- szo: bhAbhii
+  alt:
+  - bhabi
+  ford:
+  - nyt: nn
+    ert:
+    - sógornő
+    - a báty felesége
+- szo: bhUl'nA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: t
+    ert:
+    - elfelejt
+  - kif: bhUl'kar bhii
+    ert:
+    - véletlenül sem
+    - semmi esetre sem
+- szo: magar
+  lecserel: "2=2;2"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - krokodil
+- szo: muR'nA
+  szarm: Drav
+  ford:
+  - nyt: tl
+    ert:
+    - fordul
+    - csavarodik
+- szo: mehar'bAnii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - kedvesség
+    - szívesség
+  - kif: mehar'bAnii kar'ke
+    ert:
+    - legyen szíves
+- szo: vivAh
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - esküvő
+    - házasság
+- szo: vEr
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - ellenségesség
+- szo: samAcAr
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn tbsz
+    ert:
+    - hír(ek)
+    - információ
+  - kif: samAcAr-patra
+    nyt: hn
+    ert:
+    - napilap
+    - újság
+- szo: sAthii
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - társ
+    - barát
+    - szövetséges
+    - cinkos
+    - kísérő
+    - követő
+- szo: sAbun
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - szappan
+- szo: seb
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - alma
+- szo: holii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - hólí
+    - a színek fesztiválja
+- szo: holD
+  szarm: E
+  ford:
+  - kif: holD kar'nA
+    ert:
+    - tartja a vonalat

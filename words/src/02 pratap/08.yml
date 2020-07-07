@@ -186,6 +186,9 @@ szavak:
     ert:
     - napszak
     - "3 órás időtartam"
+  - kif: tiis're pahar
+    ert:
+    - délután
   - kif: ATho~ pahar
     ert:
     - a nap mind a 24 órája

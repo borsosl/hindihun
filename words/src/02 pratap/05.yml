@@ -56,6 +56,12 @@ szavak:
     - megy
     - mozog
     - mozdul
+  - kif: calA AnA
+    ert:
+    - visszajön
+  - kif: calA jAnA
+    ert:
+    - elmegy
 - szo: jagAnA
   szarm: S
   ford:
@@ -134,7 +140,7 @@ szavak:
     ert:
     - meditáció
     - figyelem
-  - kif: dhyAn rakh'nA
+  - kif: dhyAn rakh'nA, dhyAn denA
     nyt: t
     ert:
     - figyel
@@ -159,6 +165,9 @@ szavak:
   - nyt: hn
     ert:
     - víz
+  - kif: pAnii paR'nA
+    ert:
+    - eső esik
 - szo: pApA
   szarm: E
   ford:

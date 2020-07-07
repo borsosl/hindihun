@@ -1,0 +1,429 @@
+datum: 2020-07-04
+forras:
+  nev: Pratap
+  fejezet: 9
+szavak:
+- szo: akelA
+  lecserel: "1=1"
+  ford:
+  - nyt: mn hn
+    ert:
+    - egyedüli
+    - egyetlen
+    - magányos
+  - kif: akele
+    nyt: ht
+    ert:
+    - egyedül
+- szo: KhAsA
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - = ख़ासा
+  - nyt: mn
+    ert:
+    - jó
+    - kellemes
+  - nyt: ht
+    ert:
+    - kifejezetten
+  - kif: acchA-KhAsA
+    nyt: mn
+    ert:
+    - igazán jó
+- szo: adhik
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: ht
+    ert:
+    - sok
+    - inkább
+  - kif: (se) adhik
+    nyt: ht
+    ert:
+    - több
+  - kif: adhik se adhik
+    nyt: ht
+    ert:
+    - legfeljebb
+- szo: am'riikA
+  ford:
+  - nyt: hn
+    ert:
+    - Amerika
+- szo: as'lii
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - igazi
+    - tényleges
+  - ert:
+    - alapvető
+    - eredeti
+    - elsődleges
+- szo: irAdA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - szándék
+    - vágy
+  - kif: irAde se
+    nyt: ht
+    ert:
+    - szándékosan
+  - kif: "* ke irAde se"
+    ert:
+    - azzal a (feltett) szándékkal
+- szo: Tiizi#g
+  szarm: E
+  ford:
+  - kif: iiv-Tiizi#g
+    nyt: nn
+    ert:
+    - szo: nők zaklatása
+      megj: nyilvános helyen
+    - '"Eve-teasing"'
+- szo: uShA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - hajnal
+- szo: kaThin
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - nehéz
+    - bajos
+  - ert:
+    - kemény
+    - éles
+- szo: kAl
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - idő
+    - korszak
+    - napszak
+- szo: gAnA
+  szarm: S
+  ford:
+  - nyt: t tl
+    ert:
+    - énekel
+  - nyt: hn
+    ert:
+    - dal
+- szo: gu#DA
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - huligán
+    - bajkeverő
+- szo: gu#DAgardii
+  szarm: S+P
+  ford:
+  - nyt: nn
+    ert:
+    - huligán bajkeverés
+- szo: jan'tA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - emberek
+    - nép
+    - köz-
+- szo: tab'lA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - tabla dob
+- szo: dAvat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - szo: meghívás
+      megj: étkezésre
+    - fogadás
+    - buli
+- szo: namak
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - só
+  - ert:
+    - íz
+    - bűbáj
+  - ert:
+    - megélhetés forrása
+- szo: nuK'sAn
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - bántódás
+    - kár
+    - veszteség
+  - kif: nuK'sAn uThAnA
+    ert:
+    - veszteséget szenved
+  - kif: "* kA nuK'sAn kar'nA"
+    ert:
+    - kárt okoz vkinek
+- szo: nOj'vAn
+  ford:
+  - nyt: hn
+    ert:
+    - ifjú
+    - szo: fiatal
+      megj: férfi
+- szo: para#tu
+  szarm: S
+  ford:
+  - nyt: kt
+    ert:
+    - de
+    - azonban
+    - mindazonáltal
+- szo: pasa#d
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - tetszetős
+    - kedvére való
+  - nyt: nn
+    ert:
+    - jóváhagyás
+    - helyeslés
+  - kif: pasa#d kar'nA
+    nyt: t
+    ert:
+    - tetszik vkinek
+    - szeret
+    - kedvel
+    - helyesel
+  - kif: "* ko pasa#d AnA"
+    nyt: tl
+    ert:
+    - tetszik
+    - tetszésére van
+- szo: prAdhyApak
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - óraadó egyetemi tanár
+- szo: fAy'dA
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - haszon
+    - nyereség
+    - előny
+  - ert:
+    - felépülés
+    - lábadozás
+- szo: banAras
+  ford:
+  - nyt: hn
+    ert:
+    - Benáresz
+- szo: bii
+  ford:
+  - kif: bii ec yU
+    ert:
+    - BHU
+    - Benáreszi Hindu Egyetem
+- szo: bor
+  lecserel: "1=1"
+  szarm: E
+  ford:
+  - kif: bor honA
+    nyt: tl
+    ert:
+    - unatkozik
+  - kif: bor kar'nA
+    nyt: t
+    ert:
+    - untat
+- szo: bhatiijA
+  ford:
+  - nyt: hn
+    ert:
+    - unokaöccs
+    - fivér fia
+    - férfi sógor fia
+- szo: bhaviShya
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - jövő
+- szo: bholA
+  ford:
+  - nyt: mn
+    ert:
+    - ártatlan
+    - jámbor
+  - ert:
+    - naiv
+    - ostoba
+- szo: mA~g'vAnA
+  szarm: S
+  ford:
+  - nyt: t
+    ert:
+    - rendel
+- szo: macAnA
+  szarm: S
+  ford:
+  - nyt: t
+    ert:
+    - (zajt, viszályt) kelt
+- szo: masUrii
+  ford:
+  - nyt: nn
+    ert:
+    - Mussoorie
+- szo: mahArAjA
+  alt:
+  - mahArAj
+  szarm: S+S
+  ford:
+  - nyt: hn
+    ert:
+    - király
+    - uralkodó
+    - bráhmana vagy feljebbvaló megszólítása
+- szo: mistrii
+  szarm: Pt
+  ford:
+  - nyt: hn
+    ert:
+    - szerelő
+    - mester(ember)
+- szo: ravAnii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - folyás
+    - folyékonyság
+  - kif: ravAnii se
+    nyt: ht
+    ert:
+    - folyékonyan
+- szo: ruk'nA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: tl
+    ert:
+    - megáll
+  - ert:
+    - akadályozva van
+  - ert:
+    - tovább marad
+- szo: rel
+  lecserel: "1=1"
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - sín
+    - vasút
+    - vonat
+  - kif: rel kA
+    nyt: mn
+    ert:
+    - vasúti
+  - kif: rel-gARii, rel'gARii
+    nyt: nn
+    ert:
+    - vonat(kocsi)
+- szo: rel've
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - vasút
+- szo: roS'nii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - fény
+- szo: lAyaK
+  szarm: A
+  ford:
+  - ert:
+    - alkalmas
+    - megfelelő
+    - vmire érdemes
+  - kif: (kar'ne) lAyaK
+    ert:
+    - érdemes (megcsinálni)
+- szo: samajh
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - megértés
+  - kif: "(* kii) samajh me~ AnA"
+    ert:
+    - megért
+    - felfog
+    - meg lehet érteni
+- szo: jahAz
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - hajó
+  - kif: havAii jahAz
+    nyt: hn
+    ert:
+    - repülőgép
+- szo: hAth
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - kéz
+  - kif: ke hAth
+    nyt: ht
+    ert:
+    - által
+  - kif: "* hAth AnA"
+    ert:
+    - kézhez jön
+    - (pénz) áll a házhoz
+- szo: hil'nA
+  szarm: S
+  ford:
+  - nyt: tl
+    ert:
+    - rázkódik
+    - leng
+    - lendül
+    - inog
+    - mozdul
+    - moccan

@@ -1,0 +1,374 @@
+datum: 2020-07-06
+forras:
+  nev: Pratap
+  fejezet: 11
+szavak:
+- szo: AKhir
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - végső
+  - nyt: ht
+    ert:
+    - végül
+  - kif: AKhir me~
+    ert:
+    - végül (is)
+- szo: Ana#d
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - öröm
+    - élvezet
+  - kif: Ana#d lenA
+    ert:
+    - élvez
+    - kiélvez
+  - kif: "* ko * me~ Ana#d AnA"
+    ert:
+    - vki örömét leli vmiben
+    - vki élvez vmit
+- szo: u~g'lii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - ujj
+- szo: udhAr
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - kölcsön
+    - tartozás
+    - hitel
+  - kif: "* ko udhAr denA"
+    ert:
+    - kölcsönad vkinek
+  - kif: udhAr lenA
+    ert:
+    - kölcsönvesz
+- szo: kEm'rA
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - fényképező
+- szo: giit
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - dal
+- szo: guzAr'nA
+  szarm: P
+  ford:
+  - ert:
+    - időt tölt
+- szo: ghAT
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - fürdő és mosó hely folyó vagy tó partján lépcsőkkel
+  - ert:
+    - rakpart
+    - gázló
+  - ert:
+    - hegyi átjáró
+- szo: chUT'nA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: tl
+    ert:
+    - el van engedve
+    - el van bocsájtva
+    - fel van mentve
+    - megszabadul
+    - kimarad
+    - elmarad
+    - szo: indul
+      megj: vonat
+  - kif: piiche chUT'nA
+    ert:
+    - szo: lemarad
+      megj: iskolában
+- szo: jArii
+  szarm: A
+  ford:
+  - ert:
+    - jelenlegi
+    - folyamatban levő
+  - kif: jArii rakh'nA
+    ert:
+    - fenntart
+  - kif: jArii kar'nA
+    ert:
+    - megjelentet
+    - bevezet
+- szo: zevar
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - ékszer
+- szo: Treki#g
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - túrázás
+- szo: tamASA
+  szarm: AP
+  ford:
+  - nyt: hn
+    ert:
+    - előadás
+    - szórakozás
+    - móka
+    - érdekesség
+    - furcsaság
+- szo: tibbatii
+  ford:
+  - nyt: mn
+    ert:
+    - tibeti
+- szo: toh'fA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - ajándék
+- szo: dukAn'dAr
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - boltos
+- szo: durghaT'nA
+  szarm: S+S
+  ford:
+  - nyt: nn
+    ert:
+    - baleset
+    - katasztrófa
+    - erőszak
+- szo: nii~d
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - alvás
+  - kif: "* ko nii~d AnA"
+    ert:
+    - elálmosodik
+- szo: paRhAii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - tanulás
+    - tanulmányok
+    - tanítás
+    - iskoláztatás
+    - tandíj
+- szo: pAnA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: t
+    ert:
+    - kap
+    - nyer
+    - kiérdemel
+    - elér
+  - ert:
+    - érzékel
+    - benyomása van
+  - ert:
+    - sikerül megtenni vmit
+  - kif: nahii~ pAnA
+    ert:
+    - szo: nem tud vmit megtenni
+      megj: mert nem valósulhat meg
+- szo: pyAlA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - csésze
+    - pohár
+  - kif: "* kA pyAlA piinA"
+    ert:
+    - kiiszik
+    - alkoholt iszik
+    - szo: magába szívja a tudást
+      megj: tanítvánnyá válva
+  - kif: pyAlA lenA
+    ert:
+    - alkoholt iszik
+- szo: filmii
+  szarm: E
+  ford:
+  - nyt: mn
+    ert:
+    - filmes
+- szo: fEks
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - fax
+- szo: foTo
+  szarm: E
+  ford:
+  - nyt: nn hn
+    ert:
+    - fotó
+- szo: bA~h
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - (fel)kar
+    - (ing)ujj
+  - ert:
+    - erő
+    - támogatás
+- szo: bhUt
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - szellem
+    - múlt
+    - létezés
+    - természeti elem
+  - ert:
+    - gonosz
+    - csúnya ember
+- szo: bhe~T
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - ajándék
+    - felajánlás
+    - találkozó
+    - találkozás
+- szo: maj'bUrii
+  szarm: A+P
+  ford:
+  - nyt: nn
+    ert:
+    - kényszer
+    - kénytelenség
+  - kif: maj'bUrii se
+    ert:
+    - kényszerből
+    - szükségből
+- szo: mAn'nA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: t
+    ert:
+    - szo: tart
+      megj: vmit vmilyennek
+    - tekint
+    - elfogad
+    - elismer
+  - ert:
+    - tiszteletben tart
+    - megfogad
+    - szót fogad
+- szo: mAf
+  szarm: AP
+  ford:
+  - nyt: mn
+    ert:
+    - megbocsátott
+    - mentesített
+  - kif: mAf kar'nA
+    ert:
+    - megbocsát
+- szo: mAfii
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - megbocsátás
+    - mentesülés
+  - ert:
+    - amnesztia
+    - kegyelem
+  - ert:
+    - bérmentes
+  - kif: mAfii mA~g'nA
+    ert:
+    - bocsánatot kérni
+- szo: mAlii
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - kertész
+- szo: mum'kin
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - lehetséges
+    - megvalósítható
+- szo: lAThii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - bot
+    - rúd
+    - karó
+    - támasz
+- szo: vApas
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: ht
+    ert:
+    - vissza
+  - kif: vApas lenA
+    ert:
+    - visszavon
+- szo: SikAyat
+  lecserel: "1=1"
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - panasz
+    - panaszkodás
+  - kif: SikAyat kar'nA
+    ert:
+    - panaszkodik
+- szo: sunAnA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - hallat
+    - mond
+    - elmesél
+    - értesít
+    - kihirdet
+    - lehord
+    - szo: megszólaltat
+      megj: hangszert, rádiót
+  - kif: sunii-sunAii bAt
+    nyt: nn
+    ert:
+    - mendemonda

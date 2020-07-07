@@ -103,6 +103,7 @@ szavak:
     ert:
     - különös
     - különleges
+    - konkrét
   - kif: viSeSh rUp se
     ert:
     - különlegesen
@@ -635,14 +636,30 @@ szavak:
   - kif: (yah) lo, liijie
     ert:
     - tessék
+  - kif: le AnA
+    ert:
+    - (el)hoz
+  - kif: le jAnA
+    ert:
+    - (el)visz
   - kif: lenA-denA
+    nyt: hn
     ert:
     - adás-vétel
+    - ügylet
+    - kapcsolat
+    - köz
+  - kif: "* se * ko kyA lenA-denA"
+    nyt: hn
+    ert:
+    - mi köze van vkihez vkinek
 - szo: baj'nA
   lecserel: "1,2=1"
   ford:
   - nyt: tl
     ert:
+    - szól
+    - cseng
     - megszólal
     - el van ütve
   - kif: ek bajA hE
@@ -873,7 +890,9 @@ szavak:
   - nyt: ht
     ert:
     - mögött
+    - hátra
     - aztán
+    - ezelőtt
   - kif: ke piiche, se piiche
     nyt: nt
     ert:
@@ -1111,10 +1130,14 @@ szavak:
   - nyt: hn
     ert:
     - nézés
+    - látvány
   - nyt: tbsz
     ert:
     - megtekintés
     - a templomi istenképmás rituális megtekintése
+  - ert:
+    - találkozó
+    - meghallgatás
   - kif: darSan kar'nA
     nyt: t
     ert:
@@ -1255,6 +1278,10 @@ szavak:
   - kif: "* ko patA honA"
     ert:
     - vki tud vmit
+  - kif: patA nahii~
+    ert:
+    - nem tudom
+    - fogalmam sincs
 - szo: Tha#DA
   lecserel: "1,2=1"
   ford:
@@ -1343,6 +1370,9 @@ szavak:
   - nyt: ht
     ert:
     - nagyon
+  - kif: zyAdA se zyAdA
+    ert:
+    - legfeljebb
 - szo: mat'lab
   lecserel: "1,2=1"
   szarm: A

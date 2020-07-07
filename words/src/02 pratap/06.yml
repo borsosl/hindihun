@@ -147,6 +147,7 @@ szavak:
   - nyt: hn
     ert:
     - posta
+    - küldemény
 - szo: DAk-ghar
   ford:
   - nyt: hn
@@ -166,6 +167,14 @@ szavak:
   - kif: thoRA-sA
     ert:
     - kevéske
+  - kif: thoRA-bahut
+    ert:
+    - valamennyi
+    - több-kevesebb
+  - kif: thoRe
+    ert:
+    - aligha
+    - semmi esetre sem
 - szo: bhar
   szarm: S
   lecserel: "1=1"

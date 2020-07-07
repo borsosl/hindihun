@@ -1,0 +1,416 @@
+datum: 2020-07-05
+forras:
+  nev: Pratap
+  fejezet: 10
+szavak:
+- szo: avaSya
+  szarm: S
+  ford:
+  - nyt: ht
+    ert:
+    - persze
+    - szükségszerűen
+  - nyt: mn
+    ert:
+    - korlátozás nélküli
+- szo: asa#bhav
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - lehetetlen
+    - elképzelhetetlen
+    - valószínűtlen
+- szo: ATo
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - autóriksa
+- szo: ilAj
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - kezelés
+    - kúra
+  - kif: "* kA ilAj kar'nA"
+    ert:
+    - gyógykezel vkit
+    - elbánik vkivel
+- szo: ucit
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - megfelelő
+    - helyes
+    - alkalmas
+  - ert:
+    - célszerű
+    - ajánlatos
+- szo: utAr'nA
+  szarm: S
+  ford:
+  - nyt: t
+    ert:
+    - leszállít
+    - levesz
+- szo: ummiid
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - remény
+    - várakozás
+    - bizalom
+  - kif: ummiid kar'nA
+    ert:
+    - remél
+  - kif: "* ko ummiid honA ki …"
+    ert:
+    - reméli hogy …
+- szo: ka#jUs
+  szarm: H+H
+  ford:
+  - nyt: mn hn
+    ert:
+    - zsugori
+    - fukar
+    - fösvény
+- szo: kA~TA
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - villa
+    - tű
+    - horog
+    - tövis
+    - fullánk
+    - sarkantyú
+    - (madár)toll
+- szo: kAm'cor
+  ford:
+  - nyt: hn mn
+    ert:
+    - naplopó
+    - lusta(ság)
+- szo: ki
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: kt
+    ert:
+    - hogy
+  - nyt: kt
+    ert:
+    - vagy
+  - ert:
+    - általános kötőszó
+- szo: KhariidArii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - (be)vásárlás
+- szo: khii~c'nA
+  szarm: S
+  ford:
+  - nyt: t
+    ert:
+    - húz
+    - vonszol
+    - vonz
+    - rajzol
+    - fotóz(ik)
+- szo: garv
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - büszkeség
+  - ert:
+    - hiúság
+    - önelégültség
+    - beképzeltség
+    - dölyf
+- szo: GussA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - düh
+    - harag
+  - kif: Gusse (me~)
+    ert:
+    - dühében
+  - kif: "* par GussA kar'nA"
+    ert:
+    - dühös vkire
+  - kif: "* ko GussA AnA"
+    ert:
+    - feldühödik
+- szo: cap'rAsii
+  lecserel: "1=1"
+  szarm: P?
+  ford:
+  - nyt: hn
+    ert:
+    - hivatalszolga
+    - küldönc
+- szo: cammac
+  ford:
+  - nyt: hn
+    ert:
+    - kanál
+- szo: cAh'nA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: t
+    ert:
+    - akar
+    - vágyik
+    - óhajt
+    - választ
+    - igényel
+- szo: churii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - kés
+    - tőr
+    - szike
+- szo: zimmedArii
+  szarm: A+P
+  alt:
+  - zimmevArii
+  ford:
+  - nyt: nn
+    ert:
+    - felelősség
+    - kötelesség
+    - kötelezettség
+    - megbízatás
+- szo: jhUTh
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - hazugság
+  - nyt: mn
+    ert:
+    - hazug
+    - hamis
+  - kif: jhUTh bol'nA
+    nyt: t
+    ert:
+    - hazudik
+- szo: TeRhA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - görbe
+    - ferde
+    - dőlt
+    - átlós
+  - ert:
+    - csavaros
+    - fondorlatos
+  - ert:
+    - bonyolult
+    - komplex
+- szo: tura#t
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: ht
+    ert:
+    - tüstént
+    - azonnal
+    - egyszerre
+  - ert:
+    - nemrég
+  - kif: tura#t kA
+    nyt: mn
+    ert:
+    - új(keletű)
+- szo: dAm
+  szarm: S
+  ford:
+  - nyt: hn (tbsz)
+    ert:
+    - ár
+    - érték
+    - költség
+- szo: nivedan
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - kérés
+    - kérelmezés
+    - felfedés
+    - átadás
+- szo: noT
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - cetli
+    - üzenet
+- szo: pakaR'nA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: t
+    ert:
+    - megfog
+    - megragad
+    - elkap
+    - letartóztat
+    - elfog
+    - felfog
+    - tüzet fog
+    - utolér
+    - szo: elér
+      megj: járművet
+- szo: pulis
+  szarm: E
+  ford:
+  - nyt: nn 1sz
+    ert:
+    - rendőrség
+  - kif: pulis, pulis'vAlA, pulis-sipAhii
+    nyt: hn
+    ert:
+    - rendőr
+- szo: boriyat
+  szarm: E+P
+  ford:
+  - nyt: nn
+    ert:
+    - unalom
+    - unalmasság
+- szo: bhArii
+  szarm: S
+  ford:
+  - nyt: mn nvált
+    ert:
+    - nehéz
+    - súlyos
+    - terhes
+  - ert:
+    - nehézkes
+    - lassú
+  - ert:
+    - nagy
+    - hatalmas
+  - ert:
+    - értékes
+- szo: bhUl
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - tévedés
+    - hiba
+    - mulasztás
+    - feledékenység
+  - kif: bhUl kar'nA
+    nyt: t
+    ert:
+    - téved
+- szo: makkhii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - szo: légy
+      megj: rovar
+  - kif: makkhii mAr'nA, makkhiyA~ uRAnA
+    nyt: t
+    ert:
+    - elüti az időt
+    - lustálkodik
+- szo: magar
+  szarm: P
+  ford:
+  - nyt: kt
+    ert:
+    - de
+    - azonban
+- szo: madad
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - segítség
+  - kif: "* kii madad kar'nA"
+    ert:
+    - segít vkinek
+  - kif: "* ko madad denA"
+    ert:
+    - segít vkinek
+- szo: mAhir
+  ford:
+  - nyt: mn hn
+    ert:
+    - jártas
+    - járatos
+    - szakértő
+  - kif: "* se mAhir"
+    ert:
+    - vminek a szakértője
+- szo: yaKiin
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - bizalom
+    - bizonyosság
+    - hit
+  - ert:
+    - tény
+  - kif: "* ko * kA yaKiin AnA"
+    ert:
+    - vki meggyőződött vmiről
+- szo: yadi
+  szarm: S
+  ford:
+  - nyt: kt
+    ert:
+    - ha
+- szo: lisT
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - lista
+- szo: safAii
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - tisztaság
+    - takarítás
+  - kif: "(* kii) safAii kar'nA"
+    nyt: t
+    ert:
+    - takarít (vmit)
+- szo: ba~TAnA
+  ford:
+  - nyt: t
+    ert:
+    - szétoszt
+  - kif: hAth ba~TAnA
+    nyt: t
+    ert:
+    - szo: segít
+      megj: munkában
