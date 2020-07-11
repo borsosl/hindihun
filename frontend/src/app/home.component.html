@@ -5,6 +5,10 @@
     </p-card>
 
     <ng-container *ngIf="vm.result">
+        <div *ngIf="vm.result.numFound > 5" class="info">
+            <span>Találatok száma: {{vm.result.numFound}}</span>
+            <span *ngIf="vm.result.numFound > 100">, listázva: 100</span>
+        </div>
         <div *ngFor="let hit of vm.result.hits" class="word-card">
             <p-card>
                 <div [innerHTML]="toWordCardHtml(hit)"></div>
@@ -12,10 +16,8 @@
         </div>
     </ng-container>
 
-    <ng-container *ngIf="vm.error">
-        <p-card>
-            Nincs találat.
-        </p-card>
-    </ng-container>
+    <div *ngIf="vm.error" class="info">
+        {{vm.error.error}}
+    </div>
 
 </div>

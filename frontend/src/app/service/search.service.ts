@@ -1,5 +1,5 @@
 import {Injectable} from '@angular/core';
-import {HttpClient} from '@angular/common/http';
+import {HttpClient, HttpErrorResponse} from '@angular/common/http';
 import {BehaviorSubject, Observable, of} from 'rxjs';
 import {ResultOrError} from '../../../../backend/app/src/main/helper/error';
 import {SolrResponse} from '../../../../backend/app/src/main/model/solr';
@@ -8,7 +8,7 @@ import {take} from 'rxjs/operators';
 import {processLine as devaToKtrans} from '../../../../script/ktrans-to-unicode/process-unicode-text';
 import {SearchType} from '../../../../script/common/model';
 
-const prefixSplitter = /^(([fhm])\s+)?(.*)/;
+const prefixSplitter = /^(([jhm])\s+)?(.*)/;
 
 @Injectable({
     providedIn: 'root'
@@ -29,7 +29,7 @@ export class SearchService implements Resolve<any> {
         const searchExpression = rexRes[3];
         let searchType: SearchType;
         switch(prefix) {
-            case 'f': searchType = SearchType.trans; break;
+            case 'j': searchType = SearchType.trans; break;
             case 'h': searchType = SearchType.hindi; break;
             case 'm': searchType = SearchType.hun; break;
             default: searchType = SearchType.title; break;
@@ -59,14 +59,21 @@ export class SearchService implements Resolve<any> {
                 if(!roe.result)
                     roe.result = {} as SolrResponse;
                 roe.result.input = sanitizedInput;
+                roe.error = 'Nincs találat.';
                 this.searchFailedSubject.next(roe);
             }
-        }, err => {
+        }, (err: HttpErrorResponse) => {
             this.searchFailedSubject.next({
                 result: {
                     input: sanitizedInput
                 } as SolrResponse,
-                error: err
+                error: err.status === 503
+                    ? 'Az adatbázis szerver most indul. 2-3 perc múlva használható.'
+                    : err.error && err.error.error
+                        ? `Hiba történt: ${err.error.error}`
+                        : err.message
+                            ? `Hiba történt: ${err.message}`
+                            : 'Ismeretlen hiba történt'
             });
         });
     }

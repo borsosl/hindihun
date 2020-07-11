@@ -2,4 +2,4 @@
 .gitignore
 .gcloudignore
 node_modules
-src
+/src

@@ -49,7 +49,7 @@ export class HomeComponent implements OnInit {
         out.push(
             `<div>`,
                 `<span class="title">${ktod(hit.szo)}</span>`,
-                // sorsz
+                hit.sorsz ? ` <span class="sorsz">${hit.sorsz}</span>` : '',
                 `<span class="variant">`,
                     this.list(hit.alt, '&emsp;( ', ' )', true),
                     // std atiras, span italic
@@ -82,7 +82,7 @@ export class HomeComponent implements OnInit {
             const hasVar = !!(fd.var && fd.var.length);
             out.push(
                 itemStart,
-                fd.kif ? `<span class="kif">${ktod(fd.kif)}</span>&ensp;${fd.kif}` : '',
+                fd.kif ? `<span class="kif">${ktod(fd.kif)}</span>&ensp;${fd.kif} –` : '',
                 fd.nyt ? `${beforeNyt ? '&ensp;' : ''}<i>${fd.nyt}</i>` : '',
                 this.variant(fd.var, beforeVar),
                 this.ert(fd.ert, hasVar, beforeVar),

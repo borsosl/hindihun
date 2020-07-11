@@ -17,3 +17,8 @@ p-card {
 .word-card {
     margin-bottom: 5pt;
 }
+
+.info {
+    font-size: 80%;
+    margin-bottom: 5pt;
+}

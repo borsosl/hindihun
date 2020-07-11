@@ -43,6 +43,11 @@ body .ui-widget {
     font-weight: bold;
 }
 
+.word-card .sorsz {
+    vertical-align: 30%;
+    font-size: 80%;
+}
+
 .word-card .unnumbered {
     margin-left: 3em;
 }
