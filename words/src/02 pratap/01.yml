@@ -65,7 +65,7 @@ szavak:
     ert:
     - (ki)ürít
 - szo: gujarAtii
-  szarm: Pr
+  szarm: S
   ford:
   - nyt: mn
     ert:
@@ -96,7 +96,7 @@ szavak:
     - hízelgés
 - szo: dUs'rA
   lecserel: "1=1"
-  szarm: Pr
+  szarm: S
   ford:
   - nyt: szn
     ert:
@@ -138,7 +138,7 @@ szavak:
     ert:
     - kert
 - szo: bURhA
-  szarm: Pr
+  szarm: S
   lecserel: "1=1"
   ford:
   - ert:

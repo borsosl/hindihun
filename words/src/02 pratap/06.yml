@@ -4,7 +4,7 @@ forras:
   fejezet: 6
 szavak:
 - szo: akelApan
-  szarm: Pr
+  szarm: S
   ford:
   - nyt: hn
     ert:
@@ -44,7 +44,7 @@ szavak:
     ert:
     - kiejtés
 - szo: uTh'nA
-  szarm: Pr
+  szarm: S
   lecserel: "1=1"
   ford:
   - nyt: tl
@@ -102,7 +102,7 @@ szavak:
     ert:
     - hold
 - szo: cup
-  szarm: Pr
+  szarm: S
   ford:
   - nyt: nn
     ert:
@@ -136,7 +136,7 @@ szavak:
     ert:
     - darab(ka)
 - szo: Dar'nA
-  szarm: Pr
+  szarm: S
   ford:
   - kif: "* se Dar'nA"
     nyt: tl
@@ -148,6 +148,10 @@ szavak:
     ert:
     - posta
     - küldemény
+  - kif: havAii DAk
+    nyt: nn
+    ert:
+    - légiposta
 - szo: DAk-ghar
   ford:
   - nyt: hn
@@ -288,6 +292,10 @@ szavak:
     nyt: ht
     ert:
     - magában
+  - kif: man lag'nA
+    nyt: tl
+    ert:
+    - otthon érzi magát
 - szo: mah'sUs
   szarm: A
   ford:

@@ -33,10 +33,11 @@ szavak:
     - időben
 - szo: dvArA
   ford:
-  - kif: ke dvArA
+  - kif: (ke) dvArA
     nyt: nt
     ert:
     - által
+    - révén
 - szo: taraf
   szarm: A
   ford:
@@ -107,6 +108,7 @@ szavak:
     nyt: nt elölj
     ert:
     - miatt
+    - vmi által sújtva
 - szo: sivA
   lecserel: "1=1"
   szarm: A
@@ -115,6 +117,7 @@ szavak:
     nyt: nt elölj
     ert:
     - kivéve
+    - kivételével
     - kívül
 - szo: sivAy
   szarm: P
@@ -123,6 +126,7 @@ szavak:
     nyt: nt elölj
     ert:
     - kivéve
+    - kivételével
 - szo: EsA
   lecserel: "1=1"
   ford:
@@ -206,6 +210,7 @@ szavak:
   - kif: ap'ne Ap
     ert:
     - saját maga
+    - magától
   - kif: ap'ne Ap me~
     ert:
     - önmagában
@@ -256,6 +261,9 @@ szavak:
   - nyt: nv
     ert:
     - ahová
+  - kif: jidhar … udhar …
+    ert:
+    - amerre … arra …
 - szo: jyo~
   ford:
   - nyt: nv
@@ -267,6 +275,9 @@ szavak:
     ert:
     - amekkora
     - amennyi
+  - kif: jit'nA … ut'nA …
+    ert:
+    - amennyi … annyi …
 - szo: jab
   ford:
   - nyt: nv

@@ -35,7 +35,7 @@ szavak:
     - levél
     - kézírás
 - szo: khilOnA
-  szarm: Pr
+  szarm: S
   lecserel: "1=1"
   ford:
   - nyt: hn
@@ -56,6 +56,10 @@ szavak:
     - megy
     - mozog
     - mozdul
+  - kif: cal denA
+    nyt: tl
+    ert:
+    - elindul
   - kif: calA AnA
     ert:
     - visszajön
@@ -99,7 +103,7 @@ szavak:
 - szo: DhU~Rh'nA
   alt:
   - DhU~Dh'nA
-  szarm: Pr
+  szarm: S
   ford:
   - nyt: t
     ert:

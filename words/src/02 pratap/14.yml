@@ -1,0 +1,480 @@
+datum: 2020-07-10
+forras:
+  nev: Pratap
+  fejezet: 14
+szavak:
+- szo: anupasthit
+  szarm: S
+  ford:
+  - ert:
+    - hiányzó
+    - távol levő
+- szo: amiir
+  szarm: A
+  ford:
+  - nyt: mn hn
+    ert:
+    - gazdag
+    - előkelő
+- szo: arth
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - jelentés
+  - ert:
+    - vagyon
+    - pénzügyek
+    - anyagiak
+- szo: A~kh
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - szem
+  - kif: A~khe~ dikhAnA
+    ert:
+    - dühösen bámul
+    - haragosan néz
+- szo: AbAdii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - település
+    - negyed
+    - lakosság
+- szo: Arthik
+  szarm: S
+  ford:
+  - ert:
+    - pénzügyi
+    - gazdasági
+    - anyagi
+- szo: ilAKA
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - kerület
+    - környék
+    - körzet
+    - terület
+- szo: Ul-jalUl
+  ford:
+  - ert:
+    - buta
+    - értelmetlen
+    - bárdolatlan
+  - ert:
+    - slampos
+- szo: Kariib
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - közeli
+  - nyt: ht
+    ert:
+    - közel
+    - körülbelül
+    - nagyjából
+  - kif: ke Kariib
+    nyt: nt
+    ert:
+    - közel
+- szo: baGal
+  szarm: P
+  ford:
+  - nyt: nn hn
+    ert:
+    - oldal
+  - kif: kii baGal me~
+    ert:
+    - mellett
+    - oldalt
+- szo: gustAKhii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - udvariatlanság
+    - szemtelenség
+    - arcátlanság
+    - pimaszság
+    - tapintatlanság
+    - önteltség
+    - gőg
+- szo: ghaTiyA
+  szarm: S
+  ford:
+  - nyt: mn nvált
+    ert:
+    - alsóbbrendű
+    - vacak
+- szo: caT'nii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - szo: csatni
+      megj: csípős és édes szósz, ált. gyümölcsből
+- szo: ceh'rA
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - arc
+    - vonások
+    - (arc)kifejezés
+  - ert:
+    - elülső oldal
+  - ert:
+    - maszk
+- szo: corii
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - lopás
+    - tolvajlás
+    - rablás
+  - kif: corii kar'nA
+    ert:
+    - lop
+    - rabol
+- szo: zabAn
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - szo: nyelv
+      megj: beszélt ill. testrész is
+  - ert:
+    - hang
+  - ert:
+    - ígéret
+- szo: jEsA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: nv
+    ert:
+    - amilyen
+    - úgymint
+    - például
+  - nyt: nt
+    ert:
+    - hasonló
+    - -szerű
+  - kif: jEsA … vEsA …
+    ert:
+    - ahogy … úgy …
+- szo: joR'nA
+  szarm: S
+  ford:
+  - nyt: t
+    ert:
+    - (össze)kapcsol
+    - egyesít
+    - hozzátesz
+    - hozzáerősít
+    - összerak
+    - összegyűjt
+    - összead
+    - hozzáad
+- szo: DA~T'nA
+  ford:
+  - nyt: t
+    ert:
+    - szid
+    - korlátoz
+    - visszatart
+    - féken tart
+    - megzaboláz
+- szo: tamil
+  ford:
+  - nyt: mn nn
+    ert:
+    - tamil (nyelv)
+- szo: tAlAb
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - kis tó
+- szo: dab'nA
+  ford:
+  - nyt: tl
+    ert:
+    - le van nyomva
+    - el van nyomva
+    - (meg)hajol
+    - (meg)hajlik
+    - (meg)lapul
+    - meg van félemlítve
+    - rettegésben van
+  - ert:
+    - agyon van csapva
+    - el van temetve
+    - elhal
+    - alábbhagy
+- szo: dubArA
+  szarm: S+S
+  ford:
+  - ert:
+    - másodjára
+    - újra
+    - még egyszer
+    - kétszer
+- szo: dUr'darSan
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - televízió
+    - TV
+  - ert:
+    - távollátás
+    - előrelátás
+- szo: dhul'nA
+  szarm: S
+  ford:
+  - ert:
+    - mosva van
+- szo: parivartan
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - változás
+    - átalakulás
+  - ert:
+    - árucsere
+- szo: pAkistAn
+  ford:
+  - nyt: hn
+    ert:
+    - Pakisztán
+- szo: pul
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - híd
+- szo: prakAr
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - fajta
+    - féle
+    - mód
+  - kif: is prakAr kA
+    ert:
+    - ilyen
+- szo: pradeS
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - indiai tagállam
+    - állam
+    - tartomány
+- szo: prApt
+  ford:
+  - nyt: mn
+    ert:
+    - szerzett
+    - megesett
+    - elérkezett
+  - kif: prApt kar'nA
+    nyt: t
+    ert:
+    - megszerez
+    - elér
+- szo: prem
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - szeretet
+    - szerelem
+- szo: bac'nA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: tl
+    ert:
+    - (meg)menekül
+    - túlél
+    - megszökik
+    - felépül
+    - (meg)marad
+- szo: bEThAnA
+  alt:
+  - biThAnA
+  szarm: S
+  ford:
+  - ert:
+    - ültet
+    - elhelyez
+    - felállít
+  - kif: biThA lenA
+    ert:
+    - helyet foglal
+- szo: billii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - macska
+- szo: bolii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - beszéd
+    - nyelvjárás
+- szo: bhiig'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: tl
+    ert:
+    - nedves lesz
+    - elázik
+  - kif: bhiigii billii
+    nyt: nn
+    ert:
+    - félénk
+    - gyáva
+    - szégyellős
+    - nyomorult
+- szo: bhraShT
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - bűnbeesett
+    - elesett
+    - romlott
+    - beszennyezett
+  - kif: bhraShT kar'nA
+    ert:
+    - megront
+- szo: makkhan
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - vaj
+- szo: macchar
+  alt:
+  - macchaR
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - szúnyog
+- szo: mahilA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - hölgy
+    - asszony
+- szo: mahiin
+  szarm: P
+  ford:
+  - ert:
+    - finom
+    - kifinomult
+  - ert:
+    - magas/vékony hang
+- szo: mahoday
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - (méltóságos) úr
+    - úriember
+    - őméltósága
+- szo: mulAKAt
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - találkozás
+    - találkozó
+    - látogatás
+    - bemutatás
+    - ismeretség
+- szo: mOKA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - alkalom
+    - lehetőség
+  - ert:
+    - helyszín
+    - esemény
+    - baleset
+  - kif: "* ko mOKA mil'nA"
+    ert:
+    - vkinek lehetősége adódik
+    - alkalma nyílik
+- szo: lAd'nA
+  szarm: S
+  ford:
+  - ert:
+    - tölt
+    - rakodik
+    - terhet rak
+    - halmoz
+- szo: lekh
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - cikk
+    - írás
+    - kézírás
+    - iromány
+- szo: vyakti
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - személy
+    - egyén
+- szo: SAdiiSudA
+  szarm: P+P
+  alt:
+  - SAdii-SudA
+  ford:
+  - nyt: mn nvált
+    ert:
+    - házas
+    - családos
+- szo: SAn'dAr
+  lecserel: "1=1"
+  szarm: A+P
+  ford:
+  - nyt: mn
+    ert:
+    - pompás
+    - nagyszabású
+    - hatásos
+    - impozáns
+    - kérkedő
+    - nagyszerű
+    - ragyogó

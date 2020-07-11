@@ -48,6 +48,9 @@ szavak:
   - nyt: nn
     ert:
     - erő
+    - energia
+    - képesség
+    - hatalom
 - szo: tan'hA
   ford:
   - nyt: mn
@@ -177,3 +180,4 @@ szavak:
   - nyt: ht
     ert:
     - nagyon finom
+    - ízletes

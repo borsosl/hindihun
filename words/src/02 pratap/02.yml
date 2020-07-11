@@ -11,7 +11,7 @@ szavak:
     - papucs
 - szo: ciTThii
   lecserel: "1=1"
-  szarm: Pr
+  szarm: S
   ford:
   - nyt: nn
     ert:
@@ -39,7 +39,7 @@ szavak:
     - elégedetlen vmivel
 - szo: pat'lA
   lecserel: "1=1"
-  szarm: Pr
+  szarm: S
   ford:
   - nyt: mn
     ert:
@@ -69,13 +69,13 @@ szavak:
   - ert:
     - beteg
 - szo: beTA
-  szarm: Pr
+  szarm: S
   ford:
   - nyt: hn
     ert:
     - vki fia
 - szo: beTii
-  szarm: Pr
+  szarm: S
   ford:
   - nyt: nn
     ert:

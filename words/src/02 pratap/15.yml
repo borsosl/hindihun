@@ -1,0 +1,425 @@
+datum: 2020-07-11
+forras:
+  nev: Pratap
+  fejezet: 15
+szavak:
+- szo: a~dherA
+  ford:
+  - nyt: mn
+    ert:
+    - sötét
+    - ködös
+    - fakó
+  - nyt: hn
+    ert:
+    - sötétség
+    - homály
+    - köd
+- szo: anOp'cArik
+  ford:
+  - ert:
+    - informális
+    - közvetlen
+    - kötetlen
+    - nem hivatalos
+  - kif: anOp'cArik rUp se
+    nyt: ht
+    ert:
+    - nem hivatalos módon
+- szo: as'l
+  szarm: A
+  ford:
+  - nyt: hn nn
+    ert:
+    - eredet
+    - forrás
+    - lényeg
+  - nyt: mn
+    ert:
+    - eredeti
+    - igazi
+    - lényegi
+  - kif: as'l me~, dar as'l
+    nyt: ht
+    ert:
+    - igazából
+    - valójában
+    - teljesen
+- szo: Apas
+  ford:
+  - nyt: nn
+    ert:
+    - rokonság
+    - bensőséges kör
+  - kif: Apas me~
+    nyt: ht
+    ert:
+    - maguk között
+    - kölcsönösen
+  - kif: Apas kA
+    nyt: mn
+    ert:
+    - családi
+    - privát
+    - kölcsönös
+- szo: AsAnii
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - könnyűség
+    - könnyedség
+    - egyszerűség
+  - kif: AsAnii se
+    nyt: ht
+    ert:
+    - könnyen
+    - könnyedén
+    - egyszerűen
+- szo: in'kAr
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - tagadás
+    - ellentmondás
+    - elutasítás
+  - kif: (se) in'kAr kar'nA
+    nyt: t
+    ert:
+    - elutasít
+    - visszautasít
+    - ellentmond
+    - nem hajlandó
+- szo: udAharaN
+  ford:
+  - nyt: hn
+    ert:
+    - példa
+  - kif: udAharaN ke lie
+    ert:
+    - például
+- szo: Op'cArik
+  ford:
+  - kif: Op'cArik rUp se
+    nyt: ht
+    ert:
+    - formálisan
+    - hivatalos módon
+- szo: kab
+  lecserel: "1=1"
+  ford:
+  - nyt: nv
+    ert:
+    - mikor?
+  - kif: kab se
+    ert:
+    - mióta?
+- szo: kA~p'nA
+  ford:
+  - nyt: tl
+    ert:
+    - reszket
+    - didereg
+    - remeg
+    - borzong
+- szo: Gariib
+  szarm: A
+  ford:
+  - nyt: mn hn
+    ert:
+    - szegény (ember)
+    - szerény
+    - egyszerű
+- szo: Gal'tii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - tévedés
+    - hiba
+- szo: gAlii
+  ford:
+  - nyt: nn
+    ert:
+    - sértés
+    - gyalázás
+    - gyalázkodás
+    - szitkozódás
+  - kif: gAlii denA
+    nyt: t
+    ert:
+    - sérteget
+    - gyaláz
+- szo: ghama#D
+  ford:
+  - nyt: hn
+    ert:
+    - büszkeség
+    - önteltség
+    - gőg
+    - hiúság
+- szo: capAtii
+  ford:
+  - nyt: nn
+    ert:
+    - szo: csapáti
+      megj: kelesztés nélküli lepénykenyér
+- szo: cOkiidAr
+  szarm: S+P
+  ford:
+  - nyt: hn
+    ert:
+    - őr(szem)
+- szo: ja#gal
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - erdő
+    - dzsungel
+    - vadon
+    - bozótos
+    - cserjés
+- szo: ja~bhAii
+  ford:
+  - nyt: nn
+    ert:
+    - ásítás
+  - kif: ja~bhAii lenA
+    ert:
+    - ásít
+- szo: ja~bhAnA
+  ford:
+  - nyt: tl
+    ert:
+    - ásít
+- szo: zamAnA
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - idő(szak)
+    - kor(szak)
+    - az idők
+  - ert:
+    - világ
+- szo: jiinA
+  ford:
+  - nyt: tl
+    ert:
+    - él
+    - életben van
+    - létezik
+  - ert:
+    - élvezi az életet
+  - kif: jiite raho
+    ert:
+    - szo: áldásom rád
+      megj: ‘élj hosszú, boldog életet’
+- szo: jhe~p'nA
+  ford:
+  - nyt: tl
+    ert:
+    - zavarban van
+    - szégyenkezik
+    - szégyelli magát
+- szo: Dar'pok
+  ford:
+  - nyt: mn
+    ert:
+    - félénk
+    - félős
+    - bátortalan
+- szo: DrAivar
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - sofőr
+- szo: taraKKii
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - fejlődés
+    - növekedés
+    - haladás
+    - előléptetés
+    - előmenetel
+- szo: thak'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: tl
+    ert:
+    - elfárad
+    - kimerül
+    - el van fáradva
+- szo: dhokhA
+  ford:
+  - nyt: hn
+    ert:
+    - becsapás
+    - átverés
+    - csapda
+    - trükk
+    - kétség
+    - tévedés
+    - délibáb
+    - csalódottság
+  - kif: dhokhA denA
+    ert:
+    - becsap
+    - átver
+    - félrevezet
+- szo: nal
+  ford:
+  - nyt: hn
+    ert:
+    - cső(vezeték)
+    - csatorna
+  - nyt: mn
+    ert:
+    - vezetékes
+    - csap-
+- szo: netA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    var:
+    - tipus: tbsz
+      alak: netA
+    ert:
+    - vezető
+    - politikai vezető
+    - politikus
+- szo: pa#Dit
+  ford:
+  - nyt: hn
+    ert:
+    - tudós
+    - bölcs
+    - tanító
+    - tudós bráhmana
+- szo: par'vAh
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - törődés
+  - kif: "* kii par'vAh kar'nA"
+    ert:
+    - törődik vkivel
+    - odafigyel vkire
+- szo: pahiyA
+  ford:
+  - nyt: hn
+    ert:
+    - kerék
+- szo: pU~ch
+  ford:
+  - nyt: nn
+    ert:
+    - farok
+- szo: battiisii
+  ford:
+  - nyt: nn
+    ert:
+    - mind a 32 fog
+  - kif: (* ko) battiisii dikhAnA
+    ert:
+    - vigyorog (vkire)
+- szo: bAdal
+  ford:
+  - nyt: hn
+    ert:
+    - felhő
+- szo: brAhmaN
+  ford:
+  - nyt: hn
+    ert:
+    - bráhmana
+    - brahmin
+    - hindú pap
+- szo: bhikhArii
+  ford:
+  - nyt: hn
+    ert:
+    - koldus
+- szo: yU%
+  ford:
+  - kif: yU% pii%
+    nyt: hn
+    ert:
+    - szo: UP
+      megj: Uttar Pradesh
+- szo: vyaktigat
+  ford:
+  - nyt: mn
+    ert:
+    - személyes
+    - magán-
+    - egyéni
+  - kif: vyaktigat rUp se
+    nyt: ht
+    ert:
+    - személyesen
+    - egyénileg
+- szo: SarAbii
+  ford:
+  - nyt: mn hn
+    ert:
+    - részeg(es) (ember)
+- szo: samudra‍
+  ford:
+  - nyt: hn
+    ert:
+    - tenger
+    - óceán
+- szo: sar'kAr
+  ford:
+  - nyt: nn
+    ert:
+    - kormány
+    - királyi udvar
+  - ert:
+    - uraság
+    - méltóságos úr
+- szo: sar'kArii
+  ford:
+  - nyt: mn
+    ert:
+    - kormány-
+    - állami
+    - hivatalos
+- szo: snAn
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - fürdés
+    - megmerülés
+  - kif: snAn kar'nA
+    ert:
+    - szo: fürdik
+      megj: kül. rituális célból
+- szo: hAlat
+  lecserel: "1=1"
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - állapot
+    - helyzet
+    - körülmény
+- szo: komal
+  ford:
+  - nyt: mn
+    ert:
+    - lágy
+    - enyhe

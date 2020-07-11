@@ -1,0 +1,391 @@
+datum: 2020-07-09
+forras:
+  nev: Pratap
+  fejezet: 13
+szavak:
+- szo: ajiib
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - furcsa
+    - különös
+  - ert:
+    - ritka
+    - csodás
+- szo: an'ban
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - viszály
+    - ellentét
+    - vita
+- szo: abhyAs
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - gyakorlat
+    - tanulás
+    - szokás
+  - kif: abhyAs kar'nA
+    nyt: t
+    ert:
+    - gyakorol
+- szo: Age
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: ht
+    ert:
+    - előre
+    - elöl
+  - kif: ke Age, se Age
+    nyt: nt
+    ert:
+    - szo: előtt
+      megj: idő és helyhatározó
+  - kif: Age cal'kar
+    nyt: ht
+    ert:
+    - mostantól kezdve
+    - később
+- szo: idhar
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: ht
+    ert:
+    - ide
+    - erre
+    - itt
+  - nyt: ht
+    ert:
+    - nemrég
+  - nyt: ht
+    ert:
+    - egyrészt
+- szo: ilAhAbAd
+  ford:
+  - nyt: hn
+    ert:
+    - Allahabad
+- szo: Kismat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - sors
+    - szerencse
+    - juss
+- szo: guru
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - tanító
+    - guru
+- szo: gha#Tii
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - csengő
+    - harang
+    - csengés
+- szo: coT
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - sérülés
+    - bántás
+    - ütés
+    - csapás
+    - veszteség
+  - kif: coT lag'nA
+    nyt: tl
+    ert:
+    - megsérül
+- szo: chAtA
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - esernyő
+    - napernyő
+    - ejtőernyő
+- szo: jab
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: nv
+    ert:
+    - amikor
+  - kif: jab ki
+    ert:
+    - amíg
+  - kif: jab … tab …
+    ert:
+    - amikor … akkor …
+  - kif: jab tak … tab tak…
+    ert:
+    - amíg … addig …
+  - kif: jab tak nahii~ … tab tak
+    ert:
+    - mígnem … addig …
+  - kif: jab se … tab se …
+    ert:
+    - amióta … azóta …
+- szo: javAn
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - fiatal(ember)
+    - katona
+  - nyt: mn
+    ert:
+    - fiatal(os)
+    - életerős
+    - bátor
+- szo: jEse
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: ht
+    ert:
+    - amint
+    - ahogyan
+  - ert:
+    - például
+  - kif: jEse hii … vEse hii …
+    ert:
+    - amint … akkor rögtön …
+  - kif: jEse ki
+    ert:
+    - mintha (csak)
+- szo: jo
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: nv
+    var:
+    - tipus: nt 1sz
+      alak: jis
+    - tipus: tbsz
+      alak: jin
+    - tipus: t/r 1sz
+      alak: jise
+    - tipus: tbsz
+      alak: jinhe~
+    - tipus: tbsz erg
+      alak: jinho~ne
+    ert:
+    - aki
+    - ami
+    - amely
+    - amilyen
+  - kif: jo bhii
+    ert:
+    - akárki is
+    - akármi is
+- szo: TikaT
+  lecserel: "1=1"
+  szarm: E
+  ford:
+  - nyt: hn nn
+    ert:
+    - jegy
+    - belépőjegy
+    - bélyeg
+- szo: Tha#Dh
+  alt:
+  - Tha#D
+  szarm: S, Drav
+  ford:
+  - nyt: nn
+    ert:
+    - hideg(ség)
+- szo: talAK
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - válás
+  - kif: talAK honA, talAK lenA
+    ert:
+    - elválik
+  - kif: "* ko talAK denA"
+    nyt: t
+    ert:
+    - szo: elválik
+      megj: kezdeményezőként
+- szo: tAlA
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - zár
+    - lakat
+- szo: dil
+  szarm: P
+  ford:
+  - ert:
+    - szív
+    - lélek
+    - érzelem
+    szin:
+    - jii
+    - jAn
+    - man
+  - kif: dil lag'nA
+    ert:
+    - otthon érzi magát
+- szo: den
+  szarm: S
+  ford:
+  - nyt: nn hn
+    ert:
+    - ajándék(ozás)
+    - adás
+    - hozzájárulás
+    - tartozás
+- szo: fur'sat
+  lecserel: "1=1"
+  alt:
+  - fursat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - ráérő idő
+    - szabadidő
+    - pihenő
+    - pihenés
+    - lehetőség
+- szo: ba~g'lA
+  ford:
+  - nyt: nn mn
+    ert:
+    - bengálí (nyelv)
+- szo: bad'sUrat
+  szarm: P+AP
+  ford:
+  - nyt: mn
+    ert:
+    - csúnya
+    - torz
+- szo: bar'bAd
+  szarm: P+P
+  ford:
+  - nyt: mn
+    ert:
+    - elpusztított
+    - tönkretett
+    - szo: kidobott
+      megj: ‘a szélben levő’
+  - kif: bar'bAd kar'nA
+    nyt: t
+    ert:
+    - elront
+    - tönkretesz
+- szo: bAriS
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - eső
+  - kif: bAriS honA
+    nyt: tl
+    ert:
+    - esik az eső
+- szo: biyar
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - sör
+- szo: bhUkhA
+  szarm: S
+  ford:
+  - nyt: mn hn
+    ert:
+    - éhes
+    - éhező
+    - vágyódó
+- szo: bhO~k'nA
+  szarm: S
+  ford:
+  - nyt: tl
+    ert:
+    - ugat
+    - szamárságot beszél
+- szo: mUrkh
+  szarm: S
+  ford:
+  - nyt: mn hn
+    ert:
+    - ostoba
+    - bolond
+- szo: laR'nA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: tl
+    ert:
+    - szembeszáll
+    - küzd
+    - vitatkozik
+    - (össze)ütközik
+- szo: lifAfA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - boríték
+    - borítás
+- szo: vAkya
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - mondat
+    - beszéd
+- szo: SiShya
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - tanuló
+    - tanítvány
+- szo: so
+  szarm: S
+  ford:
+  - nyt: nv régies
+    ert:
+    - ő
+    - az
+  - ert:
+    - így
+    - úgy
+    - ezért
+  - nyt: kt
+    ert:
+    - aztán
+  - ert:
+    - nos
+    - hát
+  - kif: jo ho, so ho
+    ert:
+    - lesz, aminek lennie kell
+- szo: hiiro
+  lecserel: "1=1"
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - hős
+    - filmhős
+    - férfi filmsztár

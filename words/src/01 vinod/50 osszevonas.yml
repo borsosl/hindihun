@@ -156,7 +156,15 @@ szavak:
   - nyt: tl
     ert:
     - adódik
+    - vmi elérhető
+    - vmi kapható
+  - ert:
     - találkozik
+    - hasonlít
+  - kif: "* ko * mil'nA"
+    ert:
+    - vki kap vmit
+    - megkap
   - kif: "* se mil'nA"
     ert:
     - szo: találkozik vkivel
@@ -165,7 +173,7 @@ szavak:
     ert:
     - szo: találkozik vkivel
       megj: véletlenül összefut
-  - kif: mil'kar
+  - kif: mil'kar, mil-jul'kar
     ert:
     - együtt
   - kif: mil'nA-jul'nA
@@ -608,7 +616,8 @@ szavak:
     - ad
   - kif: (kar'ne) denA
     ert:
-    - megenged vmit (csinálni)
+    - (meg)enged (vmit csinálni)
+    - hagy
 - szo: lenA
   lecserel: "1,2,3=1"
   ford:
@@ -677,11 +686,25 @@ szavak:
   - nyt: tl
     ert:
     - illeszkedik
-  - nyt: tl
-    ert:
+    - rögzül
+    - csatlakozik
+    - érintkezik
+    - kapcsolódik
+    - vmi található
+  - ert:
     - tűnik
     - látszik
+    - kiderül
     - érződik
+    - hat (a betegség)
+  - ert:
+    - kerül vmibe
+    - beletelik
+  - ert:
+    - üt
+    - lecsap
+    - elkap
+    - belekap a tűz
   - kif: acchA lag'nA
     nyt: tl
     ert:
@@ -690,6 +713,9 @@ szavak:
     ert:
     - vmivel * (idő) telik
     - vmi * (ideig) tart
+  - kif: "der lag'nA"
+    ert:
+    - időbe telik
   - kif: (kar'ne) lag'nA
     nyt: tl
     ert:
@@ -707,7 +733,8 @@ szavak:
   ford:
   - nyt: tl
     ert:
-    - kell
+    - kell(ene)
+    - kéne
     - szükség van
   - kif: cAhie thA
     ert:
@@ -731,6 +758,8 @@ szavak:
   - nyt: hn
     ert:
     - vélemény
+    - gondolat
+    - ötlet
   - kif: vicAr kar'nA
     nyt: t
     ert:
@@ -1207,6 +1236,8 @@ szavak:
   - nyt: nvált
     ert:
     - elég!
+    - ez minden!
+    - ennyi!
 - szo: prakAS
   lecserel: "1,2=1"
   szarm: S
@@ -1230,6 +1261,10 @@ szavak:
     ert:
     - házasság
     - esküvő
+  - kif: "* kii SAdii * se honA"
+    ert:
+    - "* elveszi *-t"
+    - "* hozzámegy *-hoz"
   - kif: SAdii-vAdii
     nyt: nn
     ert:
@@ -1339,10 +1374,13 @@ szavak:
     ert:
     - éjjel
     - éjszaka
-  - kif: Adhii rAt
+  - kif: Adhii rAt, AdhiirAt
     nyt: nn
     ert:
     - éjfél
+  - kif: rAt bhar
+    ert:
+    - egész éjjel
 - szo: julAii
   lecserel: "1,2=1"
   szarm: E
@@ -1458,6 +1496,7 @@ szavak:
     ert:
     - között
     - közepén
+    - középre
   - kif: biico~ biic
     nyt: hn
     ert:
@@ -1484,6 +1523,9 @@ szavak:
   - nyt: nv
     ert:
     - ahol
+  - kif: jahA~ … vahA~ …
+    ert:
+    - ahol … ott …
 - szo: jahAn
   alt:
   - jahA~

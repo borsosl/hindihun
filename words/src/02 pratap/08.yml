@@ -91,7 +91,7 @@ szavak:
   - nyt: nn
     ert:
     - taps
-  - kif: tAlii bajAnA
+  - kif: tAlii bajAnA, tAliyA~ bajAnA
     nyt: t
     ert:
     - tapsol
