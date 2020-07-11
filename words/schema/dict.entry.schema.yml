@@ -20,12 +20,12 @@ properties:
     additionalProperties: false
     properties:
       nev:
-        description: a szavak forrásának megnevezése rövid hivatkozási névvel, pl. Vinód, TYH
+        description: a szavak forrásának megnevezése rövid hivatkozási névvel, pl. Vinód, Pratap
         anyOf:
         - type: string
         - enum:
           - Vinód
-          - TYH
+          - Pratap
       kotet:
         description: ha a forrás több kötetes, hivatkozás a kötetre
         type:

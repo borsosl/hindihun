@@ -35,7 +35,8 @@ export function analyzeAll(op: string, words: WordsMap, ordinals: OrdinalsMap,
 
     const all = op === 'all';
     for(const title of Object.keys(words)) {
-        if(!ordinals[title] || ordinals[title] === 1 && !all)
+        const expectedMaxIndex = ordinals[`${title}÷×Expect`] || 1;
+        if(!ordinals[title] || ordinals[title] === expectedMaxIndex && !all)
             continue;
         console.log(title);
         if(all) {

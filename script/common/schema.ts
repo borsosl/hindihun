@@ -28,7 +28,7 @@ export interface Forras {
      */
     kotet?: number | string;
     /**
-     * a szavak forrásának megnevezése rövid hivatkozási névvel, pl. Vinód, TYH
+     * a szavak forrásának megnevezése rövid hivatkozási névvel, pl. Vinód, Pratap
      */
     nev: string;
     /**

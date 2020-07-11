@@ -22,12 +22,12 @@ const uppercasedWord = /^[A-Z]/;
 const meaningWithComment = /(.*) \((.*)\)$/;
 const commonLineParts = /(([^;:=]*);)?([^:=]*)(:([^:=]*))?(:([^:=]*))?(:([^:=]*))?=?(.*)/;
 const commaSplitter = /\s*,\s*/;
-const nonAlphaSplitter = /\W+/;
+const grammarSplitter = /[^a-zA-Z0-9áéíóöőúüű]+/;
 
 const entriesFile = {
     datum: new Date().toISOString().substr(0, 10),
     forras: {
-        nev: 'Vinód',
+        nev: 'Pratap',
         fejezet: 1
     },
     szavak: []
@@ -156,9 +156,12 @@ function processCommonLine(line: string) {
     if(hun)
         hun = hun.trim();
 
+    let isExpr = title && !!hindi;
     if(!title)
-        if(hindi[0] === '>')
+        if(hindi[0] === '>') {
             hindi = hindi.substring(1).trim();
+            isExpr = true;
+        }
         else
             title = hindi;
     if(title) {
@@ -182,7 +185,7 @@ function processCommonLine(line: string) {
         inParen = false,
         sec: number = Section.Grammar,
         ford = newFord();
-    if(!title)
+    if(isExpr)
         ford.kif = hindi;
     ford.nyt = nyt;
     while(true) {
@@ -241,7 +244,7 @@ function processCommonLine(line: string) {
 function parseGrammar(nyt: string) {
     if(!nyt)
         return [null, null];
-    const pt = nyt.split(nonAlphaSplitter);
+    const pt = nyt.split(grammarSplitter);
     const nytArr: string[] = [];
     const szarmArr: string[] = [];
     for(const p of pt) {
