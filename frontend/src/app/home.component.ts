@@ -46,26 +46,28 @@ export class HomeComponent implements OnInit {
 
     toWordCardHtml(hit: Szavak) {
         const out: string[] = [];
+        const globalGrammarLine = hit.ford.length > 1 || (hit.nyt.length > 20 || hit.ford[0].kif);
         out.push(
             `<div>`,
                 `<span class="title">${ktod(hit.szo)}</span>`,
                 hit.sorsz ? ` <span class="sorsz">${hit.sorsz}</span>` : '',
                 `<span class="variant">`,
                     this.list(hit.alt, '&emsp;( ', ' )', true),
-                    // std atiras, span italic
+                    `&emsp;<i>${hit.atir}</i>`,
                     `&emsp;${hit.szo}`,
                     hit.szarm ? `&emsp;[${hit.szarm}]` : '',
                     // etim: szarm [] belul
                 `</span>`,
             `</div>`,
             // lasd
-            this.ford(hit.ford),
+            hit.nyt && globalGrammarLine ? `<div class="unnumbered"><i>${hit.nyt}</i></div>` : '',
+            this.ford(hit.ford, hit.nyt && !globalGrammarLine ? hit.nyt : ''),
             // forras
         );
         return out.join('');
     }
 
-    private ford(ford: Ford[]) {
+    private ford(ford: Ford[], nyt: string) {
         let wrapStart: string;
         let wrapEnd: string;
         let itemStart: string;
@@ -77,11 +79,12 @@ export class HomeComponent implements OnInit {
         }
         const out: string[] = [wrapStart];
         for(const fd of ford) {
-            const beforeNyt = !!fd.kif;
+            const beforeNyt = !!nyt || !!fd.kif;
             const beforeVar = beforeNyt || !!fd.nyt;
             const hasVar = !!(fd.var && fd.var.length);
             out.push(
                 itemStart,
+                nyt ? `<i>${nyt}</i>` : '',
                 fd.kif ? `<span class="kif">${ktod(fd.kif)}</span>&ensp;${fd.kif} –` : '',
                 fd.nyt ? `${beforeNyt ? '&ensp;' : ''}<i>${fd.nyt}</i>` : '',
                 this.variant(fd.var, beforeVar),
@@ -116,11 +119,11 @@ export class HomeComponent implements OnInit {
         for(const er of ert) {
             out.push(out.length ? ', ' : hasVar ? '<div class="bef">' : before ? '&ensp;' : '');
             if(typeof er === 'string') {
-                out.push(er);
+                out.push(er.replace(/{(.*?)}/g, (hit, g1) => ktod(g1)));
             } else {
                 out.push(
                     er.nyt ? `<i>${er.nyt}</i> ` : '',
-                    er.szo,
+                    er.szo.replace(/{(.*?)}/g, (hit, g1) => ktod(g1)),
                     er.megj ? ` (${er.megj})` : ''
                 );
             }

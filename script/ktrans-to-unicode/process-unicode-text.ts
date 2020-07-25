@@ -27,7 +27,8 @@ export function processLine(line: string, doQuote = true) {
     let syllable = '';
     let pending = '';
     let prevLetterCode = 0;
-    let prevLetterIx = 0;
+    let prevNuqtaCode = 0;
+    let prevNuqtaIx = 0;
     let consonant = false;
     let quoteStart = 0;
     let wordStart = 0;
@@ -45,7 +46,7 @@ export function processLine(line: string, doQuote = true) {
             syllable = '';
             pending = '';
             prevLetterCode = 0;
-            prevLetterIx = wordStart = cp.length;
+            prevNuqtaIx = wordStart = cp.length;
             consonant = false;
         }
         if(code >= 0x900 && code < 0x980) {
@@ -80,11 +81,21 @@ export function processLine(line: string, doQuote = true) {
             continue;
         }
         if(code === 0x93c) {        // nuqta
-            if(prevLetterCode) {
-                ch = nuqtaVariant[prevLetterCode];
-                cp.length = prevLetterIx;
-                for(const k of ch)
-                    cp.push(k.codePointAt(0));
+            if(prevNuqtaCode) {
+                const origCh = map[prevNuqtaCode];
+                ch = nuqtaVariant[prevNuqtaCode];
+                if(cp.length - origCh.length === prevNuqtaIx) {
+                    cp.length = prevNuqtaIx;
+                    for(const k of ch)
+                        cp.push(k.codePointAt(0));
+                } else {
+                    const after = cp.slice(prevNuqtaIx + origCh.length);
+                    cp.length = prevNuqtaIx;
+                    for(const k of ch)
+                        cp.push(k.codePointAt(0));
+                    cp.push(...after);
+                }
+                prevNuqtaCode = 0;
             }
             continue;
         }
@@ -93,6 +104,8 @@ export function processLine(line: string, doQuote = true) {
             if(pending === 'a' && (code<0x93e || code>0x94d && code<0x964 || code>0x96f)) {
                 for(const k of pending)
                     cp.push(k.codePointAt(0));
+                syllable += 'a';
+                prevLetterCode = 0;
             }
             pending = '';
         }
@@ -107,7 +120,10 @@ export function processLine(line: string, doQuote = true) {
             ch = '~';
         }
         prevLetterCode = code;
-        prevLetterIx = cp.length;
+        if(nuqtaVariant[code]) {
+            prevNuqtaCode = code;
+            prevNuqtaIx = cp.length;
+        }
         for(const k of ch)
             cp.push(k.codePointAt(0));
         syllable += ch;

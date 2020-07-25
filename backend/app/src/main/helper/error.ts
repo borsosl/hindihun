@@ -28,7 +28,9 @@ export async function restResult<T>(resp: Response, fn: () => Promise<InternalRe
             .status(res.status)
             .json(roe);
     } catch(e) {
-        if(e.response) {
+        if(e instanceof Array) {
+            writeError(resp, e[0], e[1]);
+        } else if(e.response) {
             // Non-2xx http response
             writeError(resp, e.response.status, e.response.data);
         } else if(e.request) {

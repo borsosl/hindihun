@@ -42,7 +42,9 @@ export function sabdToYaml(txt: string, fmt: string) {
         fmt === 'vi' ? processVinodLine(line) : processCommonLine(line);
     }
     cleanupEntry();
-    return YAML.stringify(entriesFile);
+    return YAML.stringify(entriesFile, {
+        indentSeq: false
+    });
 }
 
 function processVinodLine(line: string) {

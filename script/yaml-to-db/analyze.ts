@@ -27,7 +27,9 @@ export function analyze(wordEntry: Szavak, words: WordsMap, ordinals: OrdinalsMa
         title: wordEntry.szo,
         words: defs
     };
-    console.log(YAML.stringify(info));
+    console.log(YAML.stringify(info, {
+        indentSeq: false
+    }));
 }
 
 export function analyzeAll(op: string, words: WordsMap, ordinals: OrdinalsMap,
@@ -56,7 +58,10 @@ export function analyzeAll(op: string, words: WordsMap, ordinals: OrdinalsMap,
         }
     }
     if(all) {
-        fs.writeFileSync('script/yaml-to-db/input/all-words.yml', YAML.stringify(words));
+        fs.writeFileSync('script/yaml-to-db/input/all-words.yml',
+            YAML.stringify(words, {
+                indentSeq: false
+            }));
         console.log(`Összes címszó: ${Object.keys(words).length}`);
     }
 }

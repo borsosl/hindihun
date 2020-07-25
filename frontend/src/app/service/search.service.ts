@@ -8,7 +8,7 @@ import {take} from 'rxjs/operators';
 import {processLine as devaToKtrans} from '../../../../script/ktrans-to-unicode/process-unicode-text';
 import {SearchType} from '../../../../script/common/model';
 
-const prefixSplitter = /^(([jhm])\s+)?(.*)/;
+const prefixSplitter = /^((.*?)!)?(([jhm])\s+)?(.*)/;
 
 @Injectable({
     providedIn: 'root'
@@ -25,8 +25,8 @@ export class SearchService implements Resolve<any> {
         const rexRes = prefixSplitter.exec(input.trim());
         if(!rexRes)
             return;
-        const prefix = rexRes[2];
-        const searchExpression = rexRes[3];
+        const prefix = rexRes[4];
+        const searchExpression = rexRes[5];
         let searchType: SearchType;
         switch(prefix) {
             case 'j': searchType = SearchType.trans; break;
@@ -34,19 +34,23 @@ export class SearchService implements Resolve<any> {
             case 'm': searchType = SearchType.hun; break;
             default: searchType = SearchType.title; break;
         }
-        const sanitizedInput = prefix ? `${prefix} ${searchExpression}` : searchExpression;
-        this.request(searchType, devaToKtrans(searchExpression, false), sanitizedInput);
+        let sanitizedInput = prefix ? `${prefix} ${searchExpression}` : searchExpression;
+        const pass = rexRes[1] ? rexRes[2] : null;
+        if(pass !== null)
+            sanitizedInput = `${pass}!${sanitizedInput}`;
+        this.request(searchType, pass, devaToKtrans(searchExpression, false), sanitizedInput);
     }
 
-    private request(searchType: SearchType, searchExpression: string, sanitizedInput: string) {
+    private request(searchType: SearchType, pass: string, searchExpression: string, sanitizedInput: string) {
         searchExpression = this.sanitizeExpr(searchExpression);
         this.http.get<ResultOrError<SolrResponse>>('/api/' + SearchType[searchType], {
             params: {
-                q: searchExpression
+                q: searchExpression,
+                ...pass !== null && {pass}
             }
         }).subscribe(roe => {
             if(roe.result && roe.result.numFound) {
-                document.title = sanitizedInput;
+                document.title = pass ? sanitizedInput.slice(sanitizedInput.indexOf('!') + 1) : sanitizedInput;
                 roe.result.input = sanitizedInput;
                 this.searchSubject.next(roe.result);
                 // noinspection JSIgnoredPromiseFromCall

@@ -75,8 +75,14 @@ properties:
         szarm:
           description: nyelv(ek) rövidítése, amiből a szó eredetileg származik, pl. S, P, A, Pr, Pt, E
           type: string
+        atir:
+          description: standard átírás
+          type: string
         etim:
           description: etimológiai forrás szó vagy szavak
+          type: string
+        nyt:
+          description: globálisan megadott szófaj vagy más nyelvtani címkék
           type: string
         ford:
           description: a címszóhoz tartozó fordítások listája, mint a szótárakban elkülönített a számozott jelentések

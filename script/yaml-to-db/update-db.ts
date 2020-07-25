@@ -5,7 +5,11 @@ import {tokenize as tok} from './tokenize';
 import {SearchType} from '../common/model';
 
 export async function updateDB(solrCoreBaseUrl: string, words: WordsMap) {
+    let count = 0;
     for(const word of Object.values(words)) {
+        ++count;
+        if(count % 1000 === 0)
+            console.log(count);
         const doc = solrize(word);
         try {
             await request.post({

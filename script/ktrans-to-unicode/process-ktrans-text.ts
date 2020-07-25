@@ -56,6 +56,10 @@ function processWord(word: string) {
             syllable += 'a';
             continue;
         }
+        if(ix === 0 && ch === '~') {
+            cp.push(ch.codePointAt(0));
+            continue;
+        }
         let sub = word.substr(ix, 2);
         let c = map[sub];
         if(c)

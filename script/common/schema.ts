@@ -43,6 +43,10 @@ export interface Szavak {
      */
     alt?: string[];
     /**
+     * standard átírás
+     */
+    atir?: string;
+    /**
      * etimológiai forrás szó vagy szavak
      */
     etim?: string;
@@ -61,6 +65,10 @@ export interface Szavak {
      * a megmaradó indexek felfelé tömörödnek, és az új index abba a sorba szúródik be
      */
     lecserel?: string;
+    /**
+     * globálisan megadott szófaj vagy más nyelvtani címkék
+     */
+    nyt?: string;
     /**
      * a szótári címszó sorszáma, ha alakilag azonos szavak vannak teljesen más értelemmel
      */

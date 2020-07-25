@@ -1,6 +1,7 @@
 const path = require('path');
 
 module.exports = {
+    mode: 'production',
     entry: './script/ktrans-to-unicode/web-index.ts',
     output: {
         filename: 'main.js',
@@ -10,7 +11,7 @@ module.exports = {
         extensions: ['.ts']
     },
     module: {
-        loaders: [
+        rules: [
             {
                 test: /\.ts$/,
                 loader: 'ts-loader',
