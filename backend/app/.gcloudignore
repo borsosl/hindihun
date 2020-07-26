@@ -3,3 +3,4 @@
 .gcloudignore
 node_modules
 /src
+test/

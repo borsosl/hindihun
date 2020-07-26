@@ -18,6 +18,7 @@
 	"author": "László Borsos",
 	"license": "GPL-3.0-or-later",
 	"dependencies": {
+		"@google-cloud/storage": "^5.1.2",
 		"axios": "^0.19.2",
 		"express": "^4.17.1",
 		"loglevel": "^1.6.1",

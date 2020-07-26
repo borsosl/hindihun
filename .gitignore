@@ -8,6 +8,7 @@ node_modules/
 dist/
 input/
 .boto
+secret/
 
 # System Files
 .DS_Store
