@@ -3,6 +3,7 @@ import {map, nuqtaVariant} from './unicode-to-ktrans-map';
 const lineSplitter = /\r?\n/;
 const vowelsGap = 0x093e - 0x0906;
 const vowelAfterR = /^([aeiouAEOU@]|RI)/;
+const endingDiphtongRex = /([bcdDgGhjkKlmnNprRsStTvy]y|iiy|bhr|bj|chr|Dg|dhr|dhv|dm|dr|Dr|dv|ghr|gm|gr|hm|hn|jr|jY|kth|kv|lv|ml|Nv|Sc|Shm|ShN|ShTr|sr|sv|Sv|tv|vr)$/;
 const upstairsThingy = [0x0908, 0x0910, 0x0911, 0x0913, 0x0914, 0x093f, 0x0940, 0x0945,
     0x0947, 0x0948, 0x0949, 0x094b, 0x094c];
 
@@ -35,8 +36,9 @@ export function processLine(line: string, doQuote = true) {
     let wordBreak = false;
     for(let ix=0; ix < line.length; ix++) {
         let code = line.codePointAt(ix);
-        if(isWhite(code)) {
+        if(isWhite(code) || code === 0x2d) {
             endWord(pending, cp.length-wordStart, cp);
+            pending = '';
             cp.push(code);
             wordBreak = true;
             continue;
@@ -72,14 +74,14 @@ export function processLine(line: string, doQuote = true) {
         }
 
         let ch = map[code];
-        const prevCons = consonant;
-        consonant = code>=0x0915 && code<=0x0939 || code>=0x0958 && code<=0x095e;
-        if(!consonant && !ch)
-            ch = map[code + vowelsGap];
         if(ch === '_') {
             pending = '_';
             continue;
         }
+        const prevCons = consonant;
+        consonant = code>=0x0915 && code<=0x0939 || code>=0x0958 && code<=0x095e;
+        if(!consonant && !ch)
+            ch = map[code + vowelsGap];
         if(code === 0x93c) {        // nuqta
             if(prevNuqtaCode) {
                 const origCh = map[prevNuqtaCode];
@@ -109,8 +111,10 @@ export function processLine(line: string, doQuote = true) {
             }
             pending = '';
         }
-        if(!prevCons && consonant)
+        if(!prevCons && consonant) {
             syllable = '';
+            prevNuqtaCode = 0;
+        }
         if(!ch) {
             cp.push(code);
             continue;
@@ -170,6 +174,11 @@ function endWord(pending: string, wordLen: number, cp: number[]) {
         return;
     if(pending === '_' || wordLen === 1)
         cp.push(pending.codePointAt(0));
+    else if(pending === 'a') {
+        const end = String.fromCodePoint.apply(null, cp.slice(Math.max(cp.length - 5, 0)));
+        if(endingDiphtongRex.test(end))
+            cp.push(pending.codePointAt(0));
+    }
 }
 
 function isWhite(code: number) {

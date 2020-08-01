@@ -133,7 +133,7 @@ function stdToKtrans(std: string) {
             i++;
             continue;
         }
-        if(std.codePointAt(i) === 0x2be) {      // print apos
+        if(std.codePointAt(i) === 0x2be || std.codePointAt(i) === 0x2bf) {      // print apos
             continue;
         }
         const k = std[i];

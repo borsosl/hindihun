@@ -115,6 +115,22 @@ describe('Global labels parsing', () => {
         expect(entry.length).toBe(1);
         expect(entry[0].nyt).toBe('f. reg. (S. India)');
     });
+
+    it('should keep all stuff until def', () => {
+        const html = fs.readFileSync('./input/html/0345.txt').toString();
+        const entries = createEntries(345, html);
+        let entry = entries.szavak.filter(ent => ent.szo === 'chii');
+        expect(entry.length).toBe(1);
+        expect(entry[0].nyt).toBe('interj. expressing disgust or dislike, & f.');
+    });
+
+    it('should keep all stuff until def unless shw is before it', () => {
+        const html = fs.readFileSync('./input/html/0011.txt').toString();
+        const entries = createEntries(11, html);
+        let entry = entries.szavak.filter(ent => ent.szo === 'aKl');
+        expect(entry.length).toBe(1);
+        expect(entry[0].nyt).toBe('f.');
+    });
 });
 
 describe('Gloss parsing', () => {
@@ -141,5 +157,14 @@ describe('Gloss parsing', () => {
         expect(entry.szo).toBe("aKl");
         expect(entry.ford.length).toBe(22);
         expect(entry.ford[21].ert[0]).toBe('.');
+    });
+
+    it('should insert space when tilde sticks to deva', () => {
+        const html = fs.readFileSync('./input/html/0365.txt').toString();
+        const entries = createEntries(365, html);
+        let entry = entries.szavak.filter(ent => ent.szo === "zah'r");
+        expect(entry.length).toBe(1);
+        const shw = entry[0].ford.filter(f => f.kif && f.kif.includes('kii gA~Th'));
+        expect(shw[0].kif).toMatch(/^~ kii gA~Th/);
     });
 });

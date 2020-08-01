@@ -27,21 +27,23 @@ const hwLine = /^\s*<hw>/;
 const ordinalRex = /\s*<sp>(\d+)<\/sp>/y;
 const headwordRex = /\s*(<kt>(.*?)<\/kt>)?<deva>(.*?)<\/deva>/y;
 const transRex = /\s*(<tran>(.*?)<\/tran>)?<\/hw>/y;
-const labelsUntilDerivRex = /\s*,?\s*(.{0,10}?)(?=\s*\[)(?<!<def>\d\.)/y;
+const labelsUntilDerivRex = /\s*,?\s*(.{0,10}?)(?=\s*\[)(?<!<def>1\.)/y;
 const derivRex = /\s*,?\s*\[(.+?)\]\.?/y;
 const phonemicRex = /\s*(,?)\s*(\/[^/]+\/)/y;
 const labelsUntilDefRex = /\s*,?\s*(.*?)(?=(\s*<def>1\.|\s+see |\s+= ))/y;
 const italicTagsRex = /<\/?i>/g;
-const nextShwRex = /.*<shw>/y;
+const nextShwRex = /.*?<shw>/y;
 const parenthesizedRex = /\s*(\(.*?\))/y;
 const italicLabelRex = /\s*([,&]*)\s*<i>(.*?)<\/i>(\.?)/y;
-const labelRex = /\s*([,&]*)\s*(f\.|m\.|v\.i\.|v\.t\.|adj\.|adv\.|obl\. base\.?|conj\.|pron\.|A\.|abl\.|abs\.|acc\.|ad\.|allus\.|alt\.|anal\.|Ap\.|aphet\.|appar\.|approx\.|arch\.|attrib\.|Austro-as\.|Av\.|B\.|Brbh\.|c\.|caus\.|cf\.|colloq\.|comp\.|compar\.|conn\.|corr\.|cpds\.|def\.|dem\.|dep\. auxil\.|dimin\.|dir\.|do\.|Drav\.|e\.g\.|E\.H\.|ellipt\.|emphat\.|encl\.|Engl\.|esp\.|euphem\.|exc\.|excl\.|exclam\.|ext\.|fig\.|fmn\.|foll\.|Fr\.|freq\.|G\.|gen\.|Germ\.|Gk\.|H\.|hon\.|HŚS\.|hw\.|hww\.|i\.e\.|i\.|imp\.|imperf\.|incl\.|in comp\.|incorr\.|Ind\.|indef\.|inf\.|infld\.|instr\.|interj\.|interr\.|inv\.|inverted\.|Ir\.|iron\.|joc\.|Kan\.|KhB\.|L\.|lit\.|loc\.|lw\.|M\.|med\.|metath\.|metr\.|MIA|n\.|N\.|neg\.|neol\.|neut\.|NIA|NW|obj\.|obl\.|obs\.|OIA|onom\.|orig\.|orthogr\.|P\.|Pa\.|Panj\.|part\.|pass\.|pej\.|perf\.|pers\.|Pk\.|pl\.|Pl\.|poet\.|pop\.|ppn\.|prec\.|predic\.|pref\.|prep\.|prob\.|pronun\.|prop\. n\.|prov\.|Pt\.|q\.v\.|Raj\.|redupl\.|refl\.|reg\.|rel\.|repl\.|rhetor\.|Ś\.|sc\.|sg\.|S\.H\.|S\.|Sk\.|sl\.|specif\.|subj\.|subj\.-pres\.|s\.v\.|s\.vv\.|syn\.|T\.|Tam\.|tr\.|trad\.|transf\.|U\.|usu\.|v\.|var\.|viz\.|voc\.|vulg\.|w\.|W\.|w\.r\.|admin\.|aeron\.|agric\.|alg\.|anat\.|anthropol\.|archaeol\.|arith\.|astrol\.|astron\.|athl\.|ayur\.|biochem\.|biol\.|bot\.|chem\.|chronol\.|comm\.|dipl\.|econ\.|electr\.|engin\.|entom\.|fin\.|geog\.|geol\.|geom\.|govt\.|gram\.|hind\.|hist\.|hort\.|indol\.|isl\.|ling\.|math\.|mech\.|meteorol\.|mil\.|min\.|mus\.|musl\.|mythol\.|nat\. hist\.|naut\.|ornith\.|pharm\.|philos\.|phys\.|pol\.|pros\.|psychol\.|rhet\.|techn\.|zool\.|m )/y;
-const skipGlossHeadRex = /\s*[.,]*\s*(<def>\*?\d+\.|<shw>|<\/p>)?\s*/y;
+const labelRex = /\s*([,&]*)\s*(f\.|m\.|v\.i\.|v\.t\.|adj\.|adv\.|obl\. base\.?|conj\.|pron\.|19c\.|A\.|abl\.|abs\.|acc\.|ad\.|allus\.|alt\.|anal\.|Ap\.|aphet\.|appar\.|approx\.|arch\.|attrib\.|Austro-as\.|Av\.|B\.|Brbh\.|c\.|caus\.|cf\.|colloq\.|comp\.|compar\.|conn\.|corr\.|cpds\.|def\.|dem\.|dep\. auxil\.|dimin\.|dir\.|do\.|Drav\.|e\.g\.|E\.H\.|ellipt\.|emphat\.|encl\.|Engl\.|esp\.|euphem\.|exc\.|excl\.|exclam\.|ext\.|fig\.|fmn\.|foll\.|Fr\.|freq\.|G\.|gen\.|Germ\.|Gk\.|H\.|hon\.|HŚS\.|hw\.|hww\.|i\.e\.|i\.|imp\.|imperf\.|incl\.|in comp\.|incorr\.|Ind\.|indef\.|inf\.|infld\.|instr\.|interj\.|interr\.|inv\.|inverted\.|Ir\.|iron\.|joc\.|Kan\.|KhB\.|L\.|lit\.|loc\.|lw\.|M\.|med\.|metath\.|metr\.|MIA|n\.|N\.|neg\.|neol\.|neut\.|NIA|NW|obj\.|obl\.|obs\.|OIA|onom\.|orig\.|orthogr\.|P\.|Pa\.|Panj\.|part\.|pass\.|pej\.|perf\.|pers\.|Pk\.|pl\.|Pl\.|poet\.|pop\.|ppn\.|prec\.|predic\.|pref\.|prep\.|prob\.|pronun\.|prop\. n\.|prov\.|Pt\.|q\.v\.|Raj\.|redupl\.|refl\.|reg\.|rel\.|repl\.|rhetor\.|Ś\.|sc\.|sg\.|S\.H\.|S\.|Sk\.|sl\.|specif\.|subj\.|subj\.-pres\.|s\.v\.|s\.vv\.|syn\.|T\.|Tam\.|tr\.|trad\.|transf\.|U\.|usu\.|v\.|var\.|viz\.|voc\.|vulg\.|w\.|W\.|w\.r\.|admin\.|aeron\.|agric\.|alg\.|anat\.|anthropol\.|archaeol\.|arith\.|astrol\.|astron\.|athl\.|ayur\.|biochem\.|biol\.|bot\.|chem\.|chronol\.|comm\.|dipl\.|econ\.|electr\.|engin\.|entom\.|fin\.|geog\.|geol\.|geom\.|govt\.|gram\.|hind\.|hist\.|hort\.|indol\.|isl\.|ling\.|math\.|mech\.|meteorol\.|mil\.|min\.|mus\.|musl\.|mythol\.|nat\. hist\.|naut\.|ornith\.|pharm\.|philos\.|phys\.|pol\.|pros\.|psychol\.|rhet\.|techn\.|zool\.|m |adj )/y;
+const skipGlossHeadRex = /\s*[.,]*\s*(<def>(\*?)\d+\.|<shw>|<\/p>)?\s*/y;
 const glossItemEndRex = /.*?(?=(\s*(<def>|<shw>|<\/p>)))/y;
-const glossExprRex = /(.*?)(<\/?shw>|<\/p>),?\s*/y;
+const glossExprRex = /(.*?)(<\/?shw>([!?)]*)|<\/p>),?\s*/y;
 const glossDerivRex = /\s*,?\s*(\[.+?\])/y;
-const devaRex = /<deva>(.*?)<\/deva>/g;
 const orRex = /or /g;
+const tildeBeforeRex = /~<deva>/g;
+const tildeAfterRex = /<\/deva>~/g;
+const devaRex = /(<kt>(.*?)<\/kt>)?<deva>(.*?)<\/deva>/g;
 
 let ctx: EntryContext;
 const startPage = 0, endPage = 0;
@@ -192,7 +194,7 @@ function globalLabels() {
     if(res && res[1]) {
         nextShwRex.lastIndex = ctx.p;
         const sres = nextShwRex.exec(line);
-        if(sres && sres.index < res.index + res.length)
+        if(sres && sres[0].length < res[0].length)
             res = null;
     }
     if(res && res[1]) {
@@ -225,8 +227,12 @@ function globalLabels() {
                 break;
         }
     }
-    if(ctx.entry.nyt && ctx.entry.nyt.endsWith('/.'))
-        ctx.entry.nyt = ctx.entry.nyt.substring(0, ctx.entry.nyt.length-1);
+    if(ctx.entry.nyt) {
+        if(ctx.entry.nyt.endsWith('/.'))
+            ctx.entry.nyt = ctx.entry.nyt.substring(0, ctx.entry.nyt.length-1);
+        ctx.entry.nyt = ctx.entry.nyt.replace(devaRex,
+            (sub: string, g1: string, g2: string, g3: string) => `{${devaVariantToKtrans(g1, g2, g3)}}`);
+    }
     ctx.section = Section.Gloss;
 }
 
@@ -241,21 +247,21 @@ function labels(): [string, string, number] {
     } else {
         italicLabelRex.lastIndex = ctx.p;
         res = italicLabelRex.exec(line);
-        if (res) {
+        if(res) {
             italicBlock = res[2] + res[3];
             sep = res[1];
             len = res[0].length;
         }
-        if (italicBlock) {
+        if(italicBlock) {
             labelRex.lastIndex = 0;
             res = labelRex.exec(italicBlock);
         } else {
             labelRex.lastIndex = ctx.p;
             res = labelRex.exec(line);
         }
-        if (res) {
-            text = italicBlock ? italicBlock : res[2];
-            if (!italicBlock) {
+        if(res) {
+            text = italicBlock ? italicBlock : res[2].trim();
+            if(!italicBlock) {
                 sep = res[1];
                 len = res[0].length;
             }
@@ -289,12 +295,13 @@ function phonemic(ford?: Ford) {
 function gloss() {
     const line = ctx.line;
     ctx.entry.ford = [];
-    let shw: boolean;
+    let shw: boolean, star: boolean;
     while(true) {
         skipGlossHeadRex.lastIndex = ctx.p;
         let res = skipGlossHeadRex.exec(line);
         if(res) {
             shw = res[1] === '<shw>';
+            star = !!res[2];
             ctx.p += res[0].length;
             if(res[1] === '</p>' || ctx.p === line.length) {
                 ctx.section = Section.End;
@@ -310,7 +317,7 @@ function gloss() {
         const partEnd = ctx.p + res[0].length;
         const ford = ctx.ford = {
             kif: '',
-            nyt: '',
+            nyt: star ? '(*)' : '',
             ert: []
         } as Ford;
         if(shw)
@@ -329,11 +336,14 @@ function gloss() {
 function glossExpr() {
     glossExprRex.lastIndex = ctx.p;
     const res = glossExprRex.exec(ctx.line);
-    if(res && res[2] === '</shw>') {
+    if(res && res[2].startsWith('</shw>')) {
         if(res[1]) {
-            ctx.ford.kif = res[1]
+            ctx.ford.kif = (res[1] + res[3])
                 .replace(orRex, '')
-                .replace(devaRex, (sub: string, g1: string) => devaToKtrans(g1, false));
+                .replace(tildeBeforeRex, '~ <deva>')
+                .replace(tildeAfterRex, '<\/deva> ~')
+                .replace(devaRex,
+                    (sub: string, g1: string, g2: string, g3: string) => devaVariantToKtrans(g1, g2, g3));
         }
         ctx.p += res[0].length;
     }
@@ -374,8 +384,12 @@ function glossLabels() {
         } else
             break;
     }
-    if(ford.nyt && ford.nyt.endsWith('/.'))
-        ford.nyt = ford.nyt.substring(0, ctx.entry.nyt.length-1);
+    if(ford.nyt) {
+        if(ford.nyt.endsWith('/.'))
+            ford.nyt = ford.nyt.substring(0, ctx.entry.nyt.length-1);
+        ford.nyt = ford.nyt.replace(devaRex,
+            (sub: string, g1: string, g2: string, g3: string) => `{${devaVariantToKtrans(g1, g2, g3)}}`);
+    }
 
     skip(',');
     skip(' ');
@@ -388,7 +402,8 @@ function glossBody(partEnd: number) {
     }
 
     let ert = ctx.line.substring(ctx.p, partEnd);
-    ert = ert.replace(devaRex, (sub: string, g1: string) => `{${devaToKtrans(g1, false)}}`);
+    ert = ert.replace(devaRex,
+        (sub: string, g1: string, g2: string, g3: string) => `{${devaVariantToKtrans(g1, g2, g3)}}`);
     ctx.ford.ert = [ert];
 }
 
@@ -396,4 +411,10 @@ function skip(c: string) {
     while(ctx.line[ctx.p] === c) {
         ctx.p++;
     }
+}
+
+function devaVariantToKtrans(g1: string, g2: string, g3: string) {
+    if(g1)
+        return g2;
+    return devaToKtrans(g3, false);
 }
