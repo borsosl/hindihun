@@ -1,0 +1,479 @@
+datum: 2020-07-13
+forras:
+  nev: Pratap
+  fejezet: 16
+szavak:
+- szo: aham
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - fontos
+- szo: Al'sii
+  ford:
+  - nyt: mn hn
+    ert:
+    - lusta
+    - tétlen
+    - rest
+- szo: i#tazAm
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - elrendezés
+    - szervezés
+    - elintézés
+  - kif: "* kA i#tazAm kar'nA"
+    ert:
+    - elrendez
+    - elintéz
+    - igazgat
+- szo: i#tazAr
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - vár(akozás)
+  - kif: "* kA i#tazAr kar'nA"
+    ert:
+    - vár vkit
+- szo: in'sAn
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - emberi lény
+    - személy
+  - ert:
+    - emberi faj
+- szo: lie
+  lecserel: "1=1"
+  ford:
+  - kif: ke lie
+    nyt: nt
+    ert:
+    - számára
+    - részére
+    - -ért
+  - kif: is'lie, is lie
+    ert:
+    - ezért
+  - kif: isii lie
+    ert:
+    - éppen ezért
+- szo: ii
+  ford:
+  - kif: ii-patr
+    nyt: hn
+    ert:
+    - e-mail
+  - kif: ii-mel
+    nyt: hn
+    ert:
+    - e-mail
+- szo: udghATan
+  ford:
+  - nyt: hn
+    ert:
+    - felfedés
+    - leleplezés
+    - megnyitás
+    - beiktatás
+- szo: ullU
+  ford:
+  - nyt: hn
+    ert:
+    - bagoly
+    - együgyű / ostoba ember
+- szo: ka#pyUTar
+  lecserel: "1=1"
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - számítógép
+  - kif: ka#pyUTar kA kors
+    nyt: hn
+    ert:
+    - számítógépes tanfolyam
+- szo: KasUr
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - mulasztás
+    - hanyagság
+    - elhanyagolás
+    - hiányosság
+    - hibázás
+    - hiba
+- szo: koSiS
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - próbálkozás
+    - próba
+    - törekvés
+  - kif: "* kii koSiS kar'nA"
+    ert:
+    - (meg)próbál
+- szo: khA~s'nA
+  ford:
+  - ert:
+    - köhög
+- szo: ga~vAnA
+  ford:
+  - ert:
+    - elherdál
+    - elpocsékol
+    - elveszít
+- szo: cAhe
+  ford:
+  - ert:
+    - bár
+    - habár
+    - még ha
+    - akár
+    - vagy
+  - kif: cAhe … cAhe …
+    ert:
+    - akár … akár …
+    - vagy … vagy …
+  - kif: cAhe … par/to bhii …
+    ert:
+    - habár … mégis …
+- szo: ci#tA
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - gondolkodás
+    - aggódás
+    - aggodalom
+    - törődés
+  - kif: ci#tA kar'nA
+    nyt: t
+    ert:
+    - törődik
+    - aggódik
+  - kif: ci#tA-vi#tA
+    nyt: nn
+    ert:
+    - aggodalom és hasonlók
+- szo: ja#g'lii
+  ford:
+  - ert:
+    - erdei
+    - erdős
+    - erdő-
+    - vad-
+- szo: janma
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - születés
+    - származás
+    - az egész élet
+  - kif: "* kA janma honA"
+    ert:
+    - vki születik
+- szo: zi#dagii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - (az egész) élet
+- szo: DUb'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: tl
+    ert:
+    - lemerül
+    - elsüllyed
+    - szo: elmerül
+      megj: vízben, témában
+  - ert:
+    - szo: lemegy
+      megj: a nap
+  - ert:
+    - megfullad
+    - elveszik
+- szo: Dha#g
+  ford:
+  - nyt: hn
+    ert:
+    - mód
+    - módszer
+    - stílus
+    - fajta
+  - ert:
+    - alkalmasság
+    - megfelelés
+    - képesítés
+- szo: talAS'nA
+  szarm: P
+  ford:
+  - nyt: t
+    ert:
+    - keres
+- szo: tah'ziib
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - kifinomultság
+    - kultúra
+  - ert:
+    - javulás
+    - finomulás
+- szo: tAriif
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - dicséret
+    - érdem
+  - ert:
+    - megismertetés
+  - kif: "* kii tAriif kar'nA"
+    ert:
+    - dicsér vkit
+- szo: dekh'bhAl
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - törődés
+    - felügyelet
+  - kif: "* kii dekh'bhAl kar'nA"
+    ert:
+    - felügyel vmit
+    - gondoskodik vmiről
+    pl:
+    - ered: dukAn kii dekh'bhAl kar'nA
+      ford: viszi a boltot
+- szo: dehAnt
+  ford:
+  - nyt: hn
+    ert:
+    - halál
+  - kif: "* kA dehAnt honA"
+    ert:
+    - meghal
+- szo: na
+  lecserel: "1=1"
+  ford:
+  - nyt: ht
+    ert:
+    - ne
+    - nem
+    - nemde?
+    - ugye?
+  - kif: na … na …
+    ert:
+    - sem … sem …
+- szo: ni#dA
+  ford:
+  - nyt: nn
+    ert:
+    - szemrehányás
+    - feddés
+    - korholás
+  - kif: "* kii ni#dA kar'nA"
+    ert:
+    - hibáztat
+    - okol
+    - vádol
+- szo: nikAl'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - kivesz
+    - kiszed
+    - elővesz
+    - előszed
+    - kihúz
+    - kihoz
+- szo: niba#dh
+  ford:
+  - nyt: hn
+    ert:
+    - esszé
+    - tanulmány
+    - értekezés
+    - diploma(munka)
+    - dolgozat
+    - cikk
+- szo: nOkar
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - szolga
+    - alkalmazott
+  - kif: nOkar-cAkar
+    nyt: hn
+    ert:
+    - szolgák és hasonlók
+- szo: piichA
+  ford:
+  - kif: (* kA) piichA kar'nA
+    ert:
+    - követ (vkit)
+- szo: pe#sil
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - ceruza
+- szo: peSA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - foglalkozás
+    - foglalatosság
+    - hivatás
+    - szakma
+    - mesterség
+    - képesség
+    - művészet
+- szo: pyAz
+  szarm: P
+  ford:
+  - nyt: nn hn
+    ert:
+    - (vörös)hagyma
+- szo: prayog
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - használat
+    - felhasználás
+    - alkalmazás
+    - gyakorlat
+    - eljárás
+  - kif: "* kA prayog kar'nA"
+    ert:
+    - használ
+- szo: bev'KUf
+  szarm: P+A
+  ford:
+  - ert:
+    - ostoba
+    - tudatlan
+- szo: mard
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - férfi
+    - férj
+    - bátor hős
+- szo: miiTi~g
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - értekezlet
+    - megbeszélés
+  - kif: miiTi~g-SiiTi~g
+    nyt: nn
+    ert:
+    - értekezlet
+- szo: yAd
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - emlékezet
+    - emlékezés
+  - kif: "* ko yAd AnA"
+    ert:
+    - eszébe jut
+    - emlékszik
+    - fel van idézve
+    - hiányzik vki
+  - kif: yAd kar'nA
+    ert:
+    - emlékezik
+    - kívülről megtanul
+    - felidéz
+    - beidéz
+    - behív
+  - kif: "* ko * kii yAd dilAnA"
+    ert:
+    - emlékeztet vkit vmire
+  - kif: yAd rakh'nA
+    ert:
+    - fejben tart
+    - nem felejt el
+  - kif: yAd rah'nA, * ko yAd honA
+    ert:
+    - emlékeznek vkire
+    - nem felejtődik el
+- szo: sadA
+  ford:
+  - nyt: ht
+    ert:
+    - mindig
+    - folyamatosan
+    - örökké
+  - kif: sadA ke lie
+    ert:
+    - örökre
+  - kif: sadA se
+    ert:
+    - öröktől fogva
+    - mindig is
+- szo: savArii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - lovaglás
+    - utas
+    - jármű
+    - viteldíj
+- szo: sAdhan
+  ford:
+  - nyt: hn
+    ert:
+    - mód
+    - teljesítés
+    - teljesítmény
+    - eredmény
+    - eszköz
+    - erőforrás
+- szo: har
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - kif: har (ek), harek
+    nyt: mn
+    ert:
+    - minden
+    - minden egyes
+- szo: hal
+  ford:
+  - nyt: hn
+    ert:
+    - megoldás
+  - kif: hal kar'nA, hal nikAl'nA
+    ert:
+    - megold
+  - kif: hal honA
+    ert:
+    - meg van oldva

@@ -1,0 +1,1052 @@
+datum: 2020-07-30
+forras:
+  nev: Pratap
+  fejezet: 18
+szavak:
+- szo: adheR
+  ford:
+  - nyt: mn
+    ert:
+    - középkorú
+- szo: anuvAd
+  ford:
+  - nyt: hn
+    ert:
+    - fordítás
+    - értelmezés
+    - elismétlés
+- szo: arzii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - jelentkezés
+  - ert:
+    - beadvány
+    - kérvény
+  - kif: arzii denA
+    ert:
+    - jelentkezik
+    - (meg)pályázik
+- szo: AkAS
+  ford:
+  - nyt: hn
+    ert:
+    - ég
+    - űr
+    - kozmosz
+    - menny
+- szo: AtmiiyatA
+  ford:
+  - ert:
+    - kapcsolat
+    - bensőségesség
+  - kif: AtmiiyatA se
+    nyt: ht
+    ert:
+    - szívélyesen
+    - készségesen
+- szo: AScarya
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - meglepődés
+    - meglepetés
+    - megdöbbenés
+    - csodálkozás
+- szo: AScaryajanak
+  ford:
+  - nyt: mn
+    ert:
+    - meglepő
+    - megdöbbentő
+    - döbbenetes
+    - feltűnő
+- szo: ik'lOtA
+  ford:
+  - nyt: mn
+    ert:
+    - egyedüli
+    - egyetlen
+  - nyt: hn
+    ert:
+    - egyke
+- szo: iSK
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - szerelem
+  - kif: "* se iSK laRAnA"
+    ert:
+    - szerelmi kapcsolatban van vkivel
+    - viszonya van vkivel
+- szo: ist'rii
+  szarm: Pt
+  ford:
+  - nyt: nn
+    ert:
+    - vasaló
+    - vasalás
+- szo: uRAnA
+  ford:
+  - nyt: t
+    ert:
+    - reptet
+    - meghajt
+    - levegőbe repít
+    - pazarol
+    - szétszór
+    - elkényeztet
+- szo: Ub'nA
+  ford:
+  - nyt: tl
+    ert:
+    - unatkozik
+    - csügged
+- szo: kathak
+  ford:
+  - nyt: hn
+    ert:
+    - észak-indiai tánc(stílus)
+  - ert:
+    - elbeszélő
+    - narrátor
+- szo: Kad'm
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - lépés
+    - járás
+    - láb
+- szo: kamii
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - hiány(osság)
+    - szükség
+- szo: Kasam
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - fogadalom
+    - eskü
+- szo: kahal'vAnA
+  ford:
+  - ert:
+    - üzen
+    - elneveztet
+- szo: KhudA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - Isten
+  - kif: KhudA kii Kasam
+    ert:
+    - Isten által
+  - kif: KhudA jAn
+    ert:
+    - Isten tudja
+- szo: khul'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: tl
+    ert:
+    - nyílik
+    - nyitva van
+    - meglazul
+    - kioldódik
+    - kibomlik
+  - ert:
+    - felderül
+    - kitisztul
+    - fel van fedve
+  - ert:
+    - be van kapcsolva
+    - be van indítva
+    - beindul
+  - kif: khulA
+    ert:
+    - nyitva
+- szo: galA
+  ford:
+  - nyt: hn
+    ert:
+    - nyak
+    - torok
+    - garat
+  - nyt: átv
+    ert:
+    - hang
+  - kif: galA lagAnA
+    nyt: t
+    ert:
+    - ölel
+- szo: god
+  ford:
+  - nyt: nn
+    ert:
+    - öl
+    - ölelés
+  - ert:
+    - körülzárt hely
+  - nyt: átv
+    ert:
+    - örökbe fogadás
+- szo: cun'nA
+  ford:
+  - nyt: t
+    ert:
+    - (ki)választ
+    - megválaszt
+    - szemezget
+    - gyűjt(öget)
+    - leszakít
+    - leszed
+- szo: cOdah'vii~
+  ford:
+  - nyt: mn nn
+    ert:
+    - a holdhónap 14. napja
+    - telihold napja
+- szo: chuT'bhEyA
+  ford:
+  - nyt: hn
+    ert:
+    - egy senki
+- szo: cheR'nA
+  ford:
+  - nyt: t
+    ert:
+    - (fel)kavar
+    - felhoz
+    - felbujt
+  - ert:
+    - (be)indít
+    - rákezd
+  - ert:
+    - hozzányúl
+    - babrál
+    - (be)igazít
+    - (be)hangol
+- szo: chok'rii
+  ford:
+  - nyt: nn
+    ert:
+    - lány(ka)
+    - leány(zó)
+- szo: janAb
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - uram
+    - méltóságos úr
+    - őméltósága
+- szo: zamiin
+  lecserel: "1=1"
+  szarm: P
+  alt:
+  - zamii~
+  ford:
+  - nyt: nn
+    ert:
+    - föld
+    - terület
+    - termőföld
+    - szántó
+    - talaj
+    - alap
+    - a világ
+- szo: zAhir
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - nyilvánvaló
+    - egyértelmű
+    - szembetűnő
+    - feltűnő
+    - világos
+    - tiszta (sor)
+  - ert:
+    - látszólagos
+    - színlelt
+- szo: zid
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - makacsság
+    - konokság
+    - önfejűség
+    - nyakasság
+- szo: jiy'rA
+  ford:
+  - nyt: hn költ
+    ert:
+    - lélek
+    - szív
+- szo: jhaT
+  ford:
+  - nyt: hn
+    ert:
+    - fürgeség
+    - gyorsaság
+  - nyt: mn
+    ert:
+    - gyors
+  - kif: jhaT (se)
+    nyt: ht
+    ert:
+    - hirtelen
+    - rögtön
+    - fürgén
+- szo: jhAR'nA
+  ford:
+  - nyt: t
+    ert:
+    - lesöpör
+    - leráz
+    - lever
+    - verdes
+    - csapkod
+  - ert:
+    - ont
+    - önt
+    - áraszt
+- szo: jhUm'nA
+  ford:
+  - nyt: tl
+    ert:
+    - inog
+    - imbolyog
+    - dülöngél
+    - tántorog
+    - támolyog
+    - himbálózik
+    - (ki)leng
+    - elbóbiskol
+  - kif: jhUme
+    nyt: táj, ált. jelen
+    ert:
+    - ő himbálózik
+- szo: Tak'rAnA
+  ford:
+  - nyt: tl
+    ert:
+    - (össze)ütközik
+    - szembeszáll
+  - nyt: t
+    ert:
+    - (össze)üt
+    - nekiver
+    - szembefordít
+- szo: Tapak'nA
+  ford:
+  - nyt: tl
+    ert:
+    - beugrik vhova
+    - hirtelen megjelenik
+  - ert:
+    - csepeg
+    - szivárog
+- szo: tuRAnA
+  ford:
+  - nyt: t
+    ert:
+    - eltöret
+    - kitör
+    - felvált
+    - leszakít
+- szo: tul'nA
+  lecserel: "2=1;2"
+  ford:
+  - nyt: t
+    ert:
+    - (meg)mér
+    - (ki)egyensúlyoz
+    - (össze)hasonlít
+  - nyt: tl
+    ert:
+    - meg van mérve
+    - ki van egyensúlyozva
+    - össze van hasonlítva
+  - kif: "* par tul'nA"
+    ert:
+    - eltökélt vmire
+- szo: tez
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - gyors
+    - sebes
+    - éles
+    - hangos
+    - csípős
+    - élénk
+    - tüzes
+  - kif: tez ho jAnA
+    nyt: tl
+    ert:
+    - szo: siet
+      megj: az óra
+- szo: thAm'nA
+  ford:
+  - nyt: t
+    ert:
+    - (vissza)tart
+    - támaszt
+    - támogat
+    - megállít
+    - megragad
+    - felvállal
+- szo: dayA
+  ford:
+  - nyt: nn
+    ert:
+    - együttérzés
+    - sajnálat
+    - könyörület
+    - irgalom
+    - kegyelem
+    - kegyesség
+    - kedvesség
+- szo: darzii
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - szabó
+- szo: dAstAn
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - mese
+    - történet
+    - sztori
+    - történelem
+- szo: dil'vAnA
+  ford:
+  - nyt: t
+    ert:
+    - odaadat
+- szo: duHkh
+  alt:
+  - dukh
+  ford:
+  - nyt: hn
+    ert:
+    - szomorúság
+    - bánat
+    - fájdalom
+    - szenvedés
+    - gyötrelem
+    - nyomorúság
+    - baj
+- szo: dha#dhA
+  ford:
+  - nyt: hn
+    ert:
+    - szakma
+    - foglalkozás
+    - üzlet(ág)
+    - ipar
+    - munka
+- szo: nac'vEyA
+  ford:
+  - nyt: hn
+    ert:
+    - szo: táncos
+      megj: lenézően mondva
+- szo: nar'so~
+  ford:
+  - nyt: ht
+    ert:
+    - 3 napja
+    - 3 nap múlva
+- szo: nartak
+  ford:
+  - nyt: hn
+    ert:
+    - táncos
+- szo: nAc
+  ford:
+  - nyt: hn
+    ert:
+    - tánc(olás)
+  - kif: nAc nacAnA
+    ert:
+    - táncba visz
+    - (meg)táncoltat
+- szo: nRItya
+  ford:
+  - nyt: hn
+    ert:
+    - tánc
+- szo: nek
+  szarm: P
+  ford:
+  - ert:
+    - jóravaló
+    - becsületes
+    - rendes
+    - erényes
+    - kiváló
+  - nyt: ht
+    ert:
+    - nagyon
+    - rendkívül
+- szo: pata#g
+  ford:
+  - nyt: nn
+    ert:
+    - papírsárkány
+    - "bármi repülő dolog: molylepke"
+    - szöcske
+    - labda
+- szo: paristhiti(yA~)
+  ford:
+  - nyt: nn
+    ert:
+    - körülmények
+  - kif: viSeSh paristhiti me~
+    ert:
+    - különleges körülmények között
+- szo: pavan
+  ford:
+  - nyt: hn
+    ert:
+    - szél
+    - levegő
+    - életlevegő
+  - ert:
+    - bűbáj
+    - igézet
+    - bűvölet
+- szo: pahu~cAnA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - eljuttat
+    - elvisz
+    - hord
+    - átad
+    - továbbít
+  - ert:
+    - kikísér
+  - ert:
+    - kivált
+    - okoz
+- szo: pArivArik
+  ford:
+  - nyt: mn
+    ert:
+    - családi
+    - családdal kapcsolatos
+- szo: pEdA
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: mn nvált
+    ert:
+    - született
+    - keletkezett
+  - kif: pEdA honA
+    nyt: tl
+    ert:
+    - születik
+    - származik
+    - keletkezik
+    - ered
+    - fakad
+    - adódik
+- szo: pratiit
+  ford:
+  - kif: pratiit honA
+    ert:
+    - úgy tűnik
+    - nyilvánvaló
+- szo: phir'nA
+  ford:
+  - nyt: tl
+    ert:
+    - fordul
+    - forog
+    - mozdul
+    - járkál
+    - körbejár
+    - visszajön
+    - elfordul
+    - megfordul vhol
+- szo: fil'hAl
+  szarm: A
+  ford:
+  - nyt: ht
+    ert:
+    - jelenleg
+    - időközben
+- szo: bacAnA
+  ford:
+  - nyt: t
+    ert:
+    - megment
+    - megkímél
+    - megtakarít
+    - spórol
+    - visszatart
+    - elkerül
+- szo: ban
+  ford:
+  - nyt: hn
+    ert:
+    - erdő
+    - dzsungel
+    - liget
+    - bozótos
+    - cserjés
+  - kif: ban'mA
+    nyt: táj
+    ert:
+    - az erdőben
+- szo: basAnA
+  ford:
+  - nyt: t
+    ert:
+    - letelepít
+    - megalapít
+    - földet művelni kezd
+    - befogad
+- szo: bastii
+  ford:
+  - nyt: nn
+    ert:
+    - település
+    - nyomornegyed
+  - ert:
+    - lakosság
+    - népesség
+- szo: soc'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - gondol(kozik)
+    - kigondol
+    - kitalál
+  - ert:
+    - agyal
+    - aggódik
+  - kif: kii (bAt) soc'nA
+    ert:
+    - gondolkozik vmin
+    - szándékozik
+- szo: becEn
+  szarm: P+H
+  ford:
+  - nyt: mn
+    ert:
+    - nyugtalan
+    - aggódó
+    - ideges
+    - nyughatatlan
+- szo: marammat
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - javítás
+  - kif: kii marammat karanA
+    ert:
+    - (meg)javít vmit
+    - helyre tesz vkit
+    - megver
+- szo: mast
+  szarm: P
+  ford:
+  - ert:
+    - élvezetes
+    - örömteli
+    - jókedvű
+    - vidám
+    - élénk
+    - mámoros
+    - szenvedélyes
+- szo: mAp'nA
+  ford:
+  - ert:
+    - mér
+    - bejár
+- szo: mus'karAnA
+  alt:
+  - muskarAnA
+  ford:
+  - nyt: tl
+    ert:
+    - mosolyog
+    - vigyorog
+- szo: yAnii
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: kt
+    ert:
+    - azaz
+    - vagyis
+- szo: reSam
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - selyem
+- szo: lakh'pati
+  ford:
+  - nyt: hn
+    ert:
+    - milliomos
+    - gazdag ember
+- szo: lagAnA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - illeszt
+    - tapaszt
+    - ragaszt
+    - beken
+    - erősít
+    - csatol
+    - mellékel
+    - kapcsol
+    - visel
+    - egyesít
+    - beszerel
+    - behangol
+- szo: lad'nA
+  ford:
+  - nyt: tl
+    ert:
+    - meg van töltve
+    - fel van pakolva
+    - meg van rakodva
+    - meg van terhelve
+- szo: lAjavAb
+  szarm: A+A
+  ford:
+  - ert:
+    - akinek nincs válasza
+    - hangtalan
+    - elnémult
+    - zavarodott
+  - ert:
+    - amire nincs válasz
+    - felülmúlhatatlan
+    - megkérdőjelezhetetlen
+- szo: leTAnA
+  alt:
+  - liTAnA
+  ford:
+  - ert:
+    - lefektet
+- szo: loT
+  ford:
+  - nyt: f
+    ert:
+    - hánykolódás
+    - vergődés
+  - kif: loT-poT
+    nyt: nn
+    ert:
+    - röhögőgörcs
+    - fetrengés
+- szo: varNan
+  ford:
+  - nyt: hn
+    ert:
+    - leírás
+    - beszámoló
+    - bemutatás
+    - ismertetés
+  - kif: "* kA varNan kar'nA"
+    ert:
+    - leír
+    - bemutat
+- szo: vistAr
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - kiterjedés
+    - kiterjesztés
+    - terjedelem
+    - mérték
+  - ert:
+    - részlet
+  - kif: vistAr se
+    ert:
+    - részletesen
+    - hosszasan
+    - teljességében
+- szo: vetan
+  ford:
+  - nyt: hn
+    ert:
+    - fizetés
+    - fizetség
+    - bér
+    - járadék
+- szo: Sa#kA
+  ford:
+  - nyt: nn
+    ert:
+    - kétség
+    - kétely
+    - gyanú
+    - gyanakvás
+    - kételkedés
+  - ert:
+    - félelem
+- szo: SaKhs
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - egyén
+    - személy
+    - önvaló
+    - ember
+- szo: Sarm
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - szégyen
+    - szégyenlősség
+    - félénkség
+    - szerénység
+  - kif: Sarm AnA
+    ert:
+    - szégyenkezik
+    - szégyelli magát
+- szo: SrAvaN
+  lecserel: "1=1"
+  alt:
+  - sAvan
+  ford:
+  - nyt: hn
+    ert:
+    - július-augusztus hónap
+    - monszun időszaka
+- szo: sadasya
+  ford:
+  - nyt: hn
+    ert:
+    - tag
+    - résztvevő
+- szo: Sal'vAr
+  alt:
+  - sal'vAr
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - női bő pamutnadrág
+  - kif: sal'vAr Kamiiz
+    nyt: nn
+    ert:
+    - "női kétrészes ruha: hosszú felső és nadrág"
+- szo: sA~s
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - lélegzet
+    - lélegzés
+    - sóhaj
+  - kif: (Tha#Dii) sA~s bhar'nA
+    ert:
+    - (nagyot) sóhajt
+    - nehezen lélegzik
+    - liheg
+- szo: sAlA
+  ford:
+  - nyt: hn
+    ert:
+    - "sógor: a feleség bátyja"
+  - nyt: mn
+    ert:
+    - szitokszó
+- szo: sitArA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - csillag
+    - sors
+- szo: sil'silA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - kapcsolat
+    - összefüggés
+    - kontextus
+  - ert:
+    - lánc
+    - hegylánc
+  - ert:
+    - sorrend
+    - elrendezés
+    - sorozat
+    - gondolatsor
+  - kif: "* ke sil'sile me~"
+    ert:
+    - vmivel kapcsolatban
+- szo: sulAnA
+  ford:
+  - nyt: t
+    ert:
+    - (el)altat
+    - lefektet
+    - álomba ringat
+  - ert:
+    - lecsillapít
+    - megnyugtat
+  - nyt: szleng
+    ert:
+    - kinyír
+    - eltesz láb alól
+- szo: sUjh'nA
+  ford:
+  - nyt: tl
+    ert:
+    - eszébe jut
+    - érzékelve van
+    - tűnik
+  - kif: kii (bAt) sUjh'nA
+    ert:
+    - beugrik vmi (ötlet)
+- szo: Sor
+  lecserel: "1=1"
+  alt:
+  - sor
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - zaj
+    - zajongás
+    - lárma
+    - zsivaj
+    - moraj
+    - zörgés
+    - csődület
+- szo: sthAyii
+  ford:
+  - nyt: mn
+    ert:
+    - állandó
+    - folyamatos
+    - tartós
+    - kitartó
+    - rendszeres
+  - kif: sthAyii rUp se
+    ert:
+    - állandó jelleggel
+- szo: svabhAv
+  ford:
+  - nyt: hn
+    ert:
+    - természet
+    - alkat
+    - jellem
+    - jelleg
+    - hajlam
+    - vérmérséklet
+- szo: sviikAr
+  ford:
+  - nyt: hn
+    ert:
+    - elfogadás
+    - jóváhagyás
+    - elismerés
+    - beletörődés
+    - belenyugvás
+  - ert:
+    - befogadás
+    - bebocsátás
+  - kif: sviikAr kar'nA
+    ert:
+    - elfogad
+- szo: ha~sii
+  ford:
+  - nyt: nn
+    ert:
+    - nevetés
+    - mosoly
+  - ert:
+    - vicc(elődés)
+    - móka
+    - kinevetés
+  - kif: ha~sii-mazAk
+    nyt: hn
+    ert:
+    - nevetgélés
+    - viccelődés
+- szo: hviskii
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - whisky
+- szo: bul'vAnA
+  ford:
+  - nyt: t
+    ert:
+    - hívat
+  - ert:
+    - beszéltet
+- szo: tyorii
+  ford:
+  - nyt: nn
+    ert:
+    - szemöldök
+  - ert:
+    - arckifejezés
+  - kif: tyorii caRhAnA
+    nyt: t
+    ert:
+    - szemöldökét ráncolja
+- szo: sikh'vAnA
+  ford:
+  - nyt: t
+    ert:
+    - taníttat
+- szo: Af'tAb
+  szarm: P
+  ford:
+  - nyt: hn irod
+    ert:
+    - szo: nap
+      megj: égitest
+  - ert:
+    - hőség
+- szo: kAm'yAb
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - sikeres
+    - célját elérő

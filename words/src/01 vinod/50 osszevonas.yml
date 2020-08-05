@@ -5,16 +5,19 @@ forras:
 szavak:
 - szo: ek
   lecserel: "1,2,3=1"
+  alt:
+  - ik
   ford:
   - nyt: szn
     ert:
     - egy
     - "1"
-  - kif: ek-Adh
+  - kif: ek-Adh, ekAdh
     nyt: mn
     ert:
     - egy-két
     - néhány
+    - pár
   - kif: ek-ek kar'ke
     ert:
     - egyenként
@@ -67,6 +70,10 @@ szavak:
   - kif: kar rakh'nA
     ert:
     - elvégez
+  - kif: kare
+    nyt: táj, ált. jelen
+    ert:
+    - ő csinál
 - szo: se
   lecserel: "1,2,3=1"
   ford:
@@ -577,6 +584,7 @@ szavak:
   - kif: jAnA-pah'cAnA
     ert:
     - ismerős
+    - (fel)ismert
   - kif: jAnA-mAnA
     nyt: mn
     ert:
@@ -789,7 +797,8 @@ szavak:
   ford:
   - nyt: tl
     ert:
-    - törik
+    - (el)törik
+    - el van törve
   - kif: TUTA-phUTA
     ert:
     - törött
@@ -815,6 +824,9 @@ szavak:
     - muszáj
 - szo: par
   lecserel: "1,3=1;2"
+  alt:
+  - pe
+  - pE
   ford:
   - nyt: nt
     ert:
@@ -1024,6 +1036,27 @@ szavak:
     - valahová
     - valamerre
     - valahogyan
+  - kif: kahii~ bhii
+    ert:
+    - bárhol
+  - kif: kahii~ nahii~
+    ert:
+    - sehol
+  - kif: kahii~ Or
+    ert:
+    - másvalahol
+  - kif: kahii~ na kahii~
+    ert:
+    - valahol biztosan
+  - kif: kahii~ zyAdA
+    ert:
+    - jó sokkal
+    - különösen
+    - kiváltképp
+  - kif: kahii~ kA
+    ert:
+    - ki tudja hova valósi
+    - bármilyen sértést tetéző szavak
 - szo: jagah
   lecserel: "1,2=1"
   szarm: P
@@ -1128,11 +1161,13 @@ szavak:
   ford:
   - nyt: t
     ert:
-    - magyaráz
+    - (el)magyaráz
     - megértet
   - nyt: t
     ert:
     - nyugtat
+    - vigasztal
+    - meggyőz
     - győzködik
 - szo: nAv
   lecserel: "1,2=1"
@@ -1190,7 +1225,7 @@ szavak:
   ford:
   - nyt: ht
     ert:
-    - közel
+    - közel(re)
   - nyt: hn
     ert:
     - irány
@@ -1265,6 +1300,9 @@ szavak:
     ert:
     - "* elveszi *-t"
     - "* hozzámegy *-hoz"
+  - kif: "* kii SAdii * se kar'nA"
+    ert:
+    - hozzáad vkit vkihez
   - kif: SAdii-vAdii
     nyt: nn
     ert:
@@ -1284,16 +1322,15 @@ szavak:
     ert:
     - összehoz
     - összeismertet
+  - ert:
+    - összerak
+    - összekever
   - nyt: t
     ert:
     - tárcsáz
   - nyt: t
     ert:
     - órát igazít
-  - kif: hAth milAnA
-    nyt: t
-    ert:
-    - kezet fog
 - szo: gyArah
   lecserel: "1,2=1"
   ford:
@@ -1367,6 +1404,10 @@ szavak:
   - nyt: t
     ert:
     - időt tölt
+  - kif: bAt kAT'nA
+    ert:
+    - közbeszól
+    - félbeszakít
 - szo: rAt
   lecserel: "1,2=1"
   ford:
@@ -1624,6 +1665,9 @@ szavak:
   - kif: kam se kam
     ert:
     - legalább
+  - kif: kam kar'nA
+    ert:
+    - csökkent
 - szo: Am
   lecserel: "2=1;2"
   ford:
@@ -1645,6 +1689,8 @@ szavak:
   - nyt: nn
     ert:
     - beszélgetés
+    - megbeszélés
+    - (meg)tárgyalás
   - kif: bAt'ciit kar'nA
     nyt: t
     ert:

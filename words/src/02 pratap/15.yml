@@ -219,6 +219,9 @@ szavak:
     ert:
     - szo: áldásom rád
       megj: ‘élj hosszú, boldog életet’
+  - kif: "* ke jiite jii"
+    ert:
+    - amíg vki él
 - szo: jhe~p'nA
   ford:
   - nyt: tl

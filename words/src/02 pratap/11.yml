@@ -10,6 +10,9 @@ szavak:
   - nyt: mn
     ert:
     - végső
+  - nyt: hn
+    ert:
+    - vég
   - nyt: ht
     ert:
     - végül
@@ -345,6 +348,9 @@ szavak:
   - kif: vApas lenA
     ert:
     - visszavon
+  - kif: vApas mil'nA
+    ert:
+    - vissza van kapva
 - szo: SikAyat
   lecserel: "1=1"
   szarm: AP

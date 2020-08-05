@@ -78,13 +78,17 @@ szavak:
     - megterhelő
   - ert:
     - levert
-- szo: "* ko ta#g kar'nA"
-  ford:
-  - nyt: t
+  - kif: "* ko ta#g kar'nA"
+    nyt: t
     ert:
     - szorongat
     - zaklat
     - elnyom
+  - kif: "* ko (* se) ta#g AnA"
+    nyt: tl
+    ert:
+    - vkinek elege van vmiből
+    - vkinek nehézségei vannak
 - szo: tAlii
   szarm: S
   ford:
@@ -140,11 +144,14 @@ szavak:
     - raj
     - politikai párt
 - szo: dikh'nA
+  alt:
+  - diikh'nA
   ford:
   - nyt: tl
     ert:
     - tűnik
     - látszik
+    - látható
 - szo: dilii
   szarm: P
   ford:
@@ -283,6 +290,10 @@ szavak:
     ert:
     - háborgat
     - zaklat
+  - kif: merA sir
+    ert:
+    - szo: na persze
+      megj: hitetlenkedést fejez ki
 - szo: siidhA
   lecserel: "1=1"
   szarm: S

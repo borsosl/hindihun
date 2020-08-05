@@ -77,6 +77,10 @@ szavak:
   - nyt: hn
     ert:
     - férj
+  - kif: pati-dev
+    nyt: hn
+    ert:
+    - (férj)uram
 - szo: bas
   lecserel: "2=2;2"
   szarm: E

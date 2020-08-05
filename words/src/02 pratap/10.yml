@@ -108,6 +108,9 @@ szavak:
     - vagy
   - ert:
     - általános kötőszó
+  - kif: na ki
+    ert:
+    - nem pedig
 - szo: KhariidArii
   szarm: P
   ford:

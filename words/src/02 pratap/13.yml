@@ -222,6 +222,10 @@ szavak:
     ert:
     - szo: elválik
       megj: kezdeményezőként
+  - kif: talAK-SudA, talAK'SudA
+    nyt: mn
+    ert:
+    - elvált
 - szo: tAlA
   szarm: S
   ford:

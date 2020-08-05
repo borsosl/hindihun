@@ -92,6 +92,11 @@ szavak:
   - kif: "* ko mAlUm nahii~ / honA"
     ert:
     - vki (nem) tudja
+  - kif: mAlUm kar'nA, mAlUm kar lenA
+    ert:
+    - kiderít
+    - megtud
+    - tisztáz
 - szo: meh'r'bAnii
   szarm: P
   ford:
@@ -114,6 +119,9 @@ szavak:
   - nyt: kt
     ert:
     - vagy
+  - kif: yA to … yA …
+    ert:
+    - vagy … vagy …
 - szo: vidyArthii
   lecserel: "1=1"
   szarm: S+S

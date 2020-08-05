@@ -170,6 +170,9 @@ szavak:
     - egykettőre elad
 - szo: rok'nA
   ford:
+  - nyt: t
+    ert:
+    - megállít
   - kif: rok rakh'nA
     ert:
     - szo: fenntart
@@ -294,10 +297,11 @@ szavak:
   - nyt: nn
     ert:
     - hallás
-  - kif: sunAii denA
+  - kif: sunAii denA, sunAii paR'nA
     nyt: tl
     ert:
     - hallatszik
+    - hallható
 - szo: jii
   ford:
   - kif: jii cAh'nA

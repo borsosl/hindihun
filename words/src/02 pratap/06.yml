@@ -115,6 +115,10 @@ szavak:
     ert:
     - halkan
     - csendben
+  - kif: cup kar'nA
+    ert:
+    - csendben marad
+    - befogja a száját
 - szo: choR'nA
   lecserel: "1=1"
   ford:
@@ -227,6 +231,10 @@ szavak:
   - kif: "* se/ko pyAr kar'nA"
     ert:
     - szeret
+  - kif: pyAr-vAr
+    nyt: hn
+    ert:
+    - szerelem és hasonlók
 - szo: phir
   lecserel: "1=1"
   szarm: S
@@ -270,6 +278,13 @@ szavak:
   - kif: "* se bAt/bAte~ kar'nA"
     ert:
     - beszélget vkivel
+  - kif: bAt ban'nA
+    ert:
+    - megvalósul
+    - sikerül
+    - sikeressé válik
+    - beválik
+    - elismerést vált ki
 - szo: bAp
   szarm: S
   ford:
