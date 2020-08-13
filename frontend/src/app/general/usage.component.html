@@ -26,6 +26,10 @@
     <li>egymás után álló szavak kereséséhez idézőjelbe kell tenni a kifejezést</li>
     <li>további angol nyelvű magyarázat <a href="https://lucene.apache.org/solr/guide/8_5/the-standard-query-parser.html#boolean-operators-supported-by-the-standard-query-parser" target="_blank">itt található</a></li>
     <li>bizonyos nagyon gyakori szavak nincsenek hatással a teljes tartalomban való keresésekre</li>
+    <li>a tartalmi résszel ellentétben a keresőmező nem tesz különbséget az anusvAr, anunAsik
+        és az 'n' betű között, hogy a "modern" dévanágarí írásmód hiányosságát kompenzálja
+        (a precíz dévanágaríban sem mindig állapítható meg). A j/z betűk között viszont különbséget
+        tesz, ahogy az igényes sajtó is.</li>
 </ul>
 
 <h3>Példa keresések</h3>

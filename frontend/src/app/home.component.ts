@@ -46,14 +46,14 @@ export class HomeComponent implements OnInit {
 
     toWordCardHtml(hit: Szavak) {
         const out: string[] = [];
-        const globalGrammarLine = hit.ford.length > 1 || (hit.nyt.length > 20 || hit.ford[0].kif);
+        const globalGrammarLine = hit.ford.length > 1 || hit.nyt && hit.nyt.length > 20 || hit.ford[0].kif;
         out.push(
             `<div>`,
                 `<span class="title">${ktod(hit.szo)}</span>`,
                 hit.sorsz ? ` <span class="sorsz">${hit.sorsz}</span>` : '',
                 `<span class="variant">`,
                     this.list(hit.alt, '&emsp;( ', ' )', true),
-                    `&emsp;<i>${hit.atir}</i>`,
+                    hit.atir ? `&emsp;<i>${hit.atir}</i>` : '',
                     `&emsp;${hit.szo}`,
                     hit.szarm ? `&emsp;[${hit.szarm}]` : '',
                     // etim: szarm [] belul

@@ -110,7 +110,7 @@ function splitOnNonLetters(tokens: string[], type: SearchType) {
     const tokensExt: string[] = [];
     for(const token of tokens) {
         let cp: number[] = [];
-        let hadApos = false;
+        let changed = false;
         for(let ix=0; ix < token.length; ix++) {
             let c = token.codePointAt(ix);
             // bizonyos írásjelek megmaradtak számokban és kérdőszókban, stb.
@@ -122,7 +122,10 @@ function splitOnNonLetters(tokens: string[], type: SearchType) {
             ) {
                 if(c === 39) {      // '
                     cp.push(97);    // a
-                    hadApos = true;
+                    changed = true;
+                } else if(c === 35 || c === 126) {      // #~
+                    cp.push(110);    // n
+                    changed = true;
                 } else
                     cp.push(c);
             } else {
@@ -135,7 +138,7 @@ function splitOnNonLetters(tokens: string[], type: SearchType) {
 
         const crap = !cp.length || cp.length === 1 && cp[0] >= 0x61 && cp[0] <= 0x7a;
         if(!crap) {
-            if(!hadApos && cp.length === token.length)
+            if(!changed && cp.length === token.length)
                 tokensExt.push(token);
             else {
                 tokensExt.push(String.fromCodePoint.apply(null, cp));

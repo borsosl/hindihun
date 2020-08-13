@@ -26,24 +26,25 @@ const lineSplitter = /\s*\r?\n/;
 const hwLine = /^\s*<hw>/;
 const ordinalRex = /\s*<sp>(\d+)<\/sp>/y;
 const headwordRex = /\s*(<kt>(.*?)<\/kt>)?<deva>(.*?)<\/deva>/y;
-const transRex = /\s*(<tran>(.*?)<\/tran>)?<\/hw>/y;
+const transRex = /\s*(<tran>(.*?)<\/tran>)?<\/hw>\.?/y;
 const labelsUntilDerivRex = /\s*,?\s*(.{0,10}?)(?=\s*\[)(?<!<def>1\.)/y;
 const derivRex = /\s*,?\s*\[(.+?)\]\.?/y;
 const phonemicRex = /\s*(,?)\s*(\/[^/]+\/)/y;
 const labelsUntilDefRex = /\s*,?\s*(.*?)(?=(\s*<def>1\.|\s+see |\s+= ))/y;
 const italicTagsRex = /<\/?i>/g;
 const nextShwRex = /.*?<shw>/y;
-const parenthesizedRex = /\s*(\(.*?\))/y;
+const parenthesizedRex = /\s*(\(.*?\))\.?/y;
 const italicLabelRex = /\s*([,&]*)\s*<i>(.*?)<\/i>(\.?)/y;
 const labelRex = /\s*([,&]*)\s*(f\.|m\.|v\.i\.|v\.t\.|adj\.|adv\.|obl\. base\.?|conj\.|pron\.|19c\.|A\.|abl\.|abs\.|acc\.|ad\.|allus\.|alt\.|anal\.|Ap\.|aphet\.|appar\.|approx\.|arch\.|attrib\.|Austro-as\.|Av\.|B\.|Brbh\.|c\.|caus\.|cf\.|colloq\.|comp\.|compar\.|conn\.|corr\.|cpds\.|def\.|dem\.|dep\. auxil\.|dimin\.|dir\.|do\.|Drav\.|e\.g\.|E\.H\.|ellipt\.|emphat\.|encl\.|Engl\.|esp\.|euphem\.|exc\.|excl\.|exclam\.|ext\.|fig\.|fmn\.|foll\.|Fr\.|freq\.|G\.|gen\.|Germ\.|Gk\.|H\.|hon\.|HŚS\.|hw\.|hww\.|i\.e\.|i\.|imp\.|imperf\.|incl\.|in comp\.|incorr\.|Ind\.|indef\.|inf\.|infld\.|instr\.|interj\.|interr\.|inv\.|inverted\.|Ir\.|iron\.|joc\.|Kan\.|KhB\.|L\.|lit\.|loc\.|lw\.|M\.|med\.|metath\.|metr\.|MIA|n\.|N\.|neg\.|neol\.|neut\.|NIA|NW|obj\.|obl\.|obs\.|OIA|onom\.|orig\.|orthogr\.|P\.|Pa\.|Panj\.|part\.|pass\.|pej\.|perf\.|pers\.|Pk\.|pl\.|Pl\.|poet\.|pop\.|ppn\.|prec\.|predic\.|pref\.|prep\.|prob\.|pronun\.|prop\. n\.|prov\.|Pt\.|q\.v\.|Raj\.|redupl\.|refl\.|reg\.|rel\.|repl\.|rhetor\.|Ś\.|sc\.|sg\.|S\.H\.|S\.|Sk\.|sl\.|specif\.|subj\.|subj\.-pres\.|s\.v\.|s\.vv\.|syn\.|T\.|Tam\.|tr\.|trad\.|transf\.|U\.|usu\.|v\.|var\.|viz\.|voc\.|vulg\.|w\.|W\.|w\.r\.|admin\.|aeron\.|agric\.|alg\.|anat\.|anthropol\.|archaeol\.|arith\.|astrol\.|astron\.|athl\.|ayur\.|biochem\.|biol\.|bot\.|chem\.|chronol\.|comm\.|dipl\.|econ\.|electr\.|engin\.|entom\.|fin\.|geog\.|geol\.|geom\.|govt\.|gram\.|hind\.|hist\.|hort\.|indol\.|isl\.|ling\.|math\.|mech\.|meteorol\.|mil\.|min\.|mus\.|musl\.|mythol\.|nat\. hist\.|naut\.|ornith\.|pharm\.|philos\.|phys\.|pol\.|pros\.|psychol\.|rhet\.|techn\.|zool\.|m |adj )/y;
 const skipGlossHeadRex = /\s*[.,]*\s*(<def>(\*?)\d+\.|<shw>|<\/p>)?\s*/y;
 const glossItemEndRex = /.*?(?=(\s*(<def>|<shw>|<\/p>)))/y;
-const glossExprRex = /(.*?)(<\/?shw>([!?)]*)|<\/p>),?\s*/y;
+const glossExprRex = /(.*?)(<\/?shw>([!?)]*(\s*\(<deva>.*?<\/deva>\))?)|<\/p>),?\s*/y;
 const glossDerivRex = /\s*,?\s*(\[.+?\])/y;
 const orRex = /or /g;
 const tildeBeforeRex = /~<deva>/g;
 const tildeAfterRex = /<\/deva>~/g;
 const devaRex = /(<kt>(.*?)<\/kt>)?<deva>(.*?)<\/deva>/g;
+const exprJoiningParenRex = /(?<! |^)\((kA|kii|ke|ko|se|me~|par)\)/;
 
 let ctx: EntryContext;
 const startPage = 0, endPage = 0;
@@ -343,7 +344,10 @@ function glossExpr() {
                 .replace(tildeBeforeRex, '~ <deva>')
                 .replace(tildeAfterRex, '<\/deva> ~')
                 .replace(devaRex,
-                    (sub: string, g1: string, g2: string, g3: string) => devaVariantToKtrans(g1, g2, g3));
+                    (sub: string, g1: string, g2: string, g3: string) => devaVariantToKtrans(g1, g2, g3))
+                .replace(exprJoiningParenRex, (sub: string, g1: string) => {
+                    return ` (${g1})`;
+                });
         }
         ctx.p += res[0].length;
     }

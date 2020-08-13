@@ -29,7 +29,7 @@ const map: {[key: string]: string} = {
 };
 
 const aiRex = /ai/g;
-const auRex = /au/g;
+const auRex = /au|aû/g;
 const nyRex = /ñ/g;
 const cRex = /c/g;
 

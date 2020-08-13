@@ -9,6 +9,7 @@ dist/
 input/
 .boto
 secret/
+backend/solr/gcp/*.zip
 
 # System Files
 .DS_Store

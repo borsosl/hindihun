@@ -22,7 +22,7 @@ export function processUnicode(txt: string) {
     return outLines.join('\r\n');
 }
 
-export function processLine(line: string, doQuote = true) {
+export function processLine(line: string, doQuote = true, noAnu = false) {
     let cp: number[] = [];
     let trans = true;
     let syllable = '';
@@ -119,7 +119,9 @@ export function processLine(line: string, doQuote = true) {
             cp.push(code);
             continue;
         }
-        if(ch === '#' && (upstairsThingy.indexOf(prevLetterCode) > -1 ||
+        if(noAnu && (ch === '#' || ch === '~'))
+            ch = 'n';
+        else if(ch === '#' && (upstairsThingy.indexOf(prevLetterCode) > -1 ||
                 syllable[0] === 'r' && !vowelAfterR.test(syllable.substr(1)))) {
             ch = '~';
         }

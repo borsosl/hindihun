@@ -8,7 +8,8 @@ import {take} from 'rxjs/operators';
 import {processLine as devaToKtrans} from '../../../../script/ktrans-to-unicode/process-unicode-text';
 import {SearchType} from '../../../../script/common/model';
 
-const prefixSplitter = /^((.*?)!)?(([jhm])\s+)?(.*)/;
+const pwdStorageKey = 'DB2_PWD';
+const prefixSplitter = /^((.*?)%)?(([jhm])\s+)?(.*)/;
 
 @Injectable({
     providedIn: 'root'
@@ -17,8 +18,10 @@ export class SearchService implements Resolve<any> {
 
     searchSubject = new BehaviorSubject<SolrResponse>(null);
     searchFailedSubject = new BehaviorSubject<ResultOrError<SolrResponse>>(null);
+    currentPassword: string;
 
     constructor(private http: HttpClient, private router: Router) {
+        this.currentPassword = window.localStorage.getItem(pwdStorageKey);
     }
 
     search(input: string) {
@@ -35,14 +38,20 @@ export class SearchService implements Resolve<any> {
             default: searchType = SearchType.title; break;
         }
         let sanitizedInput = prefix ? `${prefix} ${searchExpression}` : searchExpression;
-        const pass = rexRes[1] ? rexRes[2] : null;
-        if(pass !== null)
-            sanitizedInput = `${pass}!${sanitizedInput}`;
-        this.request(searchType, pass, devaToKtrans(searchExpression, false), sanitizedInput);
+        let pass = rexRes[1] ? rexRes[2] : null;
+        if(pass !== null) {
+            sanitizedInput = `${pass}%${sanitizedInput}`;
+            if(pass) {
+                this.currentPassword = pass;
+                window.localStorage.setItem(pwdStorageKey, pass);
+            } else if(this.currentPassword)
+                pass = this.currentPassword;
+        }
+        this.request(searchType, pass, devaToKtrans(searchExpression, false, true), sanitizedInput);
     }
 
     private request(searchType: SearchType, pass: string, searchExpression: string, sanitizedInput: string) {
-        searchExpression = this.sanitizeExpr(searchExpression);
+        searchExpression = this.sanitizeExpr(searchExpression, searchType);
         this.http.get<ResultOrError<SolrResponse>>('/api/' + SearchType[searchType], {
             params: {
                 q: searchExpression,
@@ -50,7 +59,7 @@ export class SearchService implements Resolve<any> {
             }
         }).subscribe(roe => {
             if(roe.result && roe.result.numFound) {
-                document.title = pass ? sanitizedInput.slice(sanitizedInput.indexOf('!') + 1) : sanitizedInput;
+                document.title = pass ? sanitizedInput.slice(sanitizedInput.indexOf('%') + 1) : sanitizedInput;
                 roe.result.input = sanitizedInput;
                 this.searchSubject.next(roe.result);
                 // noinspection JSIgnoredPromiseFromCall
@@ -82,12 +91,14 @@ export class SearchService implements Resolve<any> {
         });
     }
 
-    private sanitizeExpr(expr: string) {
-        return expr
+    private sanitizeExpr(expr: string, searchType: SearchType) {
+        const general = expr
             .replace(/([ "]|^)\*/g, '$1\\*')
-            .replace(/'/g, 'a')
-            .replace(/(\S)-/g, '$1\\-')
-            .replace(/~/g, '\\~');
+            .replace(/(\S)-/g, '$1\\-');
+        return searchType === SearchType.title || searchType === SearchType.hindi
+            ? general.replace(/'/g, 'a')
+                .replace(/[~#]/g, 'n')
+            : general;
     }
 
     resolve(route: ActivatedRouteSnapshot): Observable<any> {
