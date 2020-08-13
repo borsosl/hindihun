@@ -1,0 +1,448 @@
+datum: 2020-08-10
+forras:
+  nev: Pratap
+  fejezet: 1
+szavak:
+- szo: av'dhii
+  ford:
+  - nyt: nn
+    ert:
+    - avadhí hindí nyelvjárás
+- szo: av'sar
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - alkalom
+    - lehetőség
+    - esély
+    - megfelelő idő
+- szo: avivAhit
+  ford:
+  - nyt: mn
+    ert:
+    - szo: egyedülálló
+      megj: nem házasodott meg
+- szo: avEdh
+  ford:
+  - nyt: mn
+    ert:
+    - törvénytelen
+    - illegális
+- szo: aSliil
+  ford:
+  - nyt: mn
+    ert:
+    - közönséges
+    - otromba
+  - ert:
+    - nyomorult
+- szo: asa#tuShT
+  ford:
+  - nyt: mn
+    ert:
+    - elégedetlen
+- szo: asaphal
+  ford:
+  - nyt: mn
+    ert:
+    - sikertelen
+- szo: asah'mati
+  ford:
+  - nyt: nn
+    ert:
+    - egyet nem értés
+    - véleménykülönbség
+- szo: asah'yog
+  ford:
+  - nyt: hn
+    ert:
+    - nem együttműködés
+    - passzív rezisztencia
+- szo: asuvidhA
+  ford:
+  - nyt: nn
+    ert:
+    - kényelmetlenség
+    - kellemetlenség
+- szo: asthAyii
+  ford:
+  - nyt: mn
+    ert:
+    - ideiglenes
+- szo: aha#kAr
+  ford:
+  - nyt: hn
+    ert:
+    - büszkeség
+    - önteltség
+    - önzőség
+    - egoizmus
+- szo: ah'miyat
+  ford:
+  - nyt: nn
+    ert:
+    - fontosság
+- szo: A#dolan
+  ford:
+  - nyt: hn
+    ert:
+    - mozgalom
+- szo: A~sU
+  ford:
+  - nyt: hn
+    ert:
+    - könny(csepp)
+- szo: Ai#dA
+  szarm: P
+  ford:
+  - nyt: hn mn ht
+    ert:
+    - jövő
+    - jövőbeli
+    - a jövőben
+- szo: AiinA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - tükör
+- szo: AkarShaN
+  ford:
+  - nyt: hn
+    ert:
+    - vonzás
+    - vonzalom
+    - vonzerő
+- szo: AkarShit
+  ford:
+  - nyt: mn
+    ert:
+    - vonzódó
+    - elbűvölt
+- szo: AkAS'vANii
+  ford:
+  - nyt: nn
+    ert:
+    - rádió(csatorna)
+- szo: AkramaN
+  ford:
+  - nyt: hn
+    ert:
+    - támadás
+    - lerohanás
+    - megszállás
+- szo: AKhirii
+  ford:
+  - nyt: mn
+    ert:
+    - végső
+- szo: Ag'rA
+  ford:
+  - ert:
+    - Agra
+- szo: Agrah
+  ford:
+  - nyt: hn
+    ert:
+    - kitartás
+    - állhatatosság
+    - ragaszkodás
+    - lelkesedés
+    - buzgalom
+- szo: Aj'kal
+  lecserel: "1=1"
+  alt:
+  - Aj-kal
+  ford:
+  - nyt: ht
+    ert:
+    - manapság
+    - mostanában
+- szo: AzAd
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - szabad
+    - független
+    - felszabadult
+- szo: AzAdii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - szabadság
+    - függetlenség
+    - megszabadulás
+- szo: AjYA
+  ford:
+  - nyt: nn
+    ert:
+    - engedély
+    - utasítás
+    - parancs(olat)
+  - kif: AjYA denA
+    ert:
+    - engedélyez
+    - elenged
+- szo: ATA
+  ford:
+  - nyt: hn
+    ert:
+    - (finom)liszt
+  - ert:
+    - lisztes állagú anyag
+- szo: ADa#bar
+  ford:
+  - nyt: hn
+    ert:
+    - mutogatás
+    - kérkedés
+    - hivalkodás
+  - ert:
+    - önhittség
+- szo: Ata#k
+  ford:
+  - nyt: hn
+    ert:
+    - félelem
+    - rémület
+- szo: Ata#k'vAd
+  ford:
+  - nyt: hn
+    ert:
+    - terrorizmus
+- szo: Ata#k'vAdii
+  ford:
+  - nyt: hn mn
+    ert:
+    - terrorista
+- szo: Ata#kit
+  ford:
+  - nyt: mn
+    ert:
+    - rémült
+    - félős
+- szo: AtmakathA
+  ford:
+  - nyt: nn
+    ert:
+    - önéletrajz
+- szo: AtmahatyA
+  ford:
+  - nyt: nn
+    ert:
+    - öngyilkosság
+- szo: AtmA
+  ford:
+  - nyt: nn
+    ert:
+    - lélek
+    - önvaló
+- szo: Atmiiya
+  ford:
+  - nyt: mn hn
+    ert:
+    - bensőséges
+    - közelálló
+    - közeli
+    - rokon
+- szo: Adat
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - szokás
+- szo: Adatan
+  szarm: A
+  ford:
+  - nyt: ht
+    ert:
+    - szokása szerint
+    - szokásból
+- szo: Adar
+  ford:
+  - nyt: hn
+    ert:
+    - tisztelet
+    - (nagyra)becsülés
+- szo: AdaraNiiya
+  ford:
+  - nyt: mn
+    ert:
+    - '"mélyen tisztelt ..."'
+- szo: AdarS
+  ford:
+  - nyt: hn
+    ert:
+    - példakép
+  - nyt: mn
+    ert:
+    - eszményi
+- szo: AdAn
+  ford:
+  - kif: AdAn-pradAn
+    ert:
+    - cserebere
+    - adok-veszek
+- szo: Adii
+  ford:
+  - nyt: mn
+    ert:
+    - hozzászokott
+    - szokásos
+- szo: AdeS
+  ford:
+  - nyt: hn
+    ert:
+    - parancs
+    - utasítás
+    - rendelkezés
+    - végzés
+    - felszólítás
+    - idézés
+  - ert:
+    - útmutatás
+- szo: AdhAr
+  ford:
+  - nyt: hn
+    ert:
+    - alap
+    - támaszték
+- szo: AdhyAtmik
+  ford:
+  - nyt: mn
+    ert:
+    - lelki
+- szo: AdhyAtmik'tA
+  ford:
+  - nyt: nn
+    ert:
+    - lelkiség
+- szo: Apatti
+  ford:
+  - nyt: nn
+    ert:
+    - tiltakozás
+- szo: Apattijanak
+  ford:
+  - nyt: mn
+    ert:
+    - kifogásolható
+- szo: AbhAr
+  ford:
+  - nyt: hn
+    ert:
+    - lekötelezettség
+    - hálával tartozás
+- szo: AbhArii
+  ford:
+  - nyt: mn
+    ert:
+    - lekötelezett
+    - hálás
+- szo: Am'danii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - bevétel
+    - jövedelem
+    - nyereség
+- szo: Ay
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - bevétel
+    - jövedelem
+    - nyereség
+- szo: Arii
+  ford:
+  - nyt: nn
+    ert:
+    - (kézi)fűrész
+- szo: ArAm-kur'sii
+  ford:
+  - nyt: nn
+    ert:
+    - karosszék
+    - kisebb fotel
+- szo: ArAm'deh
+  ford:
+  - nyt: mn
+    ert:
+    - szo: kényelmes
+      megj: bútor
+- szo: AviShkAr
+  ford:
+  - nyt: hn
+    ert:
+    - felfedezés
+    - találmány
+- szo: ASram
+  ford:
+  - nyt: hn
+    ert:
+    - lakhely a lelki megvalósításhoz
+    - menedékhely
+    - remetelak
+  - ert:
+    - lelki élet szakasza
+- szo: Asan
+  ford:
+  - nyt: hn
+    ert:
+    - ülés
+    - ülőhelyzet
+    - (jóga) testtartás
+  - ert:
+    - ülőhely
+    - amin ülnek (ruha, fű, állatbőr) imádkozás közben
+- szo: As'mAn
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - ég(bolt)
+    - menny(ország)
+- szo: Ah
+  ford:
+  - nyt: nn
+    ert:
+    - sóhajtás
+  - ert:
+    - ind óh!
+  - kif: Ah bhar'nA
+    ert:
+    - sóhajt
+- szo: AhaT
+  ford:
+  - nyt: nn
+    ert:
+    - léptek hangja
+- szo: AhistA
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - lassú
+    - könnyed
+    - puha
+  - nyt: ht
+    ert:
+    - lassan
+- szo: i#glE#D
+  ford:
+  - nyt: hn
+    ert:
+    - Anglia
+- szo: i#driya
+  ford:
+  - nyt: hn
+    ert:
+    - érzékek
+    - érzékszervek
+    - nemi szervek

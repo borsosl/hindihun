@@ -381,6 +381,9 @@ szavak:
   - kif: abhii-abhii
     ert:
     - éppen most
+  - kif: abhii tak
+    ert:
+    - (eddig) még
 - szo: paricay
   lecserel: "1,2=1"
   szarm: S

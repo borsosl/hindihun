@@ -1,0 +1,513 @@
+datum: 2020-08-07
+forras:
+  nev: Pratap
+  fejezet: 25
+szavak:
+- szo: a#k
+  ford:
+  - nyt: hn
+    ert:
+    - szám
+    - kiadvány sorszám
+    - pontszám
+    - jelölés
+- szo: a#g
+  ford:
+  - nyt: hn
+    ert:
+    - végtag
+    - testrész
+    - szerv
+    - test
+    - rész
+    - ág
+- szo: a~gUThA
+  ford:
+  - nyt: hn
+    ert:
+    - hüvelykujj
+    - nagy lábujj
+- szo: a~gUThii
+  ford:
+  - nyt: nn
+    ert:
+    - gyűrű
+- szo: a#gUr
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - szőlő
+- szo: a#DA
+  ford:
+  - nyt: hn
+    ert:
+    - tojás
+- szo: a#t
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - vég
+    - befejezés
+    - pusztulás
+    - halál
+  - ert:
+    - eredmény
+  - ert:
+    - lényeg
+- szo: a#tar
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - közép
+    - távolság
+    - szünet
+    - különbség
+  - ert:
+    - belső
+    - szív
+    - lélek
+    - rejtély
+- szo: a#tyeShTi
+  ford:
+  - nyt: nn
+    ert:
+    - temetés(i szertartás)
+- szo: a#dh-viSvAs
+  ford:
+  - nyt: hn
+    ert:
+    - babona
+  alt:
+  - a#dh'viSvAs
+- szo: a#dhA
+  ford:
+  - nyt: mn hn
+    ert:
+    - vak (ember)
+- szo: a#dhApan
+  ford:
+  - nyt: hn
+    ert:
+    - vakság
+- szo: akShar
+  ford:
+  - nyt: hn
+    ert:
+    - szótag
+    - betű
+- szo: aKh'bAr-vAlA
+  ford:
+  - nyt: hn
+    ert:
+    - újságárus
+    - újságos
+  alt:
+  - aKh'bAr'vAlA
+- szo: agar'battii
+  ford:
+  - nyt: nn
+    ert:
+    - füstölő (pálcika).
+- szo: acchAii
+  ford:
+  - nyt: nn
+    ert:
+    - kiválóság
+    - jó tulajdonság
+  - ert:
+    - szépség
+  - ert:
+    - haszon
+    - előny
+- szo: aDDA
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - terület
+    - állomás
+    - állás(hely)
+    - (munka)hely
+    - stand
+- szo: atirikt
+  ford:
+  - nyt: mn
+    ert:
+    - ráadás
+    - plusz
+    - extra
+    - tartalék
+- szo: ativAd
+  ford:
+  - nyt: hn
+    ert:
+    - szélsőségesség
+    - szélsőséges irány(zat)
+- szo: ativAdii
+  ford:
+  - nyt: mn hn
+    ert:
+    - szélsőséges
+- szo: atiSayokti
+  ford:
+  - nyt: nn
+    ert:
+    - túlzás
+- szo: atya#t
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - túlzott
+    - határtalan
+  - nyt: ht
+    ert:
+    - nagyon
+    - rendkívül
+- szo: athavA
+  ford:
+  - nyt: kt
+    ert:
+    - vagy
+- szo: ad'rak
+  ford:
+  - nyt: nn
+    ert:
+    - (zöld) gyömbér
+- szo: adAlat
+  ford:
+  - nyt: nn
+    ert:
+    - bíróság
+- szo: adA
+  ford:
+  - nyt: nn
+    ert:
+    - kecsesség
+    - báj
+    - elegancia
+    - kacérkodás
+  - ert:
+    - fizetség
+  - ert:
+    - beteljesítés
+  - kif: adA kar'nA
+    ert:
+    - beteljesít
+    - végrehajt
+  - ert:
+    - kifizet
+- szo: adRISya
+  ford:
+  - nyt: mn
+    ert:
+    - láthatatlan
+- szo: adhikAr
+  ford:
+  - nyt: hn
+    ert:
+    - jog
+    - felhatalmazás
+    - hatalom
+    - hatóság
+    - kormányzás
+    - jogkör
+    - hatáskör
+    - megbízatás
+- szo: adhikArii
+  ford:
+  - nyt: hn
+    ert:
+    - tisztviselő
+    - hivatalos személy
+    - megbízott
+    - felhatalmazott
+- szo: adhyakSh
+  ford:
+  - nyt: hn
+    ert:
+    - elnök
+    - vezér
+    - tulajdonos
+    - igazgató
+    - dékán
+- szo: adhyakShatA
+  ford:
+  - nyt: nn
+    ert:
+    - elnöklés
+    - igazgatás
+    - felügyelet
+- szo: adhyayan
+  ford:
+  - nyt: hn
+    ert:
+    - tanulás
+    - tanulmányok
+    - olvasás
+- szo: adhyApikA
+  ford:
+  - nyt: nn
+    ert:
+    - tanárnő
+- szo: adhyAy
+  ford:
+  - nyt: hn
+    ert:
+    - fejezet
+- szo: an'dekhA
+  ford:
+  - nyt: mn
+    ert:
+    - láthatatlan
+    - példátlan
+    - ismeretlen
+  - kif: an'dekhA kar'nA
+    ert:
+    - figyelmen kívül hagy
+    - nem vesz tudomásul
+    - mellőz
+- szo: an'paRh
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - írástudatlan
+    - tanulatlan
+- szo: an'manA
+  ford:
+  - nyt: mn
+    ert:
+    - rosszkedvű
+    - kedvetlen
+    - lehangolt
+    - levert
+- szo: anAth
+  ford:
+  - nyt: hn
+    ert:
+    - árva
+    - gyámoltalan
+    - elhagyatott ember
+- szo: anAthAlay
+  ford:
+  - nyt: hn
+    ert:
+    - árvaház
+- szo: anAdar
+  ford:
+  - nyt: hn
+    ert:
+    - tiszteletlenség
+  - ert:
+    - becsmérlés
+    - bántás
+- szo: anivArya
+  ford:
+  - nyt: mn
+    ert:
+    - kötelező
+    - nélkülözhetetlen
+    - elkerülhetetlen
+    - lényeges
+- szo: aniScit
+  ford:
+  - nyt: mn
+    ert:
+    - kétséges
+  - ert:
+    - határozatlan
+    - nem eldöntött
+- szo: anunAsik
+  ford:
+  - nyt: hn
+    ert:
+    - szo: orrhang
+      megj: jele
+  - nyt: mn
+    ert:
+    - orrhangú
+- szo: anubhavii
+  ford:
+  - nyt: mn
+    ert:
+    - tapasztalt
+    - érzékelt
+    - érzékszervi
+- szo: anumati
+  ford:
+  - nyt: nn
+    ert:
+    - engedély
+    - jóváhagyás
+  - ert:
+    - tanács
+    - javaslat
+  - ert:
+    - rendelet
+    - határozat
+- szo: anumAn
+  ford:
+  - nyt: hn
+    ert:
+    - becslés
+    - találgatás
+- szo: anuyAyii
+  ford:
+  - nyt: hn
+    ert:
+    - követő
+- szo: anurodh
+  ford:
+  - nyt: hn
+    ert:
+    - kérvény
+    - kérelmezés
+    - könyörgés
+- szo: anuSAsan
+  ford:
+  - nyt: hn
+    ert:
+    - fegyelem
+    - irányítás
+    - irányelv
+- szo: anusvAr
+  ford:
+  - nyt: hn
+    ert:
+    - nazális mássalhangzót helyettesítő jel a dévanágarí írásban
+- szo: anek
+  ford:
+  - nyt: mn
+    ert:
+    - sok
+    - különféle
+    - bőséges
+- szo: ap'nAnA
+  ford:
+  - nyt: t
+    ert:
+    - elsajátít
+    - átvesz
+    - magáévá tesz
+- szo: apamAn
+  ford:
+  - nyt: hn
+    ert:
+    - tiszteletlenség
+    - becsmérlés
+    - rágalmazás
+  - ert:
+    - becstelenség
+    - szégyen
+    - rágalom
+  - ert:
+    - sértés
+- szo: apamAnit
+  ford:
+  - kif: apamAnit kar'nA
+    ert:
+    - tiszteletlenséget mutat
+- szo: aparAdh
+  ford:
+  - nyt: hn
+    ert:
+    - sértés
+    - bűn
+- szo: aparAdhii
+  ford:
+  - nyt: mn hn
+    ert:
+    - bűnös
+    - bűnöző
+    - vétkes
+  - ert:
+    - a hibás
+- szo: apavAd
+  ford:
+  - nyt: hn
+    ert:
+    - kivétel(es eset)
+  - ert:
+    - cáfolat
+    - bírálat
+    - kifogás
+- szo: apAr
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - parttalan
+    - végtelen
+    - határtalan
+    - áthatolhatatlan
+- szo: af'vAh
+  ford:
+  - nyt: nn
+    ert:
+    - pletyka
+    - szóbeszéd
+    - mendemonda
+- szo: af'sar
+  ford:
+  - nyt: hn
+    ert:
+    - tiszt
+    - tisztviselő
+- szo: abhilAShA
+  ford:
+  - nyt: nn
+    ert:
+    - vágy(ódás)
+- szo: am'rUd
+  ford:
+  - nyt: hn
+    ert:
+    - guáva gyümölcs (fája).
+- szo: arab
+  lecserel: "2=1;2"
+  ford:
+  - nyt: mn hn
+    ert:
+    - szo: arab
+      megj: ember
+    - Arábia
+- szo: arth-SAstr
+  ford:
+  - nyt: hn
+    ert:
+    - (köz)gazdaságtan
+  alt:
+  - arth'SAstr
+- szo: alp
+  ford:
+  - nyt: mn
+    ert:
+    - kicsi
+    - kevés
+  - ert:
+    - jelentéktelen
+    - nem fontos
+- szo: avatAr
+  ford:
+  - nyt: hn
+    ert:
+    - lejövetel
+    - földi megjelenés
+    - megtestesülés
+    - inkarnáció
+- szo: avadhi
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - korszak
+    - időszak
+    - időtartam
+    - időkorlát
+  - ert:
+    - kiterjedés
+    - határ

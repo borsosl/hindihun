@@ -1,0 +1,530 @@
+datum: 2020-08-13
+forras:
+  nev: Pratap
+  fejezet: 27
+szavak:
+- szo: icchA
+  ford:
+  - nyt: nn
+    ert:
+    - vágy
+    - kívánság
+    - óhaj
+  - kif: icchA kar'nA
+    ert:
+    - vágyik
+    - kíván
+    - óhajt
+- szo: iz'hAr
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - nyilatkozat
+    - közlemény
+    - közlés
+    - vallomás
+  - kif: iz'hAr kar'nA
+    ert:
+    - kijelent
+    - bejelent
+    - közöl
+- szo: ijAzat
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - engedély
+    - elengedés
+    - elbocsátás
+  - kif: ijAzat denA
+    ert:
+    - elenged
+    - megenged
+- szo: ittafAK
+  alt:
+  - ittifAK
+  szarm: a
+  ford:
+  - nyt: hn
+    ert:
+    - véletlen esemény
+    - egybeesés
+  - ert:
+    - szövetkezés
+    - összeesküvés
+- szo: ityAdi
+  ford:
+  - nyt: kt
+    ert:
+    - és így tovább
+    - satöbbi
+    - stb.
+- szo: in'sAniyat
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - emberség(esség)
+    - tisztesség
+- szo: ibAdat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - istentisztelet
+    - imádat
+- szo: imtahAn
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - vizsga
+    - dolgozat
+  - kif: imtahAn denA
+    ert:
+    - vizsgázik
+    - vizsgát tesz
+- szo: inAm
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - díj
+    - jutalom
+    - ajándék
+- szo: ilAy'cii
+  alt:
+  - ilAcii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - kardamom
+- szo: iSArA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - jel(zés)
+  - ert:
+    - célzás
+    - utalás
+- szo: iStahAr
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - hirdetés
+    - reklám
+    - plakát
+- szo: ispAt
+  szarm: Pt
+  ford:
+  - nyt: hn
+    ert:
+    - acél
+- szo: ii~T
+  ford:
+  - nyt: nn
+    ert:
+    - tégla
+    - csempe
+- szo: ii#dhan
+  ford:
+  - nyt: hn
+    ert:
+    - üzemanyag
+    - tüzelőanyag
+    - energiaforrás
+- szo: iid
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - ünnep(nap)
+  - kif: iid kA cA~d
+    nyt: hn
+    ert:
+    - ritka látvány
+    - ritkán látott személy
+- szo: iimAn'dAr
+  lecserel: "1=1"
+  szarm: A+P
+  ford:
+  - nyt: mn
+    ert:
+    - becsületes
+    - megbízható
+    - lelkiismeretes
+  - ert:
+    - erős hitű
+    - odaadó
+- szo: iimAn'dArii
+  szarm: A+P
+  ford:
+  - nyt: nn
+    ert:
+    - becsület
+    - tisztesség
+- szo: iirShyA
+  szarm: S
+  ford:
+  - nyt: nn
+    ert:
+    - irigység
+    - féltékenység
+    - rosszindulat
+- szo: iiSvar
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - Isten
+- szo: iisAii
+  szarm: P
+  ford:
+  - nyt: mn hn
+    ert:
+    - keresztény
+  - kif: iisAii dharm
+    nyt: hn
+    ert:
+    - kereszténység
+- szo: ug'nA
+  ford:
+  - nyt: tl
+    ert:
+    - szo: növekszik
+      megj: növény
+    - kihajt
+    - csírázik
+    - rügyezik
+  - ert:
+    - szo: felkel
+      megj: égitest
+- szo: ugAnA
+  ford:
+  - nyt: t
+    ert:
+    - szo: növeszt
+      megj: növényt
+    - termeszt
+- szo: ugra
+  ford:
+  - nyt: mn
+    ert:
+    - erőszakos
+    - ádáz
+    - kegyetlen
+  - ert:
+    - végletes
+    - radikális
+  - ert:
+    - szo: átható
+      megj: szag
+- szo: uchal'nA
+  ford:
+  - nyt: tl
+    ert:
+    - ugrik
+    - szökken
+    - kirepül
+- szo: uchAl'nA
+  ford:
+  - nyt: t
+    ert:
+    - (fel)dob
+    - hajít
+- szo: uThAnA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - (fel)emel
+    - (fel)kelt
+    - szo: felébreszt
+      megj: érzelmet stb. is
+  - ert:
+    - létrehoz
+    - kifejleszt
+    - felépít
+  - ert:
+    - (fel)nevel
+    - képez
+  - ert:
+    - összepakol
+    - nekiindul
+  - ert:
+    - szo: visel
+      megj: terhet, költséget
+- szo: uRAn
+  ford:
+  - nyt: nn
+    ert:
+    - repülés
+    - ugrás
+- szo: uttar'dAyitva
+  ford:
+  - nyt: hn
+    ert:
+    - felelősség
+- szo: uttar'dAyii
+  ford:
+  - nyt: mn
+    ert:
+    - felelős
+- szo: utsav
+  ford:
+  - nyt: hn
+    ert:
+    - ünnep(ség)
+    - fesztivál
+- szo: utsuk
+  ford:
+  - nyt: mn
+    ert:
+    - buzgó
+    - lelkes
+    - mohó
+- szo: utsuk'tA
+  ford:
+  - nyt: nn
+    ert:
+    - buzgalom
+    - lelkesség
+- szo: udAr
+  ford:
+  - nyt: mn
+    ert:
+    - nagylelkű
+    - nagyvonalú
+    - bőkezű
+  - ert:
+    - jeles
+    - kiemelkedő
+- szo: udAr'tA
+  ford:
+  - nyt: nn
+    ert:
+    - nagylelkűség
+- szo: uddeSya
+  ford:
+  - nyt: hn
+    ert:
+    - szándék
+    - célkitűzés
+    - hajtóerő
+    - indíték
+    - vminek az értelme
+- szo: udyAn
+  ford:
+  - nyt: hn
+    ert:
+    - kert
+    - park
+- szo: unnati
+  ford:
+  - nyt: nn
+    ert:
+    - haladás
+    - fejlődés
+    - fellendülés
+- szo: up'jAU
+  ford:
+  - nyt: mn
+    ert:
+    - termékeny
+    - gyümölcsöző
+- szo: upadeS
+  ford:
+  - nyt: hn
+    ert:
+    - tanítás
+    - szentlecke
+    - prédikáció
+- szo: upanyAs'kAr
+  ford:
+  - nyt: hn
+    ert:
+    - regényíró
+- szo: upamahAdviip
+  ford:
+  - nyt: hn
+    ert:
+    - szubkontinens
+- szo: upayukt
+  ford:
+  - nyt: mn
+    ert:
+    - alkalmas
+    - megfelelő
+    - méltó
+- szo: upayog
+  ford:
+  - nyt: hn
+    ert:
+    - használat
+    - alkalmazás
+- szo: upayogii
+  ford:
+  - nyt: mn
+    ert:
+    - hasznos
+- szo: upalabdh
+  ford:
+  - nyt: mn
+    ert:
+    - elérhető
+    - elérendő
+  - ert:
+    - megszerzett
+- szo: upavAs
+  ford:
+  - nyt: hn
+    ert:
+    - böjt(ölés)
+    - éhségsztrájk
+- szo: upasthit
+  ford:
+  - nyt: mn
+    ert:
+    - jelen levő
+    - megjelent
+    - létező
+- szo: upasthiti
+  ford:
+  - nyt: nn
+    ert:
+    - jelenlét
+    - részvétel
+- szo: upAdhi
+  ford:
+  - nyt: nn
+    ert:
+    - cím
+    - fokozat
+    - diploma
+- szo: upAy
+  ford:
+  - nyt: hn
+    ert:
+    - mód(szer)
+    - megoldás
+    - rendszer
+    - terv
+    - vázlat
+- szo: upAsak
+  ford:
+  - nyt: hn
+    ert:
+    - hívő
+- szo: upekShA
+  ford:
+  - nyt: nn
+    ert:
+    - közömbösség
+    - hanyagság
+    - semmibe vétel
+- szo: ubAl'nA
+  ford:
+  - nyt: t
+    ert:
+    - forral
+    - főz
+- szo: ubhar'nA
+  ford:
+  - nyt: tl
+    ert:
+    - megnő
+    - duzzad
+    - megtelik
+    - kifejlődik
+    - kialakul
+    - kiárad
+- szo: umas
+  ford:
+  - nyt: nn
+    ert:
+    - párás hőség
+    - nedvesség
+- szo: ummiid'vAr
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - reményteli
+  - ert:
+    - várandós
+  - ert:
+    - m pályázó
+    - jelölt
+- szo: ul'jhan
+  ford:
+  - nyt: nn
+    ert:
+    - belegabalyodás
+    - bonyolódás
+    - zavarodottság
+- szo: ulajh'nA
+  ford:
+  - nyt: tl
+    ert:
+    - belegabalyodik
+    - belebonyolódik
+    - zavarba jön
+- szo: ul'jhAnA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - belebonyolít
+    - összezavar
+    - tőrbe csal
+- szo: ulaT'nA
+  ford:
+  - nyt: t
+    ert:
+    - felfordít
+    - megfordít
+    - megdönt
+    - átformál
+    - megváltoztat
+  - nyt: tl
+    ert:
+    - megfordul
+    - átalakul
+    - tönkre megy
+- szo: ul'TA
+  ford:
+  - nyt: mn
+    ert:
+    - (fel)fordított
+    - ellenkező
+    - ellentétes
+  - kif: ul'Te hAth
+    ert:
+    - balra
+- szo: ul'Tii
+  ford:
+  - nyt: nn
+    ert:
+    - hányás
+    - émelygés
+  - kif: ul'Tii kar'nA, * ko ul'TiyA honA
+    ert:
+    - hány
+- szo: ustAd
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - mester
+    - tanár
+    - szakember
+    - művész
+  - nyt: mn
+    ert:
+    - képzett
+    - képesített
+    - szakértő

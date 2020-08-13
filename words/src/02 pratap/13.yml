@@ -51,6 +51,10 @@ szavak:
     ert:
     - mostantól kezdve
     - később
+  - kif: Age nikal'nA
+    ert:
+    - megelőz
+    - lehagy
 - szo: idhar
   lecserel: "1=1"
   szarm: S
@@ -66,6 +70,10 @@ szavak:
   - nyt: ht
     ert:
     - egyrészt
+  - kif: idhar-udhar
+    ert:
+    - itt-ott
+    - ide-oda
 - szo: ilAhAbAd
   ford:
   - nyt: hn
