@@ -64,6 +64,10 @@ szavak:
   - kif: isii lie
     ert:
     - éppen ezért
+  - kif: kis lie
+    ert:
+    - miért?
+    - minek?
 - szo: ii
   ford:
   - kif: ii-patr

@@ -30,6 +30,16 @@ szavak:
     nyt: tl
     ert:
     - áll
+  - kif: khaRA kar'nA
+    ert:
+    - felállít
+    - emel
+    - beavat
+    - szo: feltesz
+      megj: kérdést
+    - leállít
+    - szo: leparkol
+      megj: járművet
 - szo: Khatm
   lecserel: "1=1"
   szarm: A

@@ -119,9 +119,10 @@ szavak:
   ford:
   - nyt: hn
     ert:
-    - lépés
+    - lépés (hossza)
     - járás
     - láb
+    - talp
 - szo: kamii
   lecserel: "1=1"
   szarm: P
@@ -137,6 +138,10 @@ szavak:
     ert:
     - fogadalom
     - eskü
+  - kif: Kasam kar'nA
+    ert:
+    - megfogad
+    - esküt tesz
 - szo: kahal'vAnA
   ford:
   - ert:
@@ -175,6 +180,15 @@ szavak:
   - kif: khulA
     ert:
     - nyitva
+  - kif: khul'kar
+    ert:
+    - nyíltan
+    - szabadon
+    - nyilvánosan
+  - kif: khule Am
+    ert:
+    - nyíltan
+    - nyilvánosan
 - szo: galA
   ford:
   - nyt: hn

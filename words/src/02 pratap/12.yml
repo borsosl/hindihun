@@ -162,6 +162,12 @@ szavak:
   - nyt: hn
     ert:
     - túloldalt
+  - kif: (ke) pAr
+    nyt: ht nt
+    ert:
+    - túloldalt
+    - túloldalán
+    - keresztül
   - kif: pAr kar'nA
     ert:
     - átkel

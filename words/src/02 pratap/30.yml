@@ -1,0 +1,422 @@
+datum: 2020-08-22
+forras:
+  nev: Pratap
+  fejezet: 30
+szavak:
+- szo: viruddh
+  ford:
+  - nyt: mn
+    ert:
+    - szembenálló
+    - ellenséges
+  - ert:
+    - kedvezőtlen
+  - kif: ke viruddh
+    nyt: nt
+    ert:
+    - ellen
+    - szemben
+- szo: ket'lii
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - teáskanna
+    - vízforraló
+- szo: keval
+  ford:
+  - nyt: mn
+    ert:
+    - egyetlen
+  - nyt: ht
+    ert:
+    - csak
+    - csakis
+    - kizárólag
+- szo: KE~cii
+  alt:
+  - kE~cii
+  ford:
+  - nyt: nn
+    ert:
+    - olló
+- szo: koThA
+  ford:
+  - nyt: hn
+    ert:
+    - (felső) nagy szoba
+  - ert:
+    - bordély(ház)
+  - ert:
+    - raktár(ház)
+    - magtár
+    - csűr
+- szo: koThii
+  ford:
+  - nyt: nn
+    ert:
+    - nagy ház
+- szo: koy'lA
+  ford:
+  - nyt: hn
+    ert:
+    - szén
+- szo: korA
+  ford:
+  - nyt: mn
+    ert:
+    - használatlan
+    - üres
+  - ert:
+    - egyszerű
+    - sima
+    - festetlen
+    - ápolatlan
+  - ert:
+    - tudatlan
+    - műveletlen
+    - buta
+- szo: kos'nA
+  ford:
+  - nyt: hn
+    ert:
+    - átok
+  - nyt: t
+    ert:
+    - átkoz
+    - sérteget
+    - gyaláz
+    - korhol
+- szo: kram
+  ford:
+  - nyt: hn
+    ert:
+    - sorrend
+    - lépés
+    - fokozat
+    - szakasz
+- szo: kram'SaH
+  ford:
+  - nyt: ht
+    ert:
+    - fokozatosan
+    - lépésenként
+    - sorban
+- szo: krA#ti
+  ford:
+  - nyt: nn
+    ert:
+    - forradalom
+- szo: krA#tikArii
+  ford:
+  - nyt: hn
+    ert:
+    - forradalmár
+  - nyt: mn
+    ert:
+    - forradalmi
+- szo: kriyA
+  ford:
+  - nyt: nn
+    ert:
+    - cselekvés
+    - cselekedet
+    - tett
+  - ert:
+    - ige
+- szo: kriyAviSeShaN
+  alt:
+  - kriyA-viSeShaN
+  ford:
+  - nyt: hn
+    ert:
+    - névmás
+- szo: kShaN
+  ford:
+  - nyt: hn
+    ert:
+    - pillanat
+- szo: kShamatA
+  ford:
+  - nyt: nn
+    ert:
+    - képesség
+    - alkalmasság
+- szo: kShamA
+  ford:
+  - nyt: nn
+    ert:
+    - megbocsátás
+    - feloldozás
+- szo: kShetr
+  ford:
+  - nyt: hn
+    ert:
+    - terület
+    - kiterjedés
+    - körzet
+    - régió
+  - ert:
+    - föld
+    - mező
+  - ert:
+    - működési kör
+- szo: Khaccar
+  alt:
+  - khaccar
+  ford:
+  - nyt: hn
+    ert:
+    - öszvér
+- szo: khaTTA
+  ford:
+  - nyt: mn
+    ert:
+    - savanyú
+- szo: Khat'rA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - veszély
+    - kockázat
+  - kif: Khat're se KhAlii
+    ert:
+    - veszélytelen
+    - kockázatmentes
+    - biztonságos
+- szo: Khabar'dAr
+  ford:
+  - nyt: mn
+    ert:
+    - óvatos
+  - nyt: ind
+    ert:
+    - figyelem!
+- szo: Khar'goS
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - nyúl
+- szo: KharAbii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - hiba
+    - hiányosság
+- szo: KharAS
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - karcolás
+    - szo: kaparás
+      megj: toroké is
+- szo: Kharo~c
+  ford:
+  - nyt: hn
+    ert:
+    - karcolás
+- szo: Kharc
+  ford:
+  - nyt: hn
+    ert:
+    - költség
+    - kiadás
+  - kif: Kharc kar'nA
+    ert:
+    - költ(ekezik)
+- szo: KharcA
+  ford:
+  - nyt: hn
+    ert:
+    - költség
+    - kiadás
+- szo: khal-nAyak
+  alt:
+  - khal'nAyak
+  ford:
+  - nyt: hn
+    ert:
+    - negatív főszereplő
+    - cselszövő
+- szo: khAtA
+  ford:
+  - nyt: hn
+    ert:
+    - főkönyv
+- szo: khAdii
+  ford:
+  - nyt: nn
+    ert:
+    - házi szövésű sűrű vászon
+- szo: khAn
+  ford:
+  - nyt: nn
+    ert:
+    - bánya
+    - lelőhely
+    - kőfejtő
+- szo: KhAn'dAn
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - családi vonal
+    - vérvonal
+- szo: KhAn'dAnii
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - családi
+    - családbeli
+    - örökletes
+- szo: KhAnA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - hely
+    - lakhely
+    - munkahely
+    - hivatal
+  - ert:
+    - szoba
+    - kamra
+  - ert:
+    - fülke
+    - rekesz
+    - felosztott rész
+- szo: KhAmoSii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - nyugalom
+    - csend
+- szo: KhAsiyat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - jellegzetesség
+- szo: khisak'nA
+  ford:
+  - nyt: tl
+    ert:
+    - meglóg
+    - meglép
+    - elsomfordál
+- szo: khiir
+  ford:
+  - nyt: nn
+    ert:
+    - édes tejberizs
+- szo: khiirA
+  ford:
+  - nyt: hn
+    ert:
+    - uborka
+- szo: khuj'lii
+  ford:
+  - nyt: nn
+    ert:
+    - viszketés
+- szo: KhuS'Kismat
+  ford:
+  - nyt: mn
+    ert:
+    - szerencsés
+- szo: KhuS'Kismatii
+  ford:
+  - nyt: nn
+    ert:
+    - (jó)szerencse
+  - kif: KhuS'Kismatii se
+    ert:
+    - szerencsére
+- szo: KhuS'Khab'rii
+  ford:
+  - nyt: nn
+    ert:
+    - jó hír(ek)
+- szo: KhuS'bU
+  ford:
+  - nyt: nn
+    ert:
+    - illat
+- szo: KhuS'bUdAr
+  ford:
+  - nyt: mn
+    ert:
+    - illatos
+- szo: KhuS'hAl
+  ford:
+  - nyt: mn
+    ert:
+    - tehetős
+    - jólétben élő
+    - szerencsés
+    - boldog
+- szo: KhuS'hAlii
+  ford:
+  - nyt: nn
+    ert:
+    - jólét
+    - boldogulás
+- szo: khU~Tii
+  ford:
+  - nyt: nn
+    ert:
+    - csapszeg
+- szo: KhUn
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - vér
+  - ert:
+    - gyilkosság
+  - kif: KhUn kar'nA
+    ert:
+    - öl
+    - gyilkol
+    - vért ont
+  - ert:
+    - elherdál
+    - elfecsérel
+- szo: KhUb
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - nagyszerű
+    - pompás
+    - remek
+    - ragyogó
+    - elbűvölő
+    - bőséges
+  - nyt: ht
+    ert:
+    - nagyon
+    - bőven
+    - remekül
+    - kiválóan
+    - jól
+- szo: KhUb'sUr'tii
+  ford:
+  - nyt: nn
+    ert:
+    - szépség
+- szo: KhUbii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - kiválóság
+    - erény
+    - szépség

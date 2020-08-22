@@ -39,11 +39,22 @@ szavak:
     ert:
     - főiskola
 - szo: KhuSii
+  szarm: P
   ford:
   - nyt: nn
     ert:
     - boldogság
     - öröm
+  - kif: KhuSii se
+    nyt: ht
+    ert:
+    - örömmel
+    - szívesen
+    - készségesen
+  - kif: KhuSiyA~ manAnA
+    ert:
+    - ünnepel
+    - örvendezik
 - szo: KhUb'sUrat
   lecserel: "1=1"
   szarm: P+AP

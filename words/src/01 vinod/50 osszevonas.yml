@@ -272,9 +272,11 @@ szavak:
     ert:
     - egy bizonyos
     - konkrét
-  - kif: KhAs'kar
+  - kif: KhAs'kar, KhAs tOr par
     ert:
     - különösen
+    - főleg
+    - konkrétan
 - szo: manA
   lecserel: "1,2=1"
   ford:
@@ -439,6 +441,9 @@ szavak:
     ert:
     - vált
     - lett
+  - kif: kyA huA?
+    ert:
+    - mi történt?
   - kif: (se) hokar
     ert:
     - keresztül
@@ -475,6 +480,14 @@ szavak:
   - nyt: t
     ert:
     - eszik
+    - (el)fogyaszt
+    - (le)nyel
+    - felfal
+    - belélegez
+  - nyt: t
+    ert:
+    - elszenved vmit
+    - célpontja vminek
   - kif: khA jAnA
     ert:
     - megeszik
@@ -925,6 +938,9 @@ szavak:
     - módján
     - mint
     - ahogy
+  - kif: kis tarah
+    ert:
+    - hogyan?
   - kif: tarah-tarah kA
     ert:
     - különféle
@@ -1121,6 +1137,9 @@ szavak:
     pl:
     - ered: Oro~ kA vicAr
       ford: mások véleménye
+  - kif: Or to Or
+    ert:
+    - sőt mi több
 - szo: baRh'nA
   lecserel: "1,2=1"
   ford:
@@ -1711,7 +1730,7 @@ szavak:
     ert:
     - felé
     - irányába
-  - kif: (ke) cAro~ or
+  - kif: (ke) cAro~ or, (ke) cAro~ taraf
     ert:
     - négy oldalról
     - körös-körül

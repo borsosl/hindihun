@@ -1,0 +1,431 @@
+datum: 2020-08-21
+forras:
+  nev: Pratap
+  fejezet: 29
+szavak:
+- szo: kA~c
+  ford:
+  - nyt: hn
+    ert:
+    - üveg
+- szo: kAkA
+  ford:
+  - nyt: hn
+    ert:
+    - nagybácsi
+    - apa öccse
+- szo: kAkii
+  ford:
+  - nyt: nn
+    ert:
+    - nagynéni
+    - apa öccsének felesége
+- szo: kAjU
+  ford:
+  - nyt: hn
+    ert:
+    - kesu(dió)
+- szo: kAnA
+  ford:
+  - nyt: mn hn
+    ert:
+    - egyszemű (ember)
+  - ert:
+    - lyukas
+    - haszontalan
+- szo: KAnUn
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - törvény
+    - rendelkezés
+- szo: k@pii
+  ford:
+  - nyt: nn
+    ert:
+    - füzet
+- szo: KAbU
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - fogás
+    - markolás
+  - ert:
+    - irányítás
+    - hatalom
+  - ert:
+    - birtoklás
+- szo: kAm
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - munka
+  - kif: kAm kar'nA
+    nyt: t
+    ert:
+    - dolgozik
+  - kif: kAm kA (honA)
+    ert:
+    - működő
+    - hasznos
+- szo: kAm-calAU
+  ford:
+  - nyt: mn
+    ert:
+    - átmenetileg működő
+- szo: kAm'nA
+  ford:
+  - nyt: nn
+    ert:
+    - vágy
+    - kéj
+    - bujaság
+- szo: kAm'yAbii
+  ford:
+  - nyt: nn
+    ert:
+    - siker
+- szo: kAr'KhAnA
+  szarm: P+P
+  ford:
+  - nyt: hn
+    ert:
+    - műhely
+    - gyár
+  - ert:
+    - üzleti tevékenység
+- szo: kArya
+  ford:
+  - nyt: hn
+    ert:
+    - tett
+    - tevékenység
+  - ert:
+    - munka
+    - feladat
+  - ert:
+    - foglalkozás
+    - beosztás
+- szo: kAryakram
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - program
+    - időbeosztás
+- szo: kAryAlay
+  ford:
+  - nyt: hn
+    ert:
+    - (közigazgatási) hivatal
+- szo: kifAyat
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - takarékosság
+    - nyereség
+- szo: kirAyedAr
+  szarm: A+P
+  ford:
+  - nyt: hn
+    ert:
+    - bérlő
+- szo: samay
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: hn
+    ert:
+    - idő
+  - kif: kis samay?
+    ert:
+    - mikor?
+- szo: kisAn
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - paraszt
+    - földműves
+- szo: Kist
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - részletfizetés
+    - fizetési részlet
+  - ert:
+    - (film)sorozat egy része
+- szo: Kism
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - típus
+    - fajta
+    - változat
+- szo: KhAtir
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - szempont
+    - tekintet
+  - kif: "* kii KhAtir"
+    nyt: nt
+    ert:
+    - tekintettel vmire
+    - figyelembe véve, hogy
+- szo: hEsiyat
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - lehetőség(ek)
+    - tehetősség
+  - ert:
+    - jelleg
+    - tulajdonság
+    - minőség
+  - kif: "* kii hEsiyat se"
+    ert:
+    - vmilyen minőségében
+- szo: kiicaR
+  szarm: Drav
+  ford:
+  - nyt: hn nn
+    ert:
+    - sár
+    - pocsolya
+    - iszap
+- szo: kiiRA
+  ford:
+  - nyt: hn
+    ert:
+    - rovar
+    - moly
+    - féreg
+  - ert:
+    - rohadás
+    - lebomlás
+    - üszög
+- szo: kiil
+  ford:
+  - nyt: hn
+    ert:
+    - szeg
+    - szög
+- szo: kuA~
+  ford:
+  - nyt: hn
+    var:
+    - tipus: nt
+      alak: kue~
+    ert:
+    - kút
+- szo: kul
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - összes
+    - egész
+  - nyt: ht
+    ert:
+    - összesen
+    - egészen
+  - kif: kul milAkar
+    ert:
+    - mindösszesen
+- szo: kuSal
+  lecserel: "1=1"
+  szarm: S
+  ford:
+  - nyt: mn
+    ert:
+    - egészséges
+    - boldog
+  - ert:
+    - hozzáértő
+    - szakértő
+    - jártas
+  - nyt: hn
+    ert:
+    - egészség
+    - boldogság
+    - jó szerencse
+    - jólét
+  - kif: kuSal-ma#gal
+    ert:
+    - szerencsésen
+    - jól
+    - egészségesen
+    - jólétben
+- szo: kuSal'pUrvak
+  ford:
+  - nyt: ht
+    ert:
+    - biztonságosan
+    - ügyesen
+- szo: kURA
+  ford:
+  - nyt: hn
+    ert:
+    - por
+    - szemét
+    - hulladék
+    - limlom
+- szo: kURedAn
+  ford:
+  - nyt: hn
+    ert:
+    - szemetes
+    - kuka
+- szo: kUd'nA
+  ford:
+  - nyt: tl
+    ert:
+    - (át)ugrik
+    - ugrál
+  - ert:
+    - örvendezik
+    - örül
+- szo: kuh'nii
+  alt:
+  - koh'nii
+  ford:
+  - nyt: nn
+    ert:
+    - könyök
+- szo: kuh'rA
+  ford:
+  - nyt: hn
+    ert:
+    - köd
+    - pára
+- szo: kUT-niiti
+  ford:
+  - nyt: nn
+    ert:
+    - diplomácia
+  alt:
+  - kUT'niiti
+- szo: kUT'niitijYa
+  ford:
+  - nyt: hn
+    ert:
+    - diplomata
+- szo: kRItajYa
+  ford:
+  - nyt: mn
+    ert:
+    - hálás
+- szo: akRItajYa
+  ford:
+  - nyt: mn
+    ert:
+    - hálátlan
+- szo: kRItajYatA
+  ford:
+  - nyt: nn
+    ert:
+    - hála
+- szo: Upar
+  lecserel: "1=1"
+  ford:
+  - nyt: ht
+    ert:
+    - fent
+    - fel
+  - kif: ke Upar
+    nyt: nt
+    ert:
+    - felett
+    - rajta
+- szo: KhilAf
+  ford:
+  - kif: ke KhilAf
+    nyt: nt
+    ert:
+    - ellen
+    - szemben
+- szo: zarie
+  alt:
+  - zariye
+  ford:
+  - kif: zarie se
+    nyt: nt
+    ert:
+    - által
+    - révén
+    - keresztül
+- szo: tah't
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - alárendeltség
+    - alávetettség
+    - fennhatóság
+  - kif: "* ke tah't"
+    ert:
+    - vminek kitéve
+    - vmi fennhatósága alatt
+- szo: dOrAn
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - körforgás
+    - időtartam
+    - vérkeringés
+  - kif: "* ke dOrAn"
+    ert:
+    - vmi idején
+    - közben
+    - alatt
+- szo: bad'lA
+  ford:
+  - nyt: hn
+    ert:
+    - kicserélés
+    - csere
+    - helyettes
+  - ert:
+    - kártérítés
+    - kárpótlás
+  - ert:
+    - visszafizetés
+    - bosszú
+  - kif: "* ke bad'le me~"
+    nyt: nt
+    ert:
+    - vmiért cserébe
+    - vmi helyett
+- szo: bAv'jUd
+  szarm: P
+  ford:
+  - kif: ke bAv'jUd
+    nyt: nt
+    ert:
+    - ellenére
+    - dacára
+- szo: mAdhyam
+  ford:
+  - nyt: mn
+    ert:
+    - középső
+  - nyt: hn
+    ert:
+    - mód
+  - kif: "* ke mAdhyam se"
+    ert:
+    - által
+    - révén
+    - keresztül

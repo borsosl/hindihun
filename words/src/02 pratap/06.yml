@@ -278,6 +278,9 @@ szavak:
   - kif: "* se bAt/bAte~ kar'nA"
     ert:
     - beszélget vkivel
+  - kif: koii bAt nahii~
+    ert:
+    - szóra sem érdemes
   - kif: bAt ban'nA
     ert:
     - megvalósul
@@ -285,6 +288,11 @@ szavak:
     - sikeressé válik
     - beválik
     - elismerést vált ki
+  - kif: kyA bAt hE
+    ert:
+    - remek!
+    - de jó!
+    - klassz!
 - szo: bAp
   szarm: S
   ford:

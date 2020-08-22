@@ -74,9 +74,10 @@ szavak:
   - nyt: nn
     ert:
     - összemérés
-  - kif: kii tul'nA me~
+  - kif: "* kii tul'nA me~"
     ert:
     - -hez mérve
+    - összehasonlítva vmivel
 - szo: apekShA
   szarm: S
   ford:

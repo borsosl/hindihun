@@ -1,0 +1,467 @@
+datum: 2020-08-18
+forras:
+  nev: Pratap
+  fejezet: 28
+szavak:
+- szo: U~T
+  ford:
+  - nyt: hn
+    ert:
+    - teve
+- szo: Un
+  ford:
+  - nyt: nn
+    ert:
+    - gyapjú anyag
+- szo: Upar'vAlA
+  ford:
+  - nyt: mn hn
+    ert:
+    - fenti
+    - magasabb pozícióbal levő
+    - isten
+- szo: Ub
+  ford:
+  - nyt: nn
+    ert:
+    - unalom
+- szo: UbaR
+  ford:
+  - nyt: mn
+    ert:
+    - egyenetlen
+    - hepehupás
+    - áthatolhatatlan
+  - kif: UbaR-khAbaR
+    ert:
+    - = {UbaR}
+- szo: RIN
+  ford:
+  - nyt: hn
+    ert:
+    - adósság
+    - szo: tartozás
+      megj: másoké is
+- szo: RItu
+  ford:
+  - nyt: nn hn
+    ert:
+    - évszak
+    - évszakra jellemző időjárás
+- szo: sAth
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - társ
+    - társaság
+    - segítség
+  - nyt: ht
+    ert:
+    - együtt
+  - kif: ke sAth
+    nyt: nt
+    ert:
+    - -val
+    - -vel
+    - együtt
+  - kif: ek sATh
+    ert:
+    - együtt
+- szo: -ek
+  ford:
+  - ert:
+    - szo: körülbelül
+      megj: szám után
+- szo: ekatA
+  ford:
+  - nyt: nn
+    ert:
+    - egység
+    - harmónia
+    - azonosság
+- szo: ek'vacan
+  ford:
+  - nyt: hn
+    ert:
+    - egyes szám
+- szo: ekAek
+  szarm: P
+  ford:
+  - nyt: ht
+    ert:
+    - hirtelen(ül)
+    - váratlanul
+- szo: eRii
+  ford:
+  - nyt: nn
+    ert:
+    - szo: sarok
+      megj: cipőé is
+- szo: eD_s
+  ford:
+  - nyt: hn
+    ert:
+    - AIDS
+- szo: et'rAz
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - ellenkezés
+    - tiltakozás
+- szo: EsA
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - ilyen
+  - kif: EsA hii
+    nyt: mn
+    ert:
+    - ugyanilyen
+  - kif: EsA-vEsA
+    ert:
+    - ilyen-olyan
+    - középszerű
+    - gyenge
+  - kif: Ese
+    ert:
+    - így
+  - kif: Ese hii
+    ert:
+    - csak úgy
+    - céltalanul
+- szo: o~Th
+  ford:
+  - nyt: hn
+    ert:
+    - ajak
+- szo: oRh'nA
+  ford:
+  - nyt: t
+    ert:
+    - (be)fed
+    - (be)borít
+    - (be)takar
+    - burkol
+  - ert:
+    - felvesz
+    - visel
+    - hord
+- szo: ojhal
+  ford:
+  - nyt: mn
+    ert:
+    - eltűnt
+- szo: olA
+  ford:
+  - nyt: hn
+    ert:
+    - jégeső
+    - jégdarab
+- szo: os
+  ford:
+  - nyt: nn
+    ert:
+    - harmat(csepp)
+- szo: OzAr
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - eszköz
+    - szerszám
+    - felszerelés
+- szo: Op'cArik'tA
+  ford:
+  - nyt: nn
+    ert:
+    - formalitás
+- szo: Osat
+  ford:
+  - nyt: mn
+    ert:
+    - átlagos
+- szo: ka#kaR
+  ford:
+  - nyt: hn
+    ert:
+    - kavics
+    - kő
+- szo: kacah'rii
+  ford:
+  - nyt: nn
+    ert:
+    - bíróság
+    - hivatal
+- szo: kaT'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: tl
+    ert:
+    - le van vágva
+  - ert:
+    - szo: eltelik
+      megj: idő
+- szo: kaTorii
+  ford:
+  - nyt: nn
+    ert:
+    - kis edény
+    - tálka
+- szo: kaTTar
+  ford:
+  - nyt: mn
+    ert:
+    - szigorú
+    - merev
+    - fanatikus
+    - ortodox
+- szo: kaTTar-pa#thii
+  ford:
+  - nyt: hn
+    ert:
+    - fanatikus
+  alt:
+  - kaTTar'pa#thii
+- szo: kaThinAii
+  ford:
+  - nyt: nn
+    ert:
+    - nehézség
+    - keménység
+    - szigor
+- szo: kaThor
+  ford:
+  - nyt: mn
+    ert:
+    - kemény
+    - szigorú
+    - durva
+    - érzéketlen
+- szo: kaRA
+  ford:
+  - nyt: mn
+    ert:
+    - kemény
+    - szigorú
+    - szívós
+    - merev
+    - zord
+    - rideg
+- szo: kaRAhii
+  ford:
+  - nyt: nn
+    ert:
+    - edény olajban sütéshez
+- szo: katAr
+  ford:
+  - nyt: nn
+    ert:
+    - sor
+- szo: kathA
+  ford:
+  - nyt: nn
+    ert:
+    - mese
+    - rege
+    - legenda
+    - történet
+    - pletyka
+    - elmesélés
+    - elbeszélés
+- szo: kathAnak
+  ford:
+  - nyt: hn
+    ert:
+    - beszámoló
+    - cselekmény
+    - történet
+- szo: Kad
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - termet
+    - magasság
+- szo: kanyA
+  ford:
+  - nyt: nn
+    ert:
+    - hajadon
+    - lány
+    - vki lánya
+    - szűz állatövi jegy
+- szo: kapaT
+  ford:
+  - nyt: hn
+    ert:
+    - csalás
+    - becsapás
+- szo: Kabz
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - székrekedés
+    - szorulás
+- szo: Kabr
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - sír(emlék)
+- szo: kam'zor
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - gyenge
+    - erőtlen
+    - hatástalan
+- szo: kam'zorii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - gyengeség
+- szo: kamar
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - derék
+    - csípő
+  - kif: kamar kas'nA, kamar bA~dh'nA
+    ert:
+    - felköti a gatyáját
+    - felkészül
+- szo: kamAii
+  ford:
+  - nyt: nn
+    ert:
+    - (pénz)kereset
+    - haszon
+    - pénzkeresés
+- szo: Kamiiz
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - ing
+- szo: kar
+  ford:
+  - nyt: hn
+    ert:
+    - adó
+- szo: kar'vAnA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - elvégeztet
+    - csináltattat
+    - utasít, hogy vkivel csináltasson
+- szo: Karz
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - adósság
+    - kölcsön
+- szo: kartavya
+  ford:
+  - nyt: hn
+    ert:
+    - kötelesség
+    - feladat
+- szo: karm
+  ford:
+  - nyt: hn
+    ert:
+    - szo: tett
+      megj: és kiérdemelt jutalma
+  - ert:
+    - munka
+    - foglalkozás
+  - ert:
+    - eredmény
+  - ert:
+    - erkölcsi vagy születésből adódó kötelesség
+  - ert:
+    - sors
+- szo: karm'cArii
+  ford:
+  - nyt: hn
+    ert:
+    - dolgozó
+    - munkás
+    - alkalmazott
+    - beosztott
+    - tisztségviselő
+- szo: kalA
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - művészet
+    - képesség
+    - mutatvány
+    - fogás
+  - ert:
+    - (töredék) rész
+    - tizenhatod
+- szo: kalAii
+  ford:
+  - nyt: nn
+    ert:
+    - csukló
+- szo: kalpanA
+  ford:
+  - nyt: nn
+    ert:
+    - képzelet
+  - ert:
+    - képzelt dolog
+    - feltételezés
+    - feltevés
+- szo: kalpit
+  ford:
+  - nyt: mn
+    ert:
+    - képzelt
+    - feltételezett
+    - kitalált
+    - mesterséges
+- szo: kas'nA
+  ford:
+  - nyt: t
+    ert:
+    - szorít
+    - erősít
+    - köt
+    - szo: befog
+      megj: lovat
+  - ert:
+    - korlátoz
+    - fegyelmez
+  - kif: kas'ke
+    ert:
+    - szorosan
+    - erősen
+- szo: KasAii
+  szarm: A
+  ford:
+  - nyt: hn mn
+    ert:
+    - hentes
+    - kegyetlen (ember)
+- szo: kahAniikAr
+  ford:
+  - nyt: hn
+    ert:
+    - novellaíró
+    - novellista
