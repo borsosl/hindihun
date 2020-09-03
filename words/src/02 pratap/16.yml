@@ -133,6 +133,7 @@ szavak:
   ford:
   - ert:
     - elherdál
+    - elfecsérel
     - elpocsékol
     - elveszít
 - szo: cAhe
@@ -185,6 +186,7 @@ szavak:
     - születés
     - származás
     - az egész élet
+    - az életek egyike
   - kif: "* kA janma honA"
     ert:
     - vki születik

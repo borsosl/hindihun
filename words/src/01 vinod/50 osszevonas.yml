@@ -348,6 +348,10 @@ szavak:
   - nyt: t
     ert:
     - elveszít
+  - nyt: tl
+    ert:
+    - elveszik
+    - elmereng
   - kif: kho bETh'nA
     ert:
     - szo: elveszít
@@ -752,6 +756,7 @@ szavak:
     ert:
     - szükség(esség)
     - kellés
+    - igény
 - szo: cAhie
   lecserel: "1,2=1"
   ford:
@@ -1075,6 +1080,7 @@ szavak:
   - kif: kahii~ kA
     ert:
     - ki tudja hova valósi
+    - sehonnai
     - bármilyen sértést tetéző szavak
 - szo: jagah
   lecserel: "1,2=1"
@@ -1391,9 +1397,8 @@ szavak:
   - nyt: nn
     ert:
     - kocsi
-  - nyt: nn
-    ert:
     - vonat
+    - jármű
 - szo: miiTar
   lecserel: "1,2=1"
   szarm: E
@@ -1512,6 +1517,9 @@ szavak:
   - nyt: hn
     ert:
     - kerekség
+  - ert:
+    - gömb
+    - labda
   - nyt: mn
     ert:
     - kerek

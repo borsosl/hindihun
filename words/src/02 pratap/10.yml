@@ -145,6 +145,9 @@ szavak:
     ert:
     - düh
     - harag
+  - nyt: mn
+    ert:
+    - dühös
   - kif: Gusse (me~)
     ert:
     - dühében
@@ -166,7 +169,7 @@ szavak:
   ford:
   - nyt: hn
     ert:
-    - kanál
+    - (evő)kanál
 - szo: cAh'nA
   lecserel: "1=1"
   szarm: S
@@ -178,6 +181,9 @@ szavak:
     - óhajt
     - választ
     - igényel
+  - ert:
+    - szándékozik
+    - próbál
 - szo: churii
   szarm: S
   ford:

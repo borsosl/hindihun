@@ -1,0 +1,609 @@
+datum: 2020-08-28
+forras:
+  nev: Pratap
+  fejezet: 31
+szavak:
+- szo: khetii-bARii
+  alt:
+  - khetii-bArii
+  ford:
+  - nyt: nn
+    ert:
+    - mezőgazdaság
+    - földművelés
+- szo: khel
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - játék
+    - sport
+  - ert:
+    - látványosság
+    - bemutató
+  - ert:
+    - szórakozás
+    - flörtölés
+    - enyelgés
+  - kif: khel-tamASA
+    nyt: hn
+    ert:
+    - játék és mutatvány
+- szo: khel-kUd
+  ford:
+  - nyt: hn
+    ert:
+    - játékok
+    - sportok
+    - atlétika
+- szo: khoT
+  ford:
+  - nyt: hn
+    ert:
+    - hiba
+    - hiányosság
+  - ert:
+    - hamisítás
+    - hamisítvány
+    - hamisság
+    - becsapás
+- szo: khoTA
+  ford:
+  - nyt: mn
+    ert:
+    - hamis(ítvány)
+    - utánzat
+- szo: khod'nA
+  ford:
+  - nyt: t
+    ert:
+    - ás
+    - kiás
+  - ert:
+    - farag
+    - (be)vés
+- szo: khop'Rii
+  ford:
+  - nyt: nn
+    ert:
+    - kemény héj
+  - ert:
+    - koponya
+    - fej
+- szo: khoA
+  alt:
+  - khoyA
+  ford:
+  - nyt: hn
+    ert:
+    - sűrített tej
+- szo: khol'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - (ki)nyit
+    - (meg)lazít
+    - eloldoz
+    - kiold
+  - ert:
+    - megold
+    - kimutat
+    - felfed
+  - kif: khol denA
+    ert:
+    - szo: kinyit
+      megj: vki számára
+- szo: KhvAb
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - álom
+    - álmodozás
+  - kif: KhvAb dekh'nA
+    ert:
+    - álmodik
+- szo: ga#jA
+  ford:
+  - nyt: mn
+    ert:
+    - kopasz
+- szo: gaz
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - hosszmérték
+    - kb 82 cm
+  - ert:
+    - szo: vonó
+      megj: hangszeré
+- szo: Gazab
+  szarm: A
+  ford:
+  - kif: Gazab (kA)
+    nyt: mn
+    ert:
+    - elképesztő
+    - rendkívüli
+    - ragyogó
+  - ert:
+    - túlzott
+- szo: gaR'baR
+  ford:
+  - nyt: nn hn
+    ert:
+    - zűrzavar
+    - felfordulás
+    - rendetlenség
+  - nyt: mn
+    ert:
+    - zavaros
+    - zavarodott
+- szo: gaDDhA
+  ford:
+  - nyt: hn
+    ert:
+    - gödör
+    - árok
+    - akna
+    - üreg
+    - lyuk
+- szo: gaRh
+  ford:
+  - nyt: hn
+    ert:
+    - erőd(ítmény)
+    - vár
+- szo: gaRh'nA
+  ford:
+  - nyt: t
+    ert:
+    - formál
+    - formába önt
+    - képez
+    - megmunkál
+    - farag
+- szo: gati
+  ford:
+  - nyt: nn
+    ert:
+    - mozgás
+    - haladás
+    - járás
+  - ert:
+    - cselekvési mód
+  - ert:
+    - (végső) helyzet
+- szo: gaddA
+  ford:
+  - nyt: hn
+    ert:
+    - matrac
+    - nagy párna
+  - ert:
+    - párnázott ülés
+    - trón
+- szo: gadya
+  ford:
+  - nyt: hn
+    ert:
+    - próza
+- szo: gadhA
+  ford:
+  - nyt: hn
+    ert:
+    - szamár
+  - ert:
+    - ostoba ember
+- szo: Gam
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - bánat
+    - szomorúság
+  - ert:
+    - törődés
+  - kif: Gam khAnA
+    ert:
+    - fájdalmat megél
+    - együttérez
+- szo: gam'lA
+  ford:
+  - nyt: hn
+    ert:
+    - virágcserép
+- szo: garaj
+  ford:
+  - nyt: nn
+    ert:
+    - (menny)dörgés
+- szo: gar'dan
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - nyak
+    - torok
+- szo: Gariibii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - szegénység
+    - szerény körülmények
+- szo: garbha
+  ford:
+  - nyt: hn
+    ert:
+    - (anya)méh
+    - fogamzás
+    - terhesség
+    - magzat
+  - kif: garbha se honA
+    ert:
+    - terhes
+    - teherbe esik
+- szo: garbhavatii
+  ford:
+  - nyt: mn nn
+    ert:
+    - szo: terhes
+      megj: nő
+- szo: gavAh
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - tanú
+- szo: gavAhii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - tanúság
+    - bizonyíték
+- szo: gah'rAii
+  ford:
+  - nyt: nn
+    ert:
+    - mélység
+    - alaposság
+- szo: gAjar
+  ford:
+  - nyt: nn hn
+    ert:
+    - (sárga)répa
+- szo: gAR'nA
+  ford:
+  - nyt: t
+    ert:
+    - (el)ültet
+    - beleágyaz
+    - beleszúr
+    - belevezet
+    - (el)temet
+    - (el)süllyeszt
+- szo: gARhA
+  ford:
+  - nyt: mn
+    ert:
+    - sűrű
+    - durva
+    - erős
+    - mély
+    - szo: sötét
+      megj: színű
+- szo: gAyak
+  ford:
+  - nyt: hn
+    ert:
+    - énekes
+- szo: GAyab
+  ford:
+  - nyt: mn
+    ert:
+    - eltűnt
+    - hiányzó
+- szo: gAl
+  ford:
+  - nyt: nn
+    ert:
+    - arc
+- szo: gin'nA
+  ford:
+  - nyt: t
+    ert:
+    - számol
+    - számításba vesz
+    - megfontol
+    - (fel)becsül
+- szo: gir'jA
+  szarm: Pt
+  ford:
+  - nyt: hn
+    ert:
+    - templom
+  - kif: gir'jA-ghar, gir'jAghar
+    ert:
+    - "= ~"
+- szo: gir'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: tl
+    ert:
+    - (le)esik
+    - megesik
+    - csökken
+    - romlik
+    - összeomlik
+  - kif: gir paR'nA
+    ert:
+    - szo: elesik
+      megj: hirtelen
+- szo: giraftAr
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - letartóztatott
+    - elfogott
+  - ert:
+    - fogoly
+    - rab
+  - kif: giraftAr kar'nA
+    ert:
+    - letartóztat
+- szo: girAnA
+  ford:
+  - nyt: t
+    ert:
+    - (le)ejt
+    - ledob
+    - ledönt
+    - kivág
+    - csökkent
+    - kiönt
+    - vért ont
+  - ert:
+    - megdönt
+    - elpusztít
+    - megaláz
+- szo: gilah'rii
+  ford:
+  - nyt: nn
+    ert:
+    - mókus
+- szo: giilA
+  ford:
+  - nyt: mn
+    ert:
+    - nedves
+    - nyirkos
+    - párás
+- szo: gu#jAiS
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - tér
+    - hely
+    - kiterjedés
+    - hatáskör
+- szo: guzar'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: tl
+    ert:
+    - halad
+    - elhalad
+    - áthalad
+    - átszel
+    - szo: telik
+      megj: idő
+    - történik
+  - kif: guzar jAnA
+    ert:
+    - eltávozik
+    - elhuny
+    - meghal
+- szo: guN
+  ford:
+  - nyt: hn
+    ert:
+    - tulajdonság
+    - minőség
+- szo: guTh'lii
+  ford:
+  - nyt: nn
+    ert:
+    - szo: mag
+      megj: gyümölcsé
+- szo: gupt
+  ford:
+  - nyt: mn
+    ert:
+    - rejtett
+    - titkos
+    - bizalmas
+- szo: GubbArA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - léggömb
+    - lufi
+- szo: GulAm
+  szarm: AP
+  ford:
+  - nyt: hn
+    ert:
+    - szolga
+    - rabszolga
+- szo: GulAmii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - rabszolgaság
+- szo: gustAKh
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - udvariatlan
+    - szemtelen
+    - sértő
+- szo: gU~gA
+  ford:
+  - nyt: mn
+    ert:
+    - néma
+- szo: gU~j
+  ford:
+  - nyt: nn
+    ert:
+    - visszhang
+  - ert:
+    - zümmögés
+    - berregés
+- szo: gU~j'nA
+  ford:
+  - nyt: tl
+    ert:
+    - visszhangzik
+    - visszaverődik
+  - ert:
+    - zümmög
+    - berreg
+- szo: gURh
+  ford:
+  - nyt: mn
+    ert:
+    - titkos
+    - rejtett
+    - rejtélyes
+    - homályos
+- szo: ge~d
+  ford:
+  - nyt: nn
+    ert:
+    - labda
+- szo: GEr'KAnUnii
+  ford:
+  - nyt: mn
+    ert:
+    - törvénytelen
+    - illegális
+- szo: GEr'hAzir
+  ford:
+  - nyt: mn
+    ert:
+    - hiányzó
+    - távol levő
+- szo: GEr'hAzirii
+  ford:
+  - nyt: nn
+    ert:
+    - hiányzás
+    - távollét
+- szo: GotA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - (le)merülés
+    - vízbe ugrás
+    - zuhanás
+  - kif: GotA lagAnA
+    ert:
+    - (le)merül
+    - alászáll
+- szo: GotAKhor
+  szarm: A+P
+  ford:
+  - nyt: hn
+    ert:
+    - búvár
+  - nyt: mn
+    ert:
+    - merülő
+- szo: gobar
+  ford:
+  - nyt: hn
+    ert:
+    - tehéntrágya
+    - trágya
+- szo: gobhii
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - karfiol
+    - káposzta
+- szo: gol-cakkar
+  ford:
+  - nyt: hn
+    ert:
+    - körforgalom
+- szo: golii
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - labdacs
+    - golyó
+    - tabletta
+  - kif: golii mAr'nA
+    ert:
+    - rálő
+    - meglő
+    - lelő
+- szo: goShThii
+  ford:
+  - nyt: nn
+    ert:
+    - gyűlés
+    - tanácskozás
+    - vitakör
+- szo: GOr
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - figyelem
+    - törődés
+    - megfontolás
+  - kif: GOr se
+    ert:
+    - figyelmesen
+    - gondosan
+    - precízen
+    - aprólékosan
+- szo: gOrav
+  ford:
+  - nyt: hn
+    ert:
+    - méltóság
+- szo: grAm
+  ford:
+  - nyt: hn
+    ert:
+    - falu
+- szo: grAmiiN
+  ford:
+  - nyt: mn hn
+    ert:
+    - falusi
+    - vidéki
+- szo: grAhak
+  ford:
+  - nyt: hn
+    ert:
+    - vásárló
+    - előfizető
+    - átvevő
+    - fogyasztó

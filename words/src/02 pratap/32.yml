@@ -1,0 +1,589 @@
+datum: 2020-08-30
+forras:
+  nev: Pratap
+  fejezet: 32
+szavak:
+- szo: ghaT'nA
+  lecserel: "2=1;2"
+  ford:
+  - nyt: tl
+    ert:
+    - csökken
+    - esik
+    - zuhan
+  - ert:
+    - hanyatlik
+    - szo: ki van vonva
+      megj: mat.
+- szo: ghaTAnA
+  ford:
+  - nyt: t
+    ert:
+    - csökkent
+  - ert:
+    - rongál
+  - ert:
+    - szo: kivon
+      megj: mat.
+- szo: ghaniShTh
+  ford:
+  - nyt: mn
+    ert:
+    - közeli
+    - közvetlen
+    - bensőséges
+    - meghitt
+    - intim
+- szo: ghaniShThatA
+  ford:
+  - nyt: nn
+    ert:
+    - közelség
+    - közvetlenség
+    - meghittség
+- szo: ghab'rAnA
+  ford:
+  - nyt: tl
+    ert:
+    - aggódik
+    - izgul
+    - nyugtalankodik
+  - ert:
+    - összezavarodik
+    - zavarban van
+  - nyt: t
+    ert:
+    - összezavar
+    - zavarba hoz
+- szo: gharelU
+  ford:
+  - nyt: mn
+    ert:
+    - házi
+    - háztartási
+  - ert:
+    - nemzeti
+  - kif: gharelU laRAii
+    nyt: nn
+    ert:
+    - polgárháború
+- szo: ghasiiT'nA
+  ford:
+  - nyt: t
+    ert:
+    - (el)vonszol
+    - (bele)rángat
+- szo: ghAyal
+  ford:
+  - nyt: mn
+    ert:
+    - sérült
+    - sebesült
+- szo: ghir'nA
+  ford:
+  - nyt: tl
+    ert:
+    - körbe van véve
+  - ert:
+    - gyülekezik
+    - összegyűl
+- szo: ghisA-piTA
+  ford:
+  - nyt: mn
+    ert:
+    - elnyűtt
+    - fakó
+    - tompa
+    - leharcolt
+  - ert:
+    - kimerült
+    - kiégett
+- szo: ghii
+  ford:
+  - nyt: hn
+    ert:
+    - tisztított vaj
+- szo: ghuT'nA
+  ford:
+  - nyt: hn
+    ert:
+    - térd
+- szo: ghU~ghaT
+  ford:
+  - nyt: nn hn
+    ert:
+    - szo: fátyol
+      megj: a szári vége vagy külön ruhadarab
+- szo: ghU~T
+  ford:
+  - nyt: hn
+    ert:
+    - korty
+    - hörpintés
+    - nyelés
+    - slukk
+- szo: ghUs
+  ford:
+  - nyt: nn
+    ert:
+    - kenőpénz
+    - (meg)vesztegetés
+  - kif: ghUs khAnA
+    ert:
+    - kenőpénz elfogad
+    - meg van vesztegetve
+- szo: ghRINA
+  ford:
+  - nyt: nn
+    ert:
+    - utálat
+    - irtózás
+    - idegenkedés
+  - ert:
+    - megvetés
+    - lenézés
+- szo: gher'nA
+  ford:
+  - nyt: t
+    ert:
+    - körülvesz
+    - körbezár
+    - behatárol
+    - körülkerít
+- szo: gherA
+  ford:
+  - nyt: hn
+    ert:
+    - gyűrű
+    - kör
+    - határ
+    - kerítés
+    - fal
+  - ert:
+    - körbezárt hely
+  - ert:
+    - szo: körpálya
+      megj: bolygóé
+  - ert:
+    - kerület
+  - ert:
+    - ostrom(gyűrű)
+    - blokád
+- szo: ghoT'nA
+  alt:
+  - gho~T'nA
+  ford:
+  - nyt: t
+    ert:
+    - fojt(ogat)
+  - ert:
+    - (le)dörzsöl
+    - csiszol
+- szo: gho~s'lA
+  ford:
+  - nyt: hn
+    ert:
+    - (madár)fészek
+    - házikó
+- szo: ca#d
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - néhány
+    - kevés
+    - több
+- szo: ca#dA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - előfizetés
+    - hozzájárulás
+    - adomány
+- szo: ca#dra
+  ford:
+  - nyt: hn
+    ert:
+    - hold
+  - ert:
+    - sarló alakú jel
+- szo: ca#dra-bi#du
+  alt:
+  - ca#drabi#du
+  ford:
+  - nyt: hn
+    ert:
+    - nazális hang jele a dévanágarí írásban
+- szo: cakh'nA
+  ford:
+  - nyt: t
+    ert:
+    - ízlel
+    - kóstol
+    - eszik
+- szo: cacerA
+  ford:
+  - nyt: mn
+    ert:
+    - apai ági (unokatestvér)
+    - apa öccsének a (gyereke)
+  - kif: cacerA bhAii
+    ert:
+    - unokafivér
+  - kif: cacerii bahan/bahin
+    ert:
+    - unokanővér
+- szo: caRh'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: tl
+    ert:
+    - felmászik
+    - megmászik
+    - felszáll
+    - utazik vmin
+  - ert:
+    - emelkedik
+    - növekszik
+    - felgyülemlik
+    - duzzad
+- szo: caRhAv
+  ford:
+  - nyt: hn
+    ert:
+    - emelkedés
+    - növekedés
+    - áradás
+    - duzzadás
+- szo: canA
+  ford:
+  - nyt: hn
+    ert:
+    - csicseriborsó
+- szo: cabAnA
+  ford:
+  - nyt: t
+    ert:
+    - rág
+    - rágcsál
+    - ropogtat
+- szo: camak'nA
+  ford:
+  - nyt: tl
+    ert:
+    - ragyog
+    - csillog
+    - fénylik
+    - sugárzik
+  - ert:
+    - elvakít
+    - elkápráztat
+  - ert:
+    - szo: virágzik
+      megj: üzlet
+- szo: cam'cA
+  ford:
+  - nyt: hn
+    ert:
+    - merőkanál
+  - ert:
+    - talpnyaló
+    - hízelgő ember
+- szo: cam'RA
+  ford:
+  - nyt: hn
+    ert:
+    - (állat)bőr
+  - ert:
+    - óvszer
+- szo: cam'Rii
+  ford:
+  - nyt: nn
+    ert:
+    - szo: bőr
+      megj: emberi, állati
+- szo: car'nA
+  ford:
+  - nyt: t tl
+    ert:
+    - legel
+    - legeltet
+    - kóborol
+- szo: car'bii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - zsír
+    - faggyú
+- szo: cahak'nA
+  ford:
+  - nyt: tl
+    ert:
+    - csicsereg
+    - csivitel
+- szo: cAKU
+  szarm: T
+  ford:
+  - nyt: hn
+    ert:
+    - zsebkés
+- szo: cAdar
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - könnyű női sál
+  - ert:
+    - lepedő
+    - ágytakaró
+- szo: cAbuk
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - ostor
+  - ert:
+    - ösztönzés
+- szo: cAl
+  ford:
+  - nyt: nn
+    ert:
+    - járás
+    - mozgás
+    - lépés
+  - ert:
+    - gyakorlat
+    - módszer
+    - divat
+- szo: cAlak
+  ford:
+  - nyt: mn
+    ert:
+    - vezető
+    - hajtó
+    - mozgató
+  - nyt: hn
+    ert:
+    - sofőr
+- szo: cAlAk
+  ford:
+  - nyt: mn
+    ert:
+    - gyors észjárású
+    - okos
+    - ravasz
+    - agyafúrt
+    - furfangos
+- szo: cAlAn
+  ford:
+  - nyt: nn
+    ert:
+    - szállítás
+    - szállítólevél
+    - utalás
+    - számla
+    - könyvelés
+    - vámkezelés
+  - ert:
+    - elfogatási parancs
+- szo: cAlAkii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - ravaszság
+    - ravaszkodás
+    - ügyeskedés
+- szo: cAlU
+  ford:
+  - nyt: mn
+    ert:
+    - működő
+    - érvényben levő
+    - jelenleg tartó
+    - látogatott
+  - ert:
+    - ravasz
+    - fondorlatos
+- szo: ci#tan
+  ford:
+  - nyt: hn
+    ert:
+    - gondolkodás
+    - elmélkedés
+    - gondolat
+- szo: cik'nA
+  ford:
+  - nyt: mn
+    ert:
+    - olajos
+    - zsíros
+    - sima
+- szo: ciRiyA-ghar
+  alt:
+  - ciRiyAghar
+  ford:
+  - nyt: hn
+    ert:
+    - állatkert
+    - madárház
+- szo: ciRh'nA
+  ford:
+  - nyt: tl
+    ert:
+    - ingerült
+    - szo: bosszús
+      megj: állapotban van
+- szo: citrakAr
+  ford:
+  - nyt: hn
+    ert:
+    - festő
+    - művész
+- szo: cith'RA
+  ford:
+  - nyt: hn
+    ert:
+    - rongy
+  - nyt: mn
+    ert:
+    - rongyos
+- szo: cihn
+  alt:
+  - cinh
+  ford:
+  - nyt: hn
+    ert:
+    - jel
+    - folt
+    - sebhely
+    - lenyomat
+  - ert:
+    - jelzés
+    - jelkép
+    - embléma
+    - cégér
+  - ert:
+    - jellegzetesség
+  - ert:
+    - jelenség
+    - tünet
+- szo: cim'TA
+  ford:
+  - nyt: hn
+    ert:
+    - csipesz
+    - fogó
+- szo: cii~Tii
+  ford:
+  - nyt: nn
+    ert:
+    - hangya
+- szo: ciitA
+  ford:
+  - nyt: hn
+    ert:
+    - leopárd
+- szo: ciin
+  ford:
+  - nyt: hn
+    ert:
+    - Kína
+- szo: ciinii
+  ford:
+  - nyt: nn
+    ert:
+    - cukor
+- szo: ciinii
+  lecserel: "2=2;2"
+  ford:
+  - nyt: mn nn
+    ert:
+    - kínai nyelv
+  - nyt: hn
+    ert:
+    - kínai ember
+  - nyt: nn
+    ert:
+    - porcelán
+- szo: cu#ban
+  ford:
+  - nyt: hn
+    ert:
+    - csók
+    - puszi
+- szo: cunAv
+  ford:
+  - nyt: hn
+    ert:
+    - választás (tárgya)
+- szo: cunOtii
+  ford:
+  - nyt: nn
+    ert:
+    - kihívás
+    - bátorítás
+    - ösztönzés
+- szo: cup'ke
+  ford:
+  - nyt: ht
+    ert:
+    - csendben
+    - halkan
+  - kif: cup'ke se
+    ert:
+    - "= ~"
+- szo: custii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - találékonyság
+    - leleményesség
+    - ügyesség
+    - éberség
+  - ert:
+    - minőség
+    - elegancia
+- szo: cUtaR
+  ford:
+  - nyt: hn
+    ert:
+    - fenék
+    - far
+- szo: cUm'nA
+  ford:
+  - nyt: t
+    ert:
+    - csókol
+    - puszil
+- szo: cUrN
+  ford:
+  - nyt: mn
+    ert:
+    - őrölt
+    - zúzott
+    - tört
+  - nyt: hn
+    ert:
+    - por(fűszer)
+    - liszt
+- szo: cUhA
+  ford:
+  - nyt: hn
+    ert:
+    - patkány
+    - egér
+- szo: cecak
+  ford:
+  - nyt: nn
+    ert:
+    - himlő
+- szo: cetAv'nii
+  ford:
+  - nyt: nn
+    ert:
+    - figyelmeztetés
+    - emlékeztető

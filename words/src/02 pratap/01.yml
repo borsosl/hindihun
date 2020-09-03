@@ -69,7 +69,7 @@ szavak:
   ford:
   - nyt: mn
     ert:
-    - Gujarati
+    - gudzsaráti
 - szo: jarman
   szarm: E
   ford:
@@ -224,6 +224,13 @@ szavak:
     ert:
     - piszkos
     - mocskos
+  - ert:
+    - hitvány
+    - aljas
+    - trágár
+  - ert:
+    - bűzös
+    - rohadt
 - szo: U~cA
   lecserel: "1=1"
   szarm: S

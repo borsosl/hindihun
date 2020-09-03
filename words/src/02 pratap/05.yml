@@ -56,12 +56,41 @@ szavak:
     - megy
     - mozog
     - mozdul
+  - ert:
+    - működik
+    - szo: forog
+      megj: kerék
+    - szo: áramlik
+      megj: víz
+    - szo: fúj
+      megj: szél
+  - ert:
+    - elindul
+    - halad
+    - szo: virágzik
+      megj: üzlet
+  - ert:
+    - időszerű
+    - menő
+    - felkapott
+    - szo: divatos
+      megj: állapotban van
   - kif: cal denA
     nyt: tl
     ert:
     - elindul
+  - kif: cal paR'nA
+    ert:
+    - elindul
+    - nekiindul
+    - beindul
+  - kif: cal bas'nA
+    ert:
+    - eltávozik
+    - meghal
   - kif: calA AnA
     ert:
+    - eljön
     - visszajön
   - kif: calA jAnA
     ert:
@@ -85,6 +114,7 @@ szavak:
     - gyorsan
     - hamar
     - mielőbb
+    - korán
 - szo: jhag'RA
   ford:
   - nyt: hn

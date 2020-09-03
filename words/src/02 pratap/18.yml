@@ -203,6 +203,10 @@ szavak:
     nyt: t
     ert:
     - ölel
+  - kif: galA bETh'nA
+    nyt: tl
+    ert:
+    - bereked
 - szo: god
   ford:
   - nyt: nn

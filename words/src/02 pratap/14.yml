@@ -113,8 +113,10 @@ szavak:
   ford:
   - nyt: mn nvált
     ert:
+    - gyenge minőségű
     - alsóbbrendű
     - vacak
+    - olcsó
 - szo: caT'nii
   szarm: S
   ford:
@@ -148,6 +150,9 @@ szavak:
     ert:
     - lop
     - rabol
+  - kif: corii honA
+    ert:
+    - lopás történik
 - szo: zabAn
   szarm: P
   ford:
@@ -201,7 +206,7 @@ szavak:
   ford:
   - nyt: mn nn
     ert:
-    - tamil (nyelv)
+    - tamil nyelv
 - szo: tAlAb
   lecserel: "1=1"
   szarm: P

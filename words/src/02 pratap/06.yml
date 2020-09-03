@@ -78,6 +78,8 @@ szavak:
     - soha(sem)
 - szo: KhayAl
   lecserel: "1=1"
+  alt:
+  - KhyAl
   szarm: A
   ford:
   - nyt: hn

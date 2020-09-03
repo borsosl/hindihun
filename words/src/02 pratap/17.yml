@@ -113,6 +113,8 @@ szavak:
     ert:
     - behatol
     - betör
+    - besurran
+    - belopózik
     - beavatkozik
 - szo: chAtravRItti
   ford:
@@ -128,6 +130,10 @@ szavak:
     - meggyullad
     - megpörkölődik
     - elhamvad
+  - kif: (* se) jal'nA
+    ert:
+    - irigy vmire
+    - féltékeny vkire
 - szo: ziddii
   szarm: P
   ford:

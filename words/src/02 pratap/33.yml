@@ -1,0 +1,531 @@
+datum: 2020-09-03
+forras:
+  nev: Pratap
+  fejezet: 33
+szavak:
+- szo: cOkA
+  ford:
+  - nyt: hn
+    ert:
+    - négyes
+  - ert:
+    - négyszögletes terület
+    - főző vagy étkező hely
+- szo: cOkon
+  ford:
+  - nyt: hn mn
+    ert:
+    - négyzet (alakú)
+- szo: cORAii
+  ford:
+  - nyt: nn
+    ert:
+    - szélesség
+    - kiterjedés
+- szo: cOrAhA
+  ford:
+  - nyt: hn
+    ert:
+    - útkereszteződés
+    - keresztút
+- szo: chA~T'nA
+  ford:
+  - nyt: t
+    ert:
+    - (meg)metsz
+    - (meg)nyes
+    - (meg)tisztít
+    - gazol
+    - rostál
+    - (ki)válogat
+    - (le)csökkent
+  - kif: chA~TA huA
+    ert:
+    - válogatott vmi
+    - vminek a jó példája
+- szo: cha#d
+  ford:
+  - nyt: hn
+    ert:
+    - versláb
+    - verselés
+- szo: chalak'nA
+  ford:
+  - nyt: tl
+    ert:
+    - kiömlik
+    - kiöntődik
+    - (ki)loccsan
+    - fröcsköl
+  - ert:
+    - szo: csordultig telik
+      megj: vízzel, könnyekkel
+  - ert:
+    - hullámot ver
+    - fodrozódik
+- szo: chal'kAnA
+  ford:
+  - nyt: t
+    ert:
+    - kiönt
+    - csordulásig tölt
+- szo: chalA~g
+  ford:
+  - nyt: nn
+    ert:
+    - ugrás
+  - kif: chalA~g mAr'nA
+    ert:
+    - ugrik
+- szo: chAtii
+  ford:
+  - nyt: nn
+    ert:
+    - mell(kas)
+    - kebel
+- szo: chAp
+  ford:
+  - nyt: nn
+    ert:
+    - bélyegző
+    - bélyegzés
+    - (meg)jelölés
+    - védjegy
+    - márka
+  - ert:
+    - benyomás
+    - hatás
+- szo: chAp'nA
+  ford:
+  - nyt: t
+    ert:
+    - nyomtat
+    - bélyegez
+  - ert:
+    - benyomást tesz
+    - hatással van
+- szo: chApA
+  ford:
+  - nyt: hn
+    ert:
+    - támadás
+    - lerohanás
+    - razzia
+  - kif: chApA mAr'nA
+    ert:
+    - lerohan
+- szo: chAyA
+  ford:
+  - nyt: nn
+    ert:
+    - árnyék
+    - árnyékos hely
+  - ert:
+    - árny
+    - homály
+    - sötétség
+  - ert:
+    - visszaverődés
+    - tükröződés
+    - tükörkép
+- szo: chiR'nA
+  ford:
+  - nyt: tl
+    ert:
+    - be van hangolva
+    - meg van pengetve
+    - megpendül
+  - ert:
+    - szo: kitör
+      megj: háború, vita
+    - szo: felszínre kerül
+      megj: téma
+- szo: chip'nA
+  ford:
+  - nyt: tl
+    ert:
+    - rejtőzködik
+    - bujkál
+    - meglapul
+    - eltűnik
+    - szo: lemegy
+      megj: nap
+- szo: chipAnA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - elrejt
+    - eltüntet
+  - kif: chipAkar
+    ert:
+    - titokban
+- szo: chil'kA
+  ford:
+  - nyt: hn
+    ert:
+    - héj
+- szo: chii~k'nA
+  ford:
+  - nyt: tl
+    ert:
+    - tüsszent
+- szo: chiin'nA
+  ford:
+  - nyt: t
+    ert:
+    - elragad
+    - leszakít
+    - eloroz
+- szo: chuT'kArA
+  ford:
+  - nyt: hn
+    ert:
+    - (meg)szabadulás
+    - elszabadulás
+    - szabadság
+    - felmentés
+    - mentesség
+- szo: ched
+  ford:
+  - nyt: hn
+    ert:
+    - lyuk
+    - nyílás
+    - rés
+    - repedés
+    - vágás
+- szo: za#g
+  lecserel: "1=1"
+  alt:
+  - ja#g
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - rozsda
+  - kif: za#g lag'nA
+    nyt: tl
+    ert:
+    - rozsdásodik
+- szo: ja#g'lA
+  ford:
+  - nyt: hn
+    ert:
+    - rács
+    - rostély
+- szo: za#jiir
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - lánc
+    - béklyó
+- szo: zaKh'm
+  alt:
+  - zaKhm
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - sebesülés
+    - sérülés
+  - kif: zaKh'm khAnA
+    ert:
+    - megsebesül
+- szo: zaKh'mii
+  ford:
+  - nyt: mn
+    ert:
+    - sérült
+    - sebesült
+- szo: jagat_
+  ford:
+  - nyt: nn
+    ert:
+    - világ
+    - világegyetem
+    - univerzum
+- szo: jaTil
+  ford:
+  - nyt: mn
+    ert:
+    - bonyolult
+    - kusza
+- szo: jaR'nA
+  ford:
+  - nyt: t
+    ert:
+    - (rá)erősít
+    - (rá)ragaszt
+    - felszerel
+    - berak
+    - elhelyez
+  - nyt: tl
+    ert:
+    - rá van erősítve
+- szo: jaRii
+  ford:
+  - nyt: nn
+    ert:
+    - gyógynövény
+    - gyógyfű
+  - kif: jaRii-bUTii
+    ert:
+    - = ~
+    - orvosság
+- szo: janA
+  ford:
+  - nyt: hn
+    ert:
+    - ember
+    - személy
+- szo: jap
+  ford:
+  - nyt: hn
+    ert:
+    - isten neveinek ismétlése az imaláncon
+    - meditáció
+- szo: jap'nA
+  ford:
+  - nyt: t
+    ert:
+    - isten neveit ismétli az imaláncon
+    - meditál
+- szo: zabar'dast
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - hatalmas
+    - erőteljes
+    - erőskezű
+    - önkényes
+    - elnyomó
+- szo: zabar'dastii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - önkény
+  - kif: zabar'dastii se
+    nyt: ht
+    ert:
+    - önkényesen
+    - erőből
+    - igazságtalanul
+- szo: jamA
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - gyűjtemény
+    - az egész
+    - összeg
+  - ert:
+    - összeadás
+  - ert:
+    - gyűlés
+  - ert:
+    - tőke
+    - hitel
+    - betét
+  - nyt: mn nvált
+    ert:
+    - összegyűjtött
+    - összeadott
+    - egybegyűlt
+    - letétbe helyezett
+    - felhalmozott
+  - kif: jamA kar'nA
+    nyt: t
+    ert:
+    - összegyűjt
+- szo: zamii~dAr
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - földbirtokos
+    - földesúr
+- szo: jay
+  ford:
+  - nyt: nn
+    ert:
+    - győzelem
+    - diadal
+  - kif: (* kii) jay
+    nyt: ind
+    ert:
+    - (vki) éljen (soká)!
+    - dicsőséget vkinek!
+- szo: zarA
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: ht
+    ert:
+    - egy kicsit
+    - kérem
+    - csak
+  - kif: zarA (sA)
+    nyt: mn nvált
+    ert:
+    - egy kicsi
+    - egy kevés
+  - ert:
+    - szo: nem jelentős
+      megj: pl. csitri
+  - kif: zarA zarA (kar'ke)
+    ert:
+    - apránként
+  - kif: zarA bhii nahii~
+    ert:
+    - a legkevésbé sem
+    - cseppet sem
+  - kif: zarA sunU~
+    ert:
+    - azt akarja ezzel mondani, hogy ...?
+- szo: zarUrii
+  lecserel: "1=1"
+  szarm: AP
+  ford:
+  - nyt: mn
+    ert:
+    - szükséges
+    - fontos
+    - nélkülözhetetlen
+  - ert:
+    - sürgős
+- szo: jal
+  ford:
+  - nyt: hn
+    ert:
+    - víz
+- szo: jal-vAyu
+  alt:
+  - jal'vAyu
+  ford:
+  - nyt: nn
+    ert:
+    - éghajlat
+- szo: jalAnA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - (meg)gyújt
+    - felgyújt
+    - (el)éget
+    - feléget
+  - ert:
+    - (fel)dühít
+    - iriggyé tesz
+    - féltékennyé tesz
+- szo: jald'bAzii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - hevesség
+    - sietség
+- szo: javAnii
+  ford:
+  - nyt: nn
+    ert:
+    - fiatalság
+    - serdülőkor
+- szo: javAb
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - válasz
+    - felelet
+  - ert:
+    - egyenértékű dolog
+    - vminek a megfelelője
+  - kif: javAb denA
+    nyt: t
+    ert:
+    - válaszol
+- szo: zah'r
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - méreg
+  - ert:
+    - kellemetlen dolog
+- szo: jA~gh
+  ford:
+  - nyt: nn
+    ert:
+    - comb
+- szo: jA~c
+  ford:
+  - nyt: nn
+    ert:
+    - kivizsgálás
+    - nyomozás
+    - kihallgatás
+  - ert:
+    - ellenőrzés
+    - értékelés
+    - elemzés
+    - felmérés
+    - próba
+- szo: jA~c'nA
+  ford:
+  - nyt: t
+    ert:
+    - (ki)vizsgál
+    - (ki)értékel
+- szo: jAg'nA
+  ford:
+  - ert:
+    - (fel)ébred
+    - ébren van
+- szo: jAti
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - születés
+    - kaszt
+    - embercsoport
+  - ert:
+    - faj
+    - fajta
+  - ert:
+    - vérvonal
+    - család
+    - nemzetség
+    - nemzet
+    - közösség
+  - ert:
+    - (jó) társadalmi helyzet
+- szo: jAtiiya
+  ford:
+  - nyt: mn
+    ert:
+    - faji
+    - közösségi
+    - nemzetségi
+    - nemzeti
+- szo: jAdU
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - varázslat
+    - bűbáj
+- szo: jAdUgar
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - varázsló
+    - bűvész
