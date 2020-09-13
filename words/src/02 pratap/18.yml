@@ -408,11 +408,16 @@ szavak:
     ert:
     - gyors
     - sebes
+    - fürge
+  - ert:
     - éles
     - hangos
     - csípős
     - élénk
     - tüzes
+  - ert:
+    - eszes
+    - leleményes
   - kif: tez ho jAnA
     nyt: tl
     ert:
@@ -440,6 +445,8 @@ szavak:
     - kegyesség
     - kedvesség
 - szo: darzii
+  alt:
+  - darjii
   szarm: P
   ford:
   - nyt: hn

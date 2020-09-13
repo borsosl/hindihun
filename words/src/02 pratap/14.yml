@@ -189,10 +189,16 @@ szavak:
     - egyesít
     - hozzátesz
     - hozzáerősít
+    - csatol
     - összerak
     - összegyűjt
-    - összead
-    - hozzáad
+    - (meg)foltoz
+    - (meg)javít
+  - ert:
+    - szo: összead
+      megj: számokat
+  - ert:
+    - párosít
 - szo: DA~T'nA
   ford:
   - nyt: t
@@ -214,6 +220,7 @@ szavak:
   - nyt: hn
     ert:
     - kis tó
+    - víztározó
 - szo: dab'nA
   ford:
   - nyt: tl
@@ -230,6 +237,9 @@ szavak:
     - el van temetve
     - elhal
     - alábbhagy
+  - kif: dabe pA~v cal'nA
+    ert:
+    - lopakodik
 - szo: dubArA
   szarm: S+S
   ford:

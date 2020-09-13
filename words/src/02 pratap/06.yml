@@ -141,6 +141,9 @@ szavak:
   - nyt: hn
     ert:
     - darab(ka)
+    - töredék
+    - rész(let)
+    - szelet
 - szo: Dar'nA
   szarm: S
   ford:
@@ -181,6 +184,10 @@ szavak:
     ert:
     - valamennyi
     - több-kevesebb
+  - kif: thoRA-thoRA kar'ke
+    ert:
+    - apránként
+    - fokozatosan
   - kif: thoRe
     ert:
     - aligha

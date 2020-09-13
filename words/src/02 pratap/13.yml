@@ -208,14 +208,20 @@ szavak:
     - jegy
     - belépőjegy
     - bélyeg
-- szo: Tha#Dh
+  - kif: DAk (kii) TikaT
+    nyt: nn
+    ert:
+    - bélyeg
+- szo: Tha#D
   alt:
-  - Tha#D
-  szarm: S, Drav
+  - Tha#Dh
   ford:
   - nyt: nn
     ert:
     - hideg(ség)
+  - kif: Tha#D lag'nA
+    ert:
+    - fázik
 - szo: talAK
   szarm: A
   ford:

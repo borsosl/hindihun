@@ -119,6 +119,9 @@ szavak:
   szarm: P
   ford:
   - nyt: hn
+    var:
+    - tipus: tbsz
+      alak: zevarAt
     ert:
     - ékszer
 - szo: Treki#g
@@ -133,6 +136,7 @@ szavak:
   - nyt: hn
     ert:
     - előadás
+    - bemutató
     - szórakozás
     - móka
     - érdekesség

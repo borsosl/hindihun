@@ -246,7 +246,11 @@ szavak:
   ford:
   - nyt: mn
     ert:
-    - jobb (oldal)
+    - jobb oldali
+  - kif: dAhine, dAhinii taraf
+    nyt: ht
+    ert:
+    - jobbra
 - szo: dub'lA
   szarm: S
   lecserel: "1=1"

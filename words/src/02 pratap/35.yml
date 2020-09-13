@@ -1,0 +1,640 @@
+datum: 2020-09-10
+forras:
+  nev: Pratap
+  fejezet: 35
+szavak:
+- szo: ThATh
+  alt:
+  - ThAT
+  ford:
+  - nyt: hn
+    ert:
+    - pompa
+    - stílus
+  - ert:
+    - váz
+    - terv
+- szo: ThuDDii
+  ford:
+  - nyt: nn
+    ert:
+    - áll
+- szo: ThekA
+  ford:
+  - nyt: hn
+    ert:
+    - szerződés
+  - kif: "* ko ThekA denA"
+    ert:
+    - szerződtet
+    - felbérel
+- szo: ThekedAr
+  szarm: H+P
+  ford:
+  - nyt: hn
+    ert:
+    - szerződéses munkás
+    - bedolgozó
+- szo: TheTh
+  ford:
+  - nyt: mn
+    ert:
+    - tiszta
+    - vegyítetlen
+    - eredeti
+    - valódi
+- szo: ThelA
+  ford:
+  - nyt: hn
+    ert:
+    - kézikocsi
+    - talicska
+- szo: Thes
+  ford:
+  - nyt: nn
+    ert:
+    - ütés
+    - ütközés
+  - kif: Thes pahu~cAnA
+    ert:
+    - megüt
+    - bánt
+- szo: Thos
+  ford:
+  - nyt: mn
+    ert:
+    - szilárd
+    - sűrű
+  - ert:
+    - számottevő
+    - valódi
+- szo: Da#k
+  ford:
+  - nyt: hn
+    ert:
+    - csípés
+    - szúrás
+  - kif: Da#k mAr'nA
+    ert:
+    - (meg)csíp
+    - (meg)szúr
+- szo: Da#D
+  ford:
+  - nyt: hn
+    ert:
+    - bot
+    - büntetés
+- szo: Da#DA
+  ford:
+  - nyt: hn
+    ert:
+    - bot
+    - rúd
+    - pálca
+    - karó
+    - cölöp
+- szo: DakAr
+  ford:
+  - nyt: nn hn
+    ert:
+    - böfögés
+- szo: DaT'nA
+  ford:
+  - nyt: tl
+    ert:
+    - szilárdan áll
+    - helyén van
+    - megállapodik
+  - kif: DaT'kar
+    nyt: ht
+    ert:
+    - eltökélten
+    - makacsul
+- szo: Dabal
+  szarm: E
+  ford:
+  - nyt: mn
+    ert:
+    - dupla
+  - kif: Dabal roTii
+    ert:
+    - élesztős kenyér
+    - vekni
+- szo: DarAnA
+  ford:
+  - nyt: t
+    ert:
+    - (meg)ijeszt
+    - megrémít
+- szo: DAkU
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - rabló
+    - útonálló
+    - bandita
+- szo: DAl'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - dob
+    - hajít
+    - (szét)szór
+    - terjeszt
+  - ert:
+    - beleönt
+    - belerak
+    - lerak
+    - félrerak
+    - leír
+    - elhelyez
+  - kif: kap'Re DAl'nA
+    ert:
+    - tereget
+- szo: DibiyA
+  ford:
+  - nyt: nn
+    ert:
+    - kis doboz
+    - ládikó
+- szo: DibbA
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - doboz
+    - vagon
+    - (vonat)fülke
+- szo: Dhak'nA
+  ford:
+  - nyt: t
+    ert:
+    - befed
+    - elrejt
+  - nyt: tl
+    ert:
+    - be van fedve
+    - el van rejtve
+    - rejlik
+- szo: Dhakel'nA
+  ford:
+  - nyt: t
+    ert:
+    - (el)lök
+    - (el)taszít
+- szo: Dhakkan
+  ford:
+  - nyt: hn
+    ert:
+    - fedő
+- szo: Dhal'nA
+  ford:
+  - nyt: tl
+    ert:
+    - (le)csökken
+    - hanyatlik
+    - (le)esik
+    - kiömlik
+    - véget ér
+- szo: DhalAn
+  ford:
+  - nyt: nn
+    ert:
+    - lejtő
+    - rézsü
+- szo: DhA~cA
+  ford:
+  - nyt: hn
+    ert:
+    - váz
+    - szerkezet
+    - felépítés
+    - rendszer
+- szo: DhAbA
+  ford:
+  - nyt: hn
+    ert:
+    - terasz-kávéház
+    - tornác
+- szo: DhonA
+  ford:
+  - nyt: t
+    ert:
+    - hordoz
+    - hurcol
+    - cipel
+- szo: ta#durust
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - egészséges
+    - (élet)erős
+    - fitt
+- szo: ta#durustii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - egészség
+    - (élet)erő
+    - fittség
+- szo: ta#dUr
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - kemence
+- szo: ta#dUrii
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - kemencében sült
+- szo: ta#bAkU
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - dohány
+- szo: tak
+  lecserel: "1=1"
+  ford:
+  - nyt: nt
+    ert:
+    - szo: -ig
+      megj: idő, hely
+    - előtt
+    - vmikorra
+  - ert:
+    - akár még … (is)
+    - még csak … (sem)
+- szo: tak'niikii
+  szarm: E
+  ford:
+  - nyt: mn
+    ert:
+    - technikai
+    - technológiai
+- szo: tak'liif
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - nehézség
+    - kellemetlenség
+    - probléma
+    - fájdalom
+    - szenvedés
+  - kif: "* ko tak'liif denA"
+    ert:
+    - kellemetlen helyzetbe hoz
+    - fájdalmat okoz
+- szo: takiyA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - párna
+- szo: taKht
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - trón
+    - ülés
+    - emelvény
+- szo: taj'rabA
+  alt:
+  - tajur'bA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - tapasztalat
+- szo: tattva
+  ford:
+  - nyt: hn
+    ert:
+    - természeti elem
+    - (alap)elv
+    - lényegi természet
+    - esszencia
+    - tényező
+    - (felső)lélek
+- szo: tathA
+  lecserel: "1=1"
+  ford:
+  - nyt: kt
+    ert:
+    - és
+    - továbbá
+    - valamint
+- szo: tathAkathit
+  ford:
+  - nyt: mn
+    ert:
+    - úgynevezett
+- szo: tan
+  ford:
+  - nyt: hn
+    ert:
+    - test
+- szo: tan'KhAh
+  alt:
+  - tan'KhvAh
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - fizetés
+    - fizetség
+    - bér
+- szo: tan'nA
+  ford:
+  - nyt: tl
+    ert:
+    - kinyúlik
+    - kiterül
+    - kiterjed
+    - kifeszül
+    - fel van állítva (sátor)
+    - kihúzza magát
+- szo: tanA
+  ford:
+  - nyt: hn
+    ert:
+    - (fa)törzs
+    - szár
+    - inda
+- szo: tanAv
+  ford:
+  - nyt: hn
+    ert:
+    - feszültség
+    - feszülés
+    - szorosság
+- szo: tab
+  lecserel: "1=1"
+  ford:
+  - nyt: ht
+    ert:
+    - akkor
+    - azután
+    - aztán
+- szo: tab'diilii
+  szarm: A+P
+  ford:
+  - nyt: nn
+    ert:
+    - változás
+    - váltás
+- szo: tabal'cii
+  szarm: A+P
+  ford:
+  - nyt: hn
+    ert:
+    - tablá-zenész
+    - dobos
+- szo: tabAd'lA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - áthelyezés
+- szo: tabAh
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - lepusztult
+    - tönkrement
+    - vacak
+- szo: tamAm
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - teljes
+    - egész
+  - ert:
+    - befejezett
+    - lezárult
+- szo: tamiiz
+  ford:
+  - ert:
+    - udvariasság
+    - jómodor
+    - megfontoltság
+    - ítélőképesség
+    - belátás
+- szo: tay
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - következtetés
+    - döntés
+    - lezárás
+    - befejezés
+  - kif: tay kar'nA
+    ert:
+    - dönt
+    - határoz
+    - bevégez
+  - kif: tay honA
+    ert:
+    - eldől
+    - befejeződik
+  - kif: tay, tay'SudA
+    nyt: mn nvált
+    ert:
+    - eldőlt
+    - meghatározott
+- szo: tar'bUz
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - (görög)dinnye
+- szo: tariiKA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - mód(szer)
+    - gyakorlat
+    - rendszer
+- szo: tark
+  ford:
+  - nyt: hn
+    ert:
+    - érvelés
+    - vita
+    - megvitatás
+    - ellenvetés
+    - logika
+  - kif: tark-vitark
+    nyt: hn
+    ert:
+    - vita
+- szo: tark'sa#gat
+  ford:
+  - nyt: mn
+    ert:
+    - logikus
+    - ésszerű
+- szo: tal'nA
+  ford:
+  - nyt: t
+    ert:
+    - (olajban) süt
+- szo: tal'vAr
+  ford:
+  - nyt: nn
+    ert:
+    - kard (pengéje)
+- szo: tavA
+  ford:
+  - nyt: hn
+    ert:
+    - szo: serpenyő
+      megj: enyhén ívelt vaskorong főleg lepényfélék sütéséhez
+- szo: taS'riif
+  szarm: A
+  ford:
+  - nyt: nn megszólító
+    ert:
+    - nagyra becsült személye(d)
+    - méltóságod
+  - kif: taS'riif rakhie
+    ert:
+    - foglaljon helyet!
+- szo: tasviir
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - kép
+    - fotó
+  - kif: tasviir utAr'nA
+    ert:
+    - képet készít
+    - rajzol
+- szo: tah
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - összehajtás
+    - réteg
+    - redő
+  - kif: tah kar'nA
+    ert:
+    - (össze)hajt
+- szo: tAii
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - nagynéni
+    - az apa bátyjának a felesége
+- szo: tAki
+  szarm: P
+  ford:
+  - nyt: kt
+    ert:
+    - azért hogy
+- szo: tAjjub
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - meglepődés
+    - megdöbbenés
+    - meghökkenés
+    - csodálat
+    - bámulás
+- szo: tAR
+  ford:
+  - nyt: hn
+    ert:
+    - pálmafa
+- szo: tAdAd
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - mennyiség
+    - összeg
+    - számok
+  - kif: baRii/bhArii tAdAd me~
+    ert:
+    - nagy mennyiségben/összegekben
+- szo: tAn'nA
+  ford:
+  - nyt: t
+    ert:
+    - kinyújt
+    - kiterít
+    - kiterjeszt
+    - kifeszít
+    - felállít (sátrat)
+  - ert:
+    - botot emel
+    - fegyverrel céloz
+- szo: tAnASAh
+  szarm: A+P
+  ford:
+  - nyt: hn
+    ert:
+    - önkényuralkodó
+    - zsarnok
+    - diktátor
+- szo: tAnASAhii
+  szarm: A+P
+  ford:
+  - nyt: nn
+    ert:
+    - önkényuralom
+    - zsarnokság
+    - diktatúra
+- szo: tAp
+  ford:
+  - nyt: hn
+    ert:
+    - hőség
+    - láz
+    - szenvedély
+- szo: tAp-mAn
+  ford:
+  - nyt: hn
+    ert:
+    - hőmérséklet
+- szo: tAr
+  ford:
+  - nyt: hn
+    ert:
+    - drót
+    - vezeték
+    - távíró
+  - ert:
+    - fonál
+    - zsinór
+    - húr
+- szo: tArA
+  ford:
+  - nyt: hn
+    ert:
+    - csillag
+    - égitest
+  - ert:
+    - csillagzat
+    - sors
+  - ert:
+    - pupilla

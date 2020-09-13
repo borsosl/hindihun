@@ -269,12 +269,15 @@ szavak:
   - nyt: nv
     ert:
     - ahogy
+  - kif: jyo~ hii … tyo~ hii …, jyo~hii … tyo~hii …
+    ert:
+    - amint … nyomban …
 - szo: jit'nA
   ford:
   - nyt: nv
     ert:
-    - amekkora
     - amennyi
+    - amekkora
   - kif: jit'nA … ut'nA …
     ert:
     - amennyi … annyi …

@@ -1,0 +1,571 @@
+datum: 2020-09-06
+forras:
+  nev: Pratap
+  fejezet: 34
+szavak:
+- szo: jAdUgarii
+  ford:
+  - nyt: nn
+    ert:
+    - varázslás
+    - boszorkányság
+    - bűvészet
+- szo: jAn
+  ford:
+  - nyt: nn
+    ert:
+    - élet(erő)
+    - lélek
+    - ösztönző erő
+  - ert:
+    - lényegi minőség
+    - ékesség
+    - báj
+  - ert:
+    - vkinek kedves személy
+    - vki szerelme
+  - kif: jAn nikal'nA
+    ert:
+    - elszáll belőle a lélek
+    - gyötrődik
+- szo: jAn'kArii
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - ismeret
+    - ismeretség
+    - tudomás
+    - értesülés
+    - információ
+- szo: jAl
+  ford:
+  - nyt: hn
+    ert:
+    - háló(zat)
+    - rács(ozat)
+    - pókháló
+- szo: jAlii
+  ford:
+  - nyt: nn
+    ert:
+    - háló(zat)
+    - rács(ozat)
+    - szájkosár
+- szo: jAlii
+  lecserel: "2=2;2"
+  ford:
+  - nyt: mn
+    ert:
+    - hamis(ított)
+    - ál-
+    - kitalált
+- szo: jAsUs
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - kém
+    - felderítő
+    - nyomozó
+- szo: jAsUsii
+  ford:
+  - nyt: nn
+    ert:
+    - kémkedés
+    - felderítés
+- szo: zi#dA
+  ford:
+  - nyt: mn nvált
+    ert:
+    - élő
+    - élettel teli
+    - tevékeny
+    - aktív
+- szo: zikr
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - említés
+    - beszámoló
+    - (meg)emlékezés
+- szo: jijYAsA
+  ford:
+  - nyt: nn
+    ert:
+    - kiváncsiság
+    - érdeklődés
+- szo: zimmedAr
+  ford:
+  - nyt: mn hn
+    ert:
+    - felelős (személy)
+- szo: zillat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - megalázás
+    - megaláztatás
+  - ert:
+    - aljasság
+    - alávalóság
+- szo: zalAlat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - megalázás
+    - megaláztatás
+  - ert:
+    - aljasság
+    - alávalóság
+- szo: jiibh
+  ford:
+  - nyt: nn
+    ert:
+    - szo: nyelv
+      megj: testrész, alkatrész
+- szo: jiivit
+  ford:
+  - nyt: mn
+    ert:
+    - élő
+    - életben levő
+- szo: juA
+  ford:
+  - nyt: hn
+    ert:
+    - szerencsejáték
+    - fogadás
+  - kif: juA kar'nA
+    ert:
+    - fogadást köt
+    - fogad
+    - játszik
+    - kockáztat
+    - hazardíroz
+    - (meg)reckíroz
+    - szerencsét próbál
+- szo: juT'nA
+  ford:
+  - nyt: tl
+    ert:
+    - csatlakozik
+    - összetart
+    - mellette van
+    - közelharcba kerül
+    - összeforr
+  - ert:
+    - lefoglalja vmi
+    - elmerül vmiben
+  - ert:
+    - összegyűlik
+    - össze van gyűjtve
+- szo: judA
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - különböző
+    - különálló
+    - elkülönült
+    - másik
+- szo: judAii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - szétválasztás
+    - elkülönülés
+    - elhidegülés
+  - ert:
+    - megkülönböztetés
+    - különbség
+- szo: jur'mAnA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - (pénz)büntetés
+- szo: julUs
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - felvonulás
+    - menet
+    - tüntetés
+  - kif: julUs nikAl'nA
+    ert:
+    - tüntetést szervez/vezet
+- szo: jUjh'nA
+  ford:
+  - nyt: tl
+    ert:
+    - küzd
+    - viaskodik
+    - harcol
+    - verseng
+- szo: jeTh
+  ford:
+  - nyt: mn
+    ert:
+    - (leg)idősebb
+  - nyt: hn
+    ert:
+    - szo: sógor
+      megj: a férj bátyja
+- szo: jeb-kat'rA
+  ford:
+  - nyt: hn
+    ert:
+    - zsebtolvaj
+- szo: jokar
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - bohóc
+- szo: joR
+  ford:
+  - nyt: hn
+    ert:
+    - kapcsolódás
+    - kapcsolódó rész
+    - ízület
+    - toldás
+    - varrat
+  - ert:
+    - összeadás
+    - összeg
+  - ert:
+    - pár
+    - társ
+    - méltó ellenfél
+- szo: joRA
+  ford:
+  - nyt: hn
+    ert:
+    - pár
+    - partner
+    - (házas)társ
+  - ert:
+    - szo: szett
+      megj: pl. ruha
+- szo: zor'dAr
+  ford:
+  - nyt: mn
+    ert:
+    - erőteljes
+    - erős
+    - hangsúlyos
+- szo: joS
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - izgalom
+    - lelkesedés
+    - szenvedély
+    - hév
+  - ert:
+    - dühöngés
+    - őrjöngés
+  - ert:
+    - forrás
+    - forralás
+- szo: jO
+  ford:
+  - nyt: hn
+    ert:
+    - árpa
+    - köles
+- szo: jOh'rii
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - ékszerész
+- szo: jYAn
+  ford:
+  - nyt: hn
+    ert:
+    - tudás
+    - bölcsesség
+  - ert:
+    - tudatosság
+    - megértés
+- szo: jvAlA
+  ford:
+  - nyt: nn
+    ert:
+    - láng
+  - ert:
+    - égető fájdalom
+- szo: jvAlAmukhii
+  ford:
+  - nyt: hn
+    ert:
+    - vulkán
+- szo: jha#DA
+  ford:
+  - nyt: hn
+    ert:
+    - zászló
+    - lobogó
+- szo: jhak
+  ford:
+  - kif: jhak-jhak
+    nyt: nn
+    ert:
+    - vitatkozás
+    - civakodás
+    - szájtépés
+- szo: jhag'RAlU
+  ford:
+  - nyt: mn hn
+    ert:
+    - vitatkozó
+    - pörlekedő
+    - garázda
+- szo: jhaT'kA
+  ford:
+  - ert:
+    - rándulás
+    - rángás
+    - rázódás
+    - zökkenés
+    - ütődés
+  - ert:
+    - széllökés
+  - ert:
+    - csapás
+    - megrázkódtatás
+- szo: jhA~k'nA
+  ford:
+  - nyt: t
+    ert:
+    - megles
+    - bámul
+    - pillant
+    - tekinget
+    - (be)tekint
+    - kinéz
+  - ert:
+    - belép/benéz vkihez
+- szo: jhARii
+  ford:
+  - nyt: nn
+    ert:
+    - cserje
+    - bokor
+- szo: jhARU
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - seprű
+    - kefe
+    - partvis
+  - kif: jhARU-po~chA kar'nA
+    ert:
+    - kitakarít (kiseper és felmos)
+  - kif: (* me~) jhARU lagAnA
+    ert:
+    - felseper vmit
+- szo: jhii~gur
+  ford:
+  - nyt: hn
+    ert:
+    - tücsök
+- szo: jhiil
+  ford:
+  - nyt: nn
+    ert:
+    - tó
+- szo: jhuk'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: tl
+    ert:
+    - (le)hajol
+    - hajlik
+    - görbül
+    - le van hajtva/eresztve
+  - ert:
+    - meghajol
+    - enged(elmeskedik)
+  - ert:
+    - hajlik vmire
+  - ert:
+    - fordul
+  - kif: jhuk'kar bETh'nA
+    ert:
+    - guggol
+- szo: jhUThA
+  ford:
+  - nyt: mn
+    ert:
+    - hamis
+    - téves
+  - ert:
+    - hamisított
+    - kétszínű
+    - képmutató
+  - ert:
+    - hiányos
+    - haszontalan
+  - ert:
+    - ötvözött
+- szo: jhUl'nA
+  ford:
+  - nyt: tl
+    ert:
+    - hintázik
+    - leng
+- szo: jhUlA
+  ford:
+  - nyt: hn
+    ert:
+    - hinta
+    - függőágy
+    - bölcső
+- szo: jhe~p
+  ford:
+  - nyt: nn
+    ert:
+    - szégyenkezés
+- szo: jho~p'RA
+  ford:
+  - nyt: hn
+    ert:
+    - (vályog)kunyhó
+    - viskó
+    - házikó
+  - kif: jho~p'Rii
+    nyt: nn
+    ert:
+    - = kisebb ~
+- szo: jholA
+  ford:
+  - nyt: hn
+    ert:
+    - batyu
+    - (váll)táska
+    - vászon tok
+- szo: Ta#kii
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - tartály
+    - vízgyűjtő
+- szo: Ta~g'nA
+  ford:
+  - nyt: tl
+    ert:
+    - fel van akasztva/függesztve/lógatva
+- szo: Tak'rAv
+  ford:
+  - nyt: hn
+    ert:
+    - ütközet
+- szo: Takkar
+  ford:
+  - nyt: nn
+    ert:
+    - (össze)ütközés
+    - becsapódás
+    - csattanás
+  - ert:
+    - versengés
+    - rivalizálás
+  - kif: (* se) Takkar lag'nA, Takkare~ khAnA
+    ert:
+    - ütközik
+    - nekiütődik vminek
+    - nekicsapódik
+    - belebotlik
+- szo: Takh'nA
+  ford:
+  - nyt: hn
+    ert:
+    - boka
+- szo: TaTTii
+  ford:
+  - nyt: nn
+    ert:
+    - ürülék
+    - széklet
+  - kif: TaTTii kar'nA
+    ert:
+    - szarik
+- szo: TA~g
+  ford:
+  - nyt: nn
+    ert:
+    - láb(szár)
+- szo: TA~g'nA
+  ford:
+  - nyt: t
+    ert:
+    - (fel)akaszt
+    - (fel)függeszt
+    - lógat
+- szo: TApU
+  ford:
+  - nyt: hn
+    ert:
+    - sziget
+    - (folyó)zátony
+- szo: Tik'nA
+  ford:
+  - nyt: tl
+    ert:
+    - megáll
+    - fel van tartóztatva
+  - ert:
+    - marad
+    - tartózkodik
+  - ert:
+    - nekidől
+    - támaszkodik
+    - rögzül
+  - ert:
+    - kitart
+- szo: TikAU
+  ford:
+  - nyt: mn
+    ert:
+    - tartós
+    - állandó
+- szo: TiilA
+  ford:
+  - nyt: hn
+    ert:
+    - halom
+    - bucka
+    - kis domb
+- szo: Tek'nA
+  ford:
+  - nyt: t
+    ert:
+    - támaszt
+    - megtart
+- szo: Tok'rii
+  ford:
+  - nyt: nn
+    ert:
+    - kosár
+- szo: Thapp
+  alt:
+  - Thap
+  ford:
+  - nyt: mn
+    ert:
+    - végleg leállt
+    - lemerült
+    - szo: meghalt
+      megj: eszköz

@@ -234,7 +234,20 @@ szavak:
   ford:
   - nyt: t
     ert:
-    - tör
+    - (el)tör
+    - kettétör
+    - betör
+    - feltör
+    - megtör
+    - (szét)zúz
+    - (szét)szakít
+    - megrándít
+    - elpusztít
+    - tönkretesz
+    - kimerít
+    - felvált
+    - elkövet
+    - megszakít
     - szed
   - kif: toR DAl'nA
     ert:
@@ -596,7 +609,7 @@ szavak:
     - tud
   - kif: jAn paR'nA
     ert:
-    - tűnik
+    - (úgy) tűnik
   - kif: jAn-bujh'kar
     ert:
     - szándékosan
@@ -605,6 +618,7 @@ szavak:
     ert:
     - ismerős
     - (fel)ismert
+    - jól ismert
   - kif: jAnA-mAnA
     nyt: mn
     ert:
@@ -980,6 +994,15 @@ szavak:
     - -hoz
     - -hez
     - -höz
+  - kif: kis taraf
+    ert:
+    - merre?
+  - kif: is taraf
+    ert:
+    - erre
+  - kif: us taraf
+    ert:
+    - arra
 - szo: pah'le
   lecserel: "1,2=1"
   ford:
@@ -1230,14 +1253,19 @@ szavak:
   - ert:
     - találkozó
     - meghallgatás
-  - kif: darSan kar'nA
+  - ert:
+    - világnézet
+    - filozófia
+  - kif: (* ke) darSan kar'nA
     nyt: t
     ert:
     - templomba megy
     - imádkozik
-  - ert:
-    - világnézet
-    - filozófia
+    - vki fogadja/meghallgatja
+  - kif: darSan denA
+    ert:
+    - meghallgatást tart
+    - embereket fogad
 - szo: binA
   lecserel: "1,2=1"
   alt:
@@ -1634,6 +1662,8 @@ szavak:
   - nyt: mn nvált
     ert:
     - friss
+    - új
+    - fiatal(os)
   - kif: tAzA kar'nA
     nyt: t
     ert:
@@ -1661,15 +1691,19 @@ szavak:
     ert:
     - jó
     - helyes
+    - pontos
+    - igaz
   - kif: Thiik (se)
     nyt: ht
     ert:
     - jól
     - helyesen
+    - pontosan
   - kif: Thiik kar'nA
     nyt: t
     ert:
     - rendbe tesz
+    - megjavít
 - szo: bEThak
   lecserel: "1,2=1"
   ford:

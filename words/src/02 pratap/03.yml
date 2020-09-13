@@ -66,11 +66,11 @@ szavak:
     ert:
     - fiók
 - szo: darii
-  szarm: "?S"
+  szarm: S
   ford:
   - nyt: nn
     ert:
-    - kisszőnyeg
+    - (kis)szőnyeg
 - szo: pati
   szarm: S
   ford:

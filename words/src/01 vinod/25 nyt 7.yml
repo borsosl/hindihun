@@ -602,12 +602,16 @@ szavak:
   - nyt: hn
     ert:
     - dátum
-- szo: tAriikh
+- szo: tAriiKh
+  lecserel: "1=1"
   alt:
   - tA%
+  szarm: A
   ford:
-  - ert:
+  - nyt: nn
+    ert:
     - dátum
+    - a hét napja
 - szo: mAs
   szarm: S
   ford:

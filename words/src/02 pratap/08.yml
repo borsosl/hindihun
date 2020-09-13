@@ -61,6 +61,13 @@ szavak:
     - hatalom
     - hatás
     - (hang)súly
+  - kif: zor se
+    ert:
+    - erősen
+    - hangosan
+  - kif: zor denA
+    ert:
+    - hangsúlyoz
 - szo: DAl
   szarm: S
   ford:
@@ -86,6 +93,8 @@ szavak:
     ert:
     - szorongat
     - zaklat
+    - bánt
+    - molesztál
     - elnyom
   - kif: "* ko (* se) ta#g AnA"
     nyt: tl
@@ -121,9 +130,10 @@ szavak:
       megj: tiszteletet nem mutató vagy kedveskedő vagy istenek megszólításaként
   - kif: tU-tU mE~-mE~
     ert:
-    - kölcsönös szidalmazás
+    - kölcsönös sértés, civakodás
   - kif: tU-tU mE~-mE~ kar'nA
     ert:
+    - sérteget
     - szid(almaz)
 - szo: thakAn
   szarm: S
@@ -137,8 +147,9 @@ szavak:
   ford:
   - nyt: nn
     ert:
-    - tálca
     - tál
+    - tálca (több, kis mennyiségű fogással)
+    - napi menü
 - szo: dal
   ford:
   - nyt: hn

@@ -120,16 +120,29 @@ szavak:
   - nyt: hn
     ert:
     - vitatkozás
+    - vita
+    - nézeteltérés
+    - veszekedés
+    - csetepaté
   - kif: jhag'RA kar'nA
     nyt: t
     ert:
     - vitatkozik
+    - veszekszik
 - szo: Thahar'nA
   ford:
   - nyt: tl
     ert:
     - megáll
     - úgy marad
+    - várakozik
+    - késlekedik
+    - megszáll vhol
+  - ert:
+    - leülepszik
+    - elrendeződik
+    - megszilárdul
+    - megbizonyosodik
 - szo: DhU~Rh'nA
   alt:
   - DhU~Dh'nA

@@ -1,0 +1,576 @@
+datum: 2020-09-12
+forras:
+  nev: Pratap
+  fejezet: 36
+szavak:
+- szo: tAliim
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - oktatás
+    - képzés
+    - tanítás
+    - nevelés
+- szo: tAS
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - kártya
+    - kártyázás
+  - kif: tAS khel'nA
+    ert:
+    - kártyázik
+- szo: tit'lii
+  ford:
+  - nyt: nn
+    ert:
+    - pillangó
+    - lepke
+  - ert:
+    - kihívóan öltözködő nő
+- szo: tiirth
+  ford:
+  - nyt: hn
+    ert:
+    - zarándokhely
+    - rituális fürdőhely
+    - zarándoklat
+- szo: tiirth-yAtrA
+  ford:
+  - nyt: nn
+    ert:
+    - zarándoklat
+- szo: tiivra
+  ford:
+  - nyt: mn
+    ert:
+    - éles
+    - erős
+    - heves
+    - tüzes
+    - buzgó
+    - élénk
+    - szertelen
+    - túlzott
+    - szigorú
+  - ert:
+    - keresztes félhang
+- szo: tiis'rA
+  lecserel: "1=1"
+  ford:
+  - nyt: szn
+    ert:
+    - harmadik
+    - "3."
+  - kif: tiis're pahar
+    nyt: ht
+    ert:
+    - délután
+- szo: tut'lAnA
+  ford:
+  - nyt: tl
+    ert:
+    - gügyög
+    - selypít
+  - ert:
+    - dadog
+    - hebeg
+- szo: tul'nA
+  lecserel: "2=2;2"
+  ford:
+  - nyt: nn
+    ert:
+    - összemérés
+  - kif: "* kii tul'nA me~"
+    ert:
+    - -hez mérve
+    - összehasonlítva vmivel
+  - kif: "* se * kii tul'nA kar'nA"
+    ert:
+    - összehasonlít vmivel vmit
+- szo: tUfAn
+  ford:
+  - nyt: hn
+    ert:
+    - vihar
+  - ert:
+    - árvíz
+    - csapás
+    - felfordulás
+- szo: tezii
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - gyorsaság
+    - élesség
+    - csípősség
+    - melegség
+    - hevesség
+    - hathatósság
+- szo: tel
+  ford:
+  - nyt: hn
+    ert:
+    - szo: olaj
+      megj: növényi, ásványi
+    - zsír
+- szo: tEnAt
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - kinevezett
+    - feladatra beosztott
+- szo: top
+  szarm: T
+  ford:
+  - nyt: nn
+    ert:
+    - ágyú
+    - harci fegyver
+  - ert:
+    - kövér ember
+  - ert:
+    - nagymenő
+    - fejes
+- szo: tOl'nA
+  ford:
+  - nyt: t
+    ert:
+    - (meg)mér
+    - mérlegre rak
+    - hasonlít
+    - megfontol
+  alt:
+  - tol'nA
+- szo: tOliyA
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - törölköző
+- szo: tyAg
+  ford:
+  - nyt: hn
+    ert:
+    - lemondás
+    - feladás
+    - leköszönés
+    - elhagyás
+    - (el)válás
+- szo: tyAg-patr
+  ford:
+  - nyt: hn
+    ert:
+    - felmondó levél
+    - válási papírok
+- szo: tyohAr
+  ford:
+  - nyt: hn
+    ert:
+    - ünnepség
+    - fesztivál
+  alt:
+  - tyOhAr
+- szo: truTi
+  ford:
+  - nyt: nn
+    ert:
+    - hiba
+    - hibázás
+    - sajtóhiba
+- szo: thakAnA
+  ford:
+  - nyt: t
+    ert:
+    - (ki)fáraszt
+    - zaklat
+- szo: thap'thapAnA
+  ford:
+  - nyt: t
+    ert:
+    - (meg)vereget
+    - (meg)simogat
+- szo: thamAnA
+  ford:
+  - nyt: t
+    ert:
+    - átnyújt
+  - ert:
+    - leállít(tat)
+- szo: thAnA
+  ford:
+  - nyt: hn
+    ert:
+    - rendőrőrs
+    - állomáshely
+    - (lak)hely
+- szo: thUk'nA
+  ford:
+  - nyt: tl t
+    ert:
+    - (le)köp
+    - becsmérel
+    - megvet
+  - ert:
+    - kiköp
+- szo: da#D
+  ford:
+  - nyt: hn
+    ert:
+    - büntetés
+  - ert:
+    - bot
+    - rúd
+    - pálca
+    - karó
+    - cölöp
+- szo: da#t-kathA
+  ford:
+  - nyt: nn
+    ert:
+    - hagyomány
+    - legenda
+    - monda
+    - rege
+    - kitaláció
+- szo: da#pati
+  ford:
+  - nyt: hn
+    ert:
+    - házaspár
+- szo: daKh'l
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - belépés
+    - bejutás
+    - elfoglalás
+    - birtokbavétel
+    - fennhatóság
+    - befolyás
+    - beavatkozás
+  - kif: daKh'l denA
+    ert:
+    - (be)avatkozik
+    - közbeavatkozik
+    - behatol
+    - beenged
+- szo: dabAnA
+  ford:
+  - nyt: t
+    ert:
+    - (le)nyom
+    - szo: elnyom
+      megj: népet, érzelmet
+    - összenyom
+    - összezúz
+    - megfélemlít
+    - ural
+  - ert:
+    - szo: vet
+      megj: magot
+- szo: dabAv
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - nyomás
+    - elnyomás
+    - fennhatóság
+    - uralom
+    - kényszer
+    - hangsúly
+- szo: dam
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - lélegzet
+    - lélegzés
+    - élet(erő)
+    - lélek
+  - ert:
+    - pillanat
+  - ert:
+    - törekvés
+    - becsvágy
+  - ert:
+    - hatásosság
+    - minőség
+- szo: dayAlu
+  ford:
+  - nyt: mn
+    ert:
+    - együttérző
+    - kegyes
+    - kedves
+- szo: dar
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - ajtó
+    - kapu
+    - bejárat
+    - küszöb
+- szo: dar
+  lecserel: "2=2;2"
+  szarm: P
+  ford:
+  - nyt: elölj
+    ert:
+    - által
+    - révén
+    - keresztül
+    - -on
+    - -ban
+- szo: dar
+  lecserel: "3=3;3"
+  ford:
+  - nyt: nn
+    ert:
+    - ár(folyam)
+    - kamatláb
+    - tarifa
+    - érték
+    - becslés
+- szo: dar
+  lecserel: "4=4;4"
+  ford:
+  - nyt: hn
+    ert:
+    - félelem
+    - = {Dar}
+- szo: dar
+  lecserel: "5=5;5"
+  ford:
+  - nyt: hn
+    ert:
+    - hasadás
+    - repedés
+    - lyuk
+- szo: dar
+  lecserel: "6=6;6"
+  ford:
+  - nyt: nn
+    ert:
+    - cukornád
+- szo: dar
+  lecserel: "7=7;7"
+  ford:
+  - nyt: hn
+    ert:
+    - kagylókürt
+- szo: dar'KhAst
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - óhaj
+    - kérés
+    - kérelem
+    - kérvény
+    - folyamodvány
+    - jelentkezés
+  alt:
+  - dar'KhvAst
+- szo: dar'bAr
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - (királyi) udvar
+    - gyülekezeti csarnok
+  - ert:
+    - királyi gyűlés
+    - tanács
+    - audiencia
+    - meghallgatás
+- szo: dar'vAzA
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - ajtó
+    - bejárat
+    - kapu
+    - átjáró
+- szo: dar'vAn
+  ford:
+  - nyt: hn
+    ert:
+    - ajtónálló
+    - (kapu)őr
+- szo: darAr
+  ford:
+  - nyt: nn
+    ert:
+    - repedés
+    - nyílás
+- szo: dariyAdil
+  ford:
+  - nyt: mn
+    ert:
+    - nagylelkű
+    - bőkezű
+- szo: darjA
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - fokozat
+    - osztály
+    - fejlődési szakasz
+    - szint
+    - besorolás
+    - helyezés
+    - helyzet
+    - minőség
+- szo: dard
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - fájdalom
+    - fájás
+  - kif: dard kar'nA
+    ert:
+    - fáj
+- szo: dalit
+  ford:
+  - nyt: mn hn
+    ert:
+    - szo: elnyomott
+      megj: kaszt tagja
+  - ert:
+    - tört
+    - őrölt
+- szo: davAii
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - gyógyszer
+    - gyógymód
+- szo: davA-KhAnA
+  ford:
+  - nyt: hn
+    ert:
+    - gyógyszertár
+    - patika
+- szo: dast
+  ford:
+  - nyt: hn
+    ert:
+    - hasmenés
+  - kif: "* ko dast AnA/lag'nA"
+    ert:
+    - hasmenése van
+- szo: dastAvez
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - tanúsító okirat
+    - dokumentum
+    - bizonyítvány
+- szo: dastUr
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - szokásos gyakorlat
+    - eljárás
+    - szabály
+- szo: dahii
+  ford:
+  - nyt: hn
+    ert:
+    - joghurt
+- szo: dahez
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - hozomány
+  alt:
+  - dahej
+- szo: dAKhil
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - (be)fogadott
+    - csoportba bevett
+    - listára felvett
+    - csatlakozó
+    - érkező
+  - nyt: hn
+    ert:
+    - bejegyzés
+    - regisztráció
+- szo: dAKhilA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - belépés
+    - belépődíj
+- szo: dAn
+  ford:
+  - nyt: hn
+    ert:
+    - ajándék
+    - adomány
+    - felajánlás
+  - ert:
+    - odaadás
+    - feleségül adás
+- szo: dAmAd
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - vő
+- szo: dAyA~
+  ford:
+  - nyt: mn
+    ert:
+    - jobb oldali
+- szo: dAl
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - lencsefélék összefoglaló neve
+  - kif: dAl-bhAt
+    nyt: hn
+    ert:
+    - napi koszt
+- szo: dAvA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - igény
+    - követelés
+    - jogi lépés
+    - beperelés
+  - ert:
+    - állítás
+    - magabiztosság
+  - kif: dAvA kar'nA
+    ert:
+    - igényt tart
+  - kif: dAve ke sAth kah'nA
+    ert:
+    - biztonsággal állít
