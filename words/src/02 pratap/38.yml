@@ -1,0 +1,663 @@
+datum: 2020-09-28
+forras:
+  nev: Pratap
+  fejezet: 38
+szavak:
+- szo: na#gA
+  ford:
+  - nyt: mn
+    ert:
+    - meztelen
+    - csupasz
+  - ert:
+    - szégyentelen
+- szo: na#gApan
+  ford:
+  - nyt: hn
+    ert:
+    - meztelenség
+- szo: na#doii
+  ford:
+  - nyt: hn
+    ert:
+    - szo: sógor
+      megj: a férj lánytestvérének a férje
+- szo: na#bar
+  lecserel: "1=1"
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - szám
+    - osztályzat
+  - ert:
+    - soron következés
+  - ert:
+    - rang
+- szo: naK'l
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - másolás
+    - utánzás
+  - ert:
+    - másolat
+    - másodpéldány
+- szo: naK'lii
+  szarm: A
+  ford:
+  - nyt: mn
+    ert:
+    - utánzott
+    - hamisított
+    - mesterséges
+- szo: naKSA
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - térkép
+    - vázlat
+    - terv
+    - modell
+  - ert:
+    - arcvonás
+    - arckép
+    - elképzelt kép
+  - ert:
+    - kilátások
+- szo: nagar
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - város
+    - helység
+- szo: nazar
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - tekintet
+    - pillantás
+  - ert:
+    - (meg)figyelés
+    - vizsgálat
+  - ert:
+    - látás
+    - nézet
+    - nézőpont
+  - ert:
+    - káros befolyás
+  - kif: nazar AnA
+    nyt: tl
+    ert:
+    - látszik
+  - kif: nazar DAl'nA
+    ert:
+    - (rá)pillant
+    - néz
+  - kif: nazar lag'nA
+    ert:
+    - káros befolyás alá kerül
+- szo: naT'khaT
+  ford:
+  - nyt: mn hn
+    ert:
+    - csintalan
+    - rakoncátlan
+    - csínytevő
+    - huncut
+    - zsivány
+    - rossz
+- szo: nanad
+  ford:
+  - nyt: nn
+    ert:
+    - szo: sógornő
+      megj: a férj lánytestvére
+- szo: nanhA
+  ford:
+  - nyt: mn
+    ert:
+    - apró
+    - kicsi
+    - ici-pici
+- szo: nam
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - nedves
+    - nyirkos
+- szo: nam'kiin
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - sós
+    - ízes
+    - ízletes
+  - nyt: hn
+    ert:
+    - sós csemege
+- szo: namii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - nedvesség
+    - nyirkosság
+- szo: namUnA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - minta
+    - példány
+- szo: nayApan
+  ford:
+  - nyt: hn
+    ert:
+    - új jelleg
+    - újdonság
+- szo: narak
+  ford:
+  - nyt: hn
+    ert:
+    - pokol
+- szo: nars
+  ford:
+  - nyt: nn
+    ert:
+    - ápoló nővér
+- szo: naSA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - bódultság
+    - kábultság
+  - ert:
+    - kábítószer
+    - szesz
+    - alkohol
+- szo: naSiilA
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - bódító
+    - kábító
+  - ert:
+    - bódult
+    - kábult
+    - álomittas
+- szo: naShT
+  ford:
+  - nyt: mn
+    ert:
+    - elpusztult
+    - elherdált
+    - eltűnt
+- szo: nas
+  ford:
+  - nyt: nn
+    ert:
+    - ér
+    - ideg
+    - ín
+    - izom
+- szo: nas'l
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - faj
+    - fajta
+    - jószág
+- szo: nas'l'vAd
+  ford:
+  - nyt: hn
+    ert:
+    - fajvédelem
+    - fajgyűlölet
+    - rasszizmus
+- szo: nas'l'vAdii
+  ford:
+  - nyt: hn
+    ert:
+    - fajvédő
+    - fajgyűlölő
+    - rasszista
+- szo: nAii
+  ford:
+  - nyt: hn
+    ert:
+    - borbély
+- szo: nAKhUn
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - köröm
+    - karom
+- szo: nAgarik
+  ford:
+  - nyt: mn
+    ert:
+    - városi
+    - helyhatósági
+    - polgári
+  - nyt: hn
+    ert:
+    - polgár
+- szo: nARA
+  ford:
+  - nyt: hn
+    ert:
+    - szo: szalag
+      megj: ruhán, derékban
+    - gatyamadzag
+    - szoknyagumi
+- szo: nARii
+  ford:
+  - nyt: nn
+    ert:
+    - (ütő)ér
+    - verőér
+    - pulzus
+  - ert:
+    - szár
+- szo: nAtA
+  ford:
+  - nyt: hn
+    ert:
+    - személyes kapcsolat
+    - szövetség
+- szo: nAtin
+  ford:
+  - nyt: nn
+    ert:
+    - szo: unoka
+      megj: vki lányának a lánya
+- szo: nAtii
+  ford:
+  - nyt: hn
+    ert:
+    - szo: unoka
+      megj: vki lányának a fia
+- szo: nAdAn
+  szarm: P+P
+  ford:
+  - nyt: mn
+    ert:
+    - tudatlan
+    - ostoba
+    - ártatlan
+- szo: nAp'nA
+  ford:
+  - nyt: t
+    ert:
+    - (le)mér
+    - kimér
+- szo: nAlA
+  ford:
+  - nyt: hn
+    ert:
+    - csatorna
+    - árok
+    - vízelvezető
+- szo: nAlii
+  ford:
+  - nyt: nn
+    ert:
+    - vékony cső
+    - (ütő)ér
+- szo: nArii
+  ford:
+  - nyt: nn
+    ert:
+    - nő
+    - asszony
+- szo: nAStA
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - reggeli
+    - nasi
+  - kif: nAStA kar'nA
+    ert:
+    - reggelizik
+- szo: nAsamajh
+  ford:
+  - nyt: mn
+    ert:
+    - buta
+    - ostoba
+    - eszetlen
+    - esztelen
+    - oktalan
+- szo: nAstik
+  ford:
+  - nyt: mn hn
+    ert:
+    - ateista (ember)
+    - hitetlen
+- szo: nikal'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: tl
+    ert:
+    - kijön
+    - megjelenik
+    - elindul vhonnan
+    - beindul
+    - elmegy
+    - eltűnik
+    - szo: elveszik
+      megj: vmilyen jelleg
+    - kiszabadul
+  - ert:
+    - kihajt
+    - előbújik
+    - kikel
+  - ert:
+    - elő van véve
+    - ki van préselve
+    - el van távolítva
+  - ert:
+    - elszivárog
+    - elfolyik
+  - ert:
+    - kiderül
+    - bizonyul
+- szo: nigam
+  ford:
+  - nyt: hn
+    ert:
+    - vállalat
+    - önkormányzat
+  - ert:
+    - szent szöveg
+- szo: nig'rAnii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - megfigyelés
+    - felügyelet
+    - vizsgálat
+- szo: nigal'nA
+  ford:
+  - nyt: t
+    ert:
+    - (le)nyel
+  - ert:
+    - sikkaszt
+- szo: nic'lA
+  ford:
+  - nyt: mn
+    ert:
+    - alsó(bb)
+    - lenti
+    - lentebbi
+- szo: nicoR
+  ford:
+  - nyt: hn
+    ert:
+    - préselt folyadék
+    - gyümölcslé
+  - ert:
+    - kivonat
+    - lényeg
+    - esszencia
+- szo: nicoR'nA
+  ford:
+  - nyt: t
+    ert:
+    - kiprésel
+    - leszűr
+  - ert:
+    - kicsikar
+    - megpumpol
+    - megvág
+- szo: nijii
+  ford:
+  - nyt: mn
+    ert:
+    - magán-
+    - személyes
+    - privát
+- szo: nideSak
+  ford:
+  - nyt: hn
+    ert:
+    - igazgató
+    - felügyelő
+    - vezető
+- szo: nibaT'nA
+  alt:
+  - nipaT'nA
+  ford:
+  - nyt: tl
+    ert:
+    - befejeződik
+    - elrendeződik
+    - kifogy
+    - elkészül
+- szo: nib'TAnA
+  alt:
+  - nip'TAnA
+  ford:
+  - nyt: t
+    ert:
+    - befejez
+    - elrendez
+- szo: nipuN
+  ford:
+  - nyt: mn
+    ert:
+    - jártas
+    - ügyes
+    - szakértő
+    - kiemelkedő
+- szo: nipuN'tA
+  ford:
+  - nyt: nn
+    ert:
+    - szakértelem
+    - tapasztaltság
+    - tapasztalat
+    - kiválóság
+    - kiemelkedés
+- szo: nibAh'nA
+  alt:
+  - nibhAnA
+  ford:
+  - nyt: t
+    ert:
+    - továbbvisz
+    - keresztülvisz
+    - folytat
+    - beteljesít
+    - betölt
+    - bevégez
+    - elvégez
+- szo: nima#traN
+  ford:
+  - nyt: hn
+    ert:
+    - meghívás
+    - (össze)hívás
+- szo: niyati
+  ford:
+  - nyt: nn
+    ert:
+    - sors
+    - végzet
+  - ert:
+    - rendelkezés
+    - kötelezettség
+  - ert:
+    - önuralom
+- szo: niyam
+  ford:
+  - nyt: hn
+    ert:
+    - törvény
+    - szabályozás
+    - megkötés
+    - elv
+    - szokásos gyakorlat
+  - ert:
+    - vezeklés
+    - fogadalom
+- szo: niyamit
+  ford:
+  - nyt: mn
+    ert:
+    - korlátozott
+    - kötött
+    - előírt
+    - rendszeres
+  - kif: niyamit rUp se
+    ert:
+    - rendszeresen
+- szo: niyukt
+  ford:
+  - nyt: mn
+    ert:
+    - kinevezett
+  - ert:
+    - elmerült vmiben
+  - kif: niyukt kar'nA
+    ert:
+    - kinevez
+- szo: niyukti
+  ford:
+  - nyt: nn
+    ert:
+    - kinevezés
+- szo: nirarthak
+  ford:
+  - nyt: mn
+    ert:
+    - értelmetlen
+    - hiábavaló
+  - ert:
+    - nemtörődöm
+- szo: nirAlA
+  ford:
+  - nyt: mn
+    ert:
+    - különálló
+    - elkülönülő
+  - ert:
+    - furcsa
+    - sajátságos
+    - sajátos
+    - különc
+- szo: nirAS
+  ford:
+  - nyt: mn
+    ert:
+    - csalódott
+    - reménytelen
+    - kétségbeesett
+- szo: nirASA
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - reménytelenség
+    - csalódottság
+    - kétségbeesés
+- szo: niriikShaN
+  ford:
+  - nyt: hn
+    ert:
+    - vizsgálat
+    - tanulmányozás
+    - megfigyelés
+    - szemlélés
+    - felügyelet
+- szo: nirodh
+  ford:
+  - nyt: hn
+    ert:
+    - megakadályozás
+    - közbeavatkozás
+    - leállítás
+    - feltartóztatás
+    - letartóztatás
+- szo: nirNay
+  ford:
+  - nyt: hn
+    ert:
+    - elhatározás
+    - döntés
+    - ítélet
+- szo: nirdeSak
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - rendező
+    - útmutató
+    - felügyelő
+- szo: nirdoSh
+  ford:
+  - nyt: mn
+    ert:
+    - ártatlan
+    - vétlen
+    - feddhetetlen
+- szo: nirbhar
+  ford:
+  - nyt: mn
+    ert:
+    - vmitől függő
+  - nyt: hn
+    ert:
+    - függés
+  - kif: "* par nirbhar honA/kar'nA"
+    ert:
+    - függ vmitől
+- szo: nivAs
+  ford:
+  - nyt: hn
+    ert:
+    - lakhely
+    - lakóhely
+  - ert:
+    - vhol lakhatás
+    - tartózkodás
+- szo: nivAsii
+  ford:
+  - nyt: hn
+    ert:
+    - (helyi) lakos
+- szo: niSAn
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - jel
+    - jelzés
+    - megjelölés
+  - ert:
+    - célpont
+  - ert:
+    - nyom
+    - vminek a nyitja
+  - ert:
+    - sebhely
+  - ert:
+    - hagyaték
+    - emlék
+    - emlékmű

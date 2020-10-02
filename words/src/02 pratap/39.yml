@@ -1,0 +1,612 @@
+datum: 2020-10-02
+forras:
+  nev: Pratap
+  fejezet: 39
+szavak:
+- szo: niScay
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - elhatározás
+    - meggyőződés
+    - eltökéltség
+    - bizonyosság
+  - kif: "* kA niScay kar'nA"
+    ert:
+    - elhatároz
+    - eldönt
+- szo: niScit
+  ford:
+  - nyt: mn
+    ert:
+    - eldöntött
+    - meghatározott
+    - kétségtelen
+- szo: niShpakSh
+  ford:
+  - nyt: mn
+    ert:
+    - semleges
+    - elfogulatlan
+    - nem részrehajló
+    - tárgyilagos
+- szo: niic
+  ford:
+  - nyt: mn hn
+    ert:
+    - alacsony
+  - ert:
+    - alantas
+    - hitvány
+- szo: niicA
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - alacsony
+  - ert:
+    - alantas
+    - hitvány
+  - kif: niicA dikhAnA
+    ert:
+    - megaláz
+    - lehúz
+    - fölékerekedik
+- szo: niiti
+  ford:
+  - nyt: nn
+    ert:
+    - viselkedés(mód)
+    - erkölcsiség
+    - etika
+    - irányelv
+- szo: niiyat
+  alt:
+  - niyat
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - szándék
+- szo: nepAlii
+  ford:
+  - nyt: mn nn
+    ert:
+    - nepáli (nyelv)
+  - nyt: hn
+    ert:
+    - nepáli ember
+- szo: nEtik
+  ford:
+  - nyt: mn
+    ert:
+    - erkölcsi
+    - erkölcsös
+    - etikai
+    - etikus
+    - morális
+- szo: nok
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - csúcs(pont)
+    - vég(ződés)
+    - szo: szög
+      megj: mértani
+- szo: nOkar'SAhii
+  ford:
+  - nyt: nn
+    ert:
+    - bürokrácia
+- szo: nOk'rii
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - szolgálat
+    - állás
+    - foglalkozás
+- szo: nOsenA
+  ford:
+  - nyt: nn
+    ert:
+    - haditengerészet
+- szo: pak'nA
+  ford:
+  - nyt: tl
+    ert:
+    - fő
+    - főzve van
+    - forrásban van
+    - felforr
+  - ert:
+    - (meg)érik
+    - éretté válik
+    - megőszül
+  - ert:
+    - (meg)sül
+    - szo: megszilárdul
+      megj: tégla az égetésekor
+- szo: pakAnA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - főz
+    - forral
+    - süt
+    - érlel
+    - szo: éget
+      megj: téglát, cserepet
+- szo: pakkA
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - érett
+    - szo: köves
+      megj: út
+    - szo: téglából készült
+      megj: ház
+  - ert:
+    - főzött
+    - forralt
+    - sütött
+    - égetett
+  - ert:
+    - érett
+    - tapasztalt
+    - bizonyított
+    - határozott
+    - szilárd
+    - megbízható
+    - igazi
+  - ert:
+    - feldolgozott
+    - finomított
+    - minőségi
+  - ert:
+    - kész
+    - elkészült
+    - befejezett
+  - ert:
+    - megőszült
+- szo: pakSh
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - oldal
+    - szo: fél
+      megj: résztvevő felek
+    - szo: szárny
+      megj: épületé, madáré, csoporté
+    - sánc
+  - ert:
+    - a Hold növekedésének vagy csökkenésének időszaka
+    - fél hónap
+    - két hét
+  - ert:
+    - szemszög
+    - irányzat
+- szo: pakShii
+  ford:
+  - nyt: hn
+    ert:
+    - madár
+  - nyt: mn
+    ert:
+    - szárnyas
+  - ert:
+    - vki oldalán álló
+    - vki pártját fogó
+    - részrehajló
+- szo: pakh'vARA
+  ford:
+  - nyt: hn
+    ert:
+    - holdhónap fele
+    - két hét
+  alt:
+  - pakh'vArA
+- szo: pag'Rii
+  ford:
+  - nyt: nn
+    ert:
+    - turbán
+    - méltóságos személy
+    - beleszámolt személy
+- szo: pac'nA
+  ford:
+  - nyt: tl
+    ert:
+    - meg van emésztve
+    - el van fogyasztva
+    - felszívódik
+    - beolvad
+    - szo: felemésztődik
+      megj: anyagi javak
+    - kimeríti magát
+- szo: pacAnA
+  ford:
+  - nyt: t
+    ert:
+    - (fel)emészt
+  - ert:
+    - szo: lead
+      megj: testsúlyt
+  - ert:
+    - rohaszt
+- szo: paTAkA
+  alt:
+  - paTAkhA
+  ford:
+  - nyt: hn
+    ert:
+    - robaj
+    - durranás
+    - csattanás
+  - ert:
+    - tűzijáték
+    - petárda
+- szo: paTTii
+  ford:
+  - nyt: nn
+    ert:
+    - kötés
+    - kötszer
+    - tapasz
+  - ert:
+    - fejpánt
+  - ert:
+    - föld(sáv)
+    - légifolyosó
+- szo: paR'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: tl
+    ert:
+    - esik
+    - elhelyezkedik
+    - (ott) van
+  - ert:
+    - előfordul
+    - megesik
+  - ert:
+    - kell
+    - muszáj
+  - ert:
+    - vminek bizonyul
+    - vmivé válik
+  - ert:
+    - hasonlít
+  - ert:
+    - vkit csapás ér
+  - kif: paRA (huA)
+    ert:
+    - fekvő
+    - elhelyezkedő
+- szo: paRAv
+  ford:
+  - nyt: hn
+    ert:
+    - megállóhely
+    - állomáshely
+    - tábor(hely)
+- szo: paRos
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - szomszédság
+    - környék
+- szo: pata#gA
+  ford:
+  - nyt: hn
+    ert:
+    - moly(lepke)
+    - szöcske
+  - ert:
+    - szikra
+    - parázs
+- szo: pattA
+  ford:
+  - nyt: hn
+    ert:
+    - levél
+    - (játék)kártya
+    - bankjegy
+- szo: patra
+  lecserel: "1,2,3=1"
+  ford:
+  - nyt: hn
+    ert:
+    - levél
+    - újság
+    - lap
+    - papír
+  - ert:
+    - szárny
+- szo: patrikA
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - folyóirat
+    - magazin
+  - ert:
+    - levél
+    - dokumentum
+- szo: pad
+  ford:
+  - nyt: hn
+    ert:
+    - pozíció
+    - állás
+    - rang
+    - helyzet
+    - elhelyezkedés
+    - lakhely
+  - ert:
+    - láb(nyom)
+    - jel(zés)
+    - lépés
+  - ert:
+    - versláb
+    - vallási vers
+- szo: padArth
+  ford:
+  - nyt: hn
+    ert:
+    - tárgy
+    - anyag
+    - dolog
+    - termék
+  - ert:
+    - jelentés
+    - szándék
+    - cél
+- szo: padhAr'nA
+  ford:
+  - nyt: tl
+    ert:
+    - indul
+    - érkezik
+    - helyet foglal
+- szo: paniir
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - sajt
+    - túró
+- szo: para#parA
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - hagyomány
+    - leszármazás
+    - utódlás
+  - ert:
+    - következés
+    - sorozat
+- szo: para#parAgat
+  ford:
+  - nyt: mn
+    ert:
+    - hagyományos
+- szo: par
+  lecserel: "3=3;3"
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - toll
+    - szárny
+- szo: parat
+  ford:
+  - nyt: nn hn
+    ert:
+    - réteg
+    - lap
+- szo: par'dA
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - függöny
+    - redőny
+    - fátyol
+  - ert:
+    - szemhéj
+    - (dob)hártya
+  - ert:
+    - (fedő)réteg
+    - bevonat
+- szo: paraspar
+  ford:
+  - nyt: mn
+    ert:
+    - kölcsönös
+  - nyt: ht
+    ert:
+    - kölcsönösen
+- szo: par'hez
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - tartózkodás
+  - kif: "* se par'hez kar'nA"
+    ert:
+    - tartózkodik vmitől
+- szo: paricit
+  ford:
+  - nyt: hn
+    ert:
+    - ismerős
+  - kif: "* se paricit"
+    nyt: mn
+    ert:
+    - vmi ismerője
+    - vmivel tisztában levő
+  - kif: paricit karAnA
+    ert:
+    - bemutat
+- szo: pariNAm
+  ford:
+  - nyt: hn
+    ert:
+    - (vég)eredmény
+    - hatás
+    - következmény
+    - következtetés
+  - ert:
+    - változás
+    - (át)alakulás
+    - végső állapot
+- szo: parivAr
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - család
+    - rokonság
+  - ert:
+    - kíséret
+- szo: pariSram
+  ford:
+  - nyt: hn
+    ert:
+    - kemény munka
+    - erőfeszítés
+    - szorgalom
+    - fáradozás
+    - gürcölés
+- szo: pariSramii
+  ford:
+  - nyt: mn
+    ert:
+    - szorgalmas
+    - dolgos
+  - ert:
+    - fáradhatatlan
+- szo: paristhiti
+  ford:
+  - nyt: nn
+    ert:
+    - körülmény(ek)
+- szo: parii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - tündér
+  - ert:
+    - szép nő
+- szo: pare
+  ford:
+  - kif: (* ke/se) pare
+    nyt: nt ht
+    ert:
+    - túl
+    - túloldalt
+    - távolabb
+    - felett
+    - később
+    - elérhetetlenül
+- szo: pareSAnii
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - gond
+    - baj
+    - probléma
+    - nyugtalanság
+    - aggodalom
+  - ert:
+    - zavarban levő állapot
+    - zavarodottság
+    - tanácstalanság
+- szo: paros'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - terít
+    - tálal
+    - felszolgálja az ételt
+- szo: paryaTan
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - turizmus
+    - utazás
+- szo: paryApt
+  ford:
+  - nyt: mn
+    ert:
+    - elegendő
+    - számottevő
+- szo: paryAvaraN
+  ford:
+  - nyt: hn
+    ert:
+    - környezet
+- szo: palaT'nA
+  ford:
+  - nyt: tl
+    ert:
+    - (meg)fordul
+    - átfordul
+    - visszafordul
+    - visszapattan
+    - felborul
+  - nyt: t
+    ert:
+    - (meg)fordít
+    - átfordít
+    - visszafordít
+    - felborít
+    - visszaküld
+    - kicserél
+- szo: pal'TAnA
+  ford:
+  - nyt: t
+    ert:
+    - (át)fordít
+    - visszafordít
+    - visszaver
+- szo: pavitra
+  ford:
+  - nyt: mn
+    ert:
+    - lelkileg tiszta
+    - szent
+- szo: paSu
+  ford:
+  - nyt: hn
+    ert:
+    - tenyésztett jószág
+    - (házi)állat
+    - vadállat
+    - szo: barom
+      megj: átv. is
+- szo: paScim
+  ford:
+  - nyt: mn hn
+    ert:
+    - nyugat(i)
+- szo: paScimii
+  ford:
+  - nyt: mn
+    ert:
+    - nyugati

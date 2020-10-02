@@ -260,7 +260,8 @@ szavak:
     - man
   - kif: dil lag'nA
     ert:
-    - otthon érzi magát
+    - otthonosan érzi magát
+    - jól megvan
 - szo: den
   szarm: S
   ford:
@@ -269,6 +270,7 @@ szavak:
     - ajándék(ozás)
     - adás
     - hozzájárulás
+    - hagyaték
     - tartozás
 - szo: fur'sat
   lecserel: "1=1"

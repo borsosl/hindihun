@@ -655,7 +655,13 @@ szavak:
     - tipus: felsz
       alak: do diijie
     ert:
-    - ad
+    - (oda)ad
+    - átad
+    - biztosít
+    - okoz
+    - hozzájárul
+    - kibocsát
+    - kitermel
   - kif: (kar'ne) denA
     ert:
     - (meg)enged (vmit csinálni)
@@ -1202,6 +1208,9 @@ szavak:
     ert:
     - ideges
     - izgatott
+    - nyugtalan
+    - aggódó
+    - szorongó
   - kif: "* ko pareSAn kar'nA"
     nyt: t
     ert:
@@ -1406,6 +1415,9 @@ szavak:
   - kif: "* ko patA honA"
     ert:
     - vki tud vmit
+  - kif: "* ko patA cal'nA"
+    ert:
+    - vkinek a tudomására jut
   - kif: patA nahii~
     ert:
     - nem tudom

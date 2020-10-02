@@ -261,8 +261,9 @@ szavak:
   ford:
   - nyt: hn
     ert:
-    - kérés
+    - kérelem
     - kérelmezés
+    - kérés
     - felfedés
     - átadás
 - szo: noT

@@ -185,12 +185,12 @@ szavak:
   ford:
   - nyt: hn
     ert:
-    - meditáció
     - figyelem
-  - kif: dhyAn rakh'nA, dhyAn denA
+    - meditáció
+  - kif: (* par) dhyAn rakh'nA, dhyAn denA
     nyt: t
     ert:
-    - figyel
+    - (oda)figyel
     - összpontosít
   - kif: "* kA dhyAn rakh'nA"
     ert:
@@ -198,6 +198,7 @@ szavak:
   - kif: dhyAn se
     ert:
     - figyelmesen
+    - gondosan
 - szo: nArA
   szarm: A
   ford:

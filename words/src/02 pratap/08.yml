@@ -200,6 +200,9 @@ szavak:
     ert:
     - pillanat
     - mérték
+  - kif: pal bhar (ke lie)
+    ert:
+    - egy pillanatra
 - szo: pahar
   szarm: S
   ford:

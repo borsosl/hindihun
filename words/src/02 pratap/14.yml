@@ -241,10 +241,13 @@ szavak:
     ert:
     - lopakodik
 - szo: dubArA
+  alt:
+  - dobArA
   szarm: S+S
   ford:
   - ert:
     - másodjára
+    - másodszor
     - újra
     - még egyszer
     - kétszer

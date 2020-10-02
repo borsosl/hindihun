@@ -77,6 +77,9 @@ szavak:
   - nyt: hn
     ert:
     - férj
+    - mester
+    - úr
+    - vezér
   - kif: pati-dev
     nyt: hn
     ert:

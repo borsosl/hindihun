@@ -266,12 +266,12 @@ szavak:
     pl:
     - ered: dukAn kii dekh'bhAl kar'nA
       ford: viszi a boltot
-- szo: dehAnt
+- szo: dehA#t
   ford:
   - nyt: hn
     ert:
     - halál
-  - kif: "* kA dehAnt honA"
+  - kif: "* kA dehA#t honA"
     ert:
     - meghal
 - szo: na
@@ -286,17 +286,28 @@ szavak:
   - kif: na … na …
     ert:
     - sem … sem …
+  - kif: na ki
+    ert:
+    - nem pedig
 - szo: ni#dA
   ford:
   - nyt: nn
     ert:
+    - bírálat
+    - hibáztatás
+    - okolás
+    - korholás
+    - kifogásolás
+    - vádolás
     - szemrehányás
     - feddés
-    - korholás
   - kif: "* kii ni#dA kar'nA"
     ert:
+    - bírál
     - hibáztat
     - okol
+    - korhol
+    - kifogásol
     - vádol
 - szo: nikAl'nA
   lecserel: "1=1"

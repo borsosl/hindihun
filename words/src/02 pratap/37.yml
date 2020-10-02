@@ -1,0 +1,698 @@
+datum: 2020-09-17
+forras:
+  nev: Pratap
+  fejezet: 37
+szavak:
+- szo: diKKat
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - szenvedés
+    - fájdalom
+  - ert:
+    - nehézség
+    - baj
+    - kellemetlenség
+- szo: dikhAii
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - látás
+    - látszás
+  - kif: dikhAii denA, dikhAii paR'nA
+    nyt: tl
+    ert:
+    - látszik
+    - tűnik
+- szo: dikhAnA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - (meg)mutat
+    - rámutat
+    - jelez
+    - felfed
+- szo: dil'casp
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - érdekes
+    - kellemes
+    - vonzó
+- szo: dil'caspii
+  szarm: P+P
+  ford:
+  - nyt: nn
+    ert:
+    - érdekesség
+    - érdeklődés
+- szo: dilAsA
+  szarm: P+P
+  ford:
+  - nyt: hn
+    ert:
+    - vigasz(talás)
+    - bátorítás
+- szo: divas
+  ford:
+  - nyt: hn
+    ert:
+    - vminek a napja
+    - évforduló
+- szo: diSA
+  ford:
+  - nyt: nn
+    ert:
+    - irány
+    - égtáj
+    - térség
+- szo: diikh'nA
+  ford:
+  - nyt: tl
+    ert:
+    - látszik
+    - megjelenik
+- szo: diin
+  lecserel: "2=1;2"
+  ford:
+  - nyt: mn
+    ert:
+    - nyomorult
+    - rászoruló
+    - elesett
+    - szerencsétlen
+- szo: diiyA
+  ford:
+  - nyt: hn
+    ert:
+    - lámpa
+    - lámpás
+    - gyertya
+- szo: diiyA-salAii
+  ford:
+  - nyt: nn
+    ert:
+    - gyufa
+- szo: diivAl
+  ford:
+  - nyt: nn
+    ert:
+    - fal
+- szo: duA
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - áldás
+    - ima
+    - kívánság
+- szo: dukAn
+  lecserel: "1=1"
+  szarm: AP
+  ford:
+  - nyt: nn
+    ert:
+    - üzlet
+    - bolt
+    - műhely
+- szo: dupaTTA
+  ford:
+  - nyt: hn
+    ert:
+    - kétrétegű sál
+    - pongyola
+    - lepel
+- szo: durlabh
+  ford:
+  - nyt: mn
+    ert:
+    - nehezen fellelhető/elérhető
+    - ritka
+    - értékes
+    - drága
+- szo: duSman
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - ellenség
+    - ellenfél
+- szo: duSmanii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - ellenségesség
+    - rosszindulat
+    - gyűlölet
+- szo: dUdh
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - tej
+  - kif: dUdh'vAlA
+    ert:
+    - tejárus
+    - tejet adó
+- szo: dUr
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - messzi
+    - távoli
+  - kif: dUr kar'nA
+    ert:
+    - távol tart
+    - eltávolít
+    - elrejt
+    - kitöröl
+    - eloszlat
+- szo: dUr'biin
+  ford:
+  - nyt: nn
+    ert:
+    - távcső
+    - teleszkóp
+- szo: dUrii
+  ford:
+  - nyt: nn
+    ert:
+    - távolság
+  - kif: "* kii dUrii par"
+    ert:
+    - vmilyen távolságra
+- szo: dRIRh
+  ford:
+  - nyt: mn
+    ert:
+    - szilárd
+    - kemény
+    - erős
+    - eltökélt
+    - kitartó
+- szo: dRISya
+  ford:
+  - nyt: mn
+    ert:
+    - látható
+    - látnivaló
+    - vizuális
+  - nyt: hn
+    ert:
+    - látvány
+    - jelenet
+    - kép
+- szo: dRIShTi
+  ford:
+  - nyt: nn
+    ert:
+    - látvány
+    - látás
+    - nézés
+    - nézőpont
+    - tekintet
+    - megfontolás
+- szo: dekh'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - (meg)néz
+    - lát
+    - (meg)figyel
+    - tekint
+    - pillant
+    - vizsgál
+    - keres
+    - tapasztal
+    - elnéz
+  - kif: dekh'ne me~
+    ert:
+    - kinézetre
+    - vhogy kinéz
+- szo: devatA
+  ford:
+  - nyt: hn nvált
+    ert:
+    - isten(ség)
+    - imádat tárgya
+    - mélyen tisztelt személy
+- szo: dev'nAgarii
+  ford:
+  - nyt: nn
+    ert:
+    - dévanágarí írás
+- szo: devii
+  ford:
+  - nyt: nn
+    ert:
+    - istennő
+  - ert:
+    - hölgy
+  - kif: devio Or sajjano
+    ert:
+    - hölgyeim és uraim!
+- szo: deS-bhakt
+  ford:
+  - nyt: mn
+    ert:
+    - hazafias
+  - nyt: hn
+    ert:
+    - hazafi
+- szo: deS-bhakti
+  ford:
+  - nyt: nn
+    ert:
+    - hazafiasság
+    - hazaszeretet
+- szo: deh
+  ford:
+  - nyt: nn hn
+    ert:
+    - test
+    - élet
+    - emberi születés
+- szo: dehAt
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - vidék
+- szo: dehAtii
+  ford:
+  - nyt: mn
+    ert:
+    - vidéki
+    - falusi
+- szo: dopahar
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - dél
+    - kora délután
+- szo: doSh
+  ford:
+  - nyt: hn
+    ert:
+    - hiba
+    - bűn
+    - sértés
+    - vétek
+    - bántás
+    - okolás
+  - ert:
+    - rendellenesség
+    - zavar
+    - betegség
+  - kif: doSh lagAnA
+    ert:
+    - okol
+    - vádol
+    - hibáztat
+- szo: doShii
+  ford:
+  - nyt: mn
+    ert:
+    - bűnös
+    - vétkes
+    - gonosz
+  - kif: doShii Thah'rAnA
+    ert:
+    - bűnösnek talál
+- szo: dost
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - barát
+    - szerető
+    - kedves
+- szo: dostii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - barátság
+    - szeretet
+- szo: doh'rAnA
+  ford:
+  - nyt: t
+    ert:
+    - (el)ismétel
+    - kétszerez
+    - (meg)dupláz
+- szo: dOR
+  ford:
+  - nyt: nn
+    ert:
+    - futás
+    - verseny
+    - vágta
+    - (le)rohanás
+  - ert:
+    - pálya
+    - útvonal
+    - hatáskör
+- szo: dOR'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: tl
+    ert:
+    - fut
+    - (le)rohan
+    - (rá)támad
+    - ráront
+    - gyorsan terjed
+- szo: dOrA
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - (kör)forgás
+    - fordulat
+    - kör(pálya)
+  - ert:
+    - szo: roham
+      megj: betegség
+- szo: drav
+  ford:
+  - nyt: mn
+    ert:
+    - folyékony
+    - folyó(s)
+    - megolvadt
+    - áramló
+  - nyt: hn
+    ert:
+    - folyadék
+- szo: dravya
+  ford:
+  - nyt: hn
+    ert:
+    - anyag
+    - alapanyag
+    - (kémiai) elem
+  - ert:
+    - dolog
+    - áru(cikk)
+  - ert:
+    - vagyon
+    - jó körülmény
+    - lehetőségek
+- szo: dhakkA
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - lökés
+    - (neki)ütődés
+    - ütközés
+    - behatás
+    - lökdösődés
+    - taszigálás
+  - kif: dhakkA lag'nA
+    nyt: tl
+    ert:
+    - meg van lökve
+- szo: dhaR
+  ford:
+  - nyt: hn
+    ert:
+    - (fa)törzs
+    - (emberi test) törzse
+    - test
+- szo: dhaRak
+  alt:
+  - dhaR'kan
+  ford:
+  - nyt: nn
+    ert:
+    - szívverés
+    - szívdobogás
+    - lüktetés
+  - ert:
+    - rémület
+    - félelem
+- szo: dhaRak'nA
+  ford:
+  - nyt: tl
+    ert:
+    - dobog
+    - szo: ver
+      megj: szív
+    - lüktet
+  - ert:
+    - reszket félelmében
+  - ert:
+    - lángol
+- szo: dhan
+  ford:
+  - nyt: hn
+    ert:
+    - gazdagság
+    - vagyon
+    - tulajdon
+    - pénz
+    - tőke
+    - kincs
+    - természeti kincsek
+    - jószág
+- szo: dhanii
+  ford:
+  - nyt: mn
+    ert:
+    - gazdag
+    - vagyonos
+  - ert:
+    - dicséretes
+    - erényes
+- szo: dhanya
+  ford:
+  - nyt: mn
+    ert:
+    - áldott
+    - szerencsés
+    - gyümölcsöző
+    - kedvező
+  - ert:
+    - dicséretes
+    - erényes
+- szo: dhabbA
+  ford:
+  - nyt: hn
+    ert:
+    - (kosz)folt
+    - pecsétfolt
+    - szégyenfolt
+- szo: dham'kii
+  ford:
+  - nyt: nn
+    ert:
+    - fenyegetés
+  - ert:
+    - rendreutasítás
+    - szidás
+- szo: dhamAkA
+  ford:
+  - nyt: hn
+    ert:
+    - robaj
+    - csattanás
+    - csapódás
+    - puffanás
+    - robbanás
+- szo: dharm
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - vallás
+    - hit
+    - erény
+    - kötelesség
+    - erkölcsi törvény
+    - igazság
+    - becsület
+    - tisztesség
+- szo: dhAgA
+  ford:
+  - nyt: hn
+    ert:
+    - fonál
+    - zsinór
+- szo: dhAtu
+  ford:
+  - nyt: nn
+    ert:
+    - fém
+    - érc
+    - elem
+    - ásvány
+  - ert:
+    - testnedv
+    - váladék
+    - ondó
+- szo: dhAr
+  ford:
+  - nyt: nn
+    ert:
+    - él
+    - penge
+  - ert:
+    - áramlat
+    - áradat
+- szo: dhArA
+  ford:
+  - ert:
+    - áram(lat)
+    - áradat
+  - ert:
+    - elektromos áram
+  - ert:
+    - szakasz
+    - bekezdés
+  - ert:
+    - sokaság
+    - tömeg
+- szo: dhArAvAhik
+  ford:
+  - nyt: mn
+    ert:
+    - sorozatos
+    - folyamatos
+    - áramló
+  - nyt: hn
+    ert:
+    - szo: sorozat
+      megj: TV, újság
+- szo: dhArmik
+  ford:
+  - nyt: mn
+    ert:
+    - vallásos
+    - buzgó
+    - becsületes
+    - tisztességes
+- szo: dhiiraj
+  ford:
+  - nyt: hn
+    ert:
+    - bátorság
+    - türelem
+    - állhatatosság
+    - kitartás
+    - eltökéltség
+    - állandóság
+    - (lelki)erő
+- szo: dhiirA
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - lassú
+  - kif: dhiire (dhiire)
+    nyt: ht
+    ert:
+    - lassan
+- szo: dhu#dh
+  ford:
+  - nyt: nn
+    ert:
+    - köd
+    - pára
+    - homály
+- szo: dhu~dh'lA
+  ford:
+  - nyt: mn
+    ert:
+    - ködös
+    - párás
+    - homályos
+    - elmosódott
+    - halvány
+- szo: dhuA~
+  ford:
+  - nyt: hn
+    var:
+    - tipus: nt eset
+      alak: dhue~
+    ert:
+    - füst
+- szo: dhun
+  ford:
+  - nyt: nn
+    ert:
+    - dallam
+    - énekstílus
+- szo: dhul'vAnA
+  ford:
+  - nyt: t
+    ert:
+    - mosat
+- szo: dhulAii
+  ford:
+  - nyt: nn
+    ert:
+    - mosás
+- szo: dhulAii-maSiin
+  ford:
+  - nyt: nn
+    ert:
+    - mosógép
+- szo: dhUp
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - napsugár
+    - napfény
+    - verőfény
+  - kif: dhUp khAnA
+    ert:
+    - napozik
+- szo: dhUmrapAn
+  ford:
+  - nyt: hn
+    ert:
+    - dohányzás
+- szo: dhUl
+  ford:
+  - nyt: nn
+    ert:
+    - por
+- szo: dhErya
+  ford:
+  - ert:
+    - állhatatosság
+    - kitartás
+    - lelkierő
+    - türelem
+- szo: dhokhebAz
+  ford:
+  - nyt: mn hn
+    ert:
+    - csaló
+- szo: dhokhebAzii
+  ford:
+  - nyt: nn
+    ert:
+    - csalás
+    - becsapás
+    - átverés
+- szo: dhonA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - szo: mos
+      megj: ruhát, testet
