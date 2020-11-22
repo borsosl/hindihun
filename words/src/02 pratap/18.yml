@@ -587,7 +587,10 @@ szavak:
   - nyt: mn nvált
     ert:
     - született
+    - világra jött
+    - létrejött
     - keletkezett
+    - szerzett
   - kif: pEdA honA
     nyt: tl
     ert:
@@ -597,6 +600,14 @@ szavak:
     - ered
     - fakad
     - adódik
+  - kif: pEdA kar'nA
+    nyt: t
+    ert:
+    - létrehoz
+    - termel
+    - (állatot) nevel
+    - származtat
+    - szerez
 - szo: pratiit
   ford:
   - kif: pratiit honA
@@ -613,6 +624,7 @@ szavak:
     - járkál
     - körbejár
     - visszajön
+    - visszafordul
     - elfordul
     - megfordul vhol
 - szo: fil'hAl
@@ -632,6 +644,9 @@ szavak:
     - spórol
     - visszatart
     - elkerül
+  - kif: bacAo!
+    ert:
+    - segítség!
 - szo: ban
   ford:
   - nyt: hn
@@ -650,6 +665,7 @@ szavak:
   - nyt: t
     ert:
     - letelepít
+    - benépesít
     - megalapít
     - földet művelni kezd
     - befogad

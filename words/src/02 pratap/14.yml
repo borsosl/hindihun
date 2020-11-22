@@ -92,6 +92,7 @@ szavak:
   - nyt: nn hn
     ert:
     - oldal
+    - hónalj
   - kif: kii baGal me~
     ert:
     - mellett
@@ -337,6 +338,11 @@ szavak:
     - megszökik
     - felépül
     - (meg)marad
+  - kif: bacA
+    nyt: mn
+    ert:
+    - megmaradó
+    - megmentett
 - szo: bEThAnA
   alt:
   - biThAnA

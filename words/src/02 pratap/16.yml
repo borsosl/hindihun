@@ -344,9 +344,14 @@ szavak:
     - szolgák és hasonlók
 - szo: piichA
   ford:
+  - nyt: hn
+    ert:
+    - hátsó rész
   - kif: (* kA) piichA kar'nA
     ert:
     - követ (vkit)
+    - üldöz
+    - űz
 - szo: pe#sil
   szarm: E
   ford:

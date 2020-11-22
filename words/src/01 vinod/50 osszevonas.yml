@@ -212,8 +212,30 @@ szavak:
   ford:
   - nyt: mn
     ert:
-    - zárt
-    - kötött
+    - (meg)kötött
+    - (meg)kötözött
+    - (oda)erősített
+    - (be)csukott
+    - (be)zárt
+    - körülzárt
+    - lezárt
+  - ert:
+    - kikapcsolt
+    - leállított
+  - ert:
+    - befejeződött
+    - befejezett
+  - nyt: hn
+    ert:
+    - kötés
+    - kötözés
+    - erősítés
+  - ert:
+    - gát
+    - rakpart
+  - ert:
+    - bezártság
+    - rabosodás
   - kif: ba#d rah'nA
     nyt: tl
     ert:
@@ -1540,6 +1562,7 @@ szavak:
   - nyt: mn
     ert:
     - hátul levő
+    - hátsó
 - szo: pOdhA
   lecserel: "1,2=1"
   ford:

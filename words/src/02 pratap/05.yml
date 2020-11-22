@@ -213,6 +213,9 @@ szavak:
   - nyt: hn
     ert:
     - víz
+    - eső
+    - folyadék
+    - nedv
   - kif: pAnii paR'nA
     ert:
     - eső esik
@@ -222,6 +225,7 @@ szavak:
   - nyt: hn
     ert:
     - apu(ka)
+    - papa
 - szo: piinA
   szarm: S
   lecserel: "1=1"

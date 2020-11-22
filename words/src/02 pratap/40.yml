@@ -1,0 +1,657 @@
+datum: 2020-11-14
+forras:
+  nev: Pratap
+  fejezet: 40
+szavak:
+- szo: pasa#diidA
+  szarm: P
+  ford:
+  - nyt: mn nvált
+    ert:
+    - kedvenc
+    - kedvelt
+    - előnyben részesített
+    - választott
+    - elfogadott
+- szo: pas'lii
+  ford:
+  - nyt: nn
+    ert:
+    - borda
+- szo: pasiinA
+  ford:
+  - nyt: nn
+    ert:
+    - izzadtság
+    - verejték
+  - kif: "* ko pasiinA AnA"
+    ert:
+    - izzad
+    - szégyelli magát
+- szo: pah'cAn
+  ford:
+  - nyt: nn
+    ert:
+    - felismerés
+    - megkülönböztetés
+  - ert:
+    - jellemző
+    - sajátosság
+    - azonosság
+- szo: pah'cAn'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - felismer
+    - megismer
+- szo: pah'nAnA
+  ford:
+  - nyt: t
+    ert:
+    - ruhát felvetet
+    - (fel)öltöztet
+    - viseltet
+    - hordat
+- szo: pah'rA
+  ford:
+  - nyt: hn
+    ert:
+    - őrzés
+    - őrség (ideje)
+- szo: pah'lA
+  lecserel: "1=1"
+  ford:
+  - nyt: szn
+    ert:
+    - első
+    - "1."
+  - nyt: mn
+    ert:
+    - előző
+    - korábbi
+  - ert:
+    - elsődleges
+    - eredeti
+  - ert:
+    - vezető
+  - nyt: ht
+    ert:
+    - azelőtt
+    - korábban
+    - már
+    - először
+- szo: pah'lU
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - oldal
+    - szárny
+    - arculat
+    - aspektus
+  - ert:
+    - közelség
+  - ert:
+    - rejtett előny
+- szo: pahAR
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - hegy
+    - hegység
+    - domb
+    - szikla
+- szo: pahARii
+  ford:
+  - nyt: mn
+    ert:
+    - hegyi
+    - hegyvidéki
+    - hegyekkel tarkított
+  - nyt: hn
+    ert:
+    - hegylakó
+- szo: pahARii
+  lecserel: "2=2;2"
+  ford:
+  - nyt: nn
+    ert:
+    - domb(ocska)
+- szo: pahu~c'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: tl
+    ert:
+    - érkezik
+    - odaér
+    - eljut
+    - bejut
+    - (meg)kap
+- szo: pA~v
+  ford:
+  - nyt: hn
+    ert:
+    - láb(fej)
+    - lábszár
+- szo: pAgal-KhAnA
+  ford:
+  - nyt: hn
+    ert:
+    - őrültek háza
+    - elmegyógyintézet
+- szo: pAThak
+  ford:
+  - nyt: hn
+    ert:
+    - olvasó
+    - tanár
+    - vallási verseket szavaló bráhmana
+    - egy hindú közösség neve
+    - hindú törvények felügyelője
+- szo: pAd
+  ford:
+  - nyt: hn
+    ert:
+    - szellentés
+    - fingás
+  - kif: pAd mAr'nA/choR'nA
+    ert:
+    - szellent
+    - fingik
+- szo: pAp
+  ford:
+  - nyt: hn
+    ert:
+    - bűn
+    - gonoszság
+    - eltévelyedés
+- szo: pApii
+  ford:
+  - nyt: mn hn
+    ert:
+    - bűnös
+    - gonosz
+- szo: pAba#dii
+  ford:
+  - nyt: nn
+    ert:
+    - szabály
+    - korlátozás
+    - tiltás
+    - betartás
+    - követés
+- szo: pAl'thii
+  ford:
+  - nyt: nn
+    ert:
+    - törökülés
+  - kif: pAl'thii mAr'kar bETh'nA
+    ert:
+    - törökülésben ül
+- szo: pi#j'rA
+  ford:
+  - nyt: hn
+    ert:
+    - ketrec
+- szo: pich'RA
+  ford:
+  - nyt: mn
+    ert:
+    - hátramaradt
+    - lemaradt
+    - hátul levő
+- szo: pich'vARA
+  ford:
+  - nyt: hn
+    ert:
+    - hátsó rész
+    - hátsó kert
+- szo: pilAnA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - itat
+    - itallal kínál
+  - ert:
+    - locsol
+    - megtölt
+  - ert:
+    - sugall
+    - sejtet
+    - céloz(gat)
+- szo: piiT'nA
+  ford:
+  - nyt: t
+    ert:
+    - üt
+    - (meg)ver
+    - csap(kod)
+    - elpáhol
+    - szo: csépel
+      megj: gabonát
+- szo: piiTh
+  ford:
+  - nyt: hn
+    ert:
+    - hát
+    - hátsó rész
+- szo: piiRA
+  ford:
+  - nyt: nn
+    ert:
+    - fájdalom
+    - szenvedés
+- szo: piiRit
+  ford:
+  - nyt: mn
+    ert:
+    - szenvedő
+    - sújtott
+    - elnyomott
+  - ert:
+    - facsart
+    - zúzott
+- szo: piiRhii
+  ford:
+  - nyt: nn
+    ert:
+    - generáció
+    - családfa
+  - ert:
+    - sámli
+- szo: piital
+  ford:
+  - nyt: hn
+    ert:
+    - sárgaréz
+    - bronz
+- szo: piilA
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - sárga
+  - ert:
+    - sápadt
+- szo: piis'nA
+  ford:
+  - nyt: t
+    ert:
+    - darál
+    - őröl
+    - zúz
+  - ert:
+    - csikorgat
+  - ert:
+    - sanyargat
+- szo: pukAr'nA
+  ford:
+  - nyt: t tl
+    ert:
+    - kiált
+    - kiabál
+    - (össze)hív
+    - kérelmez
+    - bepanaszol
+  - ert:
+    - hív
+    - nevez
+    - megszólít
+- szo: puNya
+  ford:
+  - nyt: mn
+    ert:
+    - jámbor
+    - áldott
+    - szent
+    - kedvező
+    - kiérdemelt
+  - nyt: hn
+    ert:
+    - lelki érdem
+- szo: pur'zA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - rész
+    - összetevő
+    - darab
+    - (papír)fecni
+    - jegyzet
+- szo: puraskAr
+  ford:
+  - nyt: hn
+    ert:
+    - díj
+- szo: pula#dA
+  alt:
+  - puli#dA
+  ford:
+  - nyt: hn
+    ert:
+    - köteg
+    - csomag
+- szo: pu#li#g
+  alt:
+  - pulli#g
+  ford:
+  - nyt: mn hn
+    ert:
+    - hímnem(ű)
+    - hím ivarszerv
+- szo: pustak
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - könyv
+    - kötet
+    - kézirat
+- szo: pUch-tAch
+  ford:
+  - nyt: nn
+    ert:
+    - kérdezősködés
+    - érdeklődés
+    - kikérdezés
+    - kihallgatás
+- szo: pUjA
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - imádság
+    - istentisztelet
+    - imádat
+  - kif: pUjA kar'nA
+    ert:
+    - imádkozik
+- szo: pURii
+  lecserel: "1=1"
+  alt:
+  - pUrii
+  ford:
+  - nyt: nn
+    ert:
+    - olajban sült, fehérlisztből készült lepénykenyér
+- szo: pUrA
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - teljes
+    - egész
+    - befejezett
+    - beteljesített
+  - ert:
+    - pontos
+  - kif: pUrA kar'nA
+    ert:
+    - befejez
+    - véghezvisz
+  - kif: pUrA paR'nA
+    ert:
+    - elegendőnek bizonyul
+    - elég
+- szo: pUrN
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - teli
+    - teljes
+    - egész
+    - befejezett
+- szo: pUrv
+  lecserel: "1=1"
+  ford:
+  - nyt: mn hn
+    ert:
+    - kelet(i)
+  - ert:
+    - korábbi
+    - előző
+  - kif: ke pUrv, se pUrv
+    nyt: nt
+    ert:
+    - szo: előtt
+      megj: időhatározó
+    - korábban
+- szo: pUrvaj
+  ford:
+  - nyt: mn hn
+    ert:
+    - idősebb
+    - báty
+  - ert:
+    - előd
+    - ős
+- szo: pUrvAgrah
+  ford:
+  - nyt: hn
+    ert:
+    - előítélet
+- szo: pUrvii
+  ford:
+  - nyt: mn
+    ert:
+    - keleti
+- szo: pRIthvii
+  alt:
+  - pRIthivii
+  ford:
+  - nyt: nn
+    ert:
+    - föld
+    - világ
+  - ert:
+    - talaj
+- szo: pRIShTh
+  ford:
+  - nyt: hn
+    ert:
+    - (könyv)oldal
+  - ert:
+    - hát
+    - hátsó rész
+- szo: pRIShTh-bhUmi
+  ford:
+  - nyt: nn
+    ert:
+    - háttér
+    - hátsó rész
+  - ert:
+    - közeg
+    - légkör
+- szo: peciidA
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - kicsavart
+    - csavaros
+  - ert:
+    - bonyolult
+    - összetett
+    - komplex
+- szo: pec
+  alt:
+  - pe~c
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - csavar
+- szo: pec'kaS
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - csavarhúzó
+    - dugóhúzó
+- szo: peT
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - has
+    - gyomor
+    - étvágy
+  - ert:
+    - méh
+    - terhesség
+  - ert:
+    - titkos gondolatok
+  - kif: bhar peT
+    ert:
+    - pukkadásig
+    - teli hasig
+- szo: peTii
+  ford:
+  - nyt: nn
+    ert:
+    - öv
+    - szíj
+- szo: peTii
+  lecserel: "2=2;2"
+  ford:
+  - nyt: nn
+    ert:
+    - doboz
+    - láda
+- szo: peS
+  szarm: P
+  ford:
+  - nyt: ht
+    ert:
+    - bemutatva
+    - előtérbe
+  - ert:
+    - korábban
+  - kif: peS AnA
+    ert:
+    - előlép
+    - bemutatkozik
+    - megjelenik
+    - viselkedik
+    - bánik
+  - kif: peS kar'nA
+    ert:
+    - előterjeszt
+    - prezentál
+- szo: peSAb
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - vizelet
+    - húgy
+    - pisi
+  - kif: peSAb kar'nA
+    ert:
+    - pisil
+- szo: peSevar
+  alt:
+  - peSAvar
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - szakember
+    - mester(ember)
+    - iparos
+    - szakértő
+    - hivatásos
+    - profi
+- szo: pE#T
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - nadrág
+- szo: pEtRIk
+  ford:
+  - nyt: mn
+    ert:
+    - apai
+    - ősi
+    - örökölt
+    - örökletes
+- szo: pEdAiS
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - születés
+    - eredet
+- szo: pEdAiSii
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - vele született
+    - természetes
+    - ösztönös
+- szo: pEdAvAr
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - termés
+  - ert:
+    - gyártmány
+  - ert:
+    - hozam
+    - bevétel
+- szo: po~ch'nA
+  ford:
+  - nyt: t
+    ert:
+    - letöröl
+    - porol
+    - felmos
+    - súrol
+- szo: pot'nA
+  ford:
+  - nyt: t
+    ert:
+    - beken
+    - anyagot felhord
+    - bemázol
+  - ert:
+    - elkendőz
+- szo: potA
+  ford:
+  - nyt: hn
+    ert:
+    - szo: unoka
+      megj: vki fiának a fia
+- szo: potii
+  ford:
+  - nyt: nn
+    ert:
+    - szo: unoka
+      megj: vki fiának a lánya
+- szo: poSAk
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - öltözet
+    - ruha
+- szo: pyArA
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - kedves
+    - aranyos
+    - drága
+    - szeretett
+  - ert:
+    - elbűvölő
+    - kellemes

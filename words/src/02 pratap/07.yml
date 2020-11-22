@@ -135,10 +135,11 @@ szavak:
   - nyt: ht
     ert:
     - később
-  - kif: ke bAd
+  - kif: (ke) bAd
     nyt: nt
     ert:
     - után
+    - múlva
     - mögött
   - kif: bAd me~
     ert:
@@ -153,6 +154,8 @@ szavak:
     - udvarias megszólítási forma
   - nyt: hn
     ert:
+    - írnok
+    - hivatalnok
     - tisztviselő
 - szo: bekAr
   alt:

@@ -52,6 +52,7 @@ szavak:
   - nyt: hn
     ert:
     - szennyezettség
+    - légszennyezés
 - szo: bil'kul
   lecserel: "1=1"
   szarm: A

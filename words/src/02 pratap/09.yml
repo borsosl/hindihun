@@ -209,6 +209,8 @@ szavak:
     ert:
     - tetszetős
     - kedvére való
+    - választott
+    - elfogadott
   - nyt: nn
     ert:
     - jóváhagyás
@@ -220,6 +222,7 @@ szavak:
     - szeret
     - kedvel
     - helyesel
+    - választ
   - kif: "* ko pasa#d AnA"
     nyt: tl
     ert:
@@ -239,10 +242,17 @@ szavak:
     ert:
     - haszon
     - nyereség
+    - profit
     - előny
   - ert:
     - felépülés
     - lábadozás
+  - kif: fAy'dA uThAnA
+    nyt: t
+    ert:
+    - kihasznál
+    - előnyt kovácsol
+    - profitál
 - szo: banAras
   ford:
   - nyt: hn

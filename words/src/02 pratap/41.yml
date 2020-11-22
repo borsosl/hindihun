@@ -1,0 +1,709 @@
+datum: 2020-11-18
+forras:
+  nev: Pratap
+  fejezet: 41
+szavak:
+- szo: pyAs
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - szomjúság
+  - ert:
+    - vágy
+    - vágyódás
+  - kif: "* ko pyAs lag'nA"
+    nyt: tl
+    ert:
+    - szomjas
+- szo: prakAS
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - fény
+    - ragyogás
+    - pompa
+  - ert:
+    - napvilág
+    - napfény
+  - ert:
+    - férfinév
+  - nyt: mn
+    ert:
+    - látható
+    - nyilvános
+  - kif: prakAS vyavasthA
+    nyt: nn
+    ert:
+    - világítás
+- szo: prakRIti
+  ford:
+  - nyt: nn
+    ert:
+    - természet
+    - jelleg
+    - eredeti állapot
+- szo: pragati
+  ford:
+  - nyt: nn
+    ert:
+    - fejlődés
+    - haladás
+- szo: pragativAdii
+  ford:
+  - nyt: mn
+    ert:
+    - haladó
+    - felvilágosult
+- szo: pracalit
+  ford:
+  - nyt: mn
+    ert:
+    - jelenlegi
+    - használatos
+    - érvényben levő
+    - elterjedt
+- szo: pratidhvani
+  ford:
+  - nyt: nn
+    ert:
+    - visszhang
+- szo: pratibi#b
+  ford:
+  - nyt: hn
+    ert:
+    - visszatükröződés
+    - tükör
+    - kép
+- szo: pratibhA
+  ford:
+  - nyt: nn
+    ert:
+    - fény
+    - ragyogás
+  - ert:
+    - kiválóság
+    - nagyszerűség
+    - tehetség
+    - zsenialitás
+- szo: pratiSat
+  ford:
+  - nyt: ht hn
+    ert:
+    - százalék
+- szo: pratiShThA
+  ford:
+  - nyt: nn
+    ert:
+    - hírnév
+    - rang
+    - pozíció
+    - becsület
+  - ert:
+    - beavatás
+    - felszentelés
+- szo: pratiShThit
+  ford:
+  - nyt: mn
+    ert:
+    - híres
+    - neves
+    - ünnepelt
+    - kiváló
+    - kitűnő
+    - kiemelkedő
+    - nagyra becsült
+  - ert:
+    - megalapított
+    - megalapozott
+    - szabványos
+  - ert:
+    - elhelyezkedő
+- szo: pratispardhA
+  ford:
+  - nyt: nn
+    ert:
+    - versengés
+    - rivalizálás
+- szo: pratiik
+  ford:
+  - nyt: hn
+    ert:
+    - jelkép
+    - szimbólum
+- szo: pratham
+  lecserel: "1=1"
+  ford:
+  - nyt: szn
+    ert:
+    - első
+    - "1."
+  - nyt: mn
+    ert:
+    - elsődleges
+    - fő
+    - korábbi
+- szo: prathA
+  ford:
+  - nyt: nn
+    ert:
+    - szokás
+    - intézmény
+    - rendszer
+- szo: pradarSan
+  ford:
+  - nyt: hn
+    ert:
+    - bemutatás
+    - bemutató
+    - kiállítás
+- szo: prabhAv
+  ford:
+  - nyt: hn
+    ert:
+    - hatás
+    - befolyás
+    - benyomás
+  - ert:
+    - méltóság
+    - fenség
+- szo: prabhAv'SAlii
+  ford:
+  - nyt: mn
+    ert:
+    - befolyásos
+    - hatásos
+- szo: prabhAvit
+  ford:
+  - nyt: mn
+    ert:
+    - befolyásolt
+  - kif: prabhAvit kar'nA
+    ert:
+    - hatással van
+    - benyomást tesz
+- szo: pramAN
+  ford:
+  - nyt: hn
+    ert:
+    - bizonyíték
+    - bizonyság
+  - ert:
+    - mérték
+    - szabvány
+    - fennhatóság
+- szo: prayAs
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - igyekezet
+    - törekvés
+    - próbálkozás
+    - erőfeszítés
+- szo: prayojan
+  ford:
+  - nyt: hn
+    ert:
+    - cél
+    - célkitűzés
+  - ert:
+    - igény
+    - vonatkozás
+  - ert:
+    - alkalom
+    - indíték
+- szo: praveS
+  ford:
+  - nyt: hn
+    ert:
+    - belépés
+    - behatolás
+    - megszállás
+  - ert:
+    - bejárat
+- szo: pravRItti
+  ford:
+  - nyt: nn
+    ert:
+    - hajlam(osság)
+    - viselkedés
+  - ert:
+    - alkalmazás
+- szo: praSa#sA
+  ford:
+  - nyt: nn
+    ert:
+    - dicséret
+    - dicsőítés
+    - magasztalás
+  - ert:
+    - dicsőség
+    - hírnév
+  - kif: "* kii praSa#sA kar'nA"
+    ert:
+    - dicsér vkit
+- szo: praSikShaN
+  ford:
+  - nyt: hn
+    ert:
+    - képzés
+    - tanulóidő
+- szo: prasannatA
+  ford:
+  - nyt: nn
+    ert:
+    - öröm
+    - elégedettség
+- szo: prAkRItik
+  ford:
+  - nyt: mn
+    ert:
+    - természetes
+    - természet-
+- szo: prAciin
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - ősi
+    - régi
+    - időtlen
+    - ó-
+  - ert:
+    - eredeti
+  - ert:
+    - keleti
+- szo: prArthanA
+  ford:
+  - nyt: nn
+    ert:
+    - kérés
+    - kérelem
+    - kérlelés
+    - könyörgés
+    - esedezés
+    - kérvény
+    - folyamodás
+    - folyamodvány
+    - mohó vágy
+- szo: premii
+  ford:
+  - nyt: mn hn
+    ert:
+    - szerető
+    - szeretetteljes
+- szo: progrAm
+  lecserel: "1=1"
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - program
+    - napirend
+    - gyakorlat
+- szo: protsAhan
+  ford:
+  - nyt: hn
+    ert:
+    - ösztönzés
+    - bátorítás
+    - buzdítás
+    - biztatás
+    - támogatás
+- szo: protsAhit
+  ford:
+  - kif: protsAhit kar'nA
+    ert:
+    - ösztönöz
+    - bátorít
+- szo: pha#dA
+  ford:
+  - nyt: hn
+    ert:
+    - csapda
+    - kelepce
+    - hurok
+- szo: phaT'nA
+  ford:
+  - nyt: tl
+    ert:
+    - (el)szakad
+    - szétszakad
+    - átszakad
+    - szo: megszakad
+      megj: szív
+  - ert:
+    - (fel)hasad
+    - szo: hasogat
+      megj: fej
+  - ert:
+    - szétoszlik
+    - szertefoszlik
+    - szo: szétválik
+      megj: kétféle anyag
+  - ert:
+    - szo: felrobban
+      megj: dühtől
+  - ert:
+    - elkülönül
+- szo: phapholA
+  ford:
+  - nyt: hn
+    ert:
+    - hólyag(osodás)
+    - (víz)buborék
+- szo: far'mAiS
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - (meg)rendelés
+    - felkérés
+- szo: fariStA
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - angyal
+    - próféta
+- szo: farK
+  lecserel: "1=1"
+  alt:
+  - far'K
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - különbség
+    - eltérés
+    - megkülönböztetés
+  - kif: "* me~ farK paR'nA, * me~ farK AnA"
+    ert:
+    - különbség van köztük
+  - kif: koii farK nahii~ paR'tA
+    ert:
+    - nem különbözik
+    - nincs semmi különbség
+  - kif: "* me~ farK kar'nA"
+    ert:
+    - megkülönböztet
+- szo: farz
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - vallási/erkölcsi kötelesség
+  - ert:
+    - feltételezés
+- szo: phal
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - gyümölcs
+    - termény
+    - eredmény
+    - hatás
+    - nyereség
+    - jutalom
+    - származék
+  - ert:
+    - szo: megoldás
+      megj: feladaté, feladványé
+- szo: phal'nA
+  ford:
+  - nyt: tl
+    ert:
+    - gyümölcsöt hoz
+    - terem
+    - utódai vannak
+  - ert:
+    - virágzik
+    - sikeresen megy
+- szo: phal'vAlA
+  ford:
+  - nyt: hn
+    ert:
+    - gyümölcsárus
+- szo: falA~
+  alt:
+  - falAnA
+  szarm: AP
+  ford:
+  - nyt: mn
+    ert:
+    - ilyen-olyan
+  - ert:
+    - egy bizonyos
+    - konkrét
+- szo: phA~sii
+  ford:
+  - nyt: nn
+    ert:
+    - hurok
+    - (hóhér)kötél
+  - ert:
+    - akasztás
+    - akasztófa
+  - kif: phA~sii denA
+    ert:
+    - felakaszt
+    - halálra ítél
+- szo: fAl'tU
+  ford:
+  - nyt: mn
+    ert:
+    - tartalék
+    - ráadás
+    - extra
+  - ert:
+    - szükségtelen
+    - haszontalan
+- szo: phAv'RA
+  ford:
+  - nyt: hn
+    ert:
+    - ásó
+    - (ásó)kapa
+    - csákány
+- szo: fik'r
+  alt:
+  - fikr
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - gondolat
+    - törődés
+    - aggodalom
+    - aggódás
+    - nyugtalanság
+    - gond
+    - bánat
+- szo: phisal'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: tl
+    ert:
+    - (el)csúszik
+    - megcsúszik
+- szo: phiikA
+  ford:
+  - nyt: mn
+    ert:
+    - ízetlen
+    - tompa
+    - fakó
+    - gyenge
+    - unalmas
+    - értéktelen
+- szo: fiitA
+  szarm: Pt
+  ford:
+  - nyt: hn
+    ert:
+    - cipőfűző
+    - szalag
+- szo: fiis
+  szarm: E
+  ford:
+  - nyt: nn
+    ert:
+    - díj(ak)
+- szo: phupherA
+  ford:
+  - nyt: mn
+    ert:
+    - apai nagynénihez tartozó
+  - kif: phupherA bhAii
+    nyt: hn
+    ert:
+    - szo: unokatestvér
+      megj: apai nagynéni fia
+  - kif: phupherii bahan
+    nyt: nn
+    ert:
+    - szo: unokatestvér
+      megj: apai nagynéni lánya
+- szo: phU~k'nA
+  ford:
+  - nyt: t
+    ert:
+    - (meg)fúj
+    - (be)lehel
+  - ert:
+    - fülébe suttog
+    - befolyásol
+    - pletykát terjeszt
+  - ert:
+    - cigarettába beleszív
+  - ert:
+    - felgyújt
+  - ert:
+    - elherdál
+- szo: phUT'nA
+  ford:
+  - nyt: tl
+    ert:
+    - (meg)reped
+    - (fel)hasad
+    - széttörik
+  - ert:
+    - kitör
+    - felrobban
+    - forr
+  - ert:
+    - kiszivárog
+    - szétterül
+  - ert:
+    - kihajt
+    - elágazik
+- szo: phUphA
+  ford:
+  - nyt: hn
+    ert:
+    - apai nagynéni férje
+- szo: phUphii
+  ford:
+  - nyt: nn
+    ert:
+    - apai nagynéni
+- szo: phUl'gobhii
+  ford:
+  - nyt: nn
+    ert:
+    - karfiol
+- szo: phUl'nA
+  ford:
+  - nyt: tl
+    ert:
+    - szo: virágzik
+      megj: átv is
+    - virul
+    - örvendezik
+  - ert:
+    - feldagad
+    - felfújódik
+    - pöffeszkedik
+- szo: pheph'RA
+  ford:
+  - nyt: hn
+    ert:
+    - tüdő
+  - kif: pheph'Re kii sUjan
+    nyt: nn
+    ert:
+    - tüdőgyulladás
+- szo: fel
+  szarm: E
+  ford:
+  - nyt: mn
+    ert:
+    - megbukott
+  - kif: fel honA
+    ert:
+    - szo: megbukik
+      megj: vizsgán
+- szo: fEs'lA
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - nyt: hn
+    ert:
+    - döntés
+    - határozás
+    - határozat
+    - megítélés
+    - elbírálás
+- szo: phoR'nA
+  ford:
+  - nyt: t
+    ert:
+    - (fel)repeszt
+    - (fel)hasít
+    - széttör
+    - áthatol
+  - ert:
+    - kihajt
+    - szétágaztat
+  - ert:
+    - kiszivárogtat
+  - ert:
+    - megerőltet
+- szo: fOj
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - hadsereg
+- szo: frA#siisii
+  ford:
+  - nyt: mn hn
+    ert:
+    - szo: francia
+      megj: ember
+  - nyt: nn
+    ert:
+    - francia nyelv
+- szo: ba#dii
+  szarm: P/S
+  ford:
+  - nyt: hn
+    ert:
+    - rab
+    - rabszolga
+- szo: ba#dUK
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - puska
+- szo: ba~dh'nA
+  ford:
+  - nyt: t
+    ert:
+    - meg van kötve
+    - fel van erősítve
+    - körbe van fonva
+  - ert:
+    - el van zárva
+    - korlátozva van
+    - be van börtönözve
+  - ert:
+    - meg van kötve a keze
+  - ert:
+    - szo: állandósul
+      megj: gondolat, emlék, fizetés
+    - szokásszerűen van
+    - fel van építve
+  - nyt: hn
+    ert:
+    - kötél
+    - zsinór
+    - huzal
+    - kábel
+- szo: bak
+  ford:
+  - nyt: nn
+    ert:
+    - locsogás
+    - fecsegés
+  - kif: bak'bak
+    ert:
+    - = 1.
+- szo: bak'vAs
+  ford:
+  - nyt: nn
+    ert:
+    - locsogás
+    - fecsegés
+    - üres beszéd
+- szo: baksA
+  szarm: E
+  ford:
+  - nyt: hn
+    ert:
+    - doboz
+    - láda

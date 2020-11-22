@@ -1,0 +1,641 @@
+datum: 2020-11-22
+forras:
+  nev: Pratap
+  fejezet: 42
+szavak:
+- szo: baGEr
+  lecserel: "1=1"
+  szarm: A
+  ford:
+  - kif: (ke) baGEr, baGEr ... ke
+    nyt: nt elölj
+    ert:
+    - nélkül
+- szo: baccA
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - gyerek
+    - gyermek
+    - csecsemő
+    - fiú
+  - ert:
+    - állat kicsinye
+- szo: bajAnA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - (hangszert) megszólaltat
+    - hangszeren játszik
+    - (meg)kongat
+    - dobol
+    - tapsol
+    - puskát elsüt
+- szo: baTuvA
+  alt:
+  - baTuA
+  ford:
+  - nyt: hn
+    ert:
+    - (pénz)tárca
+    - erszény
+- szo: baTor'nA
+  ford:
+  - nyt: t
+    ert:
+    - (össze)gyűjt
+    - felhalmoz
+  - ert:
+    - összehúz
+  - ert:
+    - összpontosít
+- szo: baRA
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - nagy
+    - hatalmas
+    - kiváló
+    - kiemelkedő
+  - ert:
+    - fontos
+    - befolyásos
+    - magasrangú
+    - elöljáró
+  - ert:
+    - idősebb
+    - felnőtt
+  - nyt: ht
+    ert:
+    - nagyon
+- szo: baRhaii
+  ford:
+  - nyt: hn
+    ert:
+    - ács
+  - ert:
+    - harkály
+- szo: baRh'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: tl
+    ert:
+    - növekszik
+    - (előre) megy
+    - halad
+    - kiterjed
+    - meghosszabbodik
+    - emelkedik
+    - duzzad
+    - gyorsul
+    - fejlődik
+    - virágzik
+    - előmozdul
+    - túljut
+    - túlhalad
+  - ert:
+    - meg van szerezve
+  - ert:
+    - bezárul
+    - kialszik
+  - kif: baRh'kar
+    nyt: mn
+    ert:
+    - nagyobb
+    - jobb
+  - kif: (se) baRh'kar
+    nyt: ht
+    ert:
+    - inkább
+    - azontúl
+- szo: baRhAnA
+  ford:
+  - nyt: t
+    ert:
+    - növel
+    - nagyobbít
+    - felnagyít
+    - kiterjeszt
+    - meghosszabbít
+    - kihúz
+  - ert:
+    - előremegy
+    - halad
+    - lépked
+    - lépdel
+  - ert:
+    - előmozdít
+    - fejleszt
+    - kiárusít
+  - ert:
+    - túloz
+  - ert:
+    - felbujt
+  - ert:
+    - lezár
+    - halaszt
+    - kiolt
+- szo: bad'tamiiz
+  ford:
+  - nyt: mn
+    ert:
+    - udvariatlan
+    - faragatlan
+- szo: bad'tamiizii
+  ford:
+  - nyt: nn
+    ert:
+    - udvariatlanság
+    - faragatlanság
+- szo: ban'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: tl
+    ert:
+    - (el)készül
+    - csinálva van
+    - (meg)alakul
+    - összeáll
+    - (fel)épül
+    - fel van találva
+  - ert:
+    - lerendeződik
+    - megtörténik
+    - folytatódik
+  - ert:
+    - megfelelő módon van
+    - elvan
+    - megvan
+    - kijön vkivel
+  - kif: banA-banAyA
+    nyt: mn
+    ert:
+    - készre gyártott
+    - elkészült
+- szo: banAnA
+  lecserel: "1=1"
+  ford:
+  - nyt: t
+    ert:
+    - (el)készít
+    - (meg)csinál
+    - (el)végez
+    - épít
+  - ert:
+    - főz
+  - ert:
+    - kinevez
+  - ert:
+    - helyrehoz
+    - (meg)javít
+    - (meg)igazít
+    - kezel
+- szo: banAv'Tii
+  ford:
+  - nyt: mn
+    ert:
+    - mesterséges
+    - mű-
+    - ál-
+    - utánzat
+    - hamis(ítvány)
+- szo: baniyAn
+  ford:
+  - nyt: nn
+    ert:
+    - trikó
+- szo: bar'gad
+  ford:
+  - nyt: hn
+    ert:
+    - banyan fa
+- szo: bar'tan
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - edény
+    - tál
+- szo: bar'tAv
+  ford:
+  - nyt: hn
+    ert:
+    - viselkedés
+    - bánásmód
+  - ert:
+    - használat
+    - ráfordítás
+- szo: bar'bar'tA
+  ford:
+  - nyt: nn
+    ert:
+    - durvaság
+    - vadság
+    - barbárság
+- szo: bar'sAtii
+  ford:
+  - nyt: mn
+    ert:
+    - esős évszakkal kapcsolatos
+  - nyt: nn
+    ert:
+    - tetőterasz
+- szo: bar'sAnA
+  ford:
+  - nyt: t
+    ert:
+    - ömlik/szakad az eső
+  - ert:
+    - szétszór
+- szo: bArAt
+  lecserel: "1=1"
+  alt:
+  - barAt
+  ford:
+  - nyt: nn
+    ert:
+    - lakodalmas menet
+    - esküvői vendégek
+  - ert:
+    - tömeg
+    - csapat
+- szo: bal
+  ford:
+  - nyt: hn
+    ert:
+    - erő(sség)
+    - életerő
+  - ert:
+    - hangsúly
+    - jelentőség
+  - ert:
+    - oldal
+    - irány
+    - út
+  - ert:
+    - ondó
+- szo: bal
+  lecserel: "2=2;2"
+  ford:
+  - nyt: hn
+    ert:
+    - csavarás
+    - hajlás
+    - hajtás
+    - gyűrődés
+- szo: balAtkAr
+  ford:
+  - nyt: hn
+    ert:
+    - erőszak
+    - megerőszakolás
+- szo: balidAn
+  ford:
+  - nyt: hn
+    ert:
+    - áldozat
+    - felajánlás
+- szo: balki
+  lecserel: "1=1"
+  szarm: A+P
+  ford:
+  - nyt: kt
+    ert:
+    - de
+    - hanem
+    - inkább
+- szo: bavAsiir
+  szarm: A
+  ford:
+  - nyt: nn
+    ert:
+    - aranyér
+- szo: basa#t
+  alt:
+  - vasa#t
+  ford:
+  - nyt: hn
+    ert:
+    - tavasz
+- szo: bas
+  lecserel: "3=2;3"
+  ford:
+  - nyt: hn
+    ert:
+    - hatalom
+    - irányítás
+    - befolyás
+- szo: baserA
+  ford:
+  - nyt: hn
+    ert:
+    - szálláshely
+    - pihenőhely
+    - menedékhely
+- szo: bah'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: tl
+    ert:
+    - folyik
+    - szo: fúj
+      megj: szél
+- szo: bah'noii
+  ford:
+  - nyt: hn
+    ert:
+    - szo: sógor
+      megj: lánytestvér férje
+- szo: bah'rA
+  ford:
+  - nyt: mn
+    ert:
+    - süket
+- szo: bahAdur
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - bátor
+    - merész
+  - nyt: hn
+    ert:
+    - hős
+- szo: bahAdurii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - bátorság
+    - hősiesség
+- szo: bahAnA
+  ford:
+  - nyt: t
+    ert:
+    - folyat
+    - (el)önt
+    - könnyezik
+    - (ki)présel
+  - ert:
+    - lebegtet
+    - vízre bocsát
+  - ert:
+    - elsöpör
+    - elmos
+  - ert:
+    - elherdál
+    - olcsón elad
+- szo: bahAnA
+  lecserel: "2=2;2"
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - kifogás
+    - ürügy
+- szo: bahAv
+  ford:
+  - nyt: hn
+    ert:
+    - áramlat
+  - ert:
+    - folyékony halmazállapot
+  - ert:
+    - vers üteme
+- szo: bahuvacan
+  ford:
+  - nyt: hn
+    ert:
+    - nyelvtani többes szám
+- szo: bahU
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - meny
+  - ert:
+    - menyasszony
+- szo: bA~kA
+  ford:
+  - nyt: mn hn
+    ert:
+    - görbe
+    - hajlott
+    - ferde
+  - ert:
+    - kirívó
+    - feltűnősködő
+    - szo: piperkőc
+      megj: ember
+- szo: bA~g
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - kiáltás
+  - ert:
+    - kukorékolás
+  - ert:
+    - müezzin éneke
+- szo: bA~dh
+  ford:
+  - nyt: hn
+    ert:
+    - rakpart
+    - gát
+  - ert:
+    - akadály
+    - barikád
+  - ert:
+    - zárótűz
+  - ert:
+    - bilincs
+    - béklyó
+- szo: bA~dh'nA
+  ford:
+  - nyt: t
+    ert:
+    - (meg)köt
+    - (oda)erősít
+    - körbefon
+  - ert:
+    - szo: megragad
+      megj: vkit a hatás
+    - rászegeződik
+  - ert:
+    - elzár
+    - korlátoz
+- szo: bA~s
+  ford:
+  - nyt: hn
+    ert:
+    - bambusz
+- szo: bA-KAy'dA
+  ford:
+  - nyt: mn
+    ert:
+    - szabályos
+    - szabályszerű
+    - előírásos
+    - rendes
+- szo: bAG
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - kert
+    - park
+    - liget
+    - virágoskert
+- szo: bAgh
+  ford:
+  - nyt: hn
+    ert:
+    - tigris
+    - oroszlán
+- szo: -bAz
+  ford:
+  - nyt: hn
+    ert:
+    - vmit játszó/végző ember
+- szo: bARh
+  ford:
+  - nyt: nn
+    ert:
+    - növekedés
+    - áradás
+- szo: bAtUnii
+  ford:
+  - nyt: mn
+    ert:
+    - beszédes
+- szo: bAd'SAh
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - uralkodó
+    - király
+    - császár
+- szo: bAdAm
+  szarm: P
+  ford:
+  - nyt: hn /bədam/
+    ert:
+    - mandula
+- szo: bAbA
+  ford:
+  - nyt: hn nvált
+    ert:
+    - apa
+    - nagyapa
+    - apuka
+  - ert:
+    - tisztelt/idősebb személy megszólítása
+- szo: bAyA~
+  lecserel: "1=1"
+  ford:
+  - nyt: mn hn
+    ert:
+    - bal oldal(i)
+  - kif: bAe~, bAii~ taraf
+    ert:
+    - balra
+    - bal oldalt
+- szo: bAr
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - alkalom
+    - időpont
+  - kif: bAr-bAr
+    ert:
+    - újra meg újra
+  - kif: ab kii bAr
+    ert:
+    - ez alkalommal
+  - kif: is bAr
+    ert:
+    - ez alkalommal
+    - most
+  - kif: kit'nii bAr
+    ert:
+    - hányszor
+  - kif: kaii bAr
+    ert:
+    - sokszor
+- szo: bArii
+  ford:
+  - nyt: nn
+    ert:
+    - soron következés
+    - szo: '"vki jön"'
+      megj: pl. játékban
+  - ert:
+    - műszak
+- szo: bAriik
+  szarm: P
+  ford:
+  - nyt: mn
+    ert:
+    - finom
+    - zsenge
+    - karcsú
+    - vékony
+    - törékeny
+  - ert:
+    - sikító
+    - visító
+  - ert:
+    - aprólékos
+    - pontos
+    - precíz
+- szo: bAriikii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - finom részlet
+    - aprólékosság
+    - kifinomultság
+    - puhaság
+- szo: bAl'Tii
+  szarm: Pt
+  ford:
+  - nyt: nn
+    ert:
+    - vödör
+- szo: bAlU
+  ford:
+  - nyt: nn
+    ert:
+    - homok
+    - föveny
+- szo: bAsii
+  ford:
+  - nyt: mn
+    ert:
+    - állott
+    - poshadt
+    - hervadt
+  - nyt: nn
+    ert:
+    - ételmaradék
+- szo: bi#dii
+  ford:
+  - nyt: nn
+    ert:
+    - pont
+    - pötty
+    - jelzés
+    - megjelölés
+  - ert:
+    - nulla
+  - ert:
+    - pont a női homlokon
