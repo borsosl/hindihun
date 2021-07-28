@@ -10,8 +10,8 @@ export async function updateDB(solrCoreBaseUrl: string, words: WordsMap) {
         ++count;
         if(count % 1000 === 0)
             console.log(count);
-        const doc = solrize(word);
         try {
+            const doc = solrize(word);
             await request.post({
                 url: `${solrCoreBaseUrl}/update`,
                 qs: {

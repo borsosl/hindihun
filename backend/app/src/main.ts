@@ -12,18 +12,17 @@ export async function main() {
         log.error('SOLR connection not configured');
         return;
     }
-    try {
-        await solrRequest('', '');
-        isLocal = process.env.SOLR_URL.includes('localhost');
-    } catch (e) {
-        log.error(e);
-        log.error('SOLR connection error');
-        return;
-    }
 
     try {
         startServer();
     } catch(e) {
         log.error(e);
+        return;
     }
+
+    isLocal = process.env.SOLR_URL.includes('localhost');
+    solrRequest('', '').catch(e => {
+        log.error('SOLR connection error');
+        log.error(e);
+    });
 }
