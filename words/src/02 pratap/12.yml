@@ -217,11 +217,15 @@ szavak:
   ford:
   - nyt: t
     ert:
-    - elfelejt
+    - (el)felejt
+    - (el)téved
   - kif: bhUl'kar bhii
     ert:
     - véletlenül sem
     - semmi esetre sem
+  - kif: bhUl jAnA
+    ert:
+    - elfelejt
 - szo: magar
   lecserel: "2=2;2"
   szarm: S

@@ -349,7 +349,7 @@ szavak:
   szarm: S
   ford:
   - ert:
-    - ültet
+    - (le)ültet
     - elhelyez
     - felállít
   - kif: biThA lenA
@@ -361,6 +361,7 @@ szavak:
   - nyt: nn
     ert:
     - macska
+    - cica
 - szo: bolii
   szarm: S
   ford:

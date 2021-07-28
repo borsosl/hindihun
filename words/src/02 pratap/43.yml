@@ -1,0 +1,571 @@
+datum: 2021-01-16
+forras:
+  nev: Pratap
+  fejezet: 43
+szavak:
+- szo: bi#du
+  lecserel: "1=1"
+  ford:
+  - nyt: nn hn
+    ert:
+    - pont
+    - tizedespont
+    - csepp
+- szo: bigAR'nA
+  ford:
+  - nyt: t
+    ert:
+    - elront
+    - megront
+    - tönkretesz
+    - kárt okoz
+  - ert:
+    - megveszteget
+- szo: bichAnA
+  ford:
+  - nyt: t
+    ert:
+    - kiterít
+    - szétszór
+    - megágyaz
+- szo: bichOnA
+  ford:
+  - nyt: hn
+    ert:
+    - megágyazás
+    - összegörgethető ágy
+    - ágynemű
+- szo: bij'lii
+  lecserel: "1=1"
+  ford:
+  - nyt: nn
+    ert:
+    - villámlás
+    - áram
+    - elektromosság
+    - világítás
+- szo: bil
+  ford:
+  - nyt: hn
+    ert:
+    - üreg
+    - odú
+    - szo: lyuk
+      megj: állaté
+- szo: bistar
+  lecserel: "1=1"
+  szarm: P
+  ford:
+  - nyt: hn
+    ert:
+    - ágynemű
+    - összegörgethető ágy
+    - fekhely a földön
+  - kif: bistar Thiik kar'nA
+    nyt: t
+    ert:
+    - beágyaz
+- szo: biij
+  ford:
+  - nyt: hn
+    ert:
+    - mag
+  - ert:
+    - magzat
+    - (hal)ikra
+  - ert:
+    - ok
+    - forrás
+- szo: biiRii
+  ford:
+  - nyt: nn
+    ert:
+    - sodort dohány
+    - szivarka
+- szo: biimArii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - betegség
+  - kif: biimArii se uTh'nA
+    ert:
+    - felépül a betegségből
+- szo: biibii
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - feleség
+    - hölgy
+    - nővér
+    - sógornő
+  alt:
+  - biivii
+  - bii
+  - bibiyA
+- szo: bUA
+  ford:
+  - nyt: nn
+    ert:
+    - apai nagynéni
+  alt:
+  - buA
+- szo: buRhiyA
+  ford:
+  - nyt: nn
+    ert:
+    - idős nő
+- szo: buzurg
+  ford:
+  - nyt: mn hn
+    ert:
+    - idős
+    - koros
+    - öreg
+    - szo: tiszteletre méltó
+      megj: ember
+- szo: bujh'nA
+  ford:
+  - nyt: tl
+    ert:
+    - kialszik
+    - megnyugszik
+    - el van nyomva
+- szo: bujhAnA
+  ford:
+  - nyt: tl
+    ert:
+    - kiolt
+    - megnyugtat
+    - elnyom
+- szo: buRhApA
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - öregség
+    - öregkor
+    - idős kor
+- szo: buddh
+  ford:
+  - nyt: mn hn
+    ert:
+    - felébredett
+    - megvilágosult
+    - bölcs
+    - a Buddha
+- szo: buddhi
+  ford:
+  - nyt: nn
+    ert:
+    - intelligencia
+    - értelem
+    - megértés
+    - bölcsesség
+- szo: buddhijiivii
+  ford:
+  - nyt: mn hn
+    ert:
+    - intellektuális
+- szo: buddhimAn
+  ford:
+  - nyt: mn
+    ert:
+    - intelligens
+    - okos
+    - bölcs
+- szo: buddhU
+  ford:
+  - nyt: hn
+    ert:
+    - ostoba
+- szo: buniyAd
+  szarm: P
+  ford:
+  - nyt: nn
+    ert:
+    - alap(ok)
+    - vminek az alapja
+- szo: buniyAdii
+  lecserel: "1=1"
+  szarm: P+H
+  ford:
+  - nyt: mn
+    ert:
+    - alapvető
+    - elemi
+    - általános
+- szo: bul'bulA
+  ford:
+  - nyt: hn
+    ert:
+    - buborék
+    - üres látszat
+- szo: buhAr'nA
+  ford:
+  - nyt: t
+    ert:
+    - seper
+    - porol
+  - ert:
+    - elsöpör
+    - megszabadul vmitől
+- szo: bU
+  ford:
+  - nyt: nn
+    ert:
+    - szag
+  - ert:
+    - gyanú
+    - gyanakvás
+    - sejtelem
+- szo: buRhA
+  ford:
+  - nyt: mn
+    ert:
+    - öreg
+    - idős
+    - koros
+- szo: beiimAn
+  ford:
+  - nyt: mn
+    ert:
+    - tisztességtelen
+    - megbízhatatlan
+- szo: beiimAnii
+  ford:
+  - nyt: nn
+    ert:
+    - tisztességtelenség
+- szo: bekArii
+  ford:
+  - nyt: nn
+    ert:
+    - munkanélküliség
+    - tétlenség
+- szo: becEnii
+  ford:
+  - nyt: nn
+    ert:
+    - nyughatatlanság
+- szo: bebas
+  ford:
+  - nyt: mn
+    ert:
+    - erőtlen
+    - gyenge
+    - szerencsétlen
+- szo: beroz'gAr
+  ford:
+  - nyt: mn hn
+    ert:
+    - munkanélküli
+- szo: beroz'gArii
+  ford:
+  - nyt: nn
+    ert:
+    - munkanélküliség
+- szo: bev'KUfii
+  ford:
+  - nyt: nn
+    ert:
+    - ostobaság
+- szo: bevafA
+  ford:
+  - nyt: mn
+    ert:
+    - hitetlen
+    - hálátlan
+    - álnok
+    - hűtlen
+- szo: bevafAii
+  lecserel: "1=1"
+  szarm: P+A
+  ford:
+  - nyt: nn
+    ert:
+    - hitetlenség
+    - hűtlenség
+- szo: beSak
+  ford:
+  - nyt: ht
+    ert:
+    - kétségtelenül
+    - kétségkívül
+- szo: behoS
+  ford:
+  - nyt: mn
+    ert:
+    - öntudatlan
+    - eszméletét vesztett
+    - eszmélettelen
+    - eszméletlen
+- szo: borA
+  ford:
+  - nyt: hn
+    ert:
+    - zsák
+- szo: bOchAR
+  ford:
+  - nyt: nn
+    ert:
+    - zápor
+- szo: bOddh
+  ford:
+  - nyt: mn hn
+    ert:
+    - buddhista
+- szo: bOddhik
+  ford:
+  - nyt: mn
+    ert:
+    - intellektuális
+    - mentális
+- szo: byorA
+  ford:
+  - nyt: hn
+    ert:
+    - beszámoló
+    - nyilatkozat
+    - részletes leírás
+    - részletek
+- szo: braj-bhAShA
+  ford:
+  - nyt: nn
+    ert:
+    - vrajai nyelvjárás
+- szo: bhakti
+  ford:
+  - nyt: nn
+    ert:
+    - odaadó szeretet
+    - vallásos odaadás
+- szo: bhajan
+  ford:
+  - nyt: hn
+    ert:
+    - vallási ének/imádat
+- szo: bhaTak'nA
+  ford:
+  - nyt: tl
+    ert:
+    - barangol
+    - kószál
+    - eltéved
+- szo: bhatiijii
+  ford:
+  - nyt: nn
+    ert:
+    - unokahúg
+    - fivér lánya
+    - feleség fivérének lánya
+- szo: bhaddA
+  ford:
+  - nyt: mn
+    ert:
+    - ügyetlen
+    - durva
+    - csúnya
+    - buta
+- szo: bhaya#kar
+  ford:
+  - nyt: mn
+    ert:
+    - félelmetes
+    - rémisztő
+- szo: bhay
+  ford:
+  - nyt: hn
+    ert:
+    - félelem
+    - riadalom
+- szo: bhayAnak
+  ford:
+  - nyt: mn
+    ert:
+    - félelmetes
+    - veszélyes
+- szo: bhar'tii
+  ford:
+  - nyt: nn
+    ert:
+    - töltelék
+  - ert:
+    - szo: felvétel
+      megj: intézménybe
+  - kif: bhar'tii honA
+    ert:
+    - fel van véve
+- szo: bhar'nA
+  lecserel: "1=1"
+  ford:
+  - nyt: tl
+    ert:
+    - teli van
+    - megtelik
+  - nyt: t
+    ert:
+    - (meg)tölt
+    - kitölt
+- szo: bharosA
+  ford:
+  - nyt: hn
+    ert:
+    - bizalom
+- szo: bhalAii
+  ford:
+  - nyt: nn
+    ert:
+    - jóság
+    - kedvesség
+  - ert:
+    - haszon
+    - nyereség
+  - ert:
+    - jólét
+- szo: bhalA
+  lecserel: "1=1"
+  ford:
+  - nyt: mn
+    ert:
+    - jó
+    - kedves
+    - becsületes
+  - nyt: hn
+    ert:
+    - jólét
+    - haszon
+  - kif: bhale hii
+    ert:
+    - noha
+    - jóllehet
+    - ámbár
+- szo: bhav'diiy
+  ford:
+  - ert:
+    - szívélyes üdvözlettel
+- szo: bhavya
+  ford:
+  - nyt: mn
+    ert:
+    - kiváló
+    - ragyogó
+    - remek
+- szo: bhAg
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - rész
+    - részvény
+- szo: bhAgya
+  ford:
+  - nyt: hn
+    ert:
+    - szerencse
+    - véletlen
+  - ert:
+    - sors
+    - végzet
+- szo: bhAgyavAn
+  ford:
+  - nyt: mn
+    ert:
+    - szerencsés
+- szo: bhAjii
+  ford:
+  - nyt: nn
+    ert:
+    - főtt zöldségek
+- szo: bhAt
+  ford:
+  - nyt: hn
+    ert:
+    - főtt rizs
+- szo: bhAn'jA
+  ford:
+  - nyt: hn
+    ert:
+    - unokaöccs
+    - lánytestvér fia
+- szo: bhAn'jii
+  ford:
+  - nyt: nn
+    ert:
+    - unokahúg
+    - lánytestvér lánya
+- szo: bhAnA
+  ford:
+  - nyt: tl
+    ert:
+    - el van fogadva
+    - kedvelve van
+    - megnyerő
+    - tetszetős
+  - ert:
+    - megfelel
+    - szo: ráillik
+      megj: ruha
+- szo: bhAp
+  ford:
+  - nyt: hn
+    ert:
+    - gőz
+    - pára
+- szo: bhAr
+  ford:
+  - nyt: hn
+    ert:
+    - súly
+    - rakomány
+    - teher
+    - kötelezettség
+- szo: bhArat
+  lecserel: "1=1"
+  ford:
+  - nyt: hn
+    ert:
+    - India
+  - kif: bhArat sar'kAr
+    nyt: nn
+    ert:
+    - India kormánya
+- szo: bhArat'varSh
+  ford:
+  - nyt: hn
+    ert:
+    - India
+- szo: bhAriipan
+  ford:
+  - nyt: hn
+    ert:
+    - nehézség
+    - szo: súlyosság
+      megj: fizikai
+- szo: bhAv
+  ford:
+  - nyt: hn
+    ert:
+    - létezés
+    - állapot
+    - helyzet
+    - vérmérséklet
+  - ert:
+    - mód
+  - ert:
+    - szádék
+    - cél
+  - ert:
+    - értelem
+- szo: bhAvAtmak
+  ford:
+  - nyt: mn
+    ert:
+    - érzelmes
+    - tudatos
+- szo: bhAlU
+  ford:
+  - nyt: hn
+    ert:
+    - medve

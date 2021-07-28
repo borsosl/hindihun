@@ -322,6 +322,11 @@ szavak:
     - hatalmas
   - ert:
     - értékes
+  - kif: bhArii-bhar'kam
+    ert:
+    - testes
+    - súlyos
+    - hatalmas
 - szo: bhUl
   szarm: S
   ford:
@@ -335,6 +340,10 @@ szavak:
     nyt: t
     ert:
     - téved
+  - kif: bhUl-sudhAr
+    nyt: hn
+    ert:
+    - hibajavítás
 - szo: makkhii
   szarm: S
   ford:
@@ -342,7 +351,7 @@ szavak:
     ert:
     - szo: légy
       megj: rovar
-  - kif: makkhii mAr'nA, makkhiyA~ uRAnA
+  - kif: makkhii/makkhiyA~ mAr'nA/uRAnA
     nyt: t
     ert:
     - elüti az időt

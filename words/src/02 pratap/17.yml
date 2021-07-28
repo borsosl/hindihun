@@ -342,6 +342,7 @@ szavak:
     - megosztás
   - ert:
     - rejtély
+    - titok
   - ert:
     - hasadás
     - repedés
@@ -351,7 +352,7 @@ szavak:
     ert:
     - kitör
     - keletkezik
-    - okozva van
+    - okozva van (zaj)
 - szo: maz'dUr
   szarm: P
   ford:

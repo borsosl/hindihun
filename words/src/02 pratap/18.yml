@@ -707,8 +707,8 @@ szavak:
   ford:
   - nyt: nn
     ert:
-    - javítás
-  - kif: kii marammat karanA
+    - (meg)javítás
+  - kif: "* kii marammat kar'nA"
     ert:
     - (meg)javít vmit
     - helyre tesz vkit

@@ -150,6 +150,7 @@ szavak:
     ert:
     - árul
     - árusít
+    - elad
   - kif: bec'ne vAlA
     nyt: hn
     ert:
@@ -845,6 +846,12 @@ szavak:
     nyt: tl
     ert:
     - nem tetszik vkinek
+  - kif: burA mAn'nA
+    ert:
+    - rossz néven vesz
+  - kif: burii tarah (se)
+    ert:
+    - rosszul
 - szo: san_
   lecserel: "1,2=1"
   szarm: A
@@ -1549,6 +1556,8 @@ szavak:
     ert:
     - jelentés
   - ert:
+    - önérdek
+  - ert:
     - vagyis
     - azaz
 - szo: pich'lA
@@ -1639,6 +1648,10 @@ szavak:
     nyt: nt
     ert:
     - vmi kellős közepén
+  - kif: is biic
+    ert:
+    - időközben
+    - eközben
 - szo: mukhya
   lecserel: "1,2=1"
   szarm: S
